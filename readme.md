@@ -11,10 +11,10 @@ Here is the text used by Apple Siri Voice Navigation. You can modify the file an
     <tbody align=center>
         <tr>
             <td>
-                <a href="https://github.com/Quinn0823" target="_blank">
+                <a href="https://github.com/quinn0823">
                     <img src="https://avatars.githubusercontent.com/u/68278999?v=4" width="100px">
                     <br>
-                    Quinn0823
+                    quinn0823
                 </a>
             </td>
         </tr>
