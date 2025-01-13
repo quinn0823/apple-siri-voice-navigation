@@ -1,7 +1,9 @@
 # Apple Siri Voice Navigation
 Here is the text used by Apple Siri Voice Navigation.
 
-You can edit the json file and create a pull request if you find something wrong. Also, you can create a new json file of another language.
+You can edit the json file and create a pull request if you find something wrong.
+
+Also, you can create a new json file for another language.
 
 ## Format
 ```
