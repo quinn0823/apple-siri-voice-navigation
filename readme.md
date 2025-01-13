@@ -7,8 +7,8 @@ Here is the text used by Apple Siri Voice Navigation. You can modify the file an
 - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 
 ## Contributors
-<table style="text-align: center;">
-    <tbody>
+<table>
+    <tbody align=center>
         <tr>
             <td>
                 <a href="https://github.com/Quinn0823" target="_blank">
