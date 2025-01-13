@@ -24,6 +24,8 @@ apple-siri-voice-navigation
     - es-es
 - ge
     - ge-ge
+- he
+    - he-il
 - zh
     - zh-cn
     - zh-tw
@@ -34,8 +36,6 @@ apple-siri-voice-navigation
     - fr-fr
 - cs
     - cs-cz
-- he
-    - he-il
 
 ## Releases
 - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
