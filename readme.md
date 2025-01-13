@@ -11,7 +11,7 @@ Here is the text used by Apple Siri Voice Navigation. You can modify the file an
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/Quinn0823" target="_blank">
+                <a href="https://github.com/Quinn0823" target="_blank" align="center">
                     <img src="https://avatars.githubusercontent.com/u/68278999?v=4" />
                     <br>
                     Quinn0823
