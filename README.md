@@ -1,6 +1,6 @@
 # Apple Siri Voice Navigation
 
-Here is the text used by Apple Siri Voice Navigation. You can modify the file and create a pull request if you find something wrong.
+Here is the text used by Apple Siri Voice Navigation. You can edit the json file and create a pull request if you find something wrong.
 
 ## Releases
 - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
