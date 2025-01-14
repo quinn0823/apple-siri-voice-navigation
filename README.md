@@ -25,6 +25,7 @@ apple-siri-voice-navigation
     - en-za
 - es
     - es-es
+    - es-mx
 - ge
     - ge-ge
 - he
