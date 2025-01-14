@@ -8,7 +8,7 @@ You can edit the json file and create a pull request if you find something wrong
 apple-siri-voice-navigation
 ├── en
 │   ├── en-au.json
-│   ├── en-ge.json
+│   ├── en-gb.json
 │   └── en-us.json
 └── es
     └── en-es.json
