@@ -19,7 +19,10 @@ apple-siri-voice-navigation
 - en
     - en-au
     - en-gb
+    - en-ie
+    - en-in
     - en-us
+    - en-za
 - es
     - es-es
 - ge
