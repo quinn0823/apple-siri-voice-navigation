@@ -16,6 +16,8 @@ apple-siri-voice-navigation
 
 ## Language - Country / Region
 ### Available
+- cs
+    - cs-cz
 - en
     - en-au
     - en-gb
@@ -39,10 +41,12 @@ apple-siri-voice-navigation
     - zh-hk
 
 ### Not Available
-- cs
-    - cs-cz
+- hu
+    - hu-hu
 - nl
     - nl-nl
+- ro
+    - ro-ro
 - sv
     - sv-se
 
