@@ -3,52 +3,52 @@ Here is the text used by Apple Siri Voice Navigation for ETS2 / ATS.
 
 You can edit the json file and create a pull request if you find something wrong. Also, you can create a new json file for another language.
 
-## Format
+## File Structure
 ```
 apple-siri-voice-navigation
-├── en
-│   ├── en-au.json
-│   ├── en-gb.json
-│   └── en-us.json
-└── es
-    └── en-es.json
+├── english
+│   ├── english_au.json
+│   ├── english_gb.json
+│   └── english_us.json
+└── spanish
+    └── spanish_es.json
 ```
 
 ## Language - Country / Region
 ### Available
-- cs
-    - cs-cz
-- en
-    - en-au
-    - en-gb
-    - en-ie
-    - en-in
-    - en-us
-    - en-za
-- es
-    - es-es
-    - es-mx
-- fr
-    - fr-ca
-    - fr-fr
-- ge
-    - ge-ge
-- he
-    - he-il
-- zh
-    - zh-cn
-    - zh-tw
-    - zh-hk
+- chinese
+    - chinese_cn
+    - chinese_tw
+    - chinese_hk
+- czech
+    - czech_cz
+- english
+    - english_au
+    - english_gb
+    - english_ie
+    - english_in
+    - english_us
+    - english_za
+- french
+    - french_ca
+    - french_fr
+- german
+    - german_ge
+- hebrew
+    - hebrew_il
+- spanish
+    - spanish_es
+    - spanish_mx
 
 ### Not Available
-- hu
-    - hu-hu
-- nl
-    - nl-nl
-- ro
-    - ro-ro
-- sv
-    - sv-se
+- dutch
+    - dutch_nl
+- hungarian
+    - hungarian_hu
+- romanian
+    - romanian_ro
+- swedish
+    - swedish_se
 
 ## Releases
 - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
