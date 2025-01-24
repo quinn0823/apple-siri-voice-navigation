@@ -14,7 +14,7 @@ apple-siri-voice-navigation
     └── spanish_es.json
 ```
 
-## Language - Country / Region
+## Languages
 ### Available
 - chinese
     - chinese_cn
