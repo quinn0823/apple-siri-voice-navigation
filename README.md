@@ -1,7 +1,7 @@
 # Apple Siri Voice Navigation
 Here is the text used by Apple Siri Voice Navigation for ETS2 / ATS.
 
-You can edit the json file and create a pull request if you find something wrong. Also, you can create a new json file for another language.
+You can edit the json file and create a pull request if you find something wrong. Also, you can create a copy of [template.json](template.json) for another language.
 
 ## File Structure
 ```
@@ -40,11 +40,15 @@ apple-siri-voice-navigation
     - spanish_es
     - spanish_mx
 
-### Not Available
+### Not Available (In the Plan)
+- danish
+    - danish_dk
 - dutch
     - dutch_nl
 - hungarian
     - hungarian_hu
+- japanese
+    - japanese_jp
 - romanian
     - romanian_ro
 - swedish
