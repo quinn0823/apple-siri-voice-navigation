@@ -86,6 +86,20 @@ To help improve this project, you can check out the development guide in the ["L
 - Dansk (Danmark) - Siri (Stemme 2)
 - Your Requests
 
+## Download
+
+> [!WARNING]
+> For the best experience, I recommend subscribing through the **Workshop**. You can only download the **non-automatically** updated version on GitHub. This method is only recommended for users who don't own the games on Steam. 
+
+### Workshop
+
+- [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
+- [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+
+### GitHub
+
+- [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases)
+
 ## Usage
 
 1. Click **Mods** on the Title Screen to open the Mod Manager.
