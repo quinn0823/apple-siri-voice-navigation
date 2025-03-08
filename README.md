@@ -16,7 +16,7 @@
 
 I'm a 17-year-old student, and this project is my first attempt at creating something like this. It's for practice and learning.
 
-This project is available on [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712).
+This project is available on [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712). You can check out and subscribe to the releases there.
 
 More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **leave your requests** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page. Your suggestions might be implemented in just a few days!
 
@@ -68,15 +68,17 @@ To help improve this project, you can check out the development guide in the ["L
 - 中文（香港）- Siri (聲音1)
 - 中文（香港）- Siri (聲音2)
 
-### Coming Soon (2)
+### Coming Soon (4)
 
-- Netherlands (Netherland) - Siri (Stem 1)
-- Netherlands (Netherland) - Siri (Stem 2)
+- 日本語（日本）- Siri (hattori)
+- 日本語（日本）- Siri (oren)
+- 日本語（日本）- Siri (声1)
+- 日本語（日本）- Siri (声2)
 
 ### In Production (2)
 
-- 日本語（日本）- Siri (声1)
-- 日本語（日本）- Siri (声2)
+- Netherlands (Netherland) - Siri (Stem 1)
+- Netherlands (Netherland) - Siri (Stem 2)
 
 ### Planned (6+)
 
