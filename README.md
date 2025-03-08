@@ -2,8 +2,6 @@
 
 ## News
 
-Starting from 1.4.3, you can download it directly from the [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) page.
-
 ### February 17, 2025: 1.4 ＞ 1.4.1
 
 - **2 new** countries with **4 new** voices
@@ -12,13 +10,15 @@ Starting from 1.4.3, you can download it directly from the [Releases](https://gi
     - English (Ireland) - Siri (Voice 1)
     - English (Ireland) - Siri (Voice 2)
 
+Starting from 1.4.3, you can download it directly from the [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) page.
+
 ---
 
 ## Introduction
 
 I'm a 17-year-old student, and this project is my first attempt at creating something like this. It's for practice and learning.
 
-More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **Leave your requests** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or in the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) section. Your suggestions might be implemented in just a few days!
+More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **leave your requests** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page. Your suggestions might be implemented in just a few days!
 
 Thank you for using this project! If you like it, please consider leaving a star or contributing to its development!
 
@@ -125,7 +125,7 @@ If you'd like to see more languages or voices added, please **leave your request
 
 ## "Oh No! There's a Mistake!"
 
-I don't speak all these languages. While I've done my best to ensure accuracy, there may still be errors. If you find any, please **leave a comment** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or **make the correction directly here**. Thank you!
+I don't speak all these languages. While I've done my best to ensure accuracy, there may still be errors. If you find any, please **leave a comment** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or **make the correction directly here**. Thank you!
 
 ## "Let Me Help You!"
 
