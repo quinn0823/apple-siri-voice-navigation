@@ -1,16 +1,10 @@
 # Apple Siri Voice Navigation
 
-## Introduction
-
-Here is the text used by Apple Siri Voice Navigation.
-
-As of 1.4.3, you can download it here.
-
-You can edit the json file and create a pull request if you find something wrong. Also, you can create a copy of [template.json](template.json) for another language.
-
 ## News
 
-### Feb. 17, 2025: 1.4 ＞ 1.4.1
+Starting from 1.4.3, you can download it from here.
+
+### February 17, 2025: 1.4 ＞ 1.4.1
 
 - **2 new** countries with **4 new** voices
     - English (India) - Siri (Voice 1)
@@ -22,11 +16,13 @@ You can edit the json file and create a pull request if you find something wrong
 
 ## Introduction
 
-I'm a 17-year-old student. This item is my first one and for practice.
+I'm a 17-year-old student, and this project is my first attempt at creating something like this. It's for practice and learning.
 
-More languages and voices will be added in the future. Maybe the language you speak or voices you like aren't here today. **Leave your wish** at Workshop or in Issuses, and in a few days there will be.
+More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **Leave your wish** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or in the [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) section. Your suggestions might be implemented in just a few days!
 
-Thank you for subscribing! If you like it, feel free to leave a vote, or give an award using your free points!
+Thank you for subscribing! If you like it, please consider leaving a vote or using your free Steam Points to give it an award!
+
+To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section.
 
 ## Voices [49+]
 
@@ -72,7 +68,7 @@ Thank you for subscribing! If you like it, feel free to leave a vote, or give an
 - 中文（香港）- Siri (聲音1)
 - 中文（香港）- Siri (聲音2)
 
-### Available Soon (2)
+### Coming Soon (2)
 
 - Netherlands (Netherland) - Siri (Stem 1)
 - Netherlands (Netherland) - Siri (Stem 2)
@@ -82,7 +78,7 @@ Thank you for subscribing! If you like it, feel free to leave a vote, or give an
 - 日本語（日本）- Siri (声1)
 - 日本語（日本）- Siri (声2)
 
-### In the Plan (6+)
+### Planned (6+)
 
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
@@ -90,14 +86,14 @@ Thank you for subscribing! If you like it, feel free to leave a vote, or give an
 - Română (România) - Ioana (îmbunătațită)
 - Dansk (Danmark) - Siri (Stemme 1)
 - Dansk (Danmark) - Siri (Stemme 2)
-- Your Wishes
+- Your Requests
 
 ## Usage
 
-1. Click **Mods** on Tittle Screen to open Mod Manager.
-2. Double click **Apple Siri Voice Navigation** to active this mod.
+1. Click **Mods** on the Title Screen to open the Mod Manager.
+2. Double-click **Apple Siri Voice Navigation** to active this mod.
 3. Open **Options**.
-4. Go to **Audio ＞ Voice Navigation ＞ Language and voice** and select a voice you like.
+4. Navigate to **Audio ＞ Voice Navigation ＞ Language and voice** and select a voice you like.
 
 ## Compatibility
 
@@ -105,7 +101,7 @@ Thank you for subscribing! If you like it, feel free to leave a vote, or give an
 
 ## Known Issues
 
-I rebuilt all 33 existing voices in 1.4. Due to the change of voice_navigation_config, users who subscribed before **Jan. 24, 2025** should **re-select** the voice in Options.
+In 1.4, I rebuilt all 33 existing voices. Due to the change in the `voice_navigation_config`, users who subscribed before **January 24, 2025** will need to **re-select** their preferred voice in Options.
 
 ---
 
@@ -124,13 +120,16 @@ I rebuilt all 33 existing voices in 1.4. Due to the change of voice_navigation_c
 ---
 
 ## "I Want More Voices!"
-If you'd like more languages or voices, please **leave your wishes** in the comment section of [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page on GitHub! Supports **any language and voice** in Apple devices, not even Siri.
 
-## "Oh No! It's Wrong!"
-I don't speak all these languages. Although I have checked many times, there may still be mistakes. If you find one, please **leave a comment** at [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) / [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) or **edit it on here**. Thanks a lot!
+If you'd like to see more languages or voices added, please **leave your requests** in the comment section of the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page on GitHub! Supports **any language and voice** available on Apple devices, not just Siri.
+
+## "Oh No! There's a Mistake!"
+
+I don't speak all these languages. While I've done my best to ensure accuracy, there may still be errors. If you find any, please **leave a comment** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or **make the correction directly here**. Thanks you!
 
 ## "Let Me Help You!"
-To help improve this project, you can edit the json file and create a pull request if you find something wrong. Also, you can create a copy of [template.json](template.json) for another language.
+
+If you'd like to contribute to this project, you can edit the JSON files and create a pull request if you find any issues. You can also create a copy of [template.json](template.json) to add support for another language.
 
 ### Development Guide
 
@@ -171,7 +170,7 @@ apple-siri-voice-navigation
     - spanish_es
     - spanish_mx
 
-##### Not Available (In the Plan)
+##### Planned
 - danish
     - danish_dk
 - dutch
@@ -204,8 +203,8 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Inspired by Apple. This item isn't affiliated with Apple. Apple and Siri are trademarks of Apple Inc.
+Inspired by Apple. This project is not affiliated with Apple. Apple and Siri are trademarks of Apple Inc.
 
-Updated Date (GitHub): March 8, 2025 | Copyright © 2025 [Quinn Qiu](https://github.com/quinn0823) All Rights Reserved.
+Last Updated (GitHub): March 8, 2025 | Copyright © 2025 [Quinn Qiu](https://github.com/quinn0823) All Rights Reserved.
 
 [Quinn-Web](https://quinn0823.github.io) | [𝕏](https://x.com/quinnqiu0823) | [Weibo](https://weibo.com/quinn0823) | [Steam](https://steamcommunity.com/id/quinn0823)
