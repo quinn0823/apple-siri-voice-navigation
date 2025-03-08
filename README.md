@@ -1,9 +1,140 @@
 # Apple Siri Voice Navigation
-Here is the text used by Apple Siri Voice Navigation for ETS2 / ATS.
+
+## Introduction
+
+Here is the text used by Apple Siri Voice Navigation.
+
+As of 1.4.3, you can download it here.
 
 You can edit the json file and create a pull request if you find something wrong. Also, you can create a copy of [template.json](template.json) for another language.
 
-## File Structure
+## News
+
+### Feb. 17, 2025: 1.4 ＞ 1.4.1
+
+- **2 new** countries with **4 new** voices
+    - English (India) - Siri (Voice 1)
+    - English (India) - Siri (Voice 2)
+    - English (Ireland) - Siri (Voice 1)
+    - English (Ireland) - Siri (Voice 2)
+
+---
+
+## Introduction
+
+I'm a 17-year-old student. This item is my first one and for practice.
+
+More languages and voices will be added in the future. Maybe the language you speak or voices you like aren't here today. **Leave your wish** at Workshop or in Issuses, and in a few days there will be.
+
+Thank you for subscribing! If you like it, feel free to leave a vote, or give an award using your free points!
+
+## Voices [49+]
+
+### Available (39)
+
+- Čeština (Česko) - Iveta (vylepšená verze)
+- Čeština (Česko) - Zuzana (prémiový)
+- Deutsch (Deutschland) - Siri (Stimme 1)
+- Deutsch (Deutschland) - Siri (Stimme 2)
+- Deutsch (Deutschland) - Siri (Stimme 3)
+- Deutsch (Deutschland) - Siri (Stimme 4)
+- English (Australia) - Siri (Voice 1)
+- English (Australia) - Siri (Voice 2)
+- English (India) - Siri (Voice 1)
+- English (India) - Siri (Voice 2)
+- English (Ireland) - Siri (Voice 1)
+- English (Ireland) - Siri (Voice 2)
+- English (South Africa) - Siri (Voice 1)
+- English (South Africa) - Siri (Voice 2)
+- English (UK) - Siri (Voice 1)
+- English (UK) - Siri (Voice 2)
+- English (UK) - Siri (Voice 3)
+- English (UK) - Siri (Voice 4)
+- English (US) - Siri (Voice 1)
+- English (US) - Siri (Voice 2)
+- English (US) - Siri (Voice 3)
+- English (US) - Siri (Voice 4)
+- English (US) - Siri (Voice 5)
+- Español (España) - Siri (Voz 1)
+- Español (España) - Siri (Voz 2)
+- Español (México) - Siri (Voz 1)
+- Español (México) - Siri (Voz 2)
+- Français (Canada) - Siri (Voix 1)
+- Français (Canada) - Siri (Voix 2)
+- Français (France) - Siri (Voix 1)
+- Français (France) - Siri (Voix 2)
+- Hebrew (Israel) - Siri (Voice 1) [עברית (ישראל) - Siri (קול 1)]
+- Hebrew (Israel) - Siri (Voice 2) [עברית (ישראל) - Siri (קול 2)]
+- 中文（台灣）- Siri (聲音1)
+- 中文（台灣）- Siri (聲音2)
+- 中文（中国大陆）- Siri (声音1)
+- 中文（中国大陆）- Siri (声音2)
+- 中文（香港）- Siri (聲音1)
+- 中文（香港）- Siri (聲音2)
+
+### Available Soon (2)
+
+- Netherlands (Netherland) - Siri (Stem 1)
+- Netherlands (Netherland) - Siri (Stem 2)
+
+### In Production (2)
+
+- 日本語（日本）- Siri (声1)
+- 日本語（日本）- Siri (声2)
+
+### In the Plan (6+)
+
+- Svenska (Sverige) - Siri (Röst 1)
+- Svenska (Sverige) - Siri (Röst 2)
+- Magyar (Magyarország) - Tünde (prémium)
+- Română (România) - Ioana (îmbunătațită)
+- Dansk (Danmark) - Siri (Stemme 1)
+- Dansk (Danmark) - Siri (Stemme 2)
+- Your Wishes
+
+## Usage
+
+1. Click **Mods** on Tittle Screen to open Mod Manager.
+2. Double click **Apple Siri Voice Navigation** to active this mod.
+3. Open **Options**.
+4. Go to **Audio ＞ Voice Navigation ＞ Language and voice** and select a voice you like.
+
+## Compatibility
+
+1.43+
+
+## Known Issues
+
+I rebuilt all 33 existing voices in 1.4. Due to the change of voice_navigation_config, users who subscribed before **Jan. 24, 2025** should **re-select** the voice in Options.
+
+---
+
+## Apple Series
+
+### Apple Siri Voice Navigation
+
+- [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
+- [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+
+### Apple SF Symblos UI (Under Development...)
+
+- Apple SF Symblos UI for ETS2
+- Apple SF Symblos UI for ATS
+
+---
+
+## "I Want More Voices!"
+If you'd like more languages or voices, please **leave your wishes** in the comment section of [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page on GitHub! Supports **any language and voice** in Apple devices, not even Siri.
+
+## "Oh No! It's Wrong!"
+I don't speak all these languages. Although I have checked many times, there may still be mistakes. If you find one, please **leave a comment** at [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) / [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) or **edit it on here**. Thanks a lot!
+
+## "Let Me Help You!"
+To help improve this project, you can edit the json file and create a pull request if you find something wrong. Also, you can create a copy of [template.json](template.json) for another language.
+
+### Development Guide
+
+#### File Structure
 ```
 apple-siri-voice-navigation
 ├── english
@@ -14,8 +145,8 @@ apple-siri-voice-navigation
     └── spanish_es.json
 ```
 
-## Languages
-### Available
+#### Languages
+##### Available
 - chinese
     - chinese_cn
     - chinese_tw
@@ -40,7 +171,7 @@ apple-siri-voice-navigation
     - spanish_es
     - spanish_mx
 
-### Not Available (In the Plan)
+##### Not Available (In the Plan)
 - danish
     - danish_dk
 - dutch
@@ -54,11 +185,7 @@ apple-siri-voice-navigation
 - swedish
     - swedish_se
 
-## Releases
-- [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
-- [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-
-## Contributors
+### Contributors
 <table>
     <tbody align=center>
         <tr>
@@ -72,3 +199,13 @@ apple-siri-voice-navigation
         </tr>
     </tbody>
 </table>
+
+You can also contact me at quinnqiu0823@icloud.com.
+
+---
+
+Inspired by Apple. This item isn't affiliated with Apple. Apple and Siri are trademarks of Apple Inc.
+
+Updated Date (GitHub): March 8, 2025 | Copyright © 2025 [Quinn Qiu](https://github.com/quinn0823) All Rights Reserved.
+
+[Quinn-Web](https://quinn0823.github.io) | [𝕏](https://x.com/quinnqiu0823) | [Weibo](https://weibo.com/quinn0823) | [Steam](https://steamcommunity.com/id/quinn0823)
