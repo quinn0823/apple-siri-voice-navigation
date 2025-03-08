@@ -10,8 +10,6 @@
     - English (Ireland) - Siri (Voice 1)
     - English (Ireland) - Siri (Voice 2)
 
-Starting from 1.4.3, you can download it directly from the [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) page.
-
 ---
 
 ## Introduction
@@ -205,6 +203,6 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Inspired by Apple. This project is not affiliated with Apple. Apple and Siri are trademarks of Apple Inc.
 
-Last Updated (GitHub): March 8, 2025 | Copyright © 2025 [Quinn Qiu](https://github.com/quinn0823) All Rights Reserved.
+Updated Date (GitHub): March 8, 2025 | Copyright © 2025 [Quinn Qiu](https://github.com/quinn0823) All Rights Reserved.
 
 [Quinn-Web](https://quinn0823.github.io) | [𝕏](https://x.com/quinnqiu0823) | [Weibo](https://weibo.com/quinn0823) | [Steam](https://steamcommunity.com/id/quinn0823)
