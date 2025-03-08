@@ -2,7 +2,7 @@
 
 ## News
 
-Starting from 1.4.3, you can download it from here.
+Starting from 1.4.3, you can download it directly from the [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) page.
 
 ### February 17, 2025: 1.4 ＞ 1.4.1
 
@@ -18,7 +18,7 @@ Starting from 1.4.3, you can download it from here.
 
 I'm a 17-year-old student, and this project is my first attempt at creating something like this. It's for practice and learning.
 
-More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **Leave your wish** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or in the [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) section. Your suggestions might be implemented in just a few days!
+More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **Leave your requests** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or in the [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) section. Your suggestions might be implemented in just a few days!
 
 Thank you for subscribing! If you like it, please consider leaving a vote or using your free Steam Points to give it an award!
 
@@ -91,7 +91,7 @@ To help improve this project, you can check out the development guide in the ["L
 ## Usage
 
 1. Click **Mods** on the Title Screen to open the Mod Manager.
-2. Double-click **Apple Siri Voice Navigation** to active this mod.
+2. Double-click **Apple Siri Voice Navigation** to activate this mod.
 3. Open **Options**.
 4. Navigate to **Audio ＞ Voice Navigation ＞ Language and voice** and select a voice you like.
 
@@ -121,7 +121,7 @@ In 1.4, I rebuilt all 33 existing voices. Due to the change in the `voice_naviga
 
 ## "I Want More Voices!"
 
-If you'd like to see more languages or voices added, please **leave your requests** in the comment section of the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page on GitHub! Supports **any language and voice** available on Apple devices, not just Siri.
+If you'd like to see more languages or voices added, please **leave your requests** in the comment section on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page! Supports **any language and voice** available on Apple devices, not just Siri.
 
 ## "Oh No! There's a Mistake!"
 
@@ -129,7 +129,7 @@ I don't speak all these languages. While I've done my best to ensure accuracy, t
 
 ## "Let Me Help You!"
 
-If you'd like to contribute to this project, you can edit the JSON files and create a pull request if you find any issues. You can also create a copy of [template.json](template.json) to add support for another language.
+If you'd like to help improve this project, you can edit the JSON files and create a pull request if you find any issues. You can also create a copy of [template.json](template.json) to add support for another language.
 
 ### Development Guide
 
