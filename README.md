@@ -2,13 +2,13 @@
 
 ## News
 
-### February 17, 2025: 1.4 ＞ 1.4.1
+### March 9, 2025: 1.4.2 ＞ 1.4.3
 
-- **2 new** countries with **4 new** voices
-    - English (India) - Siri (Voice 1)
-    - English (India) - Siri (Voice 2)
-    - English (Ireland) - Siri (Voice 1)
-    - English (Ireland) - Siri (Voice 2)
+- **A new** countries with **4 new** voices
+    - 日本語（日本）- Siri (hattori)
+    - 日本語（日本）- Siri (oren)
+    - 日本語（日本）- Siri (声1)
+    - 日本語（日本）- Siri (声2)
 
 ---
 
@@ -22,9 +22,9 @@ Thank you for using this project! If you like it, please consider leaving a star
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section.
 
-## Voices [49+]
+## Voices [51+]
 
-### Available (39)
+### Available (43)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -65,13 +65,12 @@ To help improve this project, you can check out the development guide in the ["L
 - 中文（中国大陆）- Siri (声音2)
 - 中文（香港）- Siri (聲音1)
 - 中文（香港）- Siri (聲音2)
-
-### Coming Soon (4)
-
 - 日本語（日本）- Siri (hattori)
 - 日本語（日本）- Siri (oren)
 - 日本語（日本）- Siri (声1)
 - 日本語（日本）- Siri (声2)
+
+### Coming Soon (0)
 
 ### In Production (2)
 
