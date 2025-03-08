@@ -100,7 +100,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 ### GitHub
 
-- The Releases are not available yet.
+- Releases are not available yet.
 
 <!-- - [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases) -->
 
