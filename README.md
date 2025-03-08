@@ -16,6 +16,8 @@
 
 I'm a 17-year-old student, and this project is my first attempt at creating something like this. It's for practice and learning.
 
+This project is available on [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712).
+
 More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **leave your requests** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page. Your suggestions might be implemented in just a few days!
 
 Thank you for using this project! If you like it, please consider leaving a star or contributing to its development!
@@ -96,7 +98,9 @@ To help improve this project, you can check out the development guide in the ["L
 - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
 - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 
-<!-- ### GitHub -->
+### GitHub
+
+- The Releases are not available yet.
 
 <!-- - [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases) -->
 
@@ -178,6 +182,8 @@ apple-siri-voice-navigation
     - german_ge
 - hebrew
     - hebrew_il
+- japanese
+    - japanese_jp
 - spanish
     - spanish_es
     - spanish_mx
@@ -189,8 +195,6 @@ apple-siri-voice-navigation
     - dutch_nl
 - hungarian
     - hungarian_hu
-- japanese
-    - japanese_jp
 - romanian
     - romanian_ro
 - swedish
