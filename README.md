@@ -18,9 +18,9 @@ Starting from 1.4.3, you can download it directly from the [Releases](https://gi
 
 I'm a 17-year-old student, and this project is my first attempt at creating something like this. It's for practice and learning.
 
-More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **Leave your requests** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or in the [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) section. Your suggestions might be implemented in just a few days!
+More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **Leave your requests** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or in the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) section. Your suggestions might be implemented in just a few days!
 
-Thank you for subscribing! If you like it, please consider leaving a vote or using your free Steam Points to give it an award!
+Thank you for using this project! If you like it, please consider leaving a star or contributing to its development!
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section.
 
@@ -112,20 +112,20 @@ In 1.4, I rebuilt all 33 existing voices. Due to the change in the `voice_naviga
 - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
 - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 
-### Apple SF Symblos UI (Under Development...)
+### Apple SF Symbols UI (Under Development...)
 
-- Apple SF Symblos UI for ETS2
-- Apple SF Symblos UI for ATS
+- Apple SF Symbols UI for ETS2
+- Apple SF Symbols UI for ATS
 
 ---
 
 ## "I Want More Voices!"
 
-If you'd like to see more languages or voices added, please **leave your requests** in the comment section on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page! Supports **any language and voice** available on Apple devices, not just Siri.
+If you'd like to see more languages or voices added, please **leave your requests** in the comment section on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page! Supports **any language and voice** available on Apple devices, not just Siri.
 
 ## "Oh No! There's a Mistake!"
 
-I don't speak all these languages. While I've done my best to ensure accuracy, there may still be errors. If you find any, please **leave a comment** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or [Issuses](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or **make the correction directly here**. Thanks you!
+I don't speak all these languages. While I've done my best to ensure accuracy, there may still be errors. If you find any, please **leave a comment** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or **make the correction directly here**. Thank you!
 
 ## "Let Me Help You!"
 
