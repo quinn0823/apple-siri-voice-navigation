@@ -16,8 +16,6 @@
 
 I'm a 17-year-old student, and this project is my first attempt at creating something like this. It's for practice and learning.
 
-This project is available on [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712). You can check out and subscribe to the releases there.
-
 More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **leave your requests** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page. Your suggestions might be implemented in just a few days!
 
 Thank you for using this project! If you like it, please consider leaving a star or contributing to its development!
@@ -223,6 +221,6 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Inspired by Apple. This project is not affiliated with Apple. Apple and Siri are trademarks of Apple Inc.
 
-Updated Date (GitHub): March 8, 2025 | Copyright © 2025 [Quinn Qiu](https://github.com/quinn0823) All Rights Reserved.
+Updated Date (GitHub): March 9, 2025 | Copyright © 2025 [Quinn Qiu](https://github.com/quinn0823) All Rights Reserved.
 
 [Quinn-Web](https://quinn0823.github.io) | [𝕏](https://x.com/quinnqiu0823) | [Weibo](https://weibo.com/quinn0823) | [Steam](https://steamcommunity.com/id/quinn0823)
