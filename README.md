@@ -96,9 +96,9 @@ To help improve this project, you can check out the development guide in the ["L
 - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
 - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 
-### GitHub
+<!-- ### GitHub -->
 
-- [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases)
+<!-- - [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases) -->
 
 ## Usage
 
