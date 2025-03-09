@@ -22,7 +22,7 @@ Thank you for using this project! If you like it, please consider leaving a star
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section.
 
-## Voices [51+]
+## Voices [54+]
 
 ### Available (43)
 
@@ -70,12 +70,15 @@ To help improve this project, you can check out the development guide in the ["L
 - 日本語（日本）- Siri (声1)
 - 日本語（日本）- Siri (声2)
 
-### Coming Soon (0)
-
-### In Production (2)
+### Coming Soon (2)
 
 - Netherlands (Netherland) - Siri (Stem 1)
 - Netherlands (Netherland) - Siri (Stem 2)
+
+### In Production (3)
+- Polski (Polska) - Ewa (premium)
+- Polski (Polska) - Krzysztof (rozszerzony)
+- Polski (Polska) - Zosia (rozszerzony)
 
 ### Planned (6+)
 
@@ -160,7 +163,9 @@ apple-siri-voice-navigation
 ```
 
 #### Languages
+
 ##### Available
+
 - chinese
     - chinese_cn
     - chinese_tw
@@ -187,19 +192,23 @@ apple-siri-voice-navigation
     - spanish_es
     - spanish_mx
 
-##### Planned
+##### Not Available (Planned)
+
 - danish
     - danish_dk
 - dutch
     - dutch_nl
 - hungarian
     - hungarian_hu
+- polish
+    - polish_pl
 - romanian
     - romanian_ro
 - swedish
     - swedish_se
 
 ### Contributors
+
 <table>
     <tbody align=center>
         <tr>
