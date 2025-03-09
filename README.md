@@ -4,7 +4,7 @@
 
 ### March 9, 2025: 1.4.2 ＞ 1.4.3
 
-- **A new** countries with **4 new** voices
+- **A new** language with **4 new** voices added
     - 日本語（日本）- Siri (hattori)
     - 日本語（日本）- Siri (oren)
     - 日本語（日本）- Siri (声1)
