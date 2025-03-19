@@ -13,7 +13,7 @@
     },
     {
         "File prefix": "keep_right",
-        "Command": "הישארו צודקים."
+        "Command": "הישארו ימינה."
     },
     {
         "File prefix": "exit_left",
@@ -81,11 +81,11 @@
     },
     {
         "File prefix": "compound_keep_left",
-        "Command": "הישאר שמאלה,"
+        "Command": "הישארו שמאלה,"
     },
     {
         "File prefix": "compound_keep_right",
-        "Command": "הישארו צודקים,"
+        "Command": "הישארו ימינה,"
     },
     {
         "File prefix": "compound_exit_left",
@@ -113,7 +113,7 @@
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": "ואז להישאר צודק."
+        "Command": "ואז להישאר ימינה."
     },
     {
         "File prefix": "and_then_exit_left",
@@ -125,7 +125,7 @@
     },
     {
         "File prefix": "and_then_go_straight",
-        "Command": "ואז להמשיך ישר."
+        "Command": "ואז סע ישר."
     },
     {
         "File prefix": "start_1",
