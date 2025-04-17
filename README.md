@@ -2,6 +2,8 @@
 
 Experience the road with Siri! Apple Siri Voice Navigation brings the iconic voices on Apple devices to your favorite Truck Simulators. With over 50 voices to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
+---
+
 ## News
 
 ### March 9, 2025: 1.4.2 ＞ 1.4.3
