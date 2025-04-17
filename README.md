@@ -1,5 +1,7 @@
 # Apple Siri Voice Navigation
 
+Experience the road with Siri! Apple Siri Voice Navigation brings the iconic voices on Apple devices to your favorite Truck Simulators. With over 50 voices to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+
 ## News
 
 ### March 9, 2025: 1.4.2 ＞ 1.4.3
@@ -22,7 +24,7 @@ Thank you for using this project! If you like it, please consider leaving a star
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section.
 
-## Voices [54+]
+## Voices [56+]
 
 ### Available (43)
 
@@ -70,8 +72,10 @@ To help improve this project, you can check out the development guide in the ["L
 - 日本語（日本）- Siri (声1)
 - 日本語（日本）- Siri (声2)
 
-### Coming Soon (2)
+### Coming Soon (4)
 
+- Türkçe (Türkiye) - Siri (Ses 1)
+- Türkçe (Türkiye) - Siri (Ses 2)
 - Netherlands (Netherland) - Siri (Stem 1)
 - Netherlands (Netherland) - Siri (Stem 2)
 
@@ -191,6 +195,8 @@ apple-siri-voice-navigation
 - spanish
     - spanish_es
     - spanish_mx
+- turkish
+    - turkish_tr
 
 ##### Not Available (Planned)
 
@@ -229,6 +235,6 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Inspired by Apple. This project is not affiliated with Apple. Apple and Siri are trademarks of Apple Inc.
 
-Updated Date (GitHub): March 9, 2025 | Copyright © 2025 [Quinn Qiu](https://github.com/quinn0823) All Rights Reserved.
+Updated Date (GitHub): April 17, 2025 | Copyright © 2025 [Jonathan Chiu](https://github.com/quinn0823) All Rights Reserved.
 
 [Quinn-Web](https://quinn0823.github.io) | [𝕏](https://x.com/quinnqiu0823) | [Weibo](https://weibo.com/quinn0823) | [Steam](https://steamcommunity.com/id/quinn0823)
