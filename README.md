@@ -2,15 +2,13 @@
 
 Experience the road with Siri! Apple Siri Voice Navigation brings the iconic voices on Apple devices to your favorite Truck Simulators. With over 50 voices to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-## News
+### April 17, 2025: 1.4.4 ＞ 1.4.5
 
-### March 9, 2025: 1.4.2 ＞ 1.4.3
+- Added **a new** language with **4 new** voices
+    - Türkçe (Türkiye) - Siri (Ses 1)
+    - Türkçe (Türkiye) - Siri (Ses 2)
 
-- **A new** language with **4 new** voices added
-    - 日本語（日本）- Siri (hattori)
-    - 日本語（日本）- Siri (oren)
-    - 日本語（日本）- Siri (声1)
-    - 日本語（日本）- Siri (声2)
+---
 
 ## Introduction
 
@@ -24,7 +22,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [56+]
 
-### Available (43)
+### Available (45)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -59,6 +57,8 @@ To help improve this project, you can check out the development guide in the ["L
 - Français (France) - Siri (Voix 2)
 - Hebrew (Israel) - Siri (Voice 1) [עברית (ישראל) - Siri (קול 1)]
 - Hebrew (Israel) - Siri (Voice 2) [עברית (ישראל) - Siri (קול 2)]
+- Türkçe (Türkiye) - Siri (Ses 1)
+- Türkçe (Türkiye) - Siri (Ses 2)
 - 中文（台灣）- Siri (聲音1)
 - 中文（台灣）- Siri (聲音2)
 - 中文（中国大陆）- Siri (声音1)
@@ -72,8 +72,6 @@ To help improve this project, you can check out the development guide in the ["L
 
 ### Coming Soon (4)
 
-- Türkçe (Türkiye) - Siri (Ses 1)
-- Türkçe (Türkiye) - Siri (Ses 2)
 - Netherlands (Netherland) - Siri (Stem 1)
 - Netherlands (Netherland) - Siri (Stem 2)
 
@@ -95,7 +93,7 @@ To help improve this project, you can check out the development guide in the ["L
 ## Download
 
 > [!WARNING]
-> For the best experience, I recommend subscribing through the **Workshop**. You can only download the **non-automatically** updated version on GitHub. This method is only recommended for users who don't own the games on Steam. 
+> For the best experience, I recommend subscribing through the **Workshop**. You can only download the **non-automatically updated** version on GitHub. This method is only recommended for users who don't own the games on Steam. 
 
 ### Workshop
 
@@ -122,6 +120,21 @@ To help improve this project, you can check out the development guide in the ["L
 ## Known Issues
 
 In 1.4, I rebuilt all 33 existing voices. Due to the change in the `voice_navigation_config`, users who subscribed before **January 24, 2025** will need to **re-select** their preferred voice in Options.
+
+## Translations
+
+- Česky: Apple Siri Hlasová Navigace
+- Deutsch: Apple Siri Navi-Sprachausgabe
+- English: Apple Siri Voice Navigation
+- English (United States): Apple Siri Voice Navigation
+- Español: Navegación Por Voz de Apple Siri
+- Español (Am.Latina): Navegación por voz de Apple Siri
+- Français (Québec): Guidage Vocal Apple Siri
+- Français (France): Guidage Vocal Apple Siri
+- 日本語: Apple Siri ボイスナビゲーション
+- Türkçe: Apple Siri Sesli Navigasyon
+- 简体中文: Apple/苹果 Siri 语音导航
+- 繁體中文: Apple/蘋果 Siri 語音導航
 
 ---
 
@@ -228,23 +241,6 @@ apple-siri-voice-navigation
 </table>
 
 You can also contact me at quinnqiu0823@icloud.com.
-
----
-
-## Translations
-
-- Česky: Apple Siri Hlasová Navigace
-- Deutsch: Apple Siri Navi-Sprachausgabe
-- English: Apple Siri Voice Navigation
-- English (United States): Apple Siri Voice Navigation
-- Español: Navegación Por Voz de Apple Siri
-- Español (Am.Latina): Navegación por voz de Apple Siri
-- Français (Québec): Guidage Vocal Apple Siri
-- Français (France): Guidage Vocal Apple Siri
-- 日本語: Apple Siri ボイスナビゲーション
-- Türkçe: Apple Siri Sesli Navigasyon
-- 简体中文: Apple/苹果 Siri 语音导航
-- 繁體中文: Apple/蘋果 Siri 語音導航
 
 ---
 
