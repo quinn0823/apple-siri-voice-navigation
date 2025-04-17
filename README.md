@@ -233,6 +233,23 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
+## Translations
+
+- Česky: Apple Siri Hlasová Navigace
+- Deutsch: Apple Siri Navi-Sprachausgabe
+- English: Apple Siri Voice Navigation
+- English (United States): Apple Siri Voice Navigation
+- Español: Navegación Por Voz de Apple Siri
+- Español (Am.Latina): Navegación por voz de Apple Siri
+- Français (Québec): Guidage Vocal Apple Siri
+- Français (France): Guidage Vocal Apple Siri
+- 日本語: Apple Siri ボイスナビゲーション
+- Türkçe: Apple Siri Sesli Navigasyon
+- 简体中文: Apple/苹果 Siri 语音导航
+- 繁體中文: Apple/蘋果 Siri 語音導航
+
+---
+
 Inspired by Apple. This project is not affiliated with Apple. Apple and Siri are trademarks of Apple Inc.
 
 Updated Date (GitHub): April 17, 2025 | Copyright © 2025 [Jonathan Chiu](https://github.com/quinn0823) All Rights Reserved.
