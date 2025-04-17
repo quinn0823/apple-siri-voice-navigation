@@ -1,8 +1,8 @@
 # Apple Siri Voice Navigation
 
-Experience the road with **Siri**! Apple Siri Voice Navigation brings the iconic voices on Apple devices to your favorite Truck Simulators. With **over 50 voices** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple devices to your favorite Truck Simulators. With **over 50 voices** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-### April 17, 2025: 1.4.4 ＞ 1.4.5
+**April 17, 2025**: 1.4.4 ＞ **1.4.5**
 
 - Added **a new** language with **4 new** voices
     - Türkçe (Türkiye) - Siri (Ses 1)
@@ -12,7 +12,7 @@ Experience the road with **Siri**! Apple Siri Voice Navigation brings the iconic
 
 ## Introduction
 
-I'm a 17-year-old student, and this project is my first attempt at creating something like this. It's for practice and learning.
+I'm a 17-year-old student, and this project is my first attempt at creating something like this. It's for learning and practice.
 
 More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **leave your requests** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page. Your suggestions might be implemented in just a few days!
 
@@ -154,7 +154,7 @@ In 1.4, I rebuilt all 33 existing voices. Due to the change in the `voice_naviga
 
 ## "I Want More Voices!"
 
-If you'd like to see more languages or voices added, please **leave your requests** in the comment section on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page! Supports **any language and voice** available on Apple devices, not just Siri.
+If you'd like to see more languages or voices added, please **leave your requests** in the comment section on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page! Supports **any language and voice** available on Apple devices, **not just Siri**.
 
 ## "Oh No! There's a Mistake!"
 
