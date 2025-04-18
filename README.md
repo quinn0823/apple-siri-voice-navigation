@@ -158,7 +158,7 @@ If you'd like to see more languages or voices added, please **leave your request
 
 ## "Oh No! There's a Mistake!"
 
-I don't speak all these languages. While I've done my best to ensure accuracy, there may still be errors. If you find any, please **leave a comment** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or **make the correction directly here**. Thank you!
+I don't speak all these languages. While I've done my best to ensure accuracy, there may still be errors. If you find any, please **leave a comment** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or make the correction **directly here**. Thank you!
 
 ## "Let Me Help You!"
 
@@ -169,7 +169,7 @@ If you'd like to help improve this project, you can edit the JSON files and crea
 #### File Structure
 
 > [!TIP]
-> Don't know the ISO 3166-1 two-letter country code (Alpha-2)? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` → `english_us.json`.
+> Don't know the ISO 3166-1 two-letter country code (alpha-2)? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` ＞ `english_us.json`.
 
 ```
 apple-siri-voice-navigation
@@ -250,6 +250,6 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Inspired by Apple. This project is not affiliated with Apple. Apple and Siri are trademarks of Apple Inc.
 
-Updated Date (GitHub): April 17, 2025 | Copyright © 2025 [Jonathan Chiu](https://github.com/quinn0823) All Rights Reserved.
+Updated Date (GitHub): April 18, 2025 | Copyright © 2025 [Jonathan Chiu](https://github.com/quinn0823) All Rights Reserved.
 
 [Quinn-Web](https://quinn0823.github.io) | [𝕏](https://x.com/quinnqiu0823) | [Weibo](https://weibo.com/quinn0823) | [Steam](https://steamcommunity.com/id/quinn0823)
