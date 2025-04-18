@@ -167,6 +167,10 @@ If you'd like to help improve this project, you can edit the JSON files and crea
 ### Development Guide
 
 #### File Structure
+
+> [!TIP]
+> Don't know the ISO 3166-1 two-letter country code (Alpha-2)? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` → `english_us.json`.
+
 ```
 apple-siri-voice-navigation
 ├── english
