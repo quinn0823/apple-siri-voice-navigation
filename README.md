@@ -179,7 +179,7 @@ I don't speak all these languages. While I've done my best to ensure accuracy, t
 
 In order to **stay energized** to work on this project after school, I appreciate you could [buy me a coffee](https://www.buymeacoffee.com/jonathanchiu). Your support means the **world** to me! Giving [me](https://steamcommunity.com/id/quinn0823) an award using your free Steam Points means the **"Eurasia"** to me!
 
-<a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px;width: 217px;"></a>
+<a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=jonathanchiu&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ## "Let Me Help You!"
 
