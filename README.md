@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
-    <a href="https://www.fmod.com"><img alt="FMOD" src="https://img.shields.io/badge/2.01.05-000000?logo=fmod&logoSize=auto"></a>
+    <a href="https://www.fmod.com"><img alt="FMOD" src="https://img.shields.io/badge/2.01.05-blue?logo=fmod&logoSize=auto"></a>
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation"></a> -->
     <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
 </p>
