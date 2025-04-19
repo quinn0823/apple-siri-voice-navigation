@@ -13,18 +13,18 @@
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a> -->
 </p>
 <p align="center">
-    <img alt="Euro Truck Simulator 2" src="https://img.shields.io/badge/Euro%20Truck%20Simulator%202-yellow?logo=steam">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712" target="_blank"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712" target="_blank"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712" target="_blank"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712" target="_blank"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712" target="_blank"><img alt="Euro Truck Simulator 2" src="https://img.shields.io/badge/Euro%20Truck%20Simulator%202-yellow?logo=steam"></a>
+    <img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712">
+    <img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712">
+    <img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712">
+    <img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712">
 </p>
 <p align="center">
-    <img alt="American Truck Simulator" src="https://img.shields.io/badge/American%20Truck%20Simulator-red?logo=steam">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298" target="_blank"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298" target="_blank"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298" target="_blank"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298" target="_blank"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298" target="_blank"><img alt="American Truck Simulator" src="https://img.shields.io/badge/American%20Truck%20Simulator-red?logo=steam"></a>
+    <img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298">
+    <img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298">
+    <img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298">
+    <img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298">
 </p>
 
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple devices to your favorite Truck Simulators. With **over 50 voices** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
