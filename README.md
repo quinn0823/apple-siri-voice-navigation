@@ -277,6 +277,6 @@ Inspired by Apple. This project is not affiliated with Apple Inc. Apple, the App
 
 Copyright © 2025 Jonathan Chiu
 
-Licensed under GNU General Public License v3.0.
+Licensed under the [GNU General Public License v3.0](LICENSE).
 
 [GitHub](https://github.com/quinn0823) | [Quinn-Web](https://quinn0823.github.io) | [𝕏](https://x.com/jonathan_chiu) | [Weibo](https://weibo.com/quinn0823) | [Steam](https://steamcommunity.com/id/quinn0823)
