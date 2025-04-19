@@ -237,7 +237,7 @@ apple-siri-voice-navigation
                 <a href="https://github.com/quinn0823">
                     <img src="https://avatars.githubusercontent.com/u/68278999?v=4" width="100px">
                     <br>
-                    quinn0823
+                    Jonathan Chiu
                 </a>
             </td>
         </tr>
@@ -248,8 +248,14 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Inspired by Apple. This project is not affiliated with Apple. Apple and Siri are trademarks of Apple Inc.
+Updated Date (Source): April 17, 2025 (1.4.5)
 
-Updated Date (GitHub): April 18, 2025 | Copyright © 2025 [Jonathan Chiu](https://github.com/quinn0823) All Rights Reserved.
+Updated Date (GitHub): April 18, 2025
 
-[Quinn-Web](https://quinn0823.github.io) | [𝕏](https://x.com/quinnqiu0823) | [Weibo](https://weibo.com/quinn0823) | [Steam](https://steamcommunity.com/id/quinn0823)
+Inspired by Apple. This project is not affiliated with Apple Inc. Apple, the Apple logo, and Siri are trademarks of Apple Inc., registered in the U.S. and other countries.
+
+Copyright © 2025 Jonathan Chiu
+
+Licensed under GNU General Public License v3.0.
+
+[GitHub](https://github.com/quinn0823) | [Quinn-Web](https://quinn0823.github.io) | [𝕏](https://x.com/jonathan_chiu) | [Weibo](https://weibo.com/quinn0823) | [Steam](https://steamcommunity.com/id/quinn0823)
