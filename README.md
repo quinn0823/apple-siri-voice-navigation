@@ -151,21 +151,6 @@ To help improve this project, you can check out the development guide in the ["L
 
 In 1.4, I rebuilt all 33 existing voices. Due to the change in the `voice_navigation_config`, users who subscribed before **January 24, 2025** will need to **re-select** their preferred voice in Options.
 
-## Translations
-
-- Česky: Apple Siri Hlasová Navigace
-- Deutsch: Apple Siri Navi-Sprachausgabe
-- English: Apple Siri Voice Navigation
-- English (United States): Apple Siri Voice Navigation
-- Español: Navegación Por Voz de Apple Siri
-- Español (Am.Latina): Navegación por voz de Apple Siri
-- Français (Québec): Guidage Vocal Apple Siri
-- Français (France): Guidage Vocal Apple Siri
-- 日本語: Apple Siri ボイスナビゲーション
-- Türkçe: Apple Siri Sesli Navigasyon
-- 简体中文: Apple/苹果 Siri 语音导航
-- 繁體中文: Apple/蘋果 Siri 語音導航
-
 ---
 
 ## Apple Series
