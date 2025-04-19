@@ -248,11 +248,11 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Updated Date (Source): April 17, 2025 (1.4.5)
+Inspired by Apple. This project is not affiliated with Apple Inc. Apple, the Apple logo, and Siri are trademarks of Apple Inc., registered in the U.S. and other countries.
+
+Release Date: April 17, 2025 (1.4.5)
 
 Updated Date (GitHub): April 18, 2025
-
-Inspired by Apple. This project is not affiliated with Apple Inc. Apple, the Apple logo, and Siri are trademarks of Apple Inc., registered in the U.S. and other countries.
 
 Copyright © 2025 Jonathan Chiu
 
