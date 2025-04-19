@@ -1,12 +1,14 @@
 <p align="center">
-    <a href=""><img src="logo.svg" alt="Apple Siri Voice Navigation" height="256px"></a>
+    <a href=""><img src="logo.svg" alt="Apple Siri Voice Navigation" height="128px"></a>
 </p>
+
+<h1 align="center">Apple Siri Voice Navigation</h1>
 
 <p align="center">
     <a href="LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
-    <a href="https://www.fmod.com" target="_blank"><img alt="FMOD" src="https://img.shields.io/badge/2.01.05-000000?logo=fmod&logoSize=auto"></a>
+    <a href="https://www.fmod.com"><img alt="FMOD" src="https://img.shields.io/badge/2.01.05-000000?logo=fmod&logoSize=auto"></a>
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation"></a> -->
-    <a href="https://buymeacoffee.com/jonathanchiu" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
+    <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
 </p>
 <p align="center">
     <a href=""><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
@@ -14,18 +16,18 @@
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a> -->
 </p>
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712" target="_blank"><img alt="Euro Truck Simulator 2" src="https://img.shields.io/badge/Euro%20Truck%20Simulator%202-yellow?logo=steam"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712" target="_blank"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712" target="_blank"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712" target="_blank"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712" target="_blank"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Euro Truck Simulator 2" src="https://img.shields.io/badge/Euro%20Truck%20Simulator%202-yellow?logo=steam"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712"></a>
 </p>
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298" target="_blank"><img alt="American Truck Simulator" src="https://img.shields.io/badge/American%20Truck%20Simulator-red?logo=steam"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298" target="_blank"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298" target="_blank"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298" target="_blank"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298" target="_blank"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="American Truck Simulator" src="https://img.shields.io/badge/American%20Truck%20Simulator-red?logo=steam"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple devices to your favorite Truck Simulators. With **over 50 voices** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
@@ -44,7 +46,7 @@ I'm a 17-year-old student, and this project is my first attempt at creating some
 
 More languages and voices will be added in the future. If the language you speak or voices you prefer aren't available yet, feel free to **leave your requests** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page. Your suggestions might be implemented in just a few days!
 
-Thank you for using this project! If you like it, please consider leaving a star or contributing to its development!
+Thank you for using this project! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section.
 
@@ -187,6 +189,12 @@ If you'd like to see more languages or voices added, please **leave your request
 ## "Oh No! There's a Mistake!"
 
 I don't speak all these languages. While I've done my best to ensure accuracy, there may still be errors. If you find any, please **leave a comment** on the [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or make the correction **directly here**. Thank you!
+
+## "You deserve an award!"
+
+In order to **stay energized** to work on this project after school, I appreciate you could [buy me a coffee](https://www.buymeacoffee.com/jonathanchiu). Your support means the **world** to me! Giving [me](https://steamcommunity.com/id/quinn0823) an award using your free Steam Points means the **"Eurasia"** to me!
+
+<a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px;width: 217px;"></a>
 
 ## "Let Me Help You!"
 
