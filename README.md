@@ -16,14 +16,14 @@
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a> -->
 </p>
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Euro Truck Simulator 2" src="https://img.shields.io/badge/Euro%20Truck%20Simulator%202-subscribe-7C9D06?logo=steam&labelColor=yellow"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Euro Truck Simulator 2" src="https://img.shields.io/badge/Euro%20Truck%20Simulator%202-subscribe-5c7e10?logo=steam&labelColor=yellow"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712"></a>
 </p>
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="American Truck Simulator" src="https://img.shields.io/badge/American%20Truck%20Simulator-subscribe-7C9D06?logo=steam&labelColor=red"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="American Truck Simulator" src="https://img.shields.io/badge/American%20Truck%20Simulator-subscribe-5c7e10?logo=steam&labelColor=red"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298"></a>
