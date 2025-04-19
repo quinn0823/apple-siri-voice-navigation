@@ -8,7 +8,7 @@
     <a href="LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
     <a href="https://www.fmod.com"><img alt="FMOD" src="https://img.shields.io/badge/2.01.05-blue?logo=fmod&logoSize=auto"></a>
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation"></a> -->
-    <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
+    <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
 </p>
 <p align="center">
     <a href=""><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
@@ -16,14 +16,14 @@
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a> -->
 </p>
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Euro Truck Simulator 2" src="https://img.shields.io/badge/Euro%20Truck%20Simulator%202-yellow?logo=steam"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Euro Truck Simulator 2" src="https://img.shields.io/badge/Euro%20Truck%20Simulator%202-subscribe-7C9D06?logo=steam&labelColor=yellow"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712"></a>
 </p>
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="American Truck Simulator" src="https://img.shields.io/badge/American%20Truck%20Simulator-red?logo=steam"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="American Truck Simulator" src="https://img.shields.io/badge/American%20Truck%20Simulator-subscribe-7C9D06?logo=steam&labelColor=red"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298"></a>
