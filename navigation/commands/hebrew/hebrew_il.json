@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "פנה שמאלה."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "פנה ימינה."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "הישארו שמאלה."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "הישארו ימינה."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "צא שמאלה."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "צא ימינה."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "סע ישר."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "בכיכר, צאו ביציאה הראשונה."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "בכיכר, צאו ביציאה השנייה."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "בכיכר, צאו ביציאה השלישית."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "בכיכר, צאו ביציאה הרביעית."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "בכיכר, צאו ביציאה החמישית."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "בכיכר, צאו ביציאה השישית."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "צא עכשיו."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "התכונן לפנות שמאלה."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "התכונן לפנות ימינה."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "התכוננו לצאת שמאלה."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "תתכוננו לצאת ימינה."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "פנה שמאלה,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "פנה ימינה,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "הישארו שמאלה,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "הישארו ימינה,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "צא שמאלה,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "צא ימינה,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "סע ישר,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "ואז פנה שמאלה."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "ואז פנה ימינה."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "ואז להישאר שמאלה."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "ואז להישאר ימינה."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "ואז צא שמאלה."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "ואז צא ימינה."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "ואז סע ישר."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "אוקיי, הנה אנחנו הולכים."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "הגיע הזמן לצאת לדרך."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "בואו נעשה את זה."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "סעו בבטחה."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "מוכן להתגלגל."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "בוא נלך."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "הגיע הזמן לבצע את העבודה."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "הגעת ליעדך. הדרכת המסלול שלך הסתיימה כעת."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "הנה אנחנו, בריאים ושלמים."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "סוף סוף, אנחנו כאן."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "הכל נגמר עכשיו."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "כאן זה נגמר."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "סיימנו."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "זו הייתה נסיעה נחמדה."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "ניתוב מחדש."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "מחשוב מחדש."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "מציאת מסלול חדש."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "אוקיי, בואו נמצא מסלול חדש."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "לא משנה. אני אמצא מסלול חדש."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "במידת האפשר, בצע פניית פרסה."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "עשו פניית פרסה."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "אנא בצעו פניית פרסה במידת האפשר."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "זהירות, אנא שימו לב למהירות המותרת."
+    }
+]

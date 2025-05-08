@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "Biege nach links ab."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Biege nach rechts ab."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Bitte links halten."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Bitte rechts halten."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Nimm die Ausfahrt links."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Nimm die Ausfahrt rechts."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Immer geradeaus."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "Am Kreisverkehr erste Ausfahrt nehmen."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "Am Kreisverkehr zweite Ausfahrt nehmen."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "Am Kreisverkehr dritte Ausfahrt nehmen."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "Am Kreisverkehr vierte Ausfahrt nehmen."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "Am Kreisverkehr fünfte Ausfahrt nehmen."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "Am Kreisverkehr sechste Ausfahrt nehmen."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Nimm diese Ausfahrt."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Demnächst links abbiegen."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Demnächst rechts abbiegen."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Nimm demnächst die Ausfahrt links."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Nimm demnächst die Ausfahrt rechts."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Links abbiegen,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Rechts abbiegen,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Links halten,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Rechts halten,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Ausfahrt links nehmen,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Ausfahrt rechts nehmen,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Immer geradeaus,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "und dann links abbiegen."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "und dann rechts abbiegen."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "und dann links halten."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "und dann rechts halten."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "und dann die Ausfahrt links nehmen."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "und dann die Ausfahrt rechts nehmen."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "und dann bleiben Sie immer geradeaus."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "Okay, wir fahren los."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "Zeit zu gehen."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "Los."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Fahrt vorsichtig."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Fertig zum losfahren."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "Auf geht's."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "Lass uns loslegen."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "Sie sind am Ziel angekommen. Und ihre Routenführung ist damit abgeschlossen."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Wir sind heile angekommen."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "Endlich, wir sind da."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "Es ist vorbei."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "Hier endet es."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "Wir sind fertig."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "Das war eine schöne fahrt."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Route neu berechnen."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "Neu berechnen."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "Neue Route finden."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "Okay, lass uns eine neue Route finden."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Kein Problem, ich finde eine neue Route."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Wenn möglich, machen Sie eine Kehrtwende."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Machen Sie eine Kehrtwende."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Bitte machen Sie eine Kehrtwende."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Achtung, achten Sie auf die Geschwindigkeitsbegrenzung."
+    }
+]

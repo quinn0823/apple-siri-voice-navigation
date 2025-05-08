@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "Sola dönün."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Sağa dönün."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Soldan devam edin."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Sağdan devam edin."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Sol çıkışı kullanın."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Sağ çıkışı kullanın."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Düz ilerleyin."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "Döner kavşakta, ilk çıkışı kullanın."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "Döner kavşakta, ikinci çıkışı kullanın."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "Döner kavşakta, üçüncü çıkışı kullanın."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "Döner kavşakta, dördüncü çıkışı kullanın."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "Döner kavşakta, beşinci çıkışı kullanın."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "Döner kavşakta, altıncı çıkışı kullanın."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Şimdiki çıkışı kullanın."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Sola dönmeye hazırlanın."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Sağa dönmeye hazırlanın."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Soldan çıkışa hazırlanın."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Sağdan çıkışa hazırlanın."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Sola dönün,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Sağa dönün,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Solda kalın,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Sağda kalın,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Soldan çıkın,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Sağdan çıkın,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Düz ilerleyin,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "Ve sonra sola dönün."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "Ve sonra sağa dönün."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "Ve sonra solda kalın."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "Ve sonra sağda kalın."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "Ve sonra soldan çıkın."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "Ve sonra sağdan çıkın."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "Ve sonra düz devam edin."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "İşte başlıyoruz."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "Yollara düşme vakti."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "İyi seferler."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Güvenli yolculuklar."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Yola koyulalım."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "İyi yolculuklar."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "Yolunuz açık olsun."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "Varış noktasına ulaştınız, iyi günler."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Sağ salim varış noktasına ulaştınız."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "Sonunda vardık."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "Son durağa geldiniz."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "Yorulduk ama değdi."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "Yolculuğumuz sona erdi."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "İyi bir sefer oldu."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Rota tekrar hesaplanıyor."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "Tekrar hesaplanıyor."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "Yeni rota bulunuyor."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "Size yeni bir rota bulalım."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Sorun değil, yeni rota aranıyor."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Mümkünse, U dönüşü yapın."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "U dönüşü yapın"
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Lütfen mümkünse, U dönüşü yapın."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Uyarın, lütfen hız sınırlarına dikkat edin."
+    }
+]

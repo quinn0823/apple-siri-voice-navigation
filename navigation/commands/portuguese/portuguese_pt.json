@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "Vire, à esquerda."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Vire, à direita."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Mantenha-se, à esquerda."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Mantenha-se, à direita."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Saia na saída, à esquerda."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Saia na saída, à direita."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Siga em frente."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "Na rotunda, saia na primeira saída."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "Na rotunda, saia na segunda saída."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "Na rotunda, saia na terceira saída."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "Na rotunda, saia na quarta saída."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "Na rotunda, saia na quinta saída."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "Na rotunda, saia na sexta saída."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Saia agora."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Prepare-se para virar à esquerda."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Prepare-se para virar à direita."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Prepare-se para sair à esquerda."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Prepare-se para sair à direita."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Vire à esquerda,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Vire à direita,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Continue à esquerda,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Continue à direita,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Saia na saída à esquerda,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Saia na saída à direita,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Siga em frente,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "E depois, vire à esquerda."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "E depois, vire à direita."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "E depois, continue à esquerda."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "E depois, continue à direita."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "E depois, saia na saída à esquerda."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "E depois, saia na saída à direita."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "E depois, continue em frente."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "OK, vamos lá."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "É tempo de fazermos a estrada."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "Vamos a isso."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Boa viagem."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Tudo preparado, podemos partir."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "Vamos lá."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "Desfruta da viagem."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "Chegou ao seu destino."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Aqui estamos, são e salvos."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "Finalmente chegamos."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "Acabou-se."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "Aqui termina o percurso."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "Acabamos."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "Fizemos uma boa viagem."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Reencaminhamento."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "A recalcular."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "A calcular uma nova rota."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "Bom, vamos encontrar uma nova rota."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Esquece isso, eu encontro uma nova rota."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Quando possível, faça inversão de marcha."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Faça inversão de marcha."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Faça inversão de marcha quando possível."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Atenção, não ultrapassa a velocidade limite."
+    }
+]

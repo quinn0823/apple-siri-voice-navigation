@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "Sla linksaf."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Sla rechtsaf."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Blijf links."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Blijf rechts."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Vertrek linksaf."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Vertrek rechtsaf."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Ga rechtdoor."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "Neem op de rotonde de eerste afslag."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "Neem op de rotonde de tweede afslag."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "Neem op de rotonde de derde afslag."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "Neem op de rotonde de vierde afslag."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "Neem op de rotonde de vijfde afslag."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "Neem op de rotonde de zesde afslag."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Vertrek nu."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Maak je klaar om linksaf te slaan."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Maak je klaar om rechtsaf te slaan."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Maak je klaar om linksaf te vertrekken."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Maak je klaar om rechtsaf te vertrekken."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Sla linksaf,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Sla rechtsaf,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Blijf links,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Blijf rechts,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Vertrek linksaf,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Vertrek rechtsaf,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Ga rechtdoor,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "En sla dan linksaf."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "En sla dan rechtsaf."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "En blijf dan links."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "En blijf dan recht."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "En vertrek dan linksaf."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "En vertrek dan rechtsaf."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "En ga dan rechtdoor."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "Oké, hier gaan we."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "Tijd om de weg op te gaan."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "Laten we dit doen."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Rij veilig."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Klaar om te rollen."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "Laten we gaan."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "Tijd om de klus te klaren."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "Je bent op je bestemming aangekomen. Uw routebegeleiding is nu klaar."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Hier zijn we, veilig en gezond."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "Eindelijk zijn we hier."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "Het is nu allemaal voorbij."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "Dit is waar het eindigt."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "We zijn klaar."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "Het was een leuke rit."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Omrouting."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "Opnieuw berekenen."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "Nieuwe route vinden."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "Oké, laten we een nieuwe route vinden."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Laat maar. Ik zal een nieuwe route vinden."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Maak indien mogelijk een U-bocht."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Maak een U-bocht."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Maak indien mogelijk een U-bocht."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Let op, let op de snelheidslimiet."
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "Turn left."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Turn right."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Stay left."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Stay right."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Exit left."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Exit right."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Go straight."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "At the roundabout, take the first exit."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "At the roundabout, take the second exit."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "At the roundabout, take the third exit."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "At the roundabout, take the fourth exit."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "At the roundabout, take the fifth exit."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "At the roundabout, take the sixth exit."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Exit now."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Get ready to turn left."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Get ready to turn right."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Get ready to exit left."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Get ready to exit right."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Turn left,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Turn right,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Stay left,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Stay right,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Exit left,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Exit right,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Go straight,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "and then turn left."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "and then turn right."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "and then stay left."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "and then stay right."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "and then exit left."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "and then exit right."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "and then continue straight."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "OK, here we go."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "Time to hit the road."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "Let's do this."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Drive safe."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Ready to roll."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "Let's go."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "Time to get the job done."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "You have arrived at your destination. Your route guidance is now finished."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Here we are, safe and sound."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "Finally, we are here."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "It's all over now."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "This is where it ends."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "We are finished."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "It was a nice ride."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Rerouting."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "Recomputing."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "Finding new route."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "OK, let's find a new route."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Never mind. I'll find a new route."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "When possible, make a U-turn."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Make a U-turn."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Please make a U-turn when possible."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Caution, please mind the speed limit."
+    }
+]

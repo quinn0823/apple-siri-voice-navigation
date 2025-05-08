@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "左方向です。"
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "右方向です。"
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "左車線です。"
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "右車線です。"
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "左の出口です。"
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "右の出口です。"
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "直進です。"
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "ロータリー、一番目の出口です。"
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "ロータリー、二番目の出口です。"
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "ロータリー、三番目の出口です。"
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "ロータリー、四番目の出口です。"
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "ロータリー、五番目の出口です。"
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "ロータリー、六番目の出口です。"
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "出口です。"
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "この先、左方向です。"
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "この先、右方向です。"
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "この先、左の出口です。"
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "この先、右の出口です。"
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "左方向です、"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "右方向です、"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "左車線です、"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "右車線です、"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "左の出口です、"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "右の出口です、"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "直進です、"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "その後、左方向です。"
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "その後、右方向です。"
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "その後、左車線です。"
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "その後、右車線です。"
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "その後、左の出口です。"
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "その後、右の出口です。"
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "その後、そのまま直進です。"
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "それでは、出発します。"
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "出発します。"
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "出発します。"
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "安全運転を心がけましょう。"
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "出発します。"
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "それでは出発します。"
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "出発します。"
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "目的地に到着しました。ルート案内を終了します。"
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "目的地に無事到着しました。"
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "目的地です。"
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "以上です。"
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "目的地に到着しました。"
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "以上です。"
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "お疲れ様でした。"
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "ルートを再検索しています。"
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "ルートを再検索しています。"
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "新しいルートを検索しています。"
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "新しいルートを検索します。"
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "新しいルートを検索します。"
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Uターンしてください。"
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Uターンしてください。"
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Uターンしてください。"
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "速度制限に注意してください。"
+    }
+]
