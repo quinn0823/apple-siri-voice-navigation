@@ -4,7 +4,7 @@
 
 <h1 align="center">Apple Siri Voice Navigation</h1>
 
-<p align="center"><a href="/README.md">English</a> | <a href="/docs/github/readme/README_zh-cn.md">简体中文</a> | <a href="/docs/github/readme/README_zh-tw.md">繁體中文</a></p>
+<p align="center"><a href="/README.md">English</a> | <a href="/docs/github/readme/README.zh_cn.md">简体中文</a> | <a href="/docs/github/readme/README.zh_tw.md">繁體中文</a></p>
 
 
 <p align="center">
