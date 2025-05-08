@@ -36,7 +36,7 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**与 Siri 一起体验旅途！**Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **11 种语言的 50 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **11 种语言的 50 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
 **2025 年 05 月 08 日**：1.5 ＞ **1.5.1**
 
@@ -193,7 +193,7 @@
 
 ## “你应得奖励！”
 
-为了在放学后**保持精力**致力于这个项目，我很感激你能 buy me a coffee。你的咖啡对我来说就是**整个世界**！用你免费的 Steam 点数奖励这个项目对我来说就是**“欧亚大陆”**！
+为了在放学后**保持精力**致力于这个项目，我很感激你能 buy me a coffee。你的咖啡对我来说就是**整个世界**！用你免费的 Steam 点数奖励这个项目对我来说就是 **“欧亚大陆”**！
 
 <a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
