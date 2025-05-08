@@ -152,8 +152,10 @@ To help improve this project, you can check out the development guide in the ["L
 - Workshop (Recommended)
     - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- ~~GitHub Releases~~ (Non-Automatic Updates, Not Available Yet)
-<!-- - [GitHub Releases](https://github.com/quinn0823/apple-siri-voice-navigation/latest) (Non-Automatic Updates) -->
+- GitHub (Non-Automatic Updates) (Not Available Yet)
+    - ~~Releases~~
+    <!-- - [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/latest) -->
+    - ~~Build from source~~
 
 ## Usage
 
