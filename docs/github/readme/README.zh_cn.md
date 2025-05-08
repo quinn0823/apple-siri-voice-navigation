@@ -51,7 +51,7 @@
 
 我是一个 17 岁的学生，这个项目是我第一次尝试创造这样的东西。它是用来学习和练习的。
 
-更多的语言和声音将在未来添加。如果你说的语言或者你喜欢的声音还不可用，请随意地**留下你的请求**。您的建议可能会在短短几天内实现！
+更多的语言和声音将在未来添加。如果你说的语言或者你喜欢的声音还不可用，请随意地**留下你的请求**。你的建议可能会在短短几天内实现！
 
 感谢你使用这个模组！如果你喜欢它，请考虑留下一颗星、为它的发展做出贡献，或者 [buy me a coffee](https://buymeacoffee.com/jonathanchiu) 来支持我的“工作”！
 
@@ -185,21 +185,21 @@
 
 ## “我要更多的声音！”
 
-如果你想看到更多的语言或声音被添加，请在这里或[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)**留下你的请求**。支持 Apple 设备上的任何语言和声音，**而不仅仅是 Siri**。
+如果你想看到更多的语言或声音被添加，请在这里或[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)**留下你的请求**。支持 Apple 设备上的**任何语言和声音**，**不仅仅是 Siri**。
 
 ## “哦，不！搞错了！”
 
-我不会说所有这些语言。虽然我已经尽力确保准确，但还是可能会有错误。如果你发现了任何问题，请在[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)的留言区或 Issues 页面的**留言**，或者**直接在这里**更正。谢谢你！
+我不会说所有这些语言。虽然我已经尽力确保准确，但还是可能会有错误。如果你发现了任何问题，请在[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)的留言区或 Issues 页面**留言**，或者**直接在这里**更正。谢谢！
 
 ## “你应得奖励！”
 
-为了在放学后**保持精力**致力于这个项目，我很感激你能 buy me a coffee。你的咖啡对我来说就是**整个世界**！用你免费的 Steam 点数奖励这个项目对我来说就是 **“欧亚大陆”**！
+为了在放学后**保持精力**以致力于这个项目，我很感激你能 buy me a coffee。你的咖啡对我来说就是**整个世界**！用你免费的 Steam 点数奖励这个项目对我来说就是 **“欧亚大陆”**！
 
 <a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
 <h2 id="let-me-help-you">“让我帮你！”</h1>
 
-如果你想帮助改进这个项目，你可以编辑 JSON 文件并创建一个拉取请求如果你发现任何错误。您还可以创建一份 [template.json](template.json) 文件的副本来添加对另一种语言的支持。
+如果你想帮助改进这个项目，你可以编辑 JSON 文件并创建一个拉取请求如果你发现任何错误。你还可以创建一个 [template.json](template.json) 文件的副本来添加对另一种语言的支持。
 
 ### 文件结构
 
@@ -299,7 +299,7 @@ apple-siri-voice-navigation
 
 发布日期 (GitHub)：2025 年 05 月 08 日
 
-灵感来自 Apple。本项目不隶属于 Apple Inc.。
+灵感来自 Apple。本项目不隶属于 Apple Inc。
 
 The MIT License (MIT)
 
