@@ -205,17 +205,26 @@ If you'd like to help improve this project, you can edit the JSON file and creat
 
 ```
 apple-siri-voice-navigation
-├── images             // GitHub README logo.
-├── mod
-│   ├── descriptions   // Mod descriptions.
-│   └── images         // Mod icons.
-├── navigation 
-│   ├── build          // Banks and guids built by FMOD Studio, and SII files.
-│   └── commands       // Voice navigation commands.
-└── workshop
-    ├── change_notes   // Change notes for each version.
-    ├── descriptions   // Workshop descriptions.
-    └── images         // Workshop preview images.
+├── build                   // Files built by 'build.*'
+├── docs
+│   ├── github              // Files for GitHub
+│   │   ├── images
+│   │   └── readme
+│   ├── mod                 // Base files for the games
+│   │   ├── descriptions
+│   │   └── images
+│   └── workshop            // Files for Workshop Items
+│       ├── change_notes
+│       ├── descriptions
+│       └── images
+├── navigation
+│   ├── build               // Banks and guids built by FMOD Studio, with SII files
+│   └── commands            // Voice navigation commands
+│       └── template.json   // Template for adding new languages
+└── scripts                 // Build scripts
+    ├── build.sh            // macOS/Linux
+    ├── build.py            // Python
+    └── build.cmd           // Windows
 ```
 
 ### Languages [18]
