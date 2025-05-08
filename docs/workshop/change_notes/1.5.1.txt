@@ -1,0 +1,7 @@
+Apple Siri Voice Navigation 1.5.1
+
+* Added 4 new voices in 2 languages in 3 countries
+    + Netherlands (Netherland) - Siri (Stem 2)
+    + Português (Brasil) - Siri (Voz 2)
+    + Português (Portugal) - Joana (melhorada)
+    + Português (Portugal) - Joaquim (melhorada)

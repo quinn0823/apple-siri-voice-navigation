@@ -1,0 +1,7 @@
+Apple Siri Voice Navigation 1.3.2
+
+* Add 3 new voices
+    + Deutsch (Deutschland) - Siri (Stimme 4)
+    + English (South Africa) - Siri (Voice 2)
+    + Español (México) - Siri (Voz 2)
+* Change the mod icon-beta.

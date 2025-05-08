@@ -1,0 +1,5 @@
+Apple Siri Voice Navigation 1.4.4
+
+* Modified and rebuilt 2 voices
+    + Hebrew (Israel) - Siri (Voice 1) [עברית (ישראל) - Siri (קול 1)]
+    + Hebrew (Israel) - Siri (Voice 2) [עברית (ישראל) - Siri (קול 2)]

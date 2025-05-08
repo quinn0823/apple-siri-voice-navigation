@@ -1,0 +1,8 @@
+Apple Siri Voice Navigation 1.2.4
+
+* Add 4 new voices
+    + 中文（台灣）- Siri (聲音1)
+    + 中文（台灣）- Siri (聲音2)
+    + 中文（香港）- Siri (聲音1)
+    + 中文（香港）- Siri (聲音2)
+* Rebuild all the voices of English (UK) and change the voice code.

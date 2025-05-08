@@ -1,0 +1,7 @@
+Apple Siri Voice Navigation 1.3
+
+* Remove the beta tags.
+* Add 2 new voices
+    + Deutsch (Deutschland) - Siri (Stimme 2)
+    + Español (España) - Siri (Voz 2)
+* Rebuild all the voices of English (Australia) and English (UK).

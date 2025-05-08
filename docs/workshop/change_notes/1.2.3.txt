@@ -1,0 +1,10 @@
+Apple Siri Voice Navigation 1.2.3
+
+* Add 6 new voices
+    + English (Australia) - Siri (Voice 1)
+    + English (Australia) - Siri (Voice 2)
+    + English (UK) - Siri (Voice 1)
+    + English (UK) - Siri (Voice 2)
+    + English (UK) - Siri (Voice 3)
+    + English (UK) - Siri (Voice 4)
+* Edit English (US) Voices: "Go straight on." ＞ "Go straight."

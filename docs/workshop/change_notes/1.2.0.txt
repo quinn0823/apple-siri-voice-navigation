@@ -1,0 +1,3 @@
+Apple Siri Voice Navigation 1.2
+
+* Add a new voice: English (US) - Siri (Voice 3).

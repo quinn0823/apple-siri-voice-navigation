@@ -1,0 +1,8 @@
+Apple Siri Voice Navigation 1.5
+
+* Added 4 new voices in 2 new languages in 4 countries
+    + Netherlands (België) - Ellen (verbeterd)
+    + Netherlands (Netherland) - Siri (Stem 1)
+    + Português (Brasil) - Siri (Voz 1)
+    + Português (Portugal) - Catarina (melhorada)
+* Update the mod description.

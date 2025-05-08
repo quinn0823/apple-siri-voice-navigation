@@ -1,0 +1,6 @@
+Apple Siri Voice Navigation 1.4.5
+
+* Added a new language with 2 new voices
+    + Türkçe (Türkiye) - Siri (Ses 1)
+    + Türkçe (Türkiye) - Siri (Ses 2)
+* Update the description

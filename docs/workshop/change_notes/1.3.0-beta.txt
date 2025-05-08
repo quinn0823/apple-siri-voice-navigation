@@ -1,0 +1,5 @@
+Apple Siri Voice Navigation 1.3-beta
+
+* 2 new languages and 2 new voices
+    + Deutsch (Deutschland) - Siri (Stimme 1)-beta
+    + Español (España) - Siri (Voz 1)-beta

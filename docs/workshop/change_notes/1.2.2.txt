@@ -1,0 +1,7 @@
+Apple Siri Voice Navigation 1.2.2
+
+* Add 3 new voices
+    + English (US) - Siri (Voice 1)
+    + English (US) - Siri (Voice 2)
+    + English (US) - Siri (Voice 5)
+* Add mod usage.

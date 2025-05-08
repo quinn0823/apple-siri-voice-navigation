@@ -1,0 +1,8 @@
+Apple Siri Voice Navigation 1.4.1
+
+* Add 2 new countries and 4 new voices
+    + English (India) - Siri (Voice 1)
+    + English (India) - Siri (Voice 2)
+    + English (Ireland) - Siri (Voice 1)
+    + English (Ireland) - Siri (Voice 2)
+* Update the SII file format.

@@ -1,0 +1,7 @@
+Apple Siri Voice Navigation 1.3.5
+
+* A new country and 2 new voices
+    + Français (Canada) - Siri (Voix 1)
+    + Français (Canada) - Siri (Voix 2)
+* Update the file structure.
+* Add copyright information to SII files.

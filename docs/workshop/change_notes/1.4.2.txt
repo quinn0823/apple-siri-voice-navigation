@@ -1,0 +1,5 @@
+Apple Siri Voice Navigation 1.4.2
+
+* Update the file structure.
+* Update the SII file format.
+* Pack the mod using my newly made automation packer with scs_packer.

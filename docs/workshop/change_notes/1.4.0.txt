@@ -1,0 +1,11 @@
+Apple Siri Voice Navigation 1.4
+
+* Add a new language with 2 new voices
+    + Čeština (Česko) - Iveta (vylepšená verze)
+    + Čeština (Česko) - Zuzana (prémiový)
+* Rebuild and replace all 33 existing voices
+    + Change the naming format of voice bank and voice package: "%LANGUAGE%_%ACTOR%_%COUNTRY%_%INDEX%" ＞ "%LANGUAGE%_%COUNTRY%_%ACTOR%_%INDEX%".
+    + Change the naming format of voice_navigation_config: "%LANGUAGE%.%ACTOR%_%COUNTRY%_%INDEX%" ＞ "%LANGUAGE%.%COUNTRY%_%ACTOR%_%INDEX%".
+    + Change the SII file format.
+    + Add copyright information to SII files.
+* Fix a display bug in the UI: "Espanol (México)" ＞ "Español (México)".
