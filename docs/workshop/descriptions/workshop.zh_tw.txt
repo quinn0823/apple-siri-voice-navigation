@@ -105,7 +105,7 @@ To help improve this project, you can check out the development guide in the [ur
 [h1]Download[/h1]
 [list]
     [*] Workshop (Recommended)
-    [*] [strike]GitHub Releases[/strike] (Non-Automatic Updates, Not Available Yet)
+    [*] [strike]GitHub[/strike] (Non-Automatic Updates) (Not Available Yet)
 [/list]
 
 [h1]Usage[/h1]
