@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .turkish.tr_siri_1.pack {
+        pack_name: "Türkçe (Türkiye) - Siri (Ses 1)"
+    }
+}

@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .czech.cz_iveta_en.pack {
+        pack_name: "Čeština (Česko) - Iveta (vylepšená verze)"
+    }
+}

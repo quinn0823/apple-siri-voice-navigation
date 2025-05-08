@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .german.ge_siri_4.pack {
+        pack_name: "Deutsch (Deutschland) - Siri (Stimme 4)"
+    }
+}

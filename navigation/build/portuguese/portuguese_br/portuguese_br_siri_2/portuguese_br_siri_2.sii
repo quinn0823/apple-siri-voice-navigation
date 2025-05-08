@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .portuguese.br_siri_2.pack {
+        pack_name: "Português (Brasil) - Siri (Voz 2)"
+    }
+}

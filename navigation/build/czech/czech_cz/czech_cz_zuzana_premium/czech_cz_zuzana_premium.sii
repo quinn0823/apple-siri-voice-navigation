@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .czech.cz_zuzana_pr.pack {
+        pack_name: "Čeština (Česko) - Zuzana (prémiový)"
+    }
+}

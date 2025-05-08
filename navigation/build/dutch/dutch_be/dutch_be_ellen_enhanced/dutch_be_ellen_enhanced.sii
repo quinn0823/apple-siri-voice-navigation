@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .dutch.be_ellen_en.pack {
+        pack_name: "Netherlands (België) - Ellen (verbeterd)"
+    }
+}

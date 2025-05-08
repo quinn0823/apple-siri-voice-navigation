@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .portuguese.pt_catari_en.pack {
+        pack_name: "Português (Portugal) - Catarina (melhorada)"
+    }
+}

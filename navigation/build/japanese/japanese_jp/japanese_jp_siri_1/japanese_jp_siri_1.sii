@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .japanese.jp_siri_1.pack {
+        pack_name: "日本語（日本）- Siri (声1)"
+    }
+}

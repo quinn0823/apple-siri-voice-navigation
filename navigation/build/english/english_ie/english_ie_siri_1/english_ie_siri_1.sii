@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .english.ie_siri_1.pack {
+        pack_name: "English (Ireland) - Siri (Voice 1)"
+    }
+}

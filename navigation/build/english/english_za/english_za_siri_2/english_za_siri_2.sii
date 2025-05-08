@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .english.za_siri_2.pack {
+        pack_name: "English (South Africa) - Siri (Voice 2)"
+    }
+}

@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .dutch.nl_siri_2.pack {
+        pack_name: "Netherlands (Netherland) - Siri (Stem 2)"
+    }
+}

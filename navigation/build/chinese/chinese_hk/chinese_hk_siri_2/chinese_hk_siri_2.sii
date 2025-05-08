@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .chinese.hk_siri_2.pack {
+        pack_name: "中文（香港）- Siri (聲音2)"
+    }
+}
