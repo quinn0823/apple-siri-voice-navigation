@@ -4,7 +4,7 @@
 
 <h1 align="center">Apple Siri Voice Navigation</h1>
 
-<p align="center"><a href="/README.md">English</a> | <a href="/docs/github/readme/README.zh_cn.md">简体中文</a> | <a href="/docs/github/readme/README.zh_tw.md">繁體中文</a></p>
+<p align="center"><a href="/README.md">English</a> | <a href="/docs/github/readme/README.zh_cn.md">简体中文</a></p>
 
 
 <p align="center">
@@ -53,7 +53,7 @@ I'm a 17-year-old student, and this project is my first attempt on creating some
 
 More languages and voices will be added in the future. If the language you speak or voice you prefer aren't available yet, feel free to **leave your requests**. Your suggestions might be implemented in just a few days!
 
-Thank you for using this project! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
+Thank you for using this mod! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section.
 
@@ -195,14 +195,14 @@ I don't speak all these languages. While I've done my best to ensure accuracy, t
 
 In order to **stay energized** to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the **world** to me! Giving it an award using your free Steam Points means the **"Eurasia"** to me!
 
-<a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&slug=jonathanchiu&button_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
 ## "Let Me Help You!"
 
 If you'd like to help improve this project, you can edit the JSON file and create a pull request if you find any mistake. You can also create a copy of [template.json](template.json) to add support for another language.
 
 
-### Repo Structure
+### File Structure
 
 ```
 apple-siri-voice-navigation
