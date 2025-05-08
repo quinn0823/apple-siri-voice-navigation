@@ -10,7 +10,7 @@
 [orange]Introduction[normal]
 I'm a 17-year-old student, and this project is my first attempt on creating something like this. It's for learning and practice.
 More languages and voices will be added in the future. If the language you speak or voice you prefer aren't available yet, feel free to [orange]leave your requests[normal]. Your suggestions might be implemented in just a few days!
-Thank you for using this project! If you like it, please consider leaving a vote on Workshop or a star on GitHub, sharing your feedback, using your free Steam Points to give it an award, or buy me a coffee to support my "work"!
+Thank you for using this mod! If you like it, please consider leaving a vote on Workshop or a star on GitHub, sharing your feedback, using your free Steam Points to give it an award, or buy me a coffee to support my "work"!
 To help improve this project, you can check out the development guide in the repo on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal].
 
 [orange]Compatibility[normal]
