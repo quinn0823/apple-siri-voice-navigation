@@ -1,10 +1,10 @@
 <p align="center">
-    <a href=""><img src="https://github.com/user-attachments/assets/c6295ae6-8568-4c89-87fb-5fa59e1a1419" alt="Logo" height="128px" /></a>
+    <a href=""><img src="/docs/github/images/logo.svg" alt="Logo" height="128px" /></a>
 </p>
 
 <h1 align="center">Apple Siri Voice Navigation</h1>
 
-<p align="center"><a href="/README.md">English</a> | <a href="/docs/github/README_zh-cn.md">简体中文</a> | <a href="/docs/github/README_zh-tw.md">繁體中文</a></p>
+<p align="center"><a href="/README.md">English</a> | <a href="/docs/github/readme/README_zh-cn.md">简体中文</a> | <a href="/docs/github/readme/README_zh-tw.md">繁體中文</a></p>
 
 
 <p align="center">
