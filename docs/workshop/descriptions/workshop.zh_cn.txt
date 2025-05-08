@@ -139,7 +139,7 @@ I don't speak all these languages. While I've done my best to ensure accuracy, t
 [h1]"You deserve an award!"[/h1]
 In order to [b]stay energized[/b] to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the [b]world[/b] to me! Giving it an award using your free Steam Points means the [b]"Eurasia"[/b] to me!
 
-[url=https://www.buymeacoffee.com/jonathanchiu][img]https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&slug=jonathanchiu&button_colour=FFDD00[/img][/url]
+[url=https://www.buymeacoffee.com/jonathanchiu][img]https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00[/img][/url]
 
 [h1]"Let Me Help You!"[/h1]
 If you'd like to help improve this project, please visit the [url=https://github.com/quinn0823/apple-siri-voice-navigation]repository[/url] on GitHub. You can edit the JSON file and create a pull request if you find any mistake. You can also create a new JSON file to add support for another language.
