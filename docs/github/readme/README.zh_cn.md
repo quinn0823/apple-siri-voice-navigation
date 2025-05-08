@@ -2,9 +2,9 @@
     <a href=""><img src="/docs/github/images/logo.svg" alt="Logo" height="128px" /></a>
 </p>
 
-<h1 align="center">Apple Siri Voice Navigation</h1>
+<h1 align="center">Apple Siri 语音导航</h1>
 
-<p align="center"><a href="/README.md">English</a> | <a href="/docs/github/readme/README.zh_cn.md">简体中文</a> | <a href="/docs/github/readme/README.zh_tw.md">繁體中文</a></p>
+<p align="center"><a href="/README.md">English</a> | <a href="/docs/github/readme/README.zh_cn.md">简体中文</a></p>
 
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Euro Truck Simulator 2" src="https://img.shields.io/badge/Euro Truck Simulator 2-subscribe-5c7e10?logo=steam&labelColor=yellow"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="欧洲卡车模拟 2" src="https://img.shields.io/badge/欧洲卡车模拟 2-订阅-5c7e10?logo=steam&labelColor=yellow"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712"></a>
@@ -29,16 +29,16 @@
 </p>
 
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="American Truck Simulator" src="https://img.shields.io/badge/American Truck Simulator-subscribe-5c7e10?logo=steam&labelColor=red"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="美洲卡车模拟" src="https://img.shields.io/badge/美洲卡车模拟-订阅-5c7e10?logo=steam&labelColor=red"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With **over 50 voices in 11 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**与 Siri 一起体验旅途！**Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **11 种语言的 50 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**May 08, 2025**: 1.5 ＞ **1.5.1**
+**2025 年 05 月 08 日**：1.5 ＞ **1.5.1**
 
 - Netherlands (Netherland) - Siri (Stem 2)
 - Português (Brasil) - Siri (Voz 2)
@@ -47,19 +47,19 @@
 
 ---
 
-## Introduction
+## 介绍
 
-I'm a 17-year-old student, and this project is my first attempt on creating something like this. It's for learning and practice.
+我是一个 17 岁的学生，这个项目是我第一次尝试创造这样的东西。它是用来学习和练习的。
 
-More languages and voices will be added in the future. If the language you speak or voice you prefer aren't available yet, feel free to **leave your requests**. Your suggestions might be implemented in just a few days!
+更多的语言和声音将在未来添加。如果你说的语言或者你喜欢的声音还不可用，请随意地**留下你的请求**。您的建议可能会在短短几天内实现！
 
-Thank you for using this project! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
+感谢你使用这个模组！如果你喜欢它，请考虑留下一颗星、为它的发展做出贡献，或者 [buy me a coffee](https://buymeacoffee.com/jonathanchiu) 来支持我的“工作”！
 
-To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section.
+要帮助改进这个项目，你可以在[“让我帮你！”](#let-me-help-you)部分查看开发指南。
 
-## Voices [66+]
+## 声音 [66+]
 
-### Available (53)
+### 可用 (53)
 
 <b><ul>
     <li>Čeština (Česko) - Iveta (vylepšená verze)</li>
@@ -117,20 +117,20 @@ To help improve this project, you can check out the development guide in the ["L
     <li>日本語（日本）- Siri (声2)</li>
 </ul></b>
 
-### Coming Soon (3)
+### 即将到来 (3)
 
 - Polski (Polska) - Ewa (premium)
 - Polski (Polska) - Krzysztof (rozszerzony)
 - Polski (Polska) - Zosia (rozszerzony)
 
-### In Production (4)
+### 正在制作 (4)
 
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### Planned (6+)
+### 在计划中 (6+)
 
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
@@ -138,30 +138,30 @@ To help improve this project, you can check out the development guide in the ["L
 - Dansk (Danmark) - Siri (Stemme 2)
 - Thai (Thailand) - Siri (Voice 1) [ไทย (ไทย) - Siri (เสียง 1)]
 - Thai (Thailand) - Siri (Voice 2) [ไทย (ไทย) - Siri (เสียง 2)]
-- Your Requests
+- 你的请求
 
-## Compatibility
+## 兼容性
 
-**1.43+**, supports both ETS2 and ATS.
+**1.43+**，同时支持欧洲卡车模拟 2 和美洲卡车模拟。
 
-## Download
+## 下载
 
 <!-- > [!WARNING]
-> For the best experience, I recommend getting it by subscribing on **Workshop**. You can only download the **non-automatically updated** version on GitHub. This method is only recommended for users who don't own the games on Steam.  -->
+> 为了获得最佳体验，我建议通过在**创意工坊**订阅获得它。你只能在 GitHub 上下载**非自动更新**的版本。这种方法只推荐给没有在 Steam 上拥有游戏的用户。 -->
 
-- Workshop (Recommended)
-    - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
-    - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- ~~GitHub~~ (Non-Automatic Updates) (Not Available Yet)
+- 创意工坊 (推荐)
+    - [适用于欧洲卡车模拟 2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
+    - [适用于美洲卡车模拟的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+- ~~GitHub~~ (非自动更新) (暂不可用)
     <!-- - [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/latest) -->
     <!-- - Build from source -->
 
-## Usage
+## 使用方法
 
-1. Click **Mods** on the title screen to open the mod manager.
-2. Double-click **Apple Siri Voice Navigation** to activate this mod.
-3. Open **Options**.
-4. Navigate to **Audio ＞ Voice Navigation ＞ Language and voice** and select a voice you like.
+1. 在标题界面点击**模组**来打开模组管理器。
+2. 双击 **Apple Siri Voice Navigation** 来启用这个模组。
+3. 打开**选项**。
+4. 导航到**音频 ＞ 语音导航 ＞ 语言和语音**并选择一个你喜欢的声音。
 
 <!-- ## Known Issues -->
 
@@ -169,60 +169,59 @@ To help improve this project, you can check out the development guide in the ["L
 
 ---
 
-## Apple Series
+## Apple 系列
 
-### Apple Siri Voice Navigation
+### Apple Siri 语音导航
 
-- [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
-- [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+- [适用于欧洲卡车模拟 2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
+- [适用于美洲卡车模拟的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 
-### Apple SF Symbols UI (Under Development...)
+### Apple SF 符号用户界面 (正在开发…)
 
-- Apple SF Symbols UI for ETS2
-- Apple SF Symbols UI for ATS
+- 适用于欧洲卡车模拟 2 的 Apple SF 符号用户界面
+- 适用于美洲卡车模拟的 Apple SF 符号用户界面
 
 ---
 
-## "I Want More Voices!"
+## “我要更多的声音！”
 
-If you'd like to see more languages or voices added, please **leave your requests** here or on [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712). Supports **any language and voice** available on Apple devices, **not just Siri**.
+如果你想看到更多的语言或声音被添加，请在这里或[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)**留下你的请求**。支持 Apple 设备上的任何语言和声音，**而不仅仅是 Siri**。
 
-## "Oh No! There's a Mistake!"
+## “哦，不！搞错了！”
 
-I don't speak all these languages. While I've done my best to ensure accuracy, there may still be mistakes. If you find any, please **leave word** in the comment section on [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or on the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or make the correction **directly here**. Thank you!
+我不会说所有这些语言。虽然我已经尽力确保准确，但还是可能会有错误。如果你发现了任何问题，请在[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)的留言区或 Issues 页面的**留言**，或者**直接在这里**更正。谢谢你！
 
-## "You deserve an award!"
+## “你应得奖励！”
 
-In order to **stay energized** to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the **world** to me! Giving it an award using your free Steam Points means the **"Eurasia"** to me!
+为了在放学后**保持精力**致力于这个项目，我很感激你能 buy me a coffee。你的咖啡对我来说就是**整个世界**！用你免费的 Steam 点数奖励这个项目对我来说就是**“欧亚大陆”**！
 
-<a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&slug=jonathanchiu&button_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
-## "Let Me Help You!"
+<h2 id="let-me-help-you">“让我帮你！”</h1>
 
-If you'd like to help improve this project, you can edit the JSON file and create a pull request if you find any mistake. You can also create a copy of [template.json](template.json) to add support for another language.
+如果你想帮助改进这个项目，你可以编辑 JSON 文件并创建一个拉取请求如果你发现任何错误。您还可以创建一份 [template.json](template.json) 文件的副本来添加对另一种语言的支持。
 
-
-### Repo Structure
+### 文件结构
 
 ```
 apple-siri-voice-navigation
-├── build                   // Files built by 'build.*'
+├── build                   // 由 'build.*' 构建的文件
 ├── docs
-│   ├── github              // Files for GitHub
+│   ├── github              // 用于 GitHub 的文件
 │   │   ├── images
 │   │   └── readme
-│   ├── mod                 // Base files for the games
+│   ├── mod                 // 用于游戏的基础文件
 │   │   ├── descriptions
 │   │   └── images
-│   └── workshop            // Files for Workshop Items
+│   └── workshop            // 用于创意工坊的文件
 │       ├── change_notes
 │       ├── descriptions
 │       └── images
 ├── navigation
-│   ├── build               // Banks and guids built by FMOD Studio, with SII files
-│   └── commands            // Voice navigation commands
-│       └── template.json   // Template for adding new languages
-└── scripts                 // Build scripts
+│   ├── build               // 由 FMOD Studio 构建的 bank 和 guids，以及 SII 文件
+│   └── commands            // 语音导航命令
+│       └── template.json   // 用于添加新语言的模板
+└── scripts                 // 构建脚本
     ├── build.sh            // macOS/Linux
     ├── build.py            // Python
     └── build.cmd           // Windows
@@ -231,9 +230,9 @@ apple-siri-voice-navigation
 ### Languages [18]
 
 > [!TIP]
-> Don't know the ISO 3166-1 two-letter country code (alpha-2)? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` ＞ `english_us.json`.
+> 不知道 ISO 3166-1 二位字母国家代码 (alpha-2)? 前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` ＞ `chinese_cn.json`.
 
-#### Available (11)
+#### 可用 (11)
 
 - chinese
     - chinese_cn
@@ -269,7 +268,7 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Not Available (Planned Only) (7)
+#### 不可用 (只有在计划中的) (7)
 
 - danish
     - danish_dk
@@ -286,24 +285,24 @@ apple-siri-voice-navigation
 - thai
     - thai_th
 
-### Contributors
+### 贡献者
 
 <a href="https://github.com/quinn0823/apple-siri-voice-navigation/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=quinn0823/apple-siri-voice-navigation" alt="Contributors" />
 </a>
 
-You can also contact me at quinnqiu0823@icloud.com.
+你也可以通过 quinnqiu0823@icloud.com 联系我。
 
 ---
 
-Release Date: May 08, 2025 (1.5.1)
+发行日期：2025 年 05 月 08 日 (1.5.1)
 
-Published Date (GitHub): May 08, 2025
+发布日期 (GitHub)：2025 年 05 月 08 日
 
-Inspired by Apple. This project is not affiliated with Apple Inc.
+灵感来自 Apple。本项目不隶属于 Apple Inc.。
 
 The MIT License (MIT)
 
 Copyright © 2025 Jonathan Chiu
 
-[Steam](https://steamcommunity.com/id/quinn0823) | [Jonathan's Bytecraft](https://quinn0823.github.io)
+[Steam](https://steamcommunity.com/id/quinn0823) | [煊名的字节世界](https://quinn0823.github.io)
