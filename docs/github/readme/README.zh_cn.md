@@ -230,7 +230,7 @@ apple-siri-voice-navigation
 ### Languages [18]
 
 > [!TIP]
-> 不知道 ISO 3166-1 二位字母国家代码 (alpha-2)? 前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` ＞ `chinese_cn.json`.
+> 不知道 ISO 3166-1 二位字母国家代码 (alpha-2)？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` ＞ `chinese_cn.json`.
 
 #### 可用 (11)
 
