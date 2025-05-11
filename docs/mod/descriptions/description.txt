@@ -11,7 +11,7 @@
 I'm a 17-year-old student, and this project is my first attempt on creating something like this. It's for learning and practice.
 More languages and voices will be added in the future. If the language you speak or voice you prefer aren't available yet, feel free to [orange]leave your requests[normal]. Your suggestions might be implemented in just a few days!
 Thank you for using this mod! If you like it, please consider leaving a vote on Workshop or a star on GitHub, sharing your feedback, using your free Steam Points to give it an award, or buy me a coffee to support my "work"!
-To help improve this project, you can check out the development guide in the repo on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal].
+To help improve this project, you can check out the development guide in the repo on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]. You can also view the descriptions in other languages there.
 
 [orange]Compatibility[normal]
 [green]1.43+[normal], supports both ETS2 and ATS.
@@ -118,7 +118,7 @@ I don't speak all these languages. While I've done my best to ensure accuracy, t
 In order to [orange]stay energized[normal] to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the [orange]world[normal] to me! Giving it an award using your free Steam Points means the [orange]"Eurasia"[normal] to me!
 
 [orange]"Let Me Help You!"[normal]
-If you'd like to help improve this project, please visit the repo on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]. You can edit the JSON file and create a pull request if you find any mistake. You can also create a new JSON file to add support for another language.
+Please visit the repository on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal], where you can view all the files for this project. You can edit the JSON file and create a pull request if you find any mistake. You can also create a new JSON file to add support for another language.
 
 You can also contact me at [orange]quinnqiu0823@icloud.com[normal].
 
