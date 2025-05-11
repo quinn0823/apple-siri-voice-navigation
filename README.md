@@ -55,7 +55,7 @@ More languages and voices will be added in the future. If the language you speak
 
 Thank you for using this mod! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
 
-To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section.
+To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
 ## Voices [66+]
 
@@ -199,7 +199,7 @@ In order to **stay energized** to work on this project after school, I appreciat
 
 ## "Let Me Help You!"
 
-If you'd like to help improve this project, you can edit the JSON file and create a pull request if you find any mistake. You can also create a copy of [template.json](template.json) to add support for another language.
+You can view all the files for this project here. You can edit the JSON file and create a pull request if you find any mistake. You can also create a copy of [template.json](template.json) to add support for another language.
 
 
 ### File Structure
@@ -298,7 +298,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: May 08, 2025 (1.5.1)
 
-Published Date (GitHub): May 08, 2025
+Published Date (GitHub): May 11, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
