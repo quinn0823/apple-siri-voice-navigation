@@ -1,5 +1,5 @@
 <p align="center">
-    <a href=""><img src="/docs/github/images/logo.svg" alt="Logo" height="128px" /></a>
+    <a href="/"><img src="/docs/github/images/logo.svg" alt="Logo" height="128px" /></a>
 </p>
 
 <h1 align="center">Apple Siri Voice Navigation</h1>
@@ -8,14 +8,14 @@
 
 
 <p align="center">
-    <a href="LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
+    <a href="/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
     <a href="https://www.fmod.com"><img alt="FMOD" src="https://img.shields.io/badge/studio-2.01.05-blue?logo=fmod&logoSize=auto"></a>
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation"></a> -->
     <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/buy me a coffee-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
 </p>
 
 <p align="center">
-    <a href=""><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
+    <a href="/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
     <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/quinn0823/apple-siri-voice-navigation"></a>
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a> -->
 </p>
@@ -298,7 +298,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: May 08, 2025 (1.5.1)
 
-Published Date (GitHub): May 11, 2025
+Published Date (GitHub): May 15, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
@@ -306,4 +306,4 @@ The MIT License (MIT)
 
 Copyright © 2025 Jonathan Chiu
 
-[Steam](https://steamcommunity.com/id/quinn0823) | [Jonathan's Bytecraft](https://quinn0823.github.io)
+[Steam](https://steamcommunity.com/id/quinn0823)<!--  | [Jonathan's Bytecraft](https://quinn0823.github.io) -->

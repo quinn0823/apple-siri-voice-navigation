@@ -1,5 +1,5 @@
 <p align="center">
-    <a href=""><img src="/docs/github/images/logo.svg" alt="Logo" height="128px" /></a>
+    <a href="/"><img src="/docs/github/images/logo.svg" alt="Logo" height="128px" /></a>
 </p>
 
 <h1 align="center">Apple Siri 语音导航</h1>
@@ -8,14 +8,14 @@
 
 
 <p align="center">
-    <a href="LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
+    <a href="/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
     <a href="https://www.fmod.com"><img alt="FMOD" src="https://img.shields.io/badge/studio-2.01.05-blue?logo=fmod&logoSize=auto"></a>
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation"></a> -->
     <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/buy me a coffee-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
 </p>
 
 <p align="center">
-    <a href=""><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
+    <a href="/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
     <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/quinn0823/apple-siri-voice-navigation"></a>
     <!-- <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a> -->
 </p>
@@ -297,7 +297,7 @@ apple-siri-voice-navigation
 
 发行日期：2025 年 05 月 08 日 (1.5.1)
 
-发布日期 (GitHub)：2025 年 05 月 08 日
+发布日期 (GitHub)：2025 年 05 月 15 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 
@@ -305,4 +305,4 @@ The MIT License (MIT)
 
 Copyright © 2025 Jonathan Chiu
 
-[Steam](https://steamcommunity.com/id/quinn0823) | [煊名的字节世界](https://quinn0823.github.io)
+[Steam](https://steamcommunity.com/id/quinn0823)<!--  | [煊名的字节世界](https://quinn0823.github.io) -->
