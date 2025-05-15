@@ -148,11 +148,11 @@
 
 [hr][/hr]
 发行日期：2025 年 05 月 08 日 (1.5.1)
-发布日期 (创意工坊)：2025 年 05 月 11 日
+发布日期 (创意工坊)：2025 年 05 月 15 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 
 The MIT License (MIT)
 Copyright © 2025 Jonathan Chiu
 
-[url=https://steamcommunity.com/id/quinn0823]Steam[/url] | [url=https://github.com/quinn0823/apple-siri-voice-navigation]存储库[/url] | [url=https://quinn0823.github.io]煊名的字节世界[/url]
+[url=https://steamcommunity.com/id/quinn0823]Steam[/url] | [url=https://github.com/quinn0823/apple-siri-voice-navigation]存储库[/url]
