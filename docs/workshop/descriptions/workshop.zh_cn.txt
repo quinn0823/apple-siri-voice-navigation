@@ -1,11 +1,10 @@
-[b]与 Siri 一起体验旅途！[/b]Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 [b]11 种语言的 50 多种声音[/b]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+[b]与 Siri 一起体验旅途！[/b]Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 [b]12 种语言的 50 多种声音[/b]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[b]2025 年 05 月 08 日[/b]：1.5 ＞ [b]1.5.1[/b]
+[b]2025 年 05 月 23 日[/b]：1.5.1 ＞ [b]2.0[/b]
 [list]
-    [*] Netherlands (Netherland) - Siri (Stem 2)
-    [*] Português (Brasil) - Siri (Voz 2)
-    [*] Português (Portugal) - Joana (melhorada)
-    [*] Português (Portugal) - Joaquim (melhorada)
+    [*] Polski (Polska) - Ewa (premium)
+    [*] Polski (Polska) - Krzysztof (rozszerzony)
+    [*] Polski (Polska) - Zosia (rozszerzony)
 [/list]
 
 [hr][/hr]
@@ -19,7 +18,7 @@
 要帮助改进这个项目，你可以在 GitHub 上的[url=https://github.com/quinn0823/apple-siri-voice-navigation]存储库[/url]查看开发指南。你也可以在那里查看其他语言的描述。
 
 [h1]声音 [66+][/h1]
-[b]可用 (53)[/b]
+[b]可用 (56)[/b]
 [b][list]
     [*] Čeština (Česko) - Iveta (vylepšená verze)
     [*] Čeština (Česko) - Zuzana (prémiový)
@@ -57,6 +56,9 @@
     [*] Netherlands (België) - Ellen (verbeterd)
     [*] Netherlands (Netherland) - Siri (Stem 1)
     [*] Netherlands (Netherland) - Siri (Stem 2)
+    [*] Polski (Polska) - Ewa (premium)
+    [*] Polski (Polska) - Krzysztof (rozszerzony)
+    [*] Polski (Polska) - Zosia (rozszerzony)
     [*] Português (Brasil) - Siri (Voz 1)
     [*] Português (Brasil) - Siri (Voz 2)
     [*] Português (Portugal) - Catarina (melhorada)
@@ -75,18 +77,15 @@
     [*] 日本語（日本）- Siri (声1)
     [*] 日本語（日本）- Siri (声2)
 [/list][/b]
-[b]即将到来 (3)[/b]
+[b]即将到来 (2)[/b]
 [list]
-    [*] Polski (Polska) - Ewa (premium)
-    [*] Polski (Polska) - Krzysztof (rozszerzony)
-    [*] Polski (Polska) - Zosia (rozszerzony)
+    [*] Русский (Россия) - Siri (Голос 1)
+    [*] Русский (Россия) - Siri (Голос 2)
 [/list]
-[b]正在制作 (4)[/b]
+[b]正在制作 (2)[/b]
 [list]
     [*] Svenska (Sverige) - Siri (Röst 1)
     [*] Svenska (Sverige) - Siri (Röst 2)
-    [*] Русский (Россия) - Siri (Голос 1)
-    [*] Русский (Россия) - Siri (Голос 2)
 [/list]
 [b]在计划中 (6+)[/b]
 [list]
@@ -105,7 +104,7 @@
 [h1]下载[/h1]
 [list]
     [*] 创意工坊 (推荐)
-    [*] [strike]GitHub[/strike] (非自动更新) (暂不可用)
+    [*] [url=https://github.com/quinn0823/apple-siri-voice-navigation]GitHub[/url] (发行版 / 从源文件构建)
 [/list]
 
 [h1]使用方法[/h1]
@@ -147,12 +146,10 @@
 你也可以通过 quinnqiu0823@icloud.com 联系我。
 
 [hr][/hr]
-发行日期：2025 年 05 月 08 日 (1.5.1)
-发布日期 (创意工坊)：2025 年 05 月 15 日
+发行日期：2025 年 05 月 23 日 (2.0)
+发布日期 (创意工坊)：2025 年 05 月 23 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 
 The MIT License (MIT)
 Copyright © 2025 Jonathan Chiu
-
-[url=https://steamcommunity.com/id/quinn0823]Steam[/url] | [url=https://github.com/quinn0823/apple-siri-voice-navigation]存储库[/url]
