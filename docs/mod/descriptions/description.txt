@@ -1,10 +1,9 @@
-[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With [orange]over 50 voices in 11 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With [orange]over 50 voices in 12 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[orange]May 08, 2025[normal]: 1.5 ＞ [blue]1.5.1[normal]
-* Netherlands (Netherland) - Siri (Stem 2)
-* Português (Brasil) - Siri (Voz 2)
-* Português (Portugal) - Joana (melhorada)
-* Português (Portugal) - Joaquim (melhorada)
+[orange]May 23, 2025[normal]: 1.5.1 ＞ [blue]2.0[normal]
+* Polski (Polska) - Ewa (premium)
+* Polski (Polska) - Krzysztof (rozszerzony)
+* Polski (Polska) - Zosia (rozszerzony)
 
 
 [orange]Introduction[normal]
@@ -23,7 +22,7 @@ To help improve this project, you can check out the development guide in the rep
 4. Navigate to [orange]Audio ＞ Voice Navigation ＞ Language and voice[normal] and select a voice you like.
 
 [orange]Voices [66+][normal]
-[blue]Available (53)[normal]
+[blue]Available (56)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * Deutsch (Deutschland) - Siri (Stimme 1)
@@ -60,6 +59,9 @@ To help improve this project, you can check out the development guide in the rep
 * Netherlands (België) - Ellen (verbeterd)
 * Netherlands (Netherland) - Siri (Stem 1)
 * Netherlands (Netherland) - Siri (Stem 2)
+* Polski (Polska) - Ewa (premium)
+* Polski (Polska) - Krzysztof (rozszerzony)
+* Polski (Polska) - Zosia (rozszerzony)
 * Português (Brasil) - Siri (Voz 1)
 * Português (Brasil) - Siri (Voz 2)
 * Português (Portugal) - Catarina (melhorada)
@@ -78,16 +80,13 @@ To help improve this project, you can check out the development guide in the rep
 * 日本語（日本）- Siri (声1)
 * 日本語（日本）- Siri (声2)
 
-[red]Coming Soon (3)[normal]
-* Polski (Polska) - Ewa (premium)
-* Polski (Polska) - Krzysztof (rozszerzony)
-* Polski (Polska) - Zosia (rozszerzony)
-
-[red]In Production (4)[normal]
-* Svenska (Sverige) - Siri (Röst 1)
-* Svenska (Sverige) - Siri (Röst 2)
+[red]Coming Soon (2)[normal]
 * Русский (Россия) - Siri (Голос 1)
 * Русский (Россия) - Siri (Голос 2)
+
+[red]In Production (2)[normal]
+* Svenska (Sverige) - Siri (Röst 1)
+* Svenska (Sverige) - Siri (Röst 2)
 
 [red]Planned (6+)[normal]
 * Magyar (Magyarország) - Tünde (prémium)
@@ -100,7 +99,7 @@ To help improve this project, you can check out the development guide in the rep
 
 [orange]Download[normal]
 * [blue]Workshop[normal] (Recommended)
-* [red]GitHub[normal] (Non-Automatic Updates) (Not Available Yet)
+* [blue]GitHub[normal] (Releases / Build From Source)
 
 
 [orange]Apple Series[normal]
@@ -123,10 +122,7 @@ Please visit the repository on GitHub at [orange]https://github.com/quinn0823/ap
 You can also contact me at [orange]quinnqiu0823@icloud.com[normal].
 
 
-Release Date: May 08, 2025 (1.5.1)
+Release Date: May 23, 2025 (2.0)
 Inspired by Apple. This project is not affiliated with Apple Inc.
 The MIT License (MIT)
 Copyright © 2025 Jonathan Chiu
-
-Visit [orange]https://steamcommunity.com/id/quinn0823[normal] for my Steam profile.
-Visit [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal] for the repository.
