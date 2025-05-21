@@ -152,11 +152,9 @@
 - 创意工坊 (推荐)
     - [适用于 ETS2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [适用于 ATS 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- ~~GitHub~~ (非自动更新) (暂不可用)
-    <!-- - [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/latest) -->
-    <!-- - Build from source -->
+- GitHub (发行版 / 从源文件构建) (暂不可用)
 
-## 使用方法
+## 使用
 
 1. 在标题界面点击**模组**来打开模组管理器。
 2. 双击 **Apple Siri Voice Navigation** 来启用这个模组。
@@ -232,7 +230,7 @@ apple-siri-voice-navigation
 > [!TIP]
 > 不知道 ISO 3166-1 二位字母国家代码 (alpha-2)？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` ＞ `chinese_cn.json`。
 
-#### 可用 (11)
+#### 可用 (12)
 
 - chinese
     - chinese_cn
@@ -259,6 +257,8 @@ apple-siri-voice-navigation
     - hebrew_il
 - japanese
     - japanese_jp
+- polish
+    - polish_pl
 - portuguese
     - portuguese_br
     - portuguese_pt
@@ -268,14 +268,12 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### 不可用 (只有在计划中的) (7)
+#### 不可用 (只有在计划中的) (6)
 
 - danish
     - danish_dk
 - hungarian
     - hungarian_hu
-- polish
-    - polish_pl
 - romanian
     - romanian_ro
 - russian
@@ -297,12 +295,10 @@ apple-siri-voice-navigation
 
 发行日期：2025 年 05 月 08 日 (1.5.1)
 
-发布日期 (GitHub)：2025 年 05 月 15 日
+发布日期 (GitHub，简体中文)：2025 年 05 月 23 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 
 The MIT License (MIT)
 
 Copyright © 2025 Jonathan Chiu
-
-[Steam](https://steamcommunity.com/id/quinn0823)<!--  | [煊名的字节世界](https://quinn0823.github.io) -->
