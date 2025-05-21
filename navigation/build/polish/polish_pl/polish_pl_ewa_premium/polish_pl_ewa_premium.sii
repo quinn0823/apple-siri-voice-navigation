@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .polish.pl_ewa_pr.pack {
+        pack_name: "Polski (Polska) - Ewa (premium)"
+    }
+}
