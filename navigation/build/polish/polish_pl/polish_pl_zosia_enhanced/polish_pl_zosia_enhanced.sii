@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .polish.pl_zosia_en.pack {
+        pack_name: "Polski (Polska) - Zosia (rozszerzony)"
+    }
+}
