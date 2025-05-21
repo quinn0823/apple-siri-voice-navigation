@@ -152,9 +152,7 @@ To help improve this project, you can check out the development guide in the ["L
 - Workshop (Recommended)
     - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- ~~GitHub~~ (Non-Automatic Updates) (Not Available Yet)
-    <!-- - [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/latest) -->
-    <!-- - Build from source -->
+- GitHub (Releases / Build From Source) (Not Available Yet)
 
 ## Usage
 
@@ -298,12 +296,10 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: May 08, 2025 (1.5.1)
 
-Published Date (GitHub): May 15, 2025
+Published Date (GitHub): May 23, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
 The MIT License (MIT)
 
 Copyright © 2025 Jonathan Chiu
-
-[Steam](https://steamcommunity.com/id/quinn0823)<!--  | [Jonathan's Bytecraft](https://quinn0823.github.io) -->
