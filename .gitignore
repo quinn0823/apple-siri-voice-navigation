@@ -86,3 +86,11 @@ nohup.out
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+
+# Apple Siri Voice Navigation
+# FMOD Studio Projects
+navigation/projects
+
+# Voice Files
+navigation/voices
