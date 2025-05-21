@@ -260,6 +260,8 @@ apple-siri-voice-navigation
     - hebrew_il
 - japanese
     - japanese_jp
+- polish
+    - polish_pl
 - portuguese
     - portuguese_br
     - portuguese_pt
@@ -275,8 +277,6 @@ apple-siri-voice-navigation
     - danish_dk
 - hungarian
     - hungarian_hu
-- polish
-    - polish_pl
 - romanian
     - romanian_ro
 - russian
