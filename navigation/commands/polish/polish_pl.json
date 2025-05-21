@@ -101,31 +101,31 @@
     },
     {
         "File prefix": "and_then_turn_left",
-        "Command": "A następnie skręć w lewo."
+        "Command": "A następnie, skręć w lewo."
     },
     {
         "File prefix": "and_then_turn_right",
-        "Command": "A następnie skręć w prawo."
+        "Command": "A następnie, skręć w prawo."
     },
     {
         "File prefix": "and_then_keep_left",
-        "Command": "A następnie trzymaj się lewej strony."
+        "Command": "A następnie, trzymaj się lewej strony."
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": "A następnie trzymaj się prawej strony."
+        "Command": "A następnie, trzymaj się prawej strony."
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": "A następnie zjedź w lewo."
+        "Command": "A następnie, zjedź w lewo."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": "A następnie zjedź w prawo."
+        "Command": "A następnie, zjedź w prawo."
     },
     {
         "File prefix": "and_then_go_straight",
-        "Command": "A następnie jedź dalej prosto."
+        "Command": "A następnie, jedź dalej prosto."
     },
     {
         "File prefix": "start_1",
@@ -161,7 +161,7 @@
     },
     {
         "File prefix": "finish_2",
-        "Command": "Jesteśmy na miejscu Cally i zdrowi."
+        "Command": "Jesteśmy na miejscu, Cally i zdrowi."
     },
     {
         "File prefix": "finish_3",
