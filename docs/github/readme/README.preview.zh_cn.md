@@ -38,7 +38,7 @@
 
 **与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 50 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**2025 年 05 月 23 日**：1.5.1 ＞ **2.0**
+**2025 年 05 月 23 日**：1.5.1 ＞ **2.0**，GitHub 发行版现在可用！
 
 - Polski (Polska) - Ewa (premium)
 - Polski (Polska) - Krzysztof (rozszerzony)
