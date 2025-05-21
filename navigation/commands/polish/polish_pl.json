@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "Skręć w lewo."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Skręć w prawo."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Trzymaj się lewej strony."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Trzymaj się prawej strony."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Zjedź w lewo."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Zjedź w prawo."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Jedź prosto."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "Na rondzie, zjedź pierwszym zjazdem."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "Na rondzie, zjedź drugim zjazdem."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "Na rondzie, zjedź trzecim zjazdem."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "Na rondzie, zjedź czwartym zjazdem."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "Na rondzie, zjedź piątym zjazdem."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "Na rondzie, zjedź szóstym zjazdem."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Zjedź z Roda."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Przygotuj się do skrętu w lewo."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Przygotuj się do skrętu w prawo."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Przygotuj się do zjazdu w lewo."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Przygotuj się do zjazdu w prawo."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Skręć w lewo,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Skręć w prawo,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Trzymaj się lewej strony,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Trzymaj się prawej strony,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Zjedź w lewo,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Zjedź w prawo,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Jedź prosto,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "A następnie skręć w lewo."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "A następnie skręć w prawo."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "A następnie trzymaj się lewej strony."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "A następnie trzymaj się prawej strony."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "A następnie zjedź w lewo."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "A następnie zjedź w prawo."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "A następnie jedź dalej prosto."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "Ok, ruszajmy."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "W drogę."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "Do dzieła."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Jedź bezpiecznie."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Znaleziono sygnał GPS, system gotowy do pracy."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "Wybrano cel podróży."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "Do roboty."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "Dotarłeś na miejsce, do usłyszenia następnym razem."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Jesteśmy na miejscu Cally i zdrowi."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "Jesteś u celu."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "Koniec trasy."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "Zadanie wykonane, od mel do wuje się."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "Kolejna trasa za nami, oby więcej takich."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "To była miła przejażdżka."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Obliczanie nowej trasy."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "Przeliczam trasę."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "Szukanie nowej trasy."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "W porządku, znajdziemy inną trasę."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Ale tam mieliśmy, nieważne znajdę nową trasę."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Zawróć jeśli to możliwe."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Zawróć."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Zawróć kiedy będzie to możliwe."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Zwolni, jedziesz powyżej dozwolonej prędkości."
+    }
+]
