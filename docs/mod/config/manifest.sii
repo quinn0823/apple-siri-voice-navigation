@@ -1,0 +1,10 @@
+SiiNunit {
+    mod_package : .package_name {
+        package_version: "2.0"
+        display_name: "Apple Siri Voice Navigation"
+        author: "Jonathan Chiu"
+        category[]: "sound"
+        icon: "icon_v3.jpg"
+        description_file: "description.txt"
+    }
+}
