@@ -235,26 +235,29 @@
 
 ```
 apple-siri-voice-navigation
-├── build                   // 由 'build.*' 构建的文件
+├── build                    // 由 'build.*' 构建的文件 (不会上传到存储库)
+│   └── standard             // 标准模组
+│       └── apple-siri-voice-navigation.zip   // 参阅“使用”部分
 ├── docs
-│   ├── github              // 用于 GitHub 的文件
+│   ├── github               // 用于 GitHub 的文件
 │   │   ├── images
 │   │   └── readme
-│   ├── mod                 // 用于游戏的基础文件
+│   │   └── release_notes
+│   ├── mod                  // 用于在游戏中的模组的文件
 │   │   ├── descriptions
 │   │   └── images
-│   └── workshop            // 用于创意工坊的文件
+│   └── workshop             // 用于创意工坊物品的文件
 │       ├── change_notes
 │       ├── descriptions
 │       └── images
 ├── navigation
-│   ├── build               // 由 FMOD Studio 构建的 bank 和 guids，以及 SII 文件
-│   └── commands            // 语音导航命令
-│       └── template.json   // 用于添加新语言的模板
-└── scripts                 // 构建脚本
-    ├── build.sh            // macOS/Linux
-    ├── build.py            // Python
-    └── build.cmd           // Windows
+│   ├── build                // 由 FMOD Studio 构建的 bank 和 guids，以及 SII 文件
+│   └── commands             // 语音导航命令
+│       └── template.json    // 新语言模板
+└── scripts                  // 构建脚本
+    ├── build.py             // Python
+    ├── config.ini           // 用户配置文件 (不会上传到存储库)
+    └── config_default.ini   // 默认配置文件
 ```
 
 ### 语言 [18]
