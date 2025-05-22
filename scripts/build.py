@@ -45,12 +45,22 @@ def fetch_config():
             sys.exit(1)
         for option in options:
             if not config.has_option(section, option):
-                print(f'Option "{option}" not found in the section [{section}] in the config file.')
+                print(f'Option "{option}" not found in section [{section}] in the config file.')
                 sys.exit(1)
 
     print(f'Config: {json.dumps({section: dict(config[section]) for section in config.sections()}, ensure_ascii=False)}')
 
     return config
+
+# Initialize directory
+def initialize_directory():
+    print('Initializing directory...')
+
+    if os.path.exists(build_dir):
+        shutil.rmtree(build_dir)
+
+    # Create build directory
+    os.makedirs(build_dir)
 
 # Build Workshop version
 def build_workshop():
@@ -159,17 +169,15 @@ def build_standard():
                 zipf.write(abs_path, rel_path)
     print(f'Created zip: {zip_path}')
 
+# Build mod
+# def buil_mod():
+
+
 def main():
     global config
     config = fetch_config()
 
-    # Initialize the build directory
-    print('Initializing the build directory...')
-    if os.path.exists(build_dir):
-        shutil.rmtree(build_dir)
-
-    # Create build directory
-    os.makedirs(build_dir)
+    initialize_directory()
 
     build_workshop()
     build_standard()

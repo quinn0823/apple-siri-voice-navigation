@@ -155,8 +155,40 @@ To help improve this project, you can check out the development guide in the ["L
     - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub (Releases / Build From Source)
 
+## Build From Source
+
+### Requirements
+
+- Python 3.6+
+- Git (Optional)
+
+### Building
+
+1. Clone the repository or download the source
+    ```
+    git clone https://github.com/quinn0823/apple-siri-voice-navigation
+    ```
+2. Change directory to the source folder and run the build script.
+    > [!Note]
+    > You can create a copy of `scripts/config_default.ini` and rename it `config.ini` to configure the  script.
+        > [!Warning]
+        > It's allowed to modify `config_default.ini` directly, but it's not recommended.
+    ```
+    cd apple-siri-voice-navigation
+    python scripts/build.py
+    ```
+3. The buit standard version will be in `build/standard`.
+
+
 ## Usage
 
+0. Move **Apple Siri Voice Navigation.zip** to the mod folder
+    - Windows
+        - ETS2: `Documents\Euro Truck Simulator 2\mod`
+        - ATS: `Documents\American Truck Simulator\mod`
+    - macOS
+        - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
+        - ATS: `~/Library/Application Support/American Truck Simulator/mod`
 1. Click **Mods** on the title screen to open the mod manager.
 2. Double-click **Apple Siri Voice Navigation** to activate this mod.
 3. Open **Options**.
