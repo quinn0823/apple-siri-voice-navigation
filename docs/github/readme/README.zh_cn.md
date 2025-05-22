@@ -15,9 +15,10 @@
 </p>
 
 <p align="center">
-    <a href="/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github"></a>
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/quinn0823/apple-siri-voice-navigation"></a>
+    <a href="/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-下载-blue?logo=github&labelColor=181717"></a>
     <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/quinn0823/apple-siri-voice-navigation"></a>
+</p>
 </p>
 
 <p align="center">
