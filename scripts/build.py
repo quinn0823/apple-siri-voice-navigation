@@ -39,7 +39,7 @@ def fetch_config():
     config_map = {
         'versions.sii': ['package_name'],
         'manifest.sii': ['package_version', 'display_name', 'author', 'category', 'icon', 'description_file'],
-        'build': ['versions'],
+        'build': ['build_mode'],
         'debug': ['use_existing_temp', 'keep_temp']
     }
     for section, options in config_map.items():
@@ -238,10 +238,10 @@ def build_mod():
 
     standard_path = None
     workshop_path = None
-    if 's' in config['build']['versions']:
+    if 's' in config['build']['build_mode']:
         print('\n')
         standard_name = build_standard()
-    if 'w' in config['build']['versions']:
+    if 'w' in config['build']['build_mode']:
         print('\n')
         workshop_path = build_workshop()
 
