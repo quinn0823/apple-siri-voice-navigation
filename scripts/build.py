@@ -236,9 +236,9 @@ def clean_temp():
 def build_mod():
     copy_to_temp()
 
-    # standard_name = None
-    # standard_path = None
-    # workshop_path = None
+    standard_name = None
+    standard_path = None
+    workshop_path = None
     if 's' in config['build']['build_mode']:
         print('\n')
         standard_name, standard_path = build_standard()
