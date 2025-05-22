@@ -10,6 +10,7 @@ from configparser import ConfigParser
 import sys
 import json
 import re
+import zipfile
 
 script_dir = 'scripts'
 voice_dir = 'navigation/build'
@@ -134,6 +135,30 @@ def build_workshop():
             skipped_list.append(dir_name)
     print(f'Copied {copied_count} voices, skipped {skipped_count} voices: {skipped_list}')
 
+# Build standard version
+def build_standard():
+    print('Building standard version...')
+    src_dir = f'{build_dir}/workshop/universal'
+    dst_dir = f'{build_dir}/standard'
+    zip_path = f'{dst_dir}/universal.zip'
+
+    if not os.path.exists(src_dir):
+        print(f'Source directory not found: {src_dir}')
+        return
+
+    # 创建目标目录
+    os.makedirs(dst_dir, exist_ok=True)
+
+    # 创建 zip 文件
+    with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        for root, dirs, files in os.walk(src_dir):
+            for file in files:
+                abs_path = os.path.join(root, file)
+                # 只保留 universal 之后的相对路径
+                rel_path = os.path.relpath(abs_path, src_dir)
+                zipf.write(abs_path, rel_path)
+    print(f'Created zip: {zip_path}')
+
 def main():
     global config
     config = fetch_config()
@@ -147,6 +172,7 @@ def main():
     os.makedirs(build_dir)
 
     build_workshop()
+    build_standard()
 
 if __name__  == '__main__':
     main()
