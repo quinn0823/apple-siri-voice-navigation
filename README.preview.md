@@ -170,9 +170,7 @@ To help improve this project, you can check out the development guide in the ["L
     ```
 2. Change directory to the source folder and run the build script.
     > [!Note]
-    > You can create a copy of `scripts/config_default.ini` and rename it `config.ini` to configure the  script.
-        > [!Warning]
-        > It's allowed to modify `config_default.ini` directly, but it's not recommended.
+    > You can create a copy of `scripts/config_default.ini` and rename it `config.ini` to configure the  script. It's allowed to modify `config_default.ini` directly, but it's not recommended.
     ```
     cd apple-siri-voice-navigation
     python scripts/build.py
