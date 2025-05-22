@@ -56,7 +56,7 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里查看其他语言的描述。
 
-## 声音 [66+]
+## 声音 [68+]
 
 ### 可用 (56)
 
@@ -129,8 +129,10 @@
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### 在计划中 (6+)
+### 在计划中 (8+)
 
+- Italiano (Italia) - Siri (Voca 1)
+- Italiano (Italia) - Siri (Voca 2)
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
 - Dansk (Danmark) - Siri (Stemme 1)

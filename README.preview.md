@@ -56,7 +56,7 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
-## Voices [66+]
+## Voices [68+]
 
 ### Available (56)
 
@@ -129,8 +129,10 @@ To help improve this project, you can check out the development guide in the ["L
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### Planned (6+)
+### Planned (8+)
 
+- Italiano (Italia) - Siri (Voca 1)
+- Italiano (Italia) - Siri (Voca 2)
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
 - Dansk (Danmark) - Siri (Stemme 1)
