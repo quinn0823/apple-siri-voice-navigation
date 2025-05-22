@@ -103,3 +103,6 @@ navigation/voices
 
 # Scripts written by AI
 scripts/*_ai_*
+
+# User config file
+scripts/config.ini
