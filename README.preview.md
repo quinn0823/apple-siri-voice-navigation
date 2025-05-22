@@ -180,7 +180,7 @@ To help improve this project, you can check out the development guide in the ["L
 > [!TIP]
 > On Windows, the default location of your user profile folder is `C:\Users\<username>`; On Mac, use `Command + Shift + G` to quickly navigate to the folder.
 
-0. Move **Apple Siri Voice Navigation.zip** to the mod folder
+0. Move **apple-siri-voice-navigation.zip** to the mod folder
     - Windows
         - ETS2: `Documents\Euro Truck Simulator 2\mod`
         - ATS: `Documents\American Truck Simulator\mod`

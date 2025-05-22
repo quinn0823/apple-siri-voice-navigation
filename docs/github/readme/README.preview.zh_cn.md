@@ -180,7 +180,7 @@
 > [!TIP]
 > 在 Windows 上，你的用户配置文件文件夹的默认位置是 `C:\Users\<用户名>`，`Documents` 文件夹的本地化名称为“文档”；在 Mac 上，使用 `Command + Shift + G` 快速前往文件夹。
 
-0. 移动 **Apple Siri Voice Navigation.zip** 到模组文件夹
+0. 移动 **apple-siri-voice-navigation.zip** 到模组文件夹
     - Windows
         - ETS2: `Documents\Euro Truck Simulator 2\mod`
         - ATS: `Documents\American Truck Simulator\mod`
