@@ -1,3 +1,7 @@
+@REM Apple Siri Voice Navigation
+@REM The MIT License (MIT)
+@REM Copyright (c) 2025 Jonathan Chiu
+
 @echo off
 chcp 65001 > nul
 setlocal enabledelayedexpansion
