@@ -181,10 +181,12 @@ To help improve this project, you can check out the development guide in the ["L
 ## Usage
 
 0. Move **Apple Siri Voice Navigation.zip** to the mod folder
-    - Windows
+    - Windows (Your user profile folder, the default location is `C:\Users\<username>`)
         - ETS2: `Documents\Euro Truck Simulator 2\mod`
         - ATS: `Documents\American Truck Simulator\mod`
     - macOS
+        > [!TIP]
+        > `Command + Shift + G` to quickly navigate to the folder
         - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
 1. Click **Mods** on the title screen to open the mod manager.
