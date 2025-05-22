@@ -2,8 +2,6 @@
 # The MIT License (MIT)
 # Copyright (c) 2025 Jonathan Chiu
 
-# Under Development...
-
 import os
 import shutil
 from configparser import ConfigParser
@@ -16,7 +14,10 @@ script_dir = 'scripts'
 voice_dir = 'navigation/build'
 docs_dir = 'docs/mod'
 build_dir = 'build'
-config = {}
+temp_dir = f'{build_dir}/temp'
+config = None
+use_existing_temp = None
+keep_temp = None
 
 # Fetch config
 def fetch_config():
@@ -38,6 +39,8 @@ def fetch_config():
     config_map = {
         'versions.sii': ['package_name'],
         'manifest.sii': ['package_version', 'display_name', 'author', 'category', 'icon', 'description_file'],
+        'build': ['versions'],
+        'debug': ['use_existing_temp', 'keep_temp']
     }
     for section, options in config_map.items():
         if not config.has_section(section):
@@ -48,75 +51,58 @@ def fetch_config():
                 print(f'Option "{option}" not found in section [{section}] in the config file.')
                 sys.exit(1)
 
+    # Check if temp directory exists when debug.use_existing_temp is not '0'
+    if config['debug']['use_existing_temp'] != '0':
+        if not os.path.exists(temp_dir):
+            print(f'Temp directory not found. use_existing_temp is disabled.')
+            config['debug']['use_existing_temp'] = '0'
+
     print(f'Config: {json.dumps({section: dict(config[section]) for section in config.sections()}, ensure_ascii=False)}')
 
     return config
 
 # Initialize directory
 def initialize_directory():
-    print('Initializing directory...')
+    if use_existing_temp == '0':
+        print('Initializing directory...')
+        if os.path.exists(build_dir):
+            shutil.rmtree(build_dir)
+        os.makedirs(build_dir)
+    else:
+        print('Initializing directory... (use_existing_temp is enabled)')
+        for file in os.listdir(build_dir):
+            file_path = os.path.join(build_dir, file)
+            if file != 'temp' and os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+            elif os.path.isfile(file_path):
+                os.remove(file_path)
 
-    if os.path.exists(build_dir):
-        shutil.rmtree(build_dir)
+# Copying files to temp directory...
+def copy_to_temp():
+    if use_existing_temp != '0':
+        print('Skipped copying files to temp directory.')
+        return
 
-    # Create build directory
-    os.makedirs(build_dir)
+    print('Copying files to temp directory...')
 
-# Build Workshop version
-def build_workshop():
-    print('Building Workshop version...')
-
-    # Create build directory
-    build_workshop_dir = f'{build_dir}/workshop'
-    os.makedirs(build_workshop_dir)
-
-    # Create versions.sii file
-    package_name = config['versions.sii']['package_name']
-    versions_sii = f'''SiiNunit {{
-    package_version_info : .{package_name} {{
-        package_name: "{package_name}"
-    }}
-}}
-'''
-    with open(f'{build_workshop_dir}/versions.sii', 'w') as file:
-        file.write(versions_sii)
-    print('Created versions.sii.')
-
-    # Create {package_name} directory
-    build_package_dir = f'{build_workshop_dir}/{package_name}'
-    os.makedirs(build_package_dir)
-
-    # Create manifest.sii file
-    manifest_sii = f'''SiiNunit {{
-    mod_package : .package_name {{
-        package_version: {config['manifest.sii']['package_version']}
-        display_name: "{config['manifest.sii']['display_name']}"
-        author: "{config['manifest.sii']['author']}"
-        category[]: "{config['manifest.sii']['category']}"
-        icon: "{config['manifest.sii']['icon']}"
-        description_file: "{config['manifest.sii']['description_file']}"
-    }}
-}}
-'''
-    with open(f'{build_package_dir}/manifest.sii', 'w') as file:
-        file.write(manifest_sii)
-    print('Created manifest.sii.')
+    # Create temp directory
+    os.makedirs(temp_dir)
 
     # Copy icon
-    shutil.copy(f'{docs_dir}/images/{config["manifest.sii"]["icon"]}', f'{build_package_dir}')
-    print(f'Copied icon: {config["manifest.sii"]["icon"]}.')
+    shutil.copy(f'{docs_dir}/images/{config['manifest.sii']['icon']}', f'{temp_dir}')
+    print(f'Copied icon: {config['manifest.sii']['icon']}.')
 
     # Copy description files
     docs_descriptions_dir = f'{docs_dir}/descriptions'
-    description_file_split = config["manifest.sii"]["description_file"].split('.')
+    description_file_split = config['manifest.sii']['description_file'].split('.')
     for file_name in os.listdir(docs_descriptions_dir):
         if re.match(rf'^{description_file_split[0]}(\.[a-z]{{2}}_[a-z]{{2}})?\.{description_file_split[1]}$', file_name):
-            shutil.copy(f'{docs_descriptions_dir}/{file_name}', f'{build_package_dir}')
+            shutil.copy(f'{docs_descriptions_dir}/{file_name}', f'{temp_dir}')
             print(f'Copied description file: {file_name}.')
 
     # Copy voices
     print('Copying voices...')
-    build_voices_dir = f'{build_package_dir}/sound/navigation'
+    build_voices_dir = f'{temp_dir}/sound/navigation'
     os.makedirs(build_voices_dir)
 
     copied_count = 0
@@ -145,42 +131,165 @@ def build_workshop():
             skipped_list.append(dir_name)
     print(f'Copied {copied_count} voices, skipped {skipped_count} voices: {skipped_list}')
 
-# Build standard version
+# Build standard mod
 def build_standard():
-    print('Building standard version...')
-    src_dir = f'{build_dir}/workshop/universal'
-    dst_dir = f'{build_dir}/standard'
-    zip_path = f'{dst_dir}/universal.zip'
+    print('Building standard mod...')
 
-    if not os.path.exists(src_dir):
-        print(f'Source directory not found: {src_dir}')
-        return
+    # Create standard directory
+    build_standard = f'{build_dir}/standard'
+    os.makedirs(build_standard)
 
-    # 创建目标目录
-    os.makedirs(dst_dir, exist_ok=True)
+    # Create manifest.sii file
+    manifest_sii = f'''SiiNunit {{
+    mod_package : .package_name {{
+        package_version: {config['manifest.sii']['package_version']}
+        display_name: "{config['manifest.sii']['display_name']}"
+        author: "{config['manifest.sii']['author']}"
+        category[]: "{config['manifest.sii']['category']}"
+        icon: "{config['manifest.sii']['icon']}"
+        description_file: "{config['manifest.sii']['description_file']}"
+    }}
+}}
+'''
 
-    # 创建 zip 文件
-    with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
-        for root, dirs, files in os.walk(src_dir):
-            for file in files:
-                abs_path = os.path.join(root, file)
-                # 只保留 universal 之后的相对路径
-                rel_path = os.path.relpath(abs_path, src_dir)
-                zipf.write(abs_path, rel_path)
-    print(f'Created zip: {zip_path}')
+    # Create zip file
+    zip_name = f'{config['manifest.sii']['display_name']}_{config['manifest.sii']['package_version']}.zip'.lower().replace(" ", "-")
+    zip_path = f'{build_standard}/{zip_name}'
+    with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zip_file:
+        for dirpath, dirnames, filenames in os.walk(temp_dir):
+            for file in filenames:
+                temp_file_path = os.path.join(dirpath, file)
+                zip_file.write(temp_file_path, os.path.relpath(temp_file_path, temp_dir))
+        zip_file.writestr('manifest.sii', manifest_sii)
+        print('Created manifest.sii.')
+    print(f'Created zip file: {zip_name}')
+
+    return zip_name
+
+# Build Workshop mod
+def build_workshop():
+    print('Building Workshop mod...')
+
+    # Create build directory
+    build_workshop_dir = f'{build_dir}/workshop'
+    os.makedirs(build_workshop_dir)
+
+    # Create versions.sii file
+    package_name = config['versions.sii']['package_name']
+    versions_sii = f'''SiiNunit {{
+    package_version_info : .{package_name} {{
+        package_name: "{package_name}"
+    }}
+}}
+'''
+    with open(f'{build_workshop_dir}/versions.sii', 'w') as file:
+        file.write(versions_sii)
+    print('Created versions.sii.')
+
+    # Create {package_name} directory
+    build_package_dir = f'{build_workshop_dir}/{package_name}'
+    os.makedirs(build_package_dir)
+
+    if keep_temp == '0':
+        print('Moving files from temp to workshop...')
+        for dirpath, dirnames, filenames in os.walk(temp_dir):
+            for file in filenames:
+                temp_file_path = os.path.join(dirpath, file)
+                build_package_file_path = os.path.join(build_package_dir, os.path.relpath(temp_file_path, temp_dir))
+                os.makedirs(os.path.dirname(build_package_file_path), exist_ok=True)
+                shutil.move(temp_file_path, build_package_file_path)
+    else:
+        print('Copying files from temp to workshop... (keep_temp is enabled)')
+        for dirpath, dirnames, filenames in os.walk(temp_dir):
+            for file in filenames:
+                src_path = os.path.join(dirpath, file)
+                dest_path = os.path.join(build_package_dir, os.path.relpath(src_path, temp_dir))
+                os.makedirs(os.path.dirname(dest_path), exist_ok=True)
+                shutil.copy(src_path, dest_path)
+
+    # Create manifest.sii file
+    manifest_sii = f'''SiiNunit {{
+    mod_package : .package_name {{
+        package_version: {config['manifest.sii']['package_version']}
+        # display_name: "{config['manifest.sii']['display_name']}"
+        author: "{config['manifest.sii']['author']}"
+        category[]: "{config['manifest.sii']['category']}"
+        icon: "{config['manifest.sii']['icon']}"
+        description_file: "{config['manifest.sii']['description_file']}"
+    }}
+}}
+'''
+    with open(f'{build_package_dir}/manifest.sii', 'w') as file:
+        file.write(manifest_sii)
+    print('Created manifest.sii.')
+
+    return build_workshop_dir
+
+def clean_temp():
+    if keep_temp == '0':
+        shutil.rmtree(temp_dir)
+        print('Cleaning temp directory...')
+    else:
+        print(f'Skipped cleaning temp directory.')
 
 # Build mod
-# def buil_mod():
+def build_mod():
+    copy_to_temp()
 
+    standard_path = None
+    workshop_path = None
+    if 's' in config['build']['versions']:
+        print('\n')
+        standard_name = build_standard()
+    if 'w' in config['build']['versions']:
+        print('\n')
+        workshop_path = build_workshop()
+
+    print('\n')
+
+    clean_temp()
+
+    print('\n')
+
+    if workshop_path:
+        print(f'Workshop mod built at: {workshop_path}')
+    if standard_name:
+        usage = f'''Standard Mod Usage
+0. Move {standard_name} to the mod folder
+    - Windows
+        - ETS2: Documents\\Euro Truck Simulator 2\\mod
+        - ATS: Documents\\American Truck Simulator\\mod
+    - macOS
+        - ETS2: ~/Library/Application Support/Euro Truck Simulator 2/mod
+        - ATS: ~/Library/Application Support/American Truck Simulator/mod
+1. Click Mods on the title screen to open the mod manager.
+2. Double-click Apple Siri Voice Navigation to activate this mod.
+3. Open Options.
+4. Navigate to Audio ＞ Voice Navigation ＞ Language and voice and select a voice you like.'''
+        print(f'Standard mod built at: {standard_name}\n\n{usage}')
 
 def main():
-    global config
+    copyright = '''Apple Siri Voice Navigation
+The MIT License (MIT)
+Copyright (c) 2025 Jonathan Chiu'''
+    print(copyright)
+
+    print('\n')
+
+    global config, use_existing_temp, keep_temp
     config = fetch_config()
+    use_existing_temp = config['debug']['use_existing_temp']
+    keep_temp = config['debug']['keep_temp']
+
+    print('\n')
 
     initialize_directory()
 
-    build_workshop()
-    build_standard()
+    print('\n')
+
+    build_mod()
+
+    print('\nBuild completed!')
 
 if __name__  == '__main__':
     main()
