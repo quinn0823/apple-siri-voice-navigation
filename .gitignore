@@ -89,6 +89,9 @@ nohup.out
 
 
 # Apple Siri Voice Navigation
+# Repository tree
+tree.txt
+
 # Files built by 'build.*'
 /build
 
