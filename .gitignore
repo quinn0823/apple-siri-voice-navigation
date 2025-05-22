@@ -89,6 +89,9 @@ nohup.out
 
 
 # Apple Siri Voice Navigation
+# Files built by 'build.*'
+build
+
 # FMOD Studio Projects
 navigation/projects
 
