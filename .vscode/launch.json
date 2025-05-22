@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python Debugger: buil.py",
+            "name": "Python Debugger: build.py",
             "type": "debugpy",
             "request": "launch",
-            "program": "scripts/buil.py",
+            "program": "scripts/build.py",
             "console": "integratedTerminal"
         },
         {
