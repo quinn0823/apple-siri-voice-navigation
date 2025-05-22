@@ -1,5 +1,6 @@
 Apple Siri Voice Navigation 2.0
 
+New
 * The GitHub Release is now available! You can also build the mod from source now.
 * Added localization of the description for 简体中文 (zh_cn).
 * Added 3 new voices in a new language
@@ -9,6 +10,8 @@ Apple Siri Voice Navigation 2.0
 * Planned 2 voices in a new language
     + Italiano (Italia) - Siri (Voca 1)
     + Italiano (Italia) - Siri (Voca 2)
+
+Improvements
 * Re-exported, increaced the volume and rebuilt 53 voices
     + Čeština (Česko) - Iveta (vylepšená verze)
     + Čeština (Česko) - Zuzana (prémiový)
