@@ -57,7 +57,7 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里查看其他语言的描述。
 
-## 声音 [66+]
+## 声音 [68+]
 
 ### 可用 (53)
 
@@ -130,8 +130,10 @@
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### 在计划中 (6+)
+### 在计划中 (8+)
 
+- Italiano (Italia) - Siri (Voca 1)
+- Italiano (Italia) - Siri (Voca 2)
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
 - Dansk (Danmark) - Siri (Stemme 1)
@@ -295,7 +297,7 @@ apple-siri-voice-navigation
 
 发行日期：2025 年 05 月 08 日 (1.5.1)
 
-发布日期 (GitHub，简体中文)：2025 年 05 月 23 日
+发布日期 (GitHub，简体中文)：2025 年 05 月 22 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 

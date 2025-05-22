@@ -57,7 +57,7 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
-## Voices [66+]
+## Voices [68+]
 
 ### Available (53)
 
@@ -130,8 +130,10 @@ To help improve this project, you can check out the development guide in the ["L
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### Planned (6+)
+### Planned (8+)
 
+- Italiano (Italia) - Siri (Voca 1)
+- Italiano (Italia) - Siri (Voca 2)
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
 - Dansk (Danmark) - Siri (Stemme 1)
@@ -296,7 +298,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: May 08, 2025 (1.5.1)
 
-Published Date (GitHub): May 23, 2025
+Published Date (GitHub): May 22, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
