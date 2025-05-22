@@ -165,8 +165,8 @@
     git clone https://github.com/quinn0823/apple-siri-voice-navigation
     ```
 1. 将目录更改为源文件夹并运行构建脚本。
-    > [!Note]
-    > 你可以创建一个 `scripts/config_default.ini` 的副本，并将其重命名为 `config.ini` 来配置脚本。允许直接修改 `config_default.ini`，但不建议这样做。
+> [!Note]
+> 你可以创建一个 `scripts/config_default.ini` 的副本，并将其重命名为 `config.ini` 来配置脚本。允许直接修改 `config_default.ini`，但不建议这样做。
     ``` terminal
     cd apple-siri-voice-navigation
     python scripts/build.py
@@ -181,8 +181,8 @@
         - ETS2: `Documents\Euro Truck Simulator 2\mod`
         - ATS: `Documents\American Truck Simulator\mod`
     - macOS
-        > [!TIP]
-        > 使用 `Command + Shift + G` 快速前往文件夹。
+    > [!TIP]
+    > 使用 `Command + Shift + G` 快速前往文件夹。
         - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
 1. 在标题界面点击**模组**来打开模组管理器。
