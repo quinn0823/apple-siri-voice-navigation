@@ -36,14 +36,13 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With **over 50 voices in 11 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With **over 50 voices in 12 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**May 08, 2025**: 1.5 ＞ **1.5.1**
+**May 23, 2025**: 1.5.1 ＞ **2.0**. The GitHub Release is now available! You can also build the mod from source now.
 
-- Netherlands (Netherland) - Siri (Stem 2)
-- Português (Brasil) - Siri (Voz 2)
-- Português (Portugal) - Joana (melhorada)
-- Português (Portugal) - Joaquim (melhorada)
+- Polski (Polska) - Ewa (premium)
+- Polski (Polska) - Krzysztof (rozszerzony)
+- Polski (Polska) - Zosia (rozszerzony)
 
 ---
 
@@ -59,7 +58,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [68+]
 
-### Available (53)
+### Available (56)
 
 <b><ul>
     <li>Čeština (Česko) - Iveta (vylepšená verze)</li>
@@ -98,6 +97,9 @@ To help improve this project, you can check out the development guide in the ["L
     <li>Netherlands (België) - Ellen (verbeterd)</li>
     <li>Netherlands (Netherland) - Siri (Stem 1)</li>
     <li>Netherlands (Netherland) - Siri (Stem 2)</li>
+    <li>Polski (Polska) - Ewa (premium)</li>
+    <li>Polski (Polska) - Krzysztof (rozszerzony)</li>
+    <li>Polski (Polska) - Zosia (rozszerzony)</li>
     <li>Português (Brasil) - Siri (Voz 1)</li>
     <li>Português (Brasil) - Siri (Voz 2)</li>
     <li>Português (Portugal) - Catarina (melhorada)</li>
@@ -117,18 +119,15 @@ To help improve this project, you can check out the development guide in the ["L
     <li>日本語（日本）- Siri (声2)</li>
 </ul></b>
 
-### Coming Soon (3)
+### Coming Soon (2)
 
-- Polski (Polska) - Ewa (premium)
-- Polski (Polska) - Krzysztof (rozszerzony)
-- Polski (Polska) - Zosia (rozszerzony)
+- Русский (Россия) - Siri (Голос 1)
+- Русский (Россия) - Siri (Голос 2)
 
-### In Production (4)
+### In Production (2)
 
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
-- Русский (Россия) - Siri (Голос 1)
-- Русский (Россия) - Siri (Голос 2)
 
 ### Planned (8+)
 
@@ -154,14 +153,44 @@ To help improve this project, you can check out the development guide in the ["L
 - Workshop (Recommended)
     - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- GitHub (Releases / Build From Source) (Not Available Yet)
+- GitHub ([Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / Build From Source)
+
+## Build From Source
+
+> [!Note]
+> You can create a copy of `scripts/config_default.ini` and rename it `config.ini` to configure the  script. It's allowed to modify `config_default.ini` directly, but it's not recommended.
+
+1. Install the following dependencies
+    - [Python 3.6+](https://www.python.org/downloads/)
+    - Git (Optional)
+1. Clone the repository or download the source.
+    ```
+    git clone https://github.com/quinn0823/apple-siri-voice-navigation
+    ```
+1. Change directory to the source folder and run the build script.
+    ```
+    cd apple-siri-voice-navigation
+    python scripts/build.py
+    ```
+1. The buit standard mod will be in `build/standard`.
+
 
 ## Usage
 
+> [!TIP]
+> On Windows, the default location of your user profile folder is `C:\Users\<username>`; On Mac, use `Command + Shift + G` to quickly navigate to the folder.
+
+0. Move **apple-siri-voice-navigation.zip** to the mod folder
+    - Windows
+        - ETS2: `Documents\Euro Truck Simulator 2\mod`
+        - ATS: `Documents\American Truck Simulator\mod`
+    - macOS
+        - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
+        - ATS: `~/Library/Application Support/American Truck Simulator/mod`
 1. Click **Mods** on the title screen to open the mod manager.
-2. Double-click **Apple Siri Voice Navigation** to activate this mod.
-3. Open **Options**.
-4. Navigate to **Audio ＞ Voice Navigation ＞ Language and voice** and select a voice you like.
+1. Double-click **Apple Siri Voice Navigation** to activate this mod.
+1. Open **Options**.
+1. Navigate to **Audio ＞ Voice Navigation ＞ Language and voice** and select a voice you like.
 
 <!-- ## Known Issues -->
 
@@ -296,9 +325,9 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: May 08, 2025 (1.5.1)
+Release Date: May 23, 2025 (2.0)
 
-Published Date (GitHub): May 22, 2025
+Published Date (GitHub): May 23, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 

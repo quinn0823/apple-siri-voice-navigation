@@ -36,14 +36,13 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **11 种语言的 50 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 50 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**2025 年 05 月 08 日**：1.5 ＞ **1.5.1**
+**2025 年 05 月 23 日**：1.5.1 ＞ **2.0**。GitHub 发行版现在可用！你现在也可以从源文件构建模组。
 
-- Netherlands (Netherland) - Siri (Stem 2)
-- Português (Brasil) - Siri (Voz 2)
-- Português (Portugal) - Joana (melhorada)
-- Português (Portugal) - Joaquim (melhorada)
+- Polski (Polska) - Ewa (premium)
+- Polski (Polska) - Krzysztof (rozszerzony)
+- Polski (Polska) - Zosia (rozszerzony)
 
 ---
 
@@ -55,11 +54,11 @@
 
 感谢你使用这个模组！如果你喜欢它，请考虑留下一颗星、为它的发展做出贡献，或者 [buy me a coffee](https://buymeacoffee.com/jonathanchiu) 来支持我的“工作”！
 
-要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里查看使用其他语言的描述。
+要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里使用查看其他语言的描述。
 
 ## 声音 [68+]
 
-### 可用 (53)
+### 可用 (56)
 
 <b><ul>
     <li>Čeština (Česko) - Iveta (vylepšená verze)</li>
@@ -98,6 +97,9 @@
     <li>Netherlands (België) - Ellen (verbeterd)</li>
     <li>Netherlands (Netherland) - Siri (Stem 1)</li>
     <li>Netherlands (Netherland) - Siri (Stem 2)</li>
+    <li>Polski (Polska) - Ewa (premium)</li>
+    <li>Polski (Polska) - Krzysztof (rozszerzony)</li>
+    <li>Polski (Polska) - Zosia (rozszerzony)</li>
     <li>Português (Brasil) - Siri (Voz 1)</li>
     <li>Português (Brasil) - Siri (Voz 2)</li>
     <li>Português (Portugal) - Catarina (melhorada)</li>
@@ -117,18 +119,15 @@
     <li>日本語（日本）- Siri (声2)</li>
 </ul></b>
 
-### 即将到来 (3)
+### 即将到来 (2)
 
-- Polski (Polska) - Ewa (premium)
-- Polski (Polska) - Krzysztof (rozszerzony)
-- Polski (Polska) - Zosia (rozszerzony)
+- Русский (Россия) - Siri (Голос 1)
+- Русский (Россия) - Siri (Голос 2)
 
-### 正在制作 (4)
+### 正在制作 (2)
 
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
-- Русский (Россия) - Siri (Голос 1)
-- Русский (Россия) - Siri (Голос 2)
 
 ### 在计划中 (8+)
 
@@ -154,14 +153,44 @@
 - 创意工坊 (推荐)
     - [适用于 ETS2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [适用于 ATS 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- GitHub (发行版 / 从源文件构建) (暂不可用)
+- GitHub ([发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / 从源文件构建)
+
+## 从源文件构建
+
+> [!Note]
+> 你可以创建一个 `scripts/config_default.ini` 的副本，并将其重命名为 `config.ini` 来配置脚本。允许直接修改 `config_default.ini`，但不建议这样做。
+
+1. 安装以下依赖项
+    - [Python 3.6+](https://www.python.org/downloads/)
+    - Git (可选)
+1. 克隆存储库或下载源文件。
+    ```
+    git clone https://github.com/quinn0823/apple-siri-voice-navigation
+    ```
+1. 将目录更改为源文件夹并运行构建脚本。
+    ```
+    cd apple-siri-voice-navigation
+    python scripts/build.py
+    ```
+1. 构建的标准模组将在 `build/standard` 中。
+
 
 ## 使用
 
+> [!TIP]
+> 在 Windows 上，你的用户配置文件文件夹的默认位置是 `C:\Users\<用户名>`，`Documents` 文件夹的本地化名称为“文档”；在 Mac 上，使用 `Command + Shift + G` 快速前往文件夹。
+
+0. 移动 **apple-siri-voice-navigation.zip** 到模组文件夹
+    - Windows
+        - ETS2: `Documents\Euro Truck Simulator 2\mod`
+        - ATS: `Documents\American Truck Simulator\mod`
+    - macOS
+        - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
+        - ATS: `~/Library/Application Support/American Truck Simulator/mod`
 1. 在标题界面点击**模组**来打开模组管理器。
-2. 双击 **Apple Siri Voice Navigation** 来启用这个模组。
-3. 打开**选项**。
-4. 导航到**音频 ＞ 语音导航 ＞ 语言和语音**并选择一个你喜欢的声音。
+1. 双击 **Apple Siri Voice Navigation** 来启用这个模组。
+1. 打开**选项**。
+1. 导航到**音频 ＞ 语音导航 ＞ 语言和语音**并选择一个你喜欢的声音。
 
 <!-- ## Known Issues -->
 
@@ -295,9 +324,9 @@ apple-siri-voice-navigation
 
 ---
 
-发行日期：2025 年 05 月 08 日 (1.5.1)
+发行日期：2025 年 05 月 23 日 (2.0)
 
-发布日期 (GitHub，简体中文)：2025 年 05 月 22 日
+发布日期 (GitHub，简体中文)：2025 年 05 月 23 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 
