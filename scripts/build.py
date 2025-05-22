@@ -164,7 +164,7 @@ def build_standard():
         print('Created manifest.sii.')
     print(f'Created zip file: {zip_name}')
 
-    return zip_name
+    return zip_name, zip_path
 
 # Build Workshop mod
 def build_workshop():
@@ -236,11 +236,12 @@ def clean_temp():
 def build_mod():
     copy_to_temp()
 
-    standard_path = None
-    workshop_path = None
+    # standard_name = None
+    # standard_path = None
+    # workshop_path = None
     if 's' in config['build']['build_mode']:
         print('\n')
-        standard_name = build_standard()
+        standard_name, standard_path = build_standard()
     if 'w' in config['build']['build_mode']:
         print('\n')
         workshop_path = build_workshop()
@@ -266,7 +267,7 @@ def build_mod():
 2. Double-click Apple Siri Voice Navigation to activate this mod.
 3. Open Options.
 4. Navigate to Audio ＞ Voice Navigation ＞ Language and voice and select a voice you like.'''
-        print(f'Standard mod built at: {standard_name}\n\n{usage}')
+        print(f'Standard mod built at: {standard_path}\n\n{usage}')
 
 def main():
     copyright = '''Apple Siri Voice Navigation
