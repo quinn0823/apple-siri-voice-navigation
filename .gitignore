@@ -93,7 +93,7 @@ nohup.out
 /build
 
 # FMOD Studio Projects
-/navigation/projects
+navigation/projects
 
 # Voice Files
-/navigation/voices
+navigation/voices
