@@ -157,25 +157,21 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Build From Source
 
-### Requirements
-
-- Python 3.6+
-- Git (Optional)
-
-### Building
-
-1. Clone the repository or download the source
+1. Install the following dependencies
+    - [Python 3.6+](https://www.python.org/downloads/)
+    - Git (Optional)
+1. Clone the repository or download the source.
     ```
     git clone https://github.com/quinn0823/apple-siri-voice-navigation
     ```
-2. Change directory to the source folder and run the build script.
+1. Change directory to the source folder and run the build script.
     > [!Note]
     > You can create a copy of `scripts/config_default.ini` and rename it `config.ini` to configure the  script. It's allowed to modify `config_default.ini` directly, but it's not recommended.
-    ```
+    ``` terminal
     cd apple-siri-voice-navigation
     python scripts/build.py
     ```
-3. The buit standard version will be in `build/standard`.
+1. The buit standard mod will be in `build/standard`.
 
 
 ## Usage
@@ -186,13 +182,13 @@ To help improve this project, you can check out the development guide in the ["L
         - ATS: `Documents\American Truck Simulator\mod`
     - macOS
         > [!TIP]
-        > `Command + Shift + G` to quickly navigate to the folder
+        > Use `Command + Shift + G` to quickly navigate to the folder.
         - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
 1. Click **Mods** on the title screen to open the mod manager.
-2. Double-click **Apple Siri Voice Navigation** to activate this mod.
-3. Open **Options**.
-4. Navigate to **Audio ＞ Voice Navigation ＞ Language and voice** and select a voice you like.
+1. Double-click **Apple Siri Voice Navigation** to activate this mod.
+1. Open **Options**.
+1. Navigate to **Audio ＞ Voice Navigation ＞ Language and voice** and select a voice you like.
 
 <!-- ## Known Issues -->
 
