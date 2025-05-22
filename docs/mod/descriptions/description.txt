@@ -1,6 +1,6 @@
 [orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With [orange]over 50 voices in 12 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[orange]May 23, 2025[normal]: 1.5.1 ＞ [blue]2.0[normal], GitHub Releases are now available!
+[orange]May 23, 2025[normal]: 1.5.1 ＞ [blue]2.0[normal]. GitHub Releases are now available! You can also build the mod from source now.
 * Polski (Polska) - Ewa (premium)
 * Polski (Polska) - Krzysztof (rozszerzony)
 * Polski (Polska) - Zosia (rozszerzony)
