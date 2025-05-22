@@ -157,6 +157,9 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Build From Source
 
+> [!Note]
+> You can create a copy of `scripts/config_default.ini` and rename it `config.ini` to configure the  script. It's allowed to modify `config_default.ini` directly, but it's not recommended.
+
 1. Install the following dependencies
     - [Python 3.6+](https://www.python.org/downloads/)
     - Git (Optional)
@@ -165,9 +168,7 @@ To help improve this project, you can check out the development guide in the ["L
     git clone https://github.com/quinn0823/apple-siri-voice-navigation
     ```
 1. Change directory to the source folder and run the build script.
-    > [!Note]
-    > You can create a copy of `scripts/config_default.ini` and rename it `config.ini` to configure the  script. It's allowed to modify `config_default.ini` directly, but it's not recommended.
-    ``` terminal
+    ```
     cd apple-siri-voice-navigation
     python scripts/build.py
     ```
@@ -176,13 +177,14 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Usage
 
+> [!TIP]
+> On Windows, the default location of your user profile folder is `C:\Users\<username>`; On Mac, use `Command + Shift + G` to quickly navigate to the folder.
+
 0. Move **Apple Siri Voice Navigation.zip** to the mod folder
-    - Windows (Your user profile folder, the default location is `C:\Users\<username>`)
+    - Windows
         - ETS2: `Documents\Euro Truck Simulator 2\mod`
         - ATS: `Documents\American Truck Simulator\mod`
     - macOS
-        > [!TIP]
-        > Use `Command + Shift + G` to quickly navigate to the folder.
         - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
 1. Click **Mods** on the title screen to open the mod manager.
