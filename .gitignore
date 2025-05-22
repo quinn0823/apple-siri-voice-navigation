@@ -90,10 +90,10 @@ nohup.out
 
 # Apple Siri Voice Navigation
 # Files built by 'build.*'
-build
+/build
 
 # FMOD Studio Projects
-navigation/projects
+/navigation/projects
 
 # Voice Files
-navigation/voices
+/navigation/voices
