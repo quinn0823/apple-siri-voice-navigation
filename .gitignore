@@ -100,3 +100,6 @@ navigation/projects
 
 # Voice Files
 navigation/voices
+
+# Scripts written by AI
+scripts/*_ai_*
