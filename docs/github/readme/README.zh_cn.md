@@ -188,6 +188,9 @@
     - macOS
         - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
+    - Linux
+        - ETS2: `~/.local/share/Euro Truck Simulator 2/mod`
+        - ATS: `~/.local/share/American Truck Simulator/mod`
 1. 在标题界面点击**模组**来打开模组管理器。
 1. 双击 **Apple Siri Voice Navigation** 来启用这个模组。
 1. 打开**选项**。
@@ -330,7 +333,7 @@ apple-siri-voice-navigation
 
 发行日期：2025 年 05 月 23 日 (2.0)
 
-发布日期 (GitHub，简体中文)：2025 年 05 月 23 日
+发布日期 (GitHub，简体中文)：2025 年 05 月 25 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 

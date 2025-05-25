@@ -187,6 +187,9 @@ To help improve this project, you can check out the development guide in the ["L
     - macOS
         - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
+    - Linux
+        - ETS2: `~/.local/share/Euro Truck Simulator 2/mod`
+        - ATS: `~/.local/share/American Truck Simulator/mod`
 1. Click **Mods** on the title screen to open the mod manager.
 1. Double-click **Apple Siri Voice Navigation** to activate this mod.
 1. Open **Options**.
@@ -330,7 +333,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: May 23, 2025 (2.0)
 
-Published Date (GitHub): May 23, 2025
+Published Date (GitHub): May 25, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
