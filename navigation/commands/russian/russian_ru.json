@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": ""
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": ""
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": ""
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": ""
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": ""
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": ""
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": ""
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": ""
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": ""
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": ""
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": ""
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": ""
+    },
+    {
+        "File prefix": "start_1",
+        "Command": ""
+    },
+    {
+        "File prefix": "start_2",
+        "Command": ""
+    },
+    {
+        "File prefix": "start_3",
+        "Command": ""
+    },
+    {
+        "File prefix": "start_4",
+        "Command": ""
+    },
+    {
+        "File prefix": "start_5",
+        "Command": ""
+    },
+    {
+        "File prefix": "start_6",
+        "Command": ""
+    },
+    {
+        "File prefix": "start_7",
+        "Command": ""
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": ""
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": ""
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": ""
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": ""
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": ""
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": ""
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": ""
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": ""
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": ""
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": ""
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": ""
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": ""
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": ""
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": ""
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": ""
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": ""
+    }
+]
