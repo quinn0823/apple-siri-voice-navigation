@@ -89,43 +89,43 @@
     },
     {
         "File prefix": "compound_exit_left",
-        "Command": ""
+        "Command": "Съезд слева,"
     },
     {
         "File prefix": "compound_exit_right",
-        "Command": ""
+        "Command": "Съезд справа,"
     },
     {
         "File prefix": "compound_go_straight",
-        "Command": ""
+        "Command": "Двигайтесь прямо,"
     },
     {
         "File prefix": "and_then_turn_left",
-        "Command": ""
+        "Command": "Затем поверните налево."
     },
     {
         "File prefix": "and_then_turn_right",
-        "Command": ""
+        "Command": "Затем поверните направо."
     },
     {
         "File prefix": "and_then_keep_left",
-        "Command": ""
+        "Command": "Затем держитесь левее."
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": ""
+        "Command": "Затем держитесь правее."
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": ""
+        "Command": "Затем съезд слева."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": ""
+        "Command": "Затем съезд справа."
     },
     {
         "File prefix": "and_then_go_straight",
-        "Command": ""
+        "Command": "Затем продолжайте движение прямо."
     },
     {
         "File prefix": "start_1",
