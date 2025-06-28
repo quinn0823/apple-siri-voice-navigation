@@ -298,6 +298,9 @@ apple-siri-voice-navigation
     - portuguese_br
     - portuguese_pt
 - spanish
+    - spanish_ar
+    - spanish_cl
+    - spanish_co
     - spanish_es
     - spanish_mx
 - turkish
@@ -330,7 +333,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: May 23, 2025 (2.0)
 
-Published Date (GitHub): June 28, 2025
+Published Date (GitHub): June 29, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
