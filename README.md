@@ -284,6 +284,7 @@ apple-siri-voice-navigation
     - english_us
     - english_za
 - french
+    - french_be
     - french_ca
     - french_fr
 - german
