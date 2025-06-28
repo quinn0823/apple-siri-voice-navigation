@@ -96,10 +96,10 @@ tree.txt
 /build
 
 # FMOD Studio Projects
-navigation/projects
+# navigation/projects
 
 # Voice Files
-navigation/voices
+# navigation/voices
 
 # User config file
 scripts/config.ini
