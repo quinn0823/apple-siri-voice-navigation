@@ -177,14 +177,11 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Usage
 
-> [!TIP]
-> On Windows, the default location of your user profile folder is `C:\Users\<username>`; On Mac, use `Command + Shift + G` to quickly navigate to the folder.
-
 0. Move **apple-siri-voice-navigation.zip** to the mod folder
     - Windows
-        - ETS2: `Documents\Euro Truck Simulator 2\mod`
-        - ATS: `Documents\American Truck Simulator\mod`
-    - macOS
+        - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
+        - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
+    - macOS (Press **Shift-Command-G** to open a Go to Folder window)
         - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
     - Linux
@@ -333,7 +330,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: May 23, 2025 (2.0)
 
-Published Date (GitHub): May 25, 2025
+Published Date (GitHub): June 28, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 

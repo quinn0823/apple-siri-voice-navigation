@@ -178,14 +178,11 @@
 
 ## 使用
 
-> [!TIP]
-> 在 Windows 上，你的用户配置文件文件夹的默认位置是 `C:\Users\<用户名>`，`Documents` 文件夹的本地化名称为“文档”；在 Mac 上，使用 `Command + Shift + G` 快速前往文件夹。
-
 0. 移动 **apple-siri-voice-navigation.zip** 到模组文件夹
     - Windows
-        - ETS2: `Documents\Euro Truck Simulator 2\mod`
-        - ATS: `Documents\American Truck Simulator\mod`
-    - macOS
+        - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
+        - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
+    - macOS (按下 **Shift-Command-G** 打开“前往文件夹”窗口。)
         - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
     - Linux
@@ -333,7 +330,7 @@ apple-siri-voice-navigation
 
 发行日期：2025 年 05 月 23 日 (2.0)
 
-发布日期 (GitHub，简体中文)：2025 年 05 月 25 日
+发布日期 (GitHub，简体中文)：2025 年 06 月 28 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 
