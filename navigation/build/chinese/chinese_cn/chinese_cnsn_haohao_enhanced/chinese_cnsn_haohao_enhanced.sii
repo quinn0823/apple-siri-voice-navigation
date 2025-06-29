@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .chinese.cnsn_haoh_en.pack {
+        pack_name: "中文（陕西，中国大陆）- 浩浩（优化音质）"
+    }
+}
