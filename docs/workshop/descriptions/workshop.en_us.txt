@@ -87,12 +87,12 @@ To help improve this project, you can check out the development guide in the [ur
     [*] English (Australia) - Siri (Voice 3)
     [*] English (Australia) - Siri (Voice 4)
     [*] English (Scotland, United Kingdom) - Fiona
-    [*] Español (Argentina) - Diego (mejorada)
-    [*] Español (Argentina) - Isabela (mejorada)
-    [*] Español (Chile) - Francisca (mejorada)
-    [*] Español (Colombia) - Carlos (mejorada)
-    [*] Español (Colombia) - Jimena (mejorada)
-    [*] Español (Colombia) - Soledad (mejorada)
+    [*] Español (Argentina) - Diego (mejorada)
+    [*] Español (Argentina) - Isabela (mejorada)
+    [*] Español (Chile) - Francisca (mejorada)
+    [*] Español (Colombia) - Carlos (mejorada)
+    [*] Español (Colombia) - Jimena (mejorada)
+    [*] Español (Colombia) - Soledad (mejorada)
     [*] Français (Belgique) - Aude (premium)
     [*] 中文（辽宁，中国大陆）- 冬梅（优化音质）
     [*] 中文（陕西，中国大陆）- 浩浩（优化音质）
