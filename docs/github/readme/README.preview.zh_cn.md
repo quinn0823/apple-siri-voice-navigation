@@ -269,6 +269,10 @@ apple-siri-voice-navigation
 
 - chinese
     - chinese_cn
+    - chinese_cnsn
+    - chinese_cnln
+    - chinese_cnsc
+    - chinese_cnsh
     - chinese_tw
     - chinese_hk
 - czech

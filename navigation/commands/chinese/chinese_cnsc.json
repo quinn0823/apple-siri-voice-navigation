@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "左转。"
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "右转。"
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "靠左。"
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "靠右。"
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "使用左边的出口。"
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "使用右边的出口。"
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "继续直行。"
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "在环行交叉路，使用第一个出口。"
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "在环行交叉路，使用第二个出口。"
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "在环行交叉路，使用第三个出口。"
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "在环行交叉路，使用第四个出口。"
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "在环行交叉路，使用第五个出口。"
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "在环行交叉路，使用第六个出口。"
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "使用出口。"
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "前方，左转。"
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "前方，右转。"
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "前方，使用左边的出口。"
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "前方，使用右边的出口。"
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "左转，"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "右转，"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "靠左，"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "靠右，"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "使用左边的出口，"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "使用右边的出口，"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "继续直行，"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "然后左转。"
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "然后右转。"
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "然后靠左。"
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "然后靠右。"
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "然后使用左边的出口。"
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "然后使用右边的出口。"
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "然后继续直行。"
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "准备好了，我们出发吧。"
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "开始上路吧。"
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "出发吧。"
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "小心驾驶吧。"
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "都设置好了，我们出发吧。"
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "让我们开始吧。"
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "祝您旅途愉快。"
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "您已经到达了目的地，导航会在这儿终止。"
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "我们已安全地来到了。"
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "我们终于来到了。"
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "我们已抵达了目的地。"
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "我们已到达了旅途的终点。"
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "我们已到达了目的地。"
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "旅程还不错呢。"
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "重新计算中。"
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "重新计算中。"
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "路线计算中。"
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "好的，让我们再计算一条新的路线。"
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "没事，我会再计算一条新的路线。"
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "有机会时，请U形转弯。"
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "请U形转弯。"
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "有机会时，请U形转弯。"
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "请注意您的时速。"
+    }
+]
