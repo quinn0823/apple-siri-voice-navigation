@@ -93,8 +93,8 @@
     <li>Français (Canada) - Siri (Voix 2)</li>
     <li>Français (France) - Siri (Voix 1)</li>
     <li>Français (France) - Siri (Voix 2)</li>
-    <li>Hebrew (Israel) - Siri (Voice 1) [עברית (ישראל) - Siri (קול 1)]</li>
-    <li>Hebrew (Israel) - Siri (Voice 2) [עברית (ישראל) - Siri (קול 2)]</li>
+    <li>Hebrew (Israel) - Siri (Voice 1)</li>
+    <li>Hebrew (Israel) - Siri (Voice 2)</li>
     <li>Netherlands (België) - Ellen (verbeterd)</li>
     <li>Netherlands (Netherland) - Siri (Stem 1)</li>
     <li>Netherlands (Netherland) - Siri (Stem 2)</li>
@@ -154,8 +154,8 @@
 - Română (România) - Ioana (îmbunătațită)
 - Dansk (Danmark) - Siri (Stemme 1)
 - Dansk (Danmark) - Siri (Stemme 2)
-- Thai (Thailand) - Siri (Voice 1) [ไทย (ไทย) - Siri (เสียง 1)]
-- Thai (Thailand) - Siri (Voice 2) [ไทย (ไทย) - Siri (เสียง 2)]
+- Thai (Thailand) - Siri (Voice 1)
+- Thai (Thailand) - Siri (Voice 2)
 - 你的请求
 
 ## 兼容性

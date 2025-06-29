@@ -51,8 +51,8 @@
     [*] Français (Canada) - Siri (Voix 2)
     [*] Français (France) - Siri (Voix 1)
     [*] Français (France) - Siri (Voix 2)
-    [*] Hebrew (Israel) - Siri (Voice 1) [עברית (ישראל) - Siri (קול 1)]
-    [*] Hebrew (Israel) - Siri (Voice 2) [עברית (ישראל) - Siri (קול 2)]
+    [*] Hebrew (Israel) - Siri (Voice 1)
+    [*] Hebrew (Israel) - Siri (Voice 2)
     [*] Netherlands (België) - Ellen (verbeterd)
     [*] Netherlands (Netherland) - Siri (Stem 1)
     [*] Netherlands (Netherland) - Siri (Stem 2)
@@ -111,8 +111,8 @@
     [*] Română (România) - Ioana (îmbunătațită)
     [*] Dansk (Danmark) - Siri (Stemme 1)
     [*] Dansk (Danmark) - Siri (Stemme 2)
-    [*] Thai (Thailand) - Siri (Voice 1) [ไทย (ไทย) - Siri (เสียง 1)]
-    [*] Thai (Thailand) - Siri (Voice 2) [ไทย (ไทย) - Siri (เสียง 2)]
+    [*] Thai (Thailand) - Siri (Voice 1)
+    [*] Thai (Thailand) - Siri (Voice 2)
     [*] 你的请求
 [/list]
 
