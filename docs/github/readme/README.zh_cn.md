@@ -57,9 +57,9 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里使用查看其他语言的描述。
 
-## 声音 [84+]
+## 声音 [84+ 声音 | 19+ 语言]
 
-### 可用 (56)
+### 可用 (56 | 12)
 
 <b><ul>
     <li>Čeština (Česko) - Iveta (vylepšená verze)</li>
@@ -120,12 +120,12 @@
     <li>日本語（日本）- Siri（声2）</li>
 </ul></b>
 
-### 即将到来 (2)
+### 即将到来 (2 | 1 新增)
 
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### 正在制作 (18)
+### 正在制作 (18 | 1 新增)
 
 - English (Australia) - Siri (Voice 3)
 - English (Australia) - Siri (Voice 4)
@@ -146,7 +146,7 @@
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### 在计划中 (8+)
+### 在计划中 (8+ | 5+ 新增)
 
 - Italiano (Italia) - Siri (Voca 1)
 - Italiano (Italia) - Siri (Voca 2)
@@ -156,7 +156,7 @@
 - Dansk (Danmark) - Siri (Stemme 2)
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
-- 你的请求
+- 你的请求…
 
 ## 兼容性
 

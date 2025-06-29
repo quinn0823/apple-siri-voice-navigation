@@ -21,8 +21,8 @@ To help improve this project, you can check out the development guide in the rep
 3. Open [orange]Options[normal].
 4. Navigate to [orange]Audio ＞ Voice Navigation ＞ Language and voice[normal] and select a voice you like.
 
-[orange]Voices [84+][normal]
-[blue]Available (56)[normal]
+[orange]Voices [84+ Voices | 19+ Languages][normal]
+[blue]Available (56 | 12)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * Deutsch (Deutschland) - Siri (Stimme 1)
@@ -80,11 +80,11 @@ To help improve this project, you can check out the development guide in the rep
 * 日本語（日本）- Siri（声1）
 * 日本語（日本）- Siri（声2）
 
-[red]Coming Soon (2)[normal]
+[red]Coming Soon (2 | 1 New)[normal]
 * Русский (Россия) - Siri (Голос 1)
 * Русский (Россия) - Siri (Голос 2)
 
-[red]In Production (18)[normal]
+[red]In Production (18 | 1 New)[normal]
 * English (Australia) - Siri (Voice 3)
 * English (Australia) - Siri (Voice 4)
 * English (Scotland, United Kingdom) - Fiona
@@ -104,7 +104,7 @@ To help improve this project, you can check out the development guide in the rep
 * Svenska (Sverige) - Siri (Röst 1)
 * Svenska (Sverige) - Siri (Röst 2)
 
-[red]Planned (8+)[normal]
+[red]Planned (8+ | 5+ New)[normal]
 * Italiano (Italia) - Siri (Voca 1)
 * Italiano (Italia) - Siri (Voca 2)
 * Magyar (Magyarország) - Tünde (prémium)
@@ -113,11 +113,11 @@ To help improve this project, you can check out the development guide in the rep
 * Dansk (Danmark) - Siri (Stemme 2)
 * Thai (Thailand) - Siri (Voice 1)
 * Thai (Thailand) - Siri (Voice 2)
-* Your Requests
+* Your Requests...
 
 [orange]Download[normal]
 * [blue]Workshop[normal] (Recommended)
-* [blue]GitHub[normal] (Releases / Build From Source)
+* [blue]GitHub[normal] (Releases / Build from source)
 
 
 [orange]Apple Series[normal]

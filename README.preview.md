@@ -56,9 +56,9 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
-## Voices [84+]
+## Voices [84+ Voices | 19+ Languages]
 
-### Available (56)
+### Available (56 | 12)
 
 <b><ul>
     <li>Čeština (Česko) - Iveta (vylepšená verze)</li>
@@ -119,12 +119,12 @@ To help improve this project, you can check out the development guide in the ["L
     <li>日本語（日本）- Siri（声2）</li>
 </ul></b>
 
-### Coming Soon (2)
+### Coming Soon (2 | 1 New)
 
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### In Production (18)
+### In Production (18 | 1 New)
 
 - English (Australia) - Siri (Voice 3)
 - English (Australia) - Siri (Voice 4)
@@ -145,7 +145,7 @@ To help improve this project, you can check out the development guide in the ["L
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### Planned (8+)
+### Planned (8 | 5 New +)
 
 - Italiano (Italia) - Siri (Voca 1)
 - Italiano (Italia) - Siri (Voca 2)
@@ -155,7 +155,7 @@ To help improve this project, you can check out the development guide in the ["L
 - Dansk (Danmark) - Siri (Stemme 2)
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
-- Your Requests
+- Your Requests...
 
 ## Compatibility
 
@@ -169,7 +169,7 @@ To help improve this project, you can check out the development guide in the ["L
 - Workshop (Recommended)
     - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- GitHub ([Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / Build From Source)
+- GitHub ([Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / Build from source)
 
 ## Build From Source
 

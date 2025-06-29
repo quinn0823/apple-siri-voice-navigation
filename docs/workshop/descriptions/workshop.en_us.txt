@@ -17,8 +17,8 @@ Thank you for subscribing! If you like it, please consider leaving a vote, shari
 
 To help improve this project, you can check out the development guide in the [url=https://github.com/quinn0823/apple-siri-voice-navigation]repository[/url] on GitHub. You can also view the descriptions in other languages there.
 
-[h1]Voices [84+][/h1]
-[b]Available (56)[/b]
+[h1]Voices [84+ Voices | 19+ Languages][/h1]
+[b]Available (56 | 12)[/b]
 [b][list]
     [*] Čeština (Česko) - Iveta (vylepšená verze)
     [*] Čeština (Česko) - Zuzana (prémiový)
@@ -77,12 +77,12 @@ To help improve this project, you can check out the development guide in the [ur
     [*] 日本語（日本）- Siri（声1）
     [*] 日本語（日本）- Siri（声2）
 [/list][/b]
-[b]Coming Soon (2)[/b]
+[b]Coming Soon (2 | 1 New)[/b]
 [list]
     [*] Русский (Россия) - Siri (Голос 1)
     [*] Русский (Россия) - Siri (Голос 2)
 [/list]
-[b]In Production (18)[/b]
+[b]In Production (18 | 1 New)[/b]
 [list]
     [*] English (Australia) - Siri (Voice 3)
     [*] English (Australia) - Siri (Voice 4)
@@ -103,7 +103,7 @@ To help improve this project, you can check out the development guide in the [ur
     [*] Svenska (Sverige) - Siri (Röst 1)
     [*] Svenska (Sverige) - Siri (Röst 2)
 [/list]
-[b]Planned (8+)[/b]
+[b]Planned (8+ | 5+ New)[/b]
 [list]
     [*] Italiano (Italia) - Siri (Voca 1)
     [*] Italiano (Italia) - Siri (Voca 2)
@@ -113,7 +113,7 @@ To help improve this project, you can check out the development guide in the [ur
     [*] Dansk (Danmark) - Siri (Stemme 2)
     [*] Thai (Thailand) - Siri (Voice 1)
     [*] Thai (Thailand) - Siri (Voice 2)
-    [*] Your Requests
+    [*] Your Requests...
 [/list]
 
 [h1]Compatibility[/h1]
@@ -122,7 +122,7 @@ To help improve this project, you can check out the development guide in the [ur
 [h1]Download[/h1]
 [list]
     [*] Workshop (Recommended)
-    [*] [url=https://github.com/quinn0823/apple-siri-voice-navigation]GitHub[/url] (Releases / Build From Source)
+    [*] GitHub (Releases / Build from source)
 [/list]
 
 [h1]Usage[/h1]
