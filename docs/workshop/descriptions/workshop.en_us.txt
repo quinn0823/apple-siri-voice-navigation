@@ -17,7 +17,7 @@ Thank you for subscribing! If you like it, please consider leaving a vote, shari
 
 To help improve this project, you can check out the development guide in the [url=https://github.com/quinn0823/apple-siri-voice-navigation]repository[/url] on GitHub. You can also view the descriptions in other languages there.
 
-[h1]Voices [83+][/h1]
+[h1]Voices [84+][/h1]
 [b]Available (56)[/b]
 [b][list]
     [*] Čeština (Česko) - Iveta (vylepšená verze)
@@ -82,7 +82,7 @@ To help improve this project, you can check out the development guide in the [ur
     [*] Русский (Россия) - Siri (Голос 1)
     [*] Русский (Россия) - Siri (Голос 2)
 [/list]
-[b]In Production (17)[/b]
+[b]In Production (18)[/b]
 [list]
     [*] English (Australia) - Siri (Voice 3)
     [*] English (Australia) - Siri (Voice 4)
@@ -93,6 +93,7 @@ To help improve this project, you can check out the development guide in the [ur
     [*] Español (Colombia) - Carlos (mejorada)
     [*] Español (Colombia) - Jimena (mejorada)
     [*] Español (Colombia) - Soledad (mejorada)
+    [*] Français (Belgique) - Aude (premium)
     [*] 中文（辽宁，中国大陆）- 冬梅（优化音质）
     [*] 中文（陕西，中国大陆）- 浩浩（优化音质）
     [*] 中文（上海，中国大陆）- 南南（优化音质）

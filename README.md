@@ -56,7 +56,7 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
-## Voices [83+]
+## Voices [84+]
 
 ### Available (56)
 
@@ -124,7 +124,7 @@ To help improve this project, you can check out the development guide in the ["L
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### In Production (17)
+### In Production (18)
 
 - English (Australia) - Siri (Voice 3)
 - English (Australia) - Siri (Voice 4)
@@ -135,6 +135,7 @@ To help improve this project, you can check out the development guide in the ["L
 - Español (Colombia) - Carlos (mejorada)
 - Español (Colombia) - Jimena (mejorada)
 - Español (Colombia) - Soledad (mejorada)
+- Français (Belgique) - Aude (premium)
 - 中文（辽宁，中国大陆）- 冬梅（优化音质）
 - 中文（陕西，中国大陆）- 浩浩（优化音质）
 - 中文（上海，中国大陆）- 南南（优化音质）

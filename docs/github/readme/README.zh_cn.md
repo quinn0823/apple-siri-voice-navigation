@@ -57,7 +57,7 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里使用查看其他语言的描述。
 
-## 声音 [83+]
+## 声音 [84+]
 
 ### 可用 (56)
 
@@ -125,7 +125,7 @@
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### 正在制作 (17)
+### 正在制作 (18)
 
 - English (Australia) - Siri (Voice 3)
 - English (Australia) - Siri (Voice 4)
@@ -136,6 +136,7 @@
 - Español (Colombia) - Carlos (mejorada)
 - Español (Colombia) - Jimena (mejorada)
 - Español (Colombia) - Soledad (mejorada)
+- Français (Belgique) - Aude (premium)
 - 中文（辽宁，中国大陆）- 冬梅（优化音质）
 - 中文（陕西，中国大陆）- 浩浩（优化音质）
 - 中文（上海，中国大陆）- 南南（优化音质）

@@ -21,7 +21,7 @@ To help improve this project, you can check out the development guide in the rep
 3. Open [orange]Options[normal].
 4. Navigate to [orange]Audio ＞ Voice Navigation ＞ Language and voice[normal] and select a voice you like.
 
-[orange]Voices [83+][normal]
+[orange]Voices [84+][normal]
 [blue]Available (56)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
@@ -84,7 +84,7 @@ To help improve this project, you can check out the development guide in the rep
 * Русский (Россия) - Siri (Голос 1)
 * Русский (Россия) - Siri (Голос 2)
 
-[red]In Production (17)[normal]
+[red]In Production (18)[normal]
 * English (Australia) - Siri (Voice 3)
 * English (Australia) - Siri (Voice 4)
 * English (Scotland, United Kingdom) - Fiona
@@ -94,6 +94,7 @@ To help improve this project, you can check out the development guide in the rep
 * Español (Colombia) - Carlos (mejorada)
 * Español (Colombia) - Jimena (mejorada)
 * Español (Colombia) - Soledad (mejorada)
+* Français (Belgique) - Aude (premium)
 * 中文（辽宁，中国大陆）- 冬梅（优化音质）
 * 中文（陕西，中国大陆）- 浩浩（优化音质）
 * 中文（上海，中国大陆）- 南南（优化音质）
