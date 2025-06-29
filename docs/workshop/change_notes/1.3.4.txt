@@ -1,5 +1,5 @@
 Apple Siri Voice Navigation 1.3.4
 
 * Add 2 new voices
-    + Français (France) - Siri (Voix 2)
+    + Français (France) - Siri (Voix 2)
     + Hebrew (Israel) - Siri (Voice 2) [עברית (ישראל) - Siri (קול 2)]

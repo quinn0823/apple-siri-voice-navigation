@@ -1,6 +1,6 @@
 Apple Siri Voice Navigation 1.3.3
 
 * 2 new countries and 2 new voices
-    + Français (France) - Siri (Voix 1)
+    + Français (France) - Siri (Voix 1)
     + Hebrew (Israel) - Siri (Voice 1) [עברית (ישראל) - Siri (קול 1)]
 * A brand new icon.

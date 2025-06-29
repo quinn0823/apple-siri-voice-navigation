@@ -48,8 +48,8 @@ To help improve this project, you can check out the development guide in the [ur
     [*] Español (México) - Siri (Voz 1)
     [*] Español (México) - Siri (Voz 2)
     [*] Français (Canada) - Siri (Voix 1)
-    [*] Français (Canada) - Siri (Voix 2)
-    [*] Français (France) - Siri (Voix 1)
+    [*] Français (Canada) - Siri (Voix 2)
+    [*] Français (France) - Siri (Voix 1)
     [*] Français (France) - Siri (Voix 2)
     [*] Hebrew (Israel) - Siri (Voice 1) [עברית (ישראל) - Siri (קול 1)]
     [*] Hebrew (Israel) - Siri (Voice 2) [עברית (ישראל) - Siri (קול 2)]
@@ -93,7 +93,7 @@ To help improve this project, you can check out the development guide in the [ur
     [*] Español (Colombia) - Carlos (mejorada)
     [*] Español (Colombia) - Jimena (mejorada)
     [*] Español (Colombia) - Soledad (mejorada)
-    [*] Français (Belgique) - Aude (premium)
+    [*] Français (Belgique) - Aude (premium)
     [*] 中文（辽宁，中国大陆）- 冬梅（优化音质）
     [*] 中文（陕西，中国大陆）- 浩浩（优化音质）
     [*] 中文（上海，中国大陆）- 南南（优化音质）
