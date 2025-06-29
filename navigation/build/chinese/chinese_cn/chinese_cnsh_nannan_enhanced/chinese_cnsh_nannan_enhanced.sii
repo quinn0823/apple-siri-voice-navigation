@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .chinese.cnsh_nann_en.pack {
+        pack_name: "中文（上海，中国大陆）- 南南（优化音质）"
+    }
+}
