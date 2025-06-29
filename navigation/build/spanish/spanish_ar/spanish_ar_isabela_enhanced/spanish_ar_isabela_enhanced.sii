@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .spanish.ar_isabel_en.pack {
+        pack_name: "Español (Argentina) - Isabela (mejorada)"
+    }
+}
