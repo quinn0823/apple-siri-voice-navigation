@@ -20,125 +20,89 @@ To help improve this project, you can check out the development guide in the [ur
 [h1]Voices [84+][/h1]
 [b]Available (56)[/b]
 [b][list]
-[*]Čeština (Česko)
+[*]Čeština (Česko) -
 [list]
 [*]Iveta (vylepšená verze)
 [*]Zuzana (prémiový)
 [/list]
-[*]Deutsch (Deutschland)
+[*]Deutsch (Deutschland) -
 [list]
 [*]Siri (Stimme 1)
 [*]Siri (Stimme 2)
 [*]Siri (Stimme 3)
 [*]Siri (Stimme 4)
 [/list]
-[*]English (Australia)
+[*]English
+[list]
+[*](Australia) - Siri (Voice 1)
+[*](Australia) - Siri (Voice 2)
+[*](India) - Siri (Voice 1)
+[*](India) - Siri (Voice 2)
+[*](Ireland) - Siri (Voice 1)
+[*](Ireland) - Siri (Voice 2)
+[*](South Africa) - Siri (Voice 1)
+[*](South Africa) - Siri (Voice 2)
+[*](United Kingdom) - Siri (Voice 1)
+[*](United Kingdom) - Siri (Voice 2)
+[*](United Kingdom) - Siri (Voice 3)
+[*](United Kingdom) - Siri (Voice 4)
+[*](United States) - Siri (Voice 1)
+[*](United States) - Siri (Voice 2)
+[*](United States) - Siri (Voice 3)
+[*](United States) - Siri (Voice 4)
+[*](United States) - Siri (Voice 5)
+[/list]
+[*]Español
+[list]
+[*](España) - Siri (Voz 1)
+[*](España) - Siri (Voz 2)
+[*](México) - Siri (Voz 1)
+[*](México) - Siri (Voz 2)
+[*](Canada) - Siri (Voix 1)
+[*](Canada) - Siri (Voix 2)
+[*](France) - Siri (Voix 1)
+[*](France) - Siri (Voix 2)
+[/list]
+[*]Hebrew (Israel) -
 [list]
 [*]Siri (Voice 1)
 [*]Siri (Voice 2)
 [/list]
-[*]English (India)
+[*]Netherlands
 [list]
-[*]Siri (Voice 1)
-[*]Siri (Voice 2)
+[*](België) - Ellen (verbeterd)
+[*](Netherland) - Siri (Stem 1)
+[*](Netherland) - Siri (Stem 2)
 [/list]
-[*]English (Ireland)
-[list]
-[*]Siri (Voice 1)
-[*]Siri (Voice 2)
-[/list]
-[*]English (South Africa)
-[list]
-[*]Siri (Voice 1)
-[*]Siri (Voice 2)
-[/list]
-[*]English (United Kingdom)
-[list]
-[*]Siri (Voice 1)
-[*]Siri (Voice 2)
-[*]Siri (Voice 3)
-[*]Siri (Voice 4)
-[/list]
-[*]English (United States)
-[list]
-[*]Siri (Voice 1)
-[*]Siri (Voice 2)
-[*]Siri (Voice 3)
-[*]Siri (Voice 4)
-[*]Siri (Voice 5)
-[/list]
-[*]Español (España)
-[list]
-[*]Siri (Voz 1)
-[*]Siri (Voz 2)
-[/list]
-[*]Español (México)
-[list]
-[*]Siri (Voz 1)
-[*]Siri (Voz 2)
-[/list]
-[*]Français (Canada)
-[list]
-[*]Siri (Voix 1)
-[*]Siri (Voix 2)
-[/list]
-[*]Français (France)
-[list]
-[*]Siri (Voix 1)
-[*]Siri (Voix 2)
-[/list]
-[*]Hebrew (Israel)
-[list]
-[*]Siri (Voice 1)
-[*]Siri (Voice 2)
-[/list]
-[*]Netherlands (België)
-[list]
-[*]Ellen (verbeterd)
-[/list]
-[*]Netherlands (Netherland)
-[list]
-[*]Siri (Stem 1)
-[*]Siri (Stem 2)
-[/list]
-[*]Polski (Polska)
+[*]Polski (Polska) -
 [list]
 [*]Ewa (premium)
 [*]Krzysztof (rozszerzony)
 [*]Zosia (rozszerzony)
 [/list]
-[*]Português (Brasil)
+[*]Português
 [list]
-[*]Siri (Voz 1)
-[*]Siri (Voz 2)
+[*](Brasil) - Siri (Voz 1)
+[*](Brasil) - Siri (Voz 2)
+[*](Portugal) - Catarina (melhorada)
+[*](Portugal) - Joana (melhorada)
+[*](Portugal) - Joaquim (melhorada)
 [/list]
-[*]Português (Portugal)
-[list]
-[*]Catarina (melhorada)
-[*]Joana (melhorada)
-[*]Joaquim (melhorada)
-[/list]
-[*]Türkçe (Türkiye)
+[*]Türkçe (Türkiye) -
 [list]
 [*]Siri (Ses 1)
 [*]Siri (Ses 2)
 [/list]
-[*]中文（台灣）
+[*]中文
 [list]
-[*]Siri（聲音1）
-[*]Siri（聲音2）
+[*]（台灣）- Siri（聲音1）
+[*]（台灣）- Siri（聲音2）
+[*]（中国大陆）- Siri（声音1）
+[*]（中国大陆）- Siri（声音2）
+[*]（香港）- Siri（聲音1）
+[*]（香港）- Siri（聲音2）
 [/list]
-[*]中文（中国大陆）
-[list]
-[*]Siri（声音1）
-[*]Siri（声音2）
-[/list]
-[*]中文（香港）
-[list]
-[*]Siri（聲音1）
-[*]Siri（聲音2）
-[/list]
-[*]日本語（日本）
+[*]日本語（日本）-
 [list]
 [*]Siri（hattori）
 [*]Siri（oren）
