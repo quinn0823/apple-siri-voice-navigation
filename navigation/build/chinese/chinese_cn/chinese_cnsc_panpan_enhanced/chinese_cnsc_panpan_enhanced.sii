@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .chinese.cnsc_panp_en.pack {
+        pack_name: "中文（四川，中国大陆）- 盼盼（优化音质）"
+    }
+}
