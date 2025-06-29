@@ -21,7 +21,7 @@
 3. 打开[orange]选项[normal]。
 4. 导航到[orange]音频 ＞ 语音导航 ＞ 语言和声音[normal]并选择一个你喜欢的声音。
 
-[orange]声音 [68+][normal]
+[orange]声音 [72+][normal]
 [blue]可用 (56)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
@@ -69,24 +69,28 @@
 * Português (Portugal) - Joaquim (melhorada)
 * Türkçe (Türkiye) - Siri (Ses 1)
 * Türkçe (Türkiye) - Siri (Ses 2)
-* 中文（台灣）- Siri (聲音1)
-* 中文（台灣）- Siri (聲音2)
-* 中文（中国大陆）- Siri (声音1)
-* 中文（中国大陆）- Siri (声音2)
-* 中文（香港）- Siri (聲音1)
-* 中文（香港）- Siri (聲音2)
-* 日本語（日本）- Siri (hattori)
-* 日本語（日本）- Siri (oren)
-* 日本語（日本）- Siri (声1)
-* 日本語（日本）- Siri (声2)
+* 中文（台灣）- Siri（聲音1）
+* 中文（台灣）- Siri（聲音2）
+* 中文（中国大陆）- Siri（声音1）
+* 中文（中国大陆）- Siri（声音2）
+* 中文（香港）- Siri（聲音1）
+* 中文（香港）- Siri（聲音2）
+* 日本語（日本）- Siri（hattori）
+* 日本語（日本）- Siri（oren）
+* 日本語（日本）- Siri（声1）
+* 日本語（日本）- Siri（声2）
 
 [red]即将到来 (2)[normal]
 * Русский (Россия) - Siri (Голос 1)
 * Русский (Россия) - Siri (Голос 2)
 
-[red]正在制作 (2)[normal]
+[red]正在制作 (6)[normal]
 * Svenska (Sverige) - Siri (Röst 1)
 * Svenska (Sverige) - Siri (Röst 2)
+* 中文（辽宁，中国大陆）- 冬梅（优化音质）
+* 中文（陕西，中国大陆）- 浩浩（优化音质）
+* 中文（上海，中国大陆）- 南南（优化音质）
+* 中文（四川，中国大陆）- 盼盼（优化音质）
 
 [red]在计划中 (8+)[normal]
 * Italiano (Italia) - Siri (Voca 1)

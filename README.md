@@ -56,7 +56,7 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
-## Voices [68+]
+## Voices [72+]
 
 ### Available (56)
 
@@ -107,16 +107,16 @@ To help improve this project, you can check out the development guide in the ["L
     <li>Português (Portugal) - Joaquim (melhorada)</li>
     <li>Türkçe (Türkiye) - Siri (Ses 1)</li>
     <li>Türkçe (Türkiye) - Siri (Ses 2)</li>
-    <li>中文（台灣）- Siri (聲音1)</li>
-    <li>中文（台灣）- Siri (聲音2)</li>
-    <li>中文（中国大陆）- Siri (声音1)</li>
-    <li>中文（中国大陆）- Siri (声音2)</li>
-    <li>中文（香港）- Siri (聲音1)</li>
-    <li>中文（香港）- Siri (聲音2)</li>
-    <li>日本語（日本）- Siri (hattori)</li>
-    <li>日本語（日本）- Siri (oren)</li>
-    <li>日本語（日本）- Siri (声1)</li>
-    <li>日本語（日本）- Siri (声2)</li>
+    <li>中文（台灣）- Siri（聲音1）</li>
+    <li>中文（台灣）- Siri（聲音2）</li>
+    <li>中文（中国大陆）- Siri（声音1）</li>
+    <li>中文（中国大陆）- Siri（声音2）</li>
+    <li>中文（香港）- Siri（聲音1）</li>
+    <li>中文（香港）- Siri（聲音2）</li>
+    <li>日本語（日本）- Siri（hattori）</li>
+    <li>日本語（日本）- Siri（oren）</li>
+    <li>日本語（日本）- Siri（声1）</li>
+    <li>日本語（日本）- Siri（声2）</li>
 </ul></b>
 
 ### Coming Soon (2)
@@ -124,10 +124,14 @@ To help improve this project, you can check out the development guide in the ["L
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### In Production (2)
+### In Production (6)
 
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
+- 中文（辽宁，中国大陆）- 冬梅（优化音质）
+- 中文（陕西，中国大陆）- 浩浩（优化音质）
+- 中文（上海，中国大陆）- 南南（优化音质）
+- 中文（四川，中国大陆）- 盼盼（优化音质）
 
 ### Planned (8+)
 
@@ -263,7 +267,7 @@ apple-siri-voice-navigation
 ### Languages [18]
 
 > [!TIP]
-> Don't know the ISO 3166-1 two-letter country code (alpha-2)? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` ＞ `english_us.json`.
+> Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` ＞ `english_us.json`.
 
 #### Available (12)
 
@@ -283,6 +287,7 @@ apple-siri-voice-navigation
 - english
     - english_au
     - english_gb
+    - english_gbsc
     - english_ie
     - english_in
     - english_us

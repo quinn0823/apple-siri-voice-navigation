@@ -107,16 +107,16 @@ To help improve this project, you can check out the development guide in the ["L
     <li>Português (Portugal) - Joaquim (melhorada)</li>
     <li>Türkçe (Türkiye) - Siri (Ses 1)</li>
     <li>Türkçe (Türkiye) - Siri (Ses 2)</li>
-    <li>中文（台灣）- Siri (聲音1)</li>
-    <li>中文（台灣）- Siri (聲音2)</li>
-    <li>中文（中国大陆）- Siri (声音1)</li>
-    <li>中文（中国大陆）- Siri (声音2)</li>
-    <li>中文（香港）- Siri (聲音1)</li>
-    <li>中文（香港）- Siri (聲音2)</li>
-    <li>日本語（日本）- Siri (hattori)</li>
-    <li>日本語（日本）- Siri (oren)</li>
-    <li>日本語（日本）- Siri (声1)</li>
-    <li>日本語（日本）- Siri (声2)</li>
+    <li>中文（台灣）- Siri（聲音1）</li>
+    <li>中文（台灣）- Siri（聲音2）</li>
+    <li>中文（中国大陆）- Siri（声音1）</li>
+    <li>中文（中国大陆）- Siri（声音2）</li>
+    <li>中文（香港）- Siri（聲音1）</li>
+    <li>中文（香港）- Siri（聲音2）</li>
+    <li>日本語（日本）- Siri（hattori）</li>
+    <li>日本語（日本）- Siri（oren）</li>
+    <li>日本語（日本）- Siri（声1）</li>
+    <li>日本語（日本）- Siri（声2）</li>
 </ul></b>
 
 ### Coming Soon (2)
@@ -263,7 +263,7 @@ apple-siri-voice-navigation
 ### Languages [18]
 
 > [!TIP]
-> Don't know the ISO 3166-1 two-letter country code (alpha-2)? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` ＞ `english_us.json`.
+> Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` ＞ `english_us.json`.
 
 #### Available (12)
 
@@ -283,6 +283,7 @@ apple-siri-voice-navigation
 - english
     - english_au
     - english_gb
+    - english_gbsc
     - english_ie
     - english_in
     - english_us

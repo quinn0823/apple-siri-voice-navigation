@@ -108,16 +108,16 @@
     <li>Português (Portugal) - Joaquim (melhorada)</li>
     <li>Türkçe (Türkiye) - Siri (Ses 1)</li>
     <li>Türkçe (Türkiye) - Siri (Ses 2)</li>
-    <li>中文（台灣）- Siri (聲音1)</li>
-    <li>中文（台灣）- Siri (聲音2)</li>
-    <li>中文（中国大陆）- Siri (声音1)</li>
-    <li>中文（中国大陆）- Siri (声音2)</li>
-    <li>中文（香港）- Siri (聲音1)</li>
-    <li>中文（香港）- Siri (聲音2)</li>
-    <li>日本語（日本）- Siri (hattori)</li>
-    <li>日本語（日本）- Siri (oren)</li>
-    <li>日本語（日本）- Siri (声1)</li>
-    <li>日本語（日本）- Siri (声2)</li>
+    <li>中文（台灣）- Siri（聲音1）</li>
+    <li>中文（台灣）- Siri（聲音2）</li>
+    <li>中文（中国大陆）- Siri（声音1）</li>
+    <li>中文（中国大陆）- Siri（声音2）</li>
+    <li>中文（香港）- Siri（聲音1）</li>
+    <li>中文（香港）- Siri（聲音2）</li>
+    <li>日本語（日本）- Siri（hattori）</li>
+    <li>日本語（日本）- Siri（oren）</li>
+    <li>日本語（日本）- Siri（声1）</li>
+    <li>日本語（日本）- Siri（声2）</li>
 </ul></b>
 
 ### 即将到来 (2)
@@ -263,7 +263,7 @@ apple-siri-voice-navigation
 ### 语言 [18]
 
 > [!TIP]
-> 不知道 ISO 3166-1 二位字母国家代码 (alpha-2)？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` ＞ `chinese_cn.json`。
+> 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` ＞ `chinese_cn.json`。
 
 #### 可用 (12)
 
@@ -283,6 +283,7 @@ apple-siri-voice-navigation
 - english
     - english_au
     - english_gb
+    - english_gbsc
     - english_ie
     - english_in
     - english_us
