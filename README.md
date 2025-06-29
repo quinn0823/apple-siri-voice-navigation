@@ -56,7 +56,7 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
-## Voices [72+]
+## Voices [83+]
 
 ### Available (56)
 
@@ -75,15 +75,15 @@ To help improve this project, you can check out the development guide in the ["L
     <li>English (Ireland) - Siri (Voice 2)</li>
     <li>English (South Africa) - Siri (Voice 1)</li>
     <li>English (South Africa) - Siri (Voice 2)</li>
-    <li>English (UK) - Siri (Voice 1)</li>
-    <li>English (UK) - Siri (Voice 2)</li>
-    <li>English (UK) - Siri (Voice 3)</li>
-    <li>English (UK) - Siri (Voice 4)</li>
-    <li>English (US) - Siri (Voice 1)</li>
-    <li>English (US) - Siri (Voice 2)</li>
-    <li>English (US) - Siri (Voice 3)</li>
-    <li>English (US) - Siri (Voice 4)</li>
-    <li>English (US) - Siri (Voice 5)</li>
+    <li>English (United Kingdom) - Siri (Voice 1)</li>
+    <li>English (United Kingdom) - Siri (Voice 2)</li>
+    <li>English (United Kingdom) - Siri (Voice 3)</li>
+    <li>English (United Kingdom) - Siri (Voice 4)</li>
+    <li>English (United States) - Siri (Voice 1)</li>
+    <li>English (United States) - Siri (Voice 2)</li>
+    <li>English (United States) - Siri (Voice 3)</li>
+    <li>English (United States) - Siri (Voice 4)</li>
+    <li>English (United States) - Siri (Voice 5)</li>
     <li>Español (España) - Siri (Voz 1)</li>
     <li>Español (España) - Siri (Voz 2)</li>
     <li>Español (México) - Siri (Voz 1)</li>
@@ -124,14 +124,25 @@ To help improve this project, you can check out the development guide in the ["L
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### In Production (6)
+### In Production (17)
 
-- Svenska (Sverige) - Siri (Röst 1)
-- Svenska (Sverige) - Siri (Röst 2)
+- English (Australia) - Siri (Voice 3)
+- English (Australia) - Siri (Voice 4)
+- English (Scotland, United Kingdom) - Fiona
+- Español (Argentina) - Diego (mejorada)
+- Español (Argentina) - Isabela (mejorada)
+- Español (Chile) - Francisca (mejorada)
+- Español (Colombia) - Carlos (mejorada)
+- Español (Colombia) - Jimena (mejorada)
+- Español (Colombia) - Soledad (mejorada)
 - 中文（辽宁，中国大陆）- 冬梅（优化音质）
 - 中文（陕西，中国大陆）- 浩浩（优化音质）
 - 中文（上海，中国大陆）- 南南（优化音质）
 - 中文（四川，中国大陆）- 盼盼（优化音质）
+- 中文（中国大陆）- Siri（声音3）
+- 中文（中国大陆）- Siri（声音4）
+- Svenska (Sverige) - Siri (Röst 1)
+- Svenska (Sverige) - Siri (Röst 2)
 
 ### Planned (8+)
 
