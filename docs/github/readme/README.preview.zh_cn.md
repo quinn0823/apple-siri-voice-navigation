@@ -57,7 +57,7 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里使用查看其他语言的描述。
 
-## 声音 [68+]
+## 声音 [83+]
 
 ### 可用 (56)
 
@@ -76,15 +76,15 @@
     <li>English (Ireland) - Siri (Voice 2)</li>
     <li>English (South Africa) - Siri (Voice 1)</li>
     <li>English (South Africa) - Siri (Voice 2)</li>
-    <li>English (UK) - Siri (Voice 1)</li>
-    <li>English (UK) - Siri (Voice 2)</li>
-    <li>English (UK) - Siri (Voice 3)</li>
-    <li>English (UK) - Siri (Voice 4)</li>
-    <li>English (US) - Siri (Voice 1)</li>
-    <li>English (US) - Siri (Voice 2)</li>
-    <li>English (US) - Siri (Voice 3)</li>
-    <li>English (US) - Siri (Voice 4)</li>
-    <li>English (US) - Siri (Voice 5)</li>
+    <li>English (United Kingdom) - Siri (Voice 1)</li>
+    <li>English (United Kingdom) - Siri (Voice 2)</li>
+    <li>English (United Kingdom) - Siri (Voice 3)</li>
+    <li>English (United Kingdom) - Siri (Voice 4)</li>
+    <li>English (United States) - Siri (Voice 1)</li>
+    <li>English (United States) - Siri (Voice 2)</li>
+    <li>English (United States) - Siri (Voice 3)</li>
+    <li>English (United States) - Siri (Voice 4)</li>
+    <li>English (United States) - Siri (Voice 5)</li>
     <li>Español (España) - Siri (Voz 1)</li>
     <li>Español (España) - Siri (Voz 2)</li>
     <li>Español (México) - Siri (Voz 1)</li>
@@ -125,8 +125,23 @@
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### 正在制作 (2)
+### 正在制作 (17)
 
+- English (Australia) - Siri (Voice 3)
+- English (Australia) - Siri (Voice 4)
+- English (Scotland, United Kingdom) - Fiona
+- Español (Argentina) - Diego (mejorada)
+- Español (Argentina) - Isabela (mejorada)
+- Español (Chile) - Francisca (mejorada)
+- Español (Colombia) - Carlos (mejorada)
+- Español (Colombia) - Jimena (mejorada)
+- Español (Colombia) - Soledad (mejorada)
+- 中文（辽宁，中国大陆）- 冬梅（优化音质）
+- 中文（陕西，中国大陆）- 浩浩（优化音质）
+- 中文（上海，中国大陆）- 南南（优化音质）
+- 中文（四川，中国大陆）- 盼盼（优化音质）
+- 中文（中国大陆）- Siri（声音3）
+- 中文（中国大陆）- Siri（声音4）
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
