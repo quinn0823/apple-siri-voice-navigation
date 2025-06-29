@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .japanese.jp_hattor_en.pack {
+        pack_name: "日本語（日本）- Hattori（拡張）"
+    }
+}
