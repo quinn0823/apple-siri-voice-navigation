@@ -1,5 +1,5 @@
 SiiNunit {
     voice_navigation_config : .english.gb_siri_3.pack {
-        pack_name: "English (UK) - Siri (Voice 3)"
+        pack_name: "English (United Kingdom) - Siri (Voice 3)"
     }
 }
