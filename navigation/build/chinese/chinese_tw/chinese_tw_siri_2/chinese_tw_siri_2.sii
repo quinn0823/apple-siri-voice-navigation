@@ -1,5 +1,5 @@
 SiiNunit {
     voice_navigation_config : .chinese.tw_siri_2.pack {
-        pack_name: "中文（台灣）- Siri (聲音2)"
+        pack_name: "中文（台灣）- Siri（聲音2）"
     }
 }

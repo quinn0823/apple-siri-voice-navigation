@@ -1,5 +1,5 @@
 SiiNunit {
     voice_navigation_config : .japanese.jp_siri_or.pack {
-        pack_name: "日本語（日本）- Siri (oren)"
+        pack_name: "日本語（日本）- Siri（oren）"
     }
 }
