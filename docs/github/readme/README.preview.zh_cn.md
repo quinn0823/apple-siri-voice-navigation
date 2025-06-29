@@ -129,7 +129,7 @@
 
 - English (Australia) - Siri (Voice 3)
 - English (Australia) - Siri (Voice 4)
-- English (Scotland, United Kingdom) - Fiona
+- English (Scotland, United Kingdom) - Fiona (Enhanced)
 - Español (Argentina) - Diego (mejorada)
 - Español (Argentina) - Isabela (mejorada)
 - Español (Chile) - Francisca (mejorada)
