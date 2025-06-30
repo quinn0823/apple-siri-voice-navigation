@@ -37,8 +37,8 @@ def fetch_config():
 
     # Check if the required sections and options exist
     config_map = {
-        'versions.sii': ['package_name'],
-        'manifest.sii': ['package_version', 'display_name', 'category', 'icon', 'description_file'],
+        'versions_sii': ['package_name'],
+        'manifest_sii': ['package_version', 'display_name', 'category', 'icon', 'description_file'],
         'build': ['build_mode', 'version', 'skip_voices'],
         'debug': ['keep_temp', 'use_existing_temp']
     }
@@ -95,12 +95,12 @@ def copy_to_temp():
     os.makedirs(temp_dir)
 
     # Copy icon
-    shutil.copy(f'{docs_dir}/images/{config['manifest.sii']['icon']}', f'{temp_dir}')
-    print(f'Copied icon: {config['manifest.sii']['icon']}.')
+    shutil.copy(f'{docs_dir}/images/{config['manifest_sii']['icon']}', f'{temp_dir}')
+    print(f'Copied icon: {config['manifest_sii']['icon']}.')
 
     # Copy description files
     docs_descriptions_dir = f'{docs_dir}/descriptions'
-    description_file_split = config['manifest.sii']['description_file'].split('.')
+    description_file_split = config['manifest_sii']['description_file'].split('.')
     for file_name in os.listdir(docs_descriptions_dir):
         if re.match(rf'^{description_file_split[0]}(\.[a-z]{{2}}_[a-z]{{2}})?\.{description_file_split[1]}$', file_name):
             shutil.copy(f'{docs_descriptions_dir}/{file_name}', f'{temp_dir}')
@@ -145,12 +145,12 @@ def copy_to_temp():
     # Create manifest.sii file
     manifest_sii = f'''SiiNunit {{
     mod_package : .package_name {{
-        package_version: "{config['manifest.sii']['package_version']}"
-        display_name: "{config['manifest.sii']['display_name']}"
+        package_version: "{config['manifest_sii']['package_version']}"
+        display_name: "{config['manifest_sii']['display_name']}"
         author: "Jonathan Chiu"
-        category[]: "{config['manifest.sii']['category']}"
-        icon: "{config['manifest.sii']['icon']}"
-        description_file: "{config['manifest.sii']['description_file']}"
+        category[]: "{config['manifest_sii']['category']}"
+        icon: "{config['manifest_sii']['icon']}"
+        description_file: "{config['manifest_sii']['description_file']}"
     }}
 }}
 '''
@@ -169,25 +169,25 @@ def build_standard():
     # Create manifest.sii file
 #     manifest_sii = f'''SiiNunit {{
 #     mod_package : .package_name {{
-#         package_version: "{config['manifest.sii']['package_version']}"
-#         display_name: "{config['manifest.sii']['display_name']}"
+#         package_version: "{config['manifest_sii']['package_version']}"
+#         display_name: "{config['manifest_sii']['display_name']}"
 #         author: "Jonathan Chiu"
-#         category[]: "{config['manifest.sii']['category']}"
-#         icon: "{config['manifest.sii']['icon']}"
-#         description_file: "{config['manifest.sii']['description_file']}"
+#         category[]: "{config['manifest_sii']['category']}"
+#         icon: "{config['manifest_sii']['icon']}"
+#         description_file: "{config['manifest_sii']['description_file']}"
 #     }}
 # }}
 #     '''
 
     # Create zip file
-    zip_name = f'{config['manifest.sii']['display_name']}_{config['build']['version']}.zip'.lower().replace(" ", "-")
+    zip_name = f'{config['manifest_sii']['display_name']}_{config['build']['version']}.zip'.lower().replace(" ", "-")
     zip_path = f'{build_standard}/{zip_name}'
     with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zip_file:
         for dirpath, dirnames, filenames in os.walk(temp_dir):
             for file in filenames:
                 temp_file_path = os.path.join(dirpath, file)
                 zip_file.write(temp_file_path, os.path.relpath(temp_file_path, temp_dir))
-        # zip_file.writestr('manifest.sii', manifest_sii)
+        # zip_file.writestr('manifest_sii', manifest_sii)
         # print('Created manifest.sii.')
     print(f'Created zip file: {zip_name}')
 
@@ -202,7 +202,7 @@ def build_workshop():
     os.makedirs(build_workshop_dir)
 
     # Create versions.sii file
-    package_name = config['versions.sii']['package_name']
+    package_name = config['versions_sii']['package_name']
     versions_sii = f'''SiiNunit {{
     package_version_info : .{package_name} {{
         package_name: "{package_name}"
