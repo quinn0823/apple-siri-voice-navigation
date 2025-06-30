@@ -37,13 +37,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 50 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**2025 年 05 月 23 日**：1.5.1 ＞ **2.0**。GitHub 发行版现在可用！你现在也可以从源文件构建模组。
-
-- Polski (Polska) - Ewa (premium)
-- Polski (Polska) - Krzysztof (rozszerzony)
-- Polski (Polska) - Zosia (rozszerzony)
+**2025 年 06 月 30 日**：2.0 ＞ **3.0**。
 
 ---
 
@@ -59,7 +55,7 @@
 
 ## 声音 [84+ 声音 | 19+ 语言]
 
-### 可用 (56 | 12)
+### 可用 (72 | 12)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -87,17 +83,17 @@
 - English (United States) - Siri (Voice 3)
 - English (United States) - Siri (Voice 4)
 - English (United States) - Siri (Voice 5)
-- Español (Argentina) - Diego (mejorada)
-- Español (Argentina) - Isabela (mejorada)
-- Español (Chile) - Francisca (mejorada)
-- Español (Colombia) - Carlos (mejorada)
-- Español (Colombia) - Jimena (mejorada)
-- Español (Colombia) - Soledad (mejorada)
+- **Español (Argentina) - Diego (mejorada)**
+- **Español (Argentina) - Isabela (mejorada)**
+- **Español (Chile) - Francisca (mejorada)**
+- **Español (Colombia) - Carlos (mejorada)**
+- **Español (Colombia) - Jimena (mejorada)**
+- **Español (Colombia) - Soledad (mejorada)**
 - Español (España) - Siri (Voz 1)
 - Español (España) - Siri (Voz 2)
 - Español (México) - Siri (Voz 1)
 - Español (México) - Siri (Voz 2)
-- Français (Belgique) - Aude (premium)
+- **Français (Belgique) - Aude (premium)**
 - Français (Canada) - Siri (Voix 1)
 - Français (Canada) - Siri (Voix 2)
 - Français (France) - Siri (Voix 1)
@@ -117,17 +113,16 @@
 - Português (Portugal) - Joaquim (melhorada)
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
-
-- 中文（上海，中国大陆）- 南南（优化音质）
+- **中文（上海，中国大陆）- 南南（优化音质）**
 - 中文（中国大陆）- Siri（声音1）
 - 中文（中国大陆）- Siri（声音2）
-- 中文（中国大陆）- Siri（声音3）
-- 中文（中国大陆）- Siri（声音4）
+- **中文（中国大陆）- Siri（声音3）**
+- **中文（中国大陆）- Siri（声音4）**
 - 中文（台灣）- Siri（聲音1）
 - 中文（台灣）- Siri（聲音2）
-- 中文（四川，中国大陆）- 盼盼（优化音质）
-- 中文（辽宁，中国大陆）- 冬梅（优化音质）
-- 中文（陕西，中国大陆）- 浩浩（优化音质）
+- **中文（四川，中国大陆）- 盼盼（优化音质）**
+- **中文（辽宁，中国大陆）- 冬梅（优化音质）**
+- **中文（陕西，中国大陆）- 浩浩（优化音质）**
 - 中文（香港）- Siri（聲音1）
 - 中文（香港）- Siri（聲音2）
 - 日本語（日本）- Siri（hattori）
@@ -140,7 +135,7 @@
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### 正在制作 (18 | 1 新增)
+### 正在制作 (2 | 1 新增)
 
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
@@ -352,9 +347,9 @@ apple-siri-voice-navigation
 
 ---
 
-发行日期：2025 年 05 月 23 日 (2.0)
+发行日期：2025 年 06 月 30 日 (3.0)
 
-发布日期 (GitHub，简体中文)：2025 年 06 月 29 日
+发布日期 (GitHub，简体中文)：2025 年 06 月 30 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 

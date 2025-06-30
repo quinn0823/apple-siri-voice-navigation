@@ -36,13 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With **over 50 voices in 12 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With **over 70 voices in 12 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**May 23, 2025**: 1.5.1 ＞ **2.0**. The GitHub Release is now available! You can also build the mod from source now.
-
-- Polski (Polska) - Ewa (premium)
-- Polski (Polska) - Krzysztof (rozszerzony)
-- Polski (Polska) - Zosia (rozszerzony)
+**June 30, 2025**: 2.0 ＞ **3.0**.
 
 ---
 
@@ -58,7 +54,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [84+ Voices | 19+ Languages]
 
-### Available (56 | 12)
+### Available (72 | 12)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -68,10 +64,13 @@ To help improve this project, you can check out the development guide in the ["L
 - Deutsch (Deutschland) - Siri (Stimme 4)
 - English (Australia) - Siri (Voice 1)
 - English (Australia) - Siri (Voice 2)
+- **English (Australia) - Siri (Voice 3)**
+- **English (Australia) - Siri (Voice 4)**
 - English (India) - Siri (Voice 1)
 - English (India) - Siri (Voice 2)
 - English (Ireland) - Siri (Voice 1)
 - English (Ireland) - Siri (Voice 2)
+- **English (Scotland, United Kingdom) - Fiona (Enhanced)**
 - English (South Africa) - Siri (Voice 1)
 - English (South Africa) - Siri (Voice 2)
 - English (United Kingdom) - Siri (Voice 1)
@@ -83,10 +82,17 @@ To help improve this project, you can check out the development guide in the ["L
 - English (United States) - Siri (Voice 3)
 - English (United States) - Siri (Voice 4)
 - English (United States) - Siri (Voice 5)
+- **Español (Argentina) - Diego (mejorada)**
+- **Español (Argentina) - Isabela (mejorada)**
+- **Español (Chile) - Francisca (mejorada)**
+- **Español (Colombia) - Carlos (mejorada)**
+- **Español (Colombia) - Jimena (mejorada)**
+- **Español (Colombia) - Soledad (mejorada)**
 - Español (España) - Siri (Voz 1)
 - Español (España) - Siri (Voz 2)
 - Español (México) - Siri (Voz 1)
 - Español (México) - Siri (Voz 2)
+- **Français (Belgique) - Aude (premium)**
 - Français (Canada) - Siri (Voix 1)
 - Français (Canada) - Siri (Voix 2)
 - Français (France) - Siri (Voix 1)
@@ -106,10 +112,16 @@ To help improve this project, you can check out the development guide in the ["L
 - Português (Portugal) - Joaquim (melhorada)
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
-- 中文（台灣）- Siri（聲音1）
-- 中文（台灣）- Siri（聲音2）
+- **中文（上海，中国大陆）- 南南（优化音质）**
 - 中文（中国大陆）- Siri（声音1）
 - 中文（中国大陆）- Siri（声音2）
+- **中文（中国大陆）- Siri（声音3）**
+- **中文（中国大陆）- Siri（声音4）**
+- 中文（台灣）- Siri（聲音1）
+- 中文（台灣）- Siri（聲音2）
+- **中文（四川，中国大陆）- 盼盼（优化音质）**
+- **中文（辽宁，中国大陆）- 冬梅（优化音质）**
+- **中文（陕西，中国大陆）- 浩浩（优化音质）**
 - 中文（香港）- Siri（聲音1）
 - 中文（香港）- Siri（聲音2）
 - 日本語（日本）- Siri（hattori）
@@ -122,24 +134,8 @@ To help improve this project, you can check out the development guide in the ["L
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### In Production (18 | 1 New)
+### In Production (2 | 1 New)
 
-- English (Australia) - Siri (Voice 3)
-- English (Australia) - Siri (Voice 4)
-- English (Scotland, United Kingdom) - Fiona (Enhanced)
-- Español (Argentina) - Diego (mejorada)
-- Español (Argentina) - Isabela (mejorada)
-- Español (Chile) - Francisca (mejorada)
-- Español (Colombia) - Carlos (mejorada)
-- Español (Colombia) - Jimena (mejorada)
-- Español (Colombia) - Soledad (mejorada)
-- Français (Belgique) - Aude (premium)
-- 中文（辽宁，中国大陆）- 冬梅（优化音质）
-- 中文（陕西，中国大陆）- 浩浩（优化音质）
-- 中文（上海，中国大陆）- 南南（优化音质）
-- 中文（四川，中国大陆）- 盼盼（优化音质）
-- 中文（中国大陆）- Siri（声音3）
-- 中文（中国大陆）- Siri（声音4）
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
@@ -351,9 +347,9 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: May 23, 2025 (2.0)
+Release Date: June 30, 2025 (3.0)
 
-Published Date (GitHub): June 29, 2025
+Published Date (GitHub): June 30, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
