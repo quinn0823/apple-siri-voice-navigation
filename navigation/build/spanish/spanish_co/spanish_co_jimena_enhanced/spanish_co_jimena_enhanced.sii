@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .spanish.co_jimena_en.pack {
+        pack_name: "Español (Colombia) - Jimena (mejorada)"
+    }
+}
