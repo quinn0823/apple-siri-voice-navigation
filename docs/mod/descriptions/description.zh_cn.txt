@@ -139,5 +139,6 @@
 
 发行日期：2025 年 06 月 30 日 (3.0)
 灵感来自 Apple。本项目不隶属于 Apple Inc。
+
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
