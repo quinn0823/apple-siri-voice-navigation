@@ -38,7 +38,7 @@
 
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With **over 70 voices in 12 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**June 30, 2025**: 2.0 > **3.0**.
+**June 30, 2025**: 2.0 > **3.0**. Regenerate and rebuild 52 out of 56 existing voices, and **add 16 voices**.
 
 ---
 
@@ -48,7 +48,7 @@ I'm a 17-year-old student, and this project is my first attempt on creating some
 
 More languages and voices will be added in the future. If the language you speak or voice you prefer aren't available yet, feel free to **leave your requests**. Your suggestions might be implemented in just a few days!
 
-Thank you for using this mod! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
+Thank you for using this mod! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my work!
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
@@ -230,7 +230,7 @@ I don't speak all these languages. While I've done my best to ensure accuracy, t
 
 ## "You deserve an award!"
 
-In order to **stay energized** to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the **world** to me! Giving it an award using your free Steam Points means the **"Eurasia"** to me!
+In order to **stay energized** to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the **world** to me! Giving it an award using your free Steam Points means the **Eurasia** to me!
 
 <a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
