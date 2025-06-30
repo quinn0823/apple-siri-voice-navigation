@@ -170,7 +170,7 @@
 - 创意工坊 (推荐)
     - [适用于 ETS2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [适用于 ATS 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- GitHub ([发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / 从源文件构建)
+- GitHub ([发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [从源文件构建](#从源文件构建))
 
 ## 从源文件构建
 
