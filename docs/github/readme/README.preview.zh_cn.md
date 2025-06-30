@@ -53,9 +53,9 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里使用查看其他语言的描述。
 
-## 声音 [84+ Voices in 19+ Languages]
+## 声音 [82+ Voices in 19+ Languages]
 
-### 可用 (72 in 12)
+### 可用 (70 in 12)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -125,8 +125,6 @@
 - **中文（陕西，中国大陆）- 浩浩（优化音质）**
 - 中文（香港）- Siri（聲音1）
 - 中文（香港）- Siri（聲音2）
-- 日本語（日本）- Siri（hattori）
-- 日本語（日本）- Siri（oren）
 - 日本語（日本）- Siri（声1）
 - 日本語（日本）- Siri（声2）
 

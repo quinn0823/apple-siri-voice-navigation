@@ -12,8 +12,8 @@ Thank you for subscribing! If you like it, please consider leaving a vote, shari
 
 To help improve this project, you can check out the development guide in the [url=https://github.com/quinn0823/apple-siri-voice-navigation]repository[/url] on GitHub. You can also view the descriptions in other languages there.
 
-[h1]Voices [84+ Voices in 19+ Languages][/h1]
-[b]Available (72 in 12)[/b]
+[h1]Voices [82+ Voices in 19+ Languages][/h1]
+[b]Available (70 in 12)[/b]
 [list]
 [*]Čeština (Česko) - Iveta (vylepšená verze)
 [*]Čeština (Česko) - Zuzana (prémiový)
@@ -83,8 +83,6 @@ To help improve this project, you can check out the development guide in the [ur
 [*][b]中文（陕西，中国大陆）- 浩浩（优化音质）[/b]
 [*]中文（香港）- Siri（聲音1）
 [*]中文（香港）- Siri（聲音2）
-[*]日本語（日本）- Siri（hattori）
-[*]日本語（日本）- Siri（oren）
 [*]日本語（日本）- Siri（声1）
 [*]日本語（日本）- Siri（声2）
 [/list]

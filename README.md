@@ -56,7 +56,7 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
-## Voices [84+ Voices in 19+ Languages]
+## Voices [82+ Voices in 19+ Languages]
 
 ### Available (56 in 12)
 
@@ -113,8 +113,6 @@ To help improve this project, you can check out the development guide in the ["L
     <li>中文（中国大陆）- Siri（声音2）</li>
     <li>中文（香港）- Siri（聲音1）</li>
     <li>中文（香港）- Siri（聲音2）</li>
-    <li>日本語（日本）- Siri（hattori）</li>
-    <li>日本語（日本）- Siri（oren）</li>
     <li>日本語（日本）- Siri（声1）</li>
     <li>日本語（日本）- Siri（声2）</li>
 </ul></b>

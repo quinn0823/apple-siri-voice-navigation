@@ -12,8 +12,8 @@
 
 要帮助改进这个项目，你可以在 GitHub 上的[url=https://github.com/quinn0823/apple-siri-voice-navigation]存储库[/url]查看开发指南。你也可以在那里查看使用其他语言的描述。
 
-[h1]声音 [84+ Voices in 19+ Languages][/h1]
-[b]可用 (72 in 12)[/b]
+[h1]声音 [82+ Voices in 19+ Languages][/h1]
+[b]可用 (70 in 12)[/b]
 [b][list]
 [*]Čeština (Česko) - Iveta (vylepšená verze)
 [*]Čeština (Česko) - Zuzana (prémiový)
@@ -83,8 +83,6 @@
 [*][b]中文（陕西，中国大陆）- 浩浩（优化音质）[/b]
 [*]中文（香港）- Siri（聲音1）
 [*]中文（香港）- Siri（聲音2）
-[*]日本語（日本）- Siri（hattori）
-[*]日本語（日本）- Siri（oren）
 [*]日本語（日本）- Siri（声1）
 [*]日本語（日本）- Siri（声2）
 [/list][/b]
