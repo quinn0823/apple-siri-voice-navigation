@@ -92,6 +92,6 @@ Bug Fixes
 * Build scripts and standard mod: fix "Failed to process incompatible zip entry: manifest.sii" error.
 
 Notes
-* These 2 voices cannot be regenerated due to some bugs in the current Apple system
+* These 2 voices cannot be regenerated due to some bugs in the current Apple OS
     + English (India) - Siri (Voice 1)
     + English (India) - Siri (Voice 2)

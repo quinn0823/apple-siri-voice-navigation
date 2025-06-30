@@ -1,4 +1,4 @@
-[b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With [b]over 70 voices in 12 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices on Apple OS to Truck Simulator games. With [b]over 70 voices in 12 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
 [b]June 30, 2025[/b]: 2.0 > [b]3.0[/b]. Regenerate and rebuild 52 out of 56 existing voices, and [b]add 16 voices[/b].
 
@@ -177,7 +177,7 @@ To help improve this project, you can check out the development guide in the [ur
 
 [hr][/hr]
 [h1]"I Want More Voices!"[/h1]
-If you'd like to see more languages or voices added, please [b]leave your requests[/b] here or on GitHub. Supports [b]any language and voice[/b] available on Apple devices, [b]not just Siri[/b].
+If you'd like to see more languages or voices added, please [b]leave your requests[/b] here or on GitHub. Supports [b]any language and voice[/b] available on Apple OS, [b]not just Siri[/b].
 
 [h1]"Oh No! There's a Mistake!"[/h1]
 I don't speak all these languages. While I've done my best to ensure accuracy, there may still be mistakes. If you find any, please [b]leave word[/b] in the comment section here or on the Issues page, or make the correction [b]directly on GitHub[/b]. Thank you!
