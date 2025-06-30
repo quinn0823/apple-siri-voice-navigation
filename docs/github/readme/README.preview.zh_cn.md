@@ -37,7 +37,7 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
 **06 月 30 日**：2.0 > **3.0**。重新生成并构建现有的 56 种声音中的 52 种，并**新增 16 种声音**。
 
@@ -223,7 +223,7 @@
 
 ## “我要更多的声音！”
 
-如果你想看到更多的语言或声音被添加，请在这里或[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)**留下你的请求**。支持 Apple 设备上的**任何语言和声音**，**不仅仅是 Siri**。
+如果你想看到更多的语言或声音被添加，请在这里或[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)**留下你的请求**。支持 Apple OS 上的**任何语言和声音**，**不仅仅是 Siri**。
 
 ## “哦，不！搞错了！”
 
