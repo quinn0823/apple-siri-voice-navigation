@@ -52,9 +52,9 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
-## Voices [84+ Voices | 19+ Languages]
+## Voices [84+ Voices in 19+ Languages]
 
-### Available (72 | 12)
+### Available (72 in 12)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -129,12 +129,12 @@ To help improve this project, you can check out the development guide in the ["L
 - 日本語（日本）- Siri（声1）
 - 日本語（日本）- Siri（声2）
 
-### Coming Soon (2 | 1 New)
+### Coming Soon (2 in 1 New)
 
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### In Production (2 | 1 New)
+### In Production (2 in 1 New)
 
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
