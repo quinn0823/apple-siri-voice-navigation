@@ -268,12 +268,12 @@ apple-siri-voice-navigation
     └── config_default.ini   // Default config file
 ```
 
-### Languages [18]
+### Languages [18+ Languages from 38+ Countries]
 
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### Available (12)
+#### Available (12 from 32)
 
 - chinese
     - chinese_cn
@@ -320,7 +320,7 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Not Available (Planned Only) (6)
+#### Planned (6+ New from 6+)
 
 - danish
     - danish_dk

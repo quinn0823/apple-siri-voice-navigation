@@ -268,12 +268,12 @@ apple-siri-voice-navigation
     └── config_default.ini   // 默认配置文件
 ```
 
-### 语言 [18]
+### 语言 [18+ Languages from 38+ Countries]
 
 > [!TIP]
 > 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` > `chinese_cn.json`。
 
-#### 可用 (12)
+#### 可用 (12 from 32)
 
 - chinese
     - chinese_cn
@@ -320,7 +320,7 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### 不可用 (只有在计划中的) (6)
+#### 在计划中 (6+ New from 6+)
 
 - danish
     - danish_dk
