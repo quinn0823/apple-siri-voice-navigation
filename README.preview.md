@@ -60,64 +60,62 @@ To help improve this project, you can check out the development guide in the ["L
 
 ### Available (56 | 12)
 
-<b><ul>
-    <li>Čeština (Česko) - Iveta (vylepšená verze)</li>
-    <li>Čeština (Česko) - Zuzana (prémiový)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 1)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 2)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 3)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 4)</li>
-    <li>English (Australia) - Siri (Voice 1)</li>
-    <li>English (Australia) - Siri (Voice 2)</li>
-    <li>English (India) - Siri (Voice 1)</li>
-    <li>English (India) - Siri (Voice 2)</li>
-    <li>English (Ireland) - Siri (Voice 1)</li>
-    <li>English (Ireland) - Siri (Voice 2)</li>
-    <li>English (South Africa) - Siri (Voice 1)</li>
-    <li>English (South Africa) - Siri (Voice 2)</li>
-    <li>English (United Kingdom) - Siri (Voice 1)</li>
-    <li>English (United Kingdom) - Siri (Voice 2)</li>
-    <li>English (United Kingdom) - Siri (Voice 3)</li>
-    <li>English (United Kingdom) - Siri (Voice 4)</li>
-    <li>English (United States) - Siri (Voice 1)</li>
-    <li>English (United States) - Siri (Voice 2)</li>
-    <li>English (United States) - Siri (Voice 3)</li>
-    <li>English (United States) - Siri (Voice 4)</li>
-    <li>English (United States) - Siri (Voice 5)</li>
-    <li>Español (España) - Siri (Voz 1)</li>
-    <li>Español (España) - Siri (Voz 2)</li>
-    <li>Español (México) - Siri (Voz 1)</li>
-    <li>Español (México) - Siri (Voz 2)</li>
-    <li>Français (Canada) - Siri (Voix 1)</li>
-    <li>Français (Canada) - Siri (Voix 2)</li>
-    <li>Français (France) - Siri (Voix 1)</li>
-    <li>Français (France) - Siri (Voix 2)</li>
-    <li>Hebrew (Israel) - Siri (Voice 1)</li>
-    <li>Hebrew (Israel) - Siri (Voice 2)</li>
-    <li>Netherlands (België) - Ellen (verbeterd)</li>
-    <li>Netherlands (Netherland) - Siri (Stem 1)</li>
-    <li>Netherlands (Netherland) - Siri (Stem 2)</li>
-    <li>Polski (Polska) - Ewa (premium)</li>
-    <li>Polski (Polska) - Krzysztof (rozszerzony)</li>
-    <li>Polski (Polska) - Zosia (rozszerzony)</li>
-    <li>Português (Brasil) - Siri (Voz 1)</li>
-    <li>Português (Brasil) - Siri (Voz 2)</li>
-    <li>Português (Portugal) - Catarina (melhorada)</li>
-    <li>Português (Portugal) - Joana (melhorada)</li>
-    <li>Português (Portugal) - Joaquim (melhorada)</li>
-    <li>Türkçe (Türkiye) - Siri (Ses 1)</li>
-    <li>Türkçe (Türkiye) - Siri (Ses 2)</li>
-    <li>中文（台灣）- Siri（聲音1）</li>
-    <li>中文（台灣）- Siri（聲音2）</li>
-    <li>中文（中国大陆）- Siri（声音1）</li>
-    <li>中文（中国大陆）- Siri（声音2）</li>
-    <li>中文（香港）- Siri（聲音1）</li>
-    <li>中文（香港）- Siri（聲音2）</li>
-    <li>日本語（日本）- Siri（hattori）</li>
-    <li>日本語（日本）- Siri（oren）</li>
-    <li>日本語（日本）- Siri（声1）</li>
-    <li>日本語（日本）- Siri（声2）</li>
-</ul></b>
+- Čeština (Česko) - Iveta (vylepšená verze)
+- Čeština (Česko) - Zuzana (prémiový)
+- Deutsch (Deutschland) - Siri (Stimme 1)
+- Deutsch (Deutschland) - Siri (Stimme 2)
+- Deutsch (Deutschland) - Siri (Stimme 3)
+- Deutsch (Deutschland) - Siri (Stimme 4)
+- English (Australia) - Siri (Voice 1)
+- English (Australia) - Siri (Voice 2)
+- English (India) - Siri (Voice 1)
+- English (India) - Siri (Voice 2)
+- English (Ireland) - Siri (Voice 1)
+- English (Ireland) - Siri (Voice 2)
+- English (South Africa) - Siri (Voice 1)
+- English (South Africa) - Siri (Voice 2)
+- English (United Kingdom) - Siri (Voice 1)
+- English (United Kingdom) - Siri (Voice 2)
+- English (United Kingdom) - Siri (Voice 3)
+- English (United Kingdom) - Siri (Voice 4)
+- English (United States) - Siri (Voice 1)
+- English (United States) - Siri (Voice 2)
+- English (United States) - Siri (Voice 3)
+- English (United States) - Siri (Voice 4)
+- English (United States) - Siri (Voice 5)
+- Español (España) - Siri (Voz 1)
+- Español (España) - Siri (Voz 2)
+- Español (México) - Siri (Voz 1)
+- Español (México) - Siri (Voz 2)
+- Français (Canada) - Siri (Voix 1)
+- Français (Canada) - Siri (Voix 2)
+- Français (France) - Siri (Voix 1)
+- Français (France) - Siri (Voix 2)
+- Hebrew (Israel) - Siri (Voice 1)
+- Hebrew (Israel) - Siri (Voice 2)
+- Netherlands (België) - Ellen (verbeterd)
+- Netherlands (Netherland) - Siri (Stem 1)
+- Netherlands (Netherland) - Siri (Stem 2)
+- Polski (Polska) - Ewa (premium)
+- Polski (Polska) - Krzysztof (rozszerzony)
+- Polski (Polska) - Zosia (rozszerzony)
+- Português (Brasil) - Siri (Voz 1)
+- Português (Brasil) - Siri (Voz 2)
+- Português (Portugal) - Catarina (melhorada)
+- Português (Portugal) - Joana (melhorada)
+- Português (Portugal) - Joaquim (melhorada)
+- Türkçe (Türkiye) - Siri (Ses 1)
+- Türkçe (Türkiye) - Siri (Ses 2)
+- 中文（台灣）- Siri（聲音1）
+- 中文（台灣）- Siri（聲音2）
+- 中文（中国大陆）- Siri（声音1）
+- 中文（中国大陆）- Siri（声音2）
+- 中文（香港）- Siri（聲音1）
+- 中文（香港）- Siri（聲音2）
+- 日本語（日本）- Siri（hattori）
+- 日本語（日本）- Siri（oren）
+- 日本語（日本）- Siri（声1）
+- 日本語（日本）- Siri（声2）
 
 ### Coming Soon (2 | 1 New)
 
