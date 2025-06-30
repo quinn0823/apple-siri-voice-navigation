@@ -277,7 +277,7 @@ def build_mod():
 1. Click Mods on the title screen to open the mod manager.
 2. Double-click Apple Siri Voice Navigation to activate this mod.
 3. Open Options.
-4. Navigate to Audio ＞ Voice Navigation ＞ Language and voice and select a voice you like.'''
+4. Navigate to Audio > Voice Navigation > Language and voice and select a voice you like.'''
         print(f'Standard mod built at: {standard_path}\n\n{usage}')
 
 def main():

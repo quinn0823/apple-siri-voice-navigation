@@ -39,7 +39,7 @@
 
 **与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**2025 年 06 月 30 日**：2.0 ＞ **3.0**。
+**2025 年 06 月 30 日**：2.0 > **3.0**。
 
 ---
 
@@ -186,7 +186,7 @@
 
 ## 使用
 
-0. 移动 **apple-siri-voice-navigation.zip** 到模组文件夹
+0. 移动 **“apple-siri-voice-navigation.zip”** 到模组文件夹
     - Windows
         - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
         - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
@@ -196,10 +196,10 @@
     - Linux
         - ETS2: `~/.local/share/Euro Truck Simulator 2/mod`
         - ATS: `~/.local/share/American Truck Simulator/mod`
-1. 在标题界面点击**模组**来打开模组管理器。
-1. 双击 **Apple Siri Voice Navigation** 来启用这个模组。
-1. 打开**选项**。
-1. 导航到**音频 ＞ 语音导航 ＞ 语言和语音**并选择一个你喜欢的声音。
+1. 在标题界面点击 **“模组”** 来打开模组管理器。
+1. 双击 **“Apple Siri Voice Navigation”** 来启用这个模组。
+1. 打开 **“选项”**。
+1. 导航到 **“音频”>“语音导航”>“语言和语音”** 并选择一个你喜欢的声音。
 
 <!-- ## Known Issues -->
 
@@ -271,7 +271,7 @@ apple-siri-voice-navigation
 ### 语言 [18]
 
 > [!TIP]
-> 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` ＞ `chinese_cn.json`。
+> 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` > `chinese_cn.json`。
 
 #### 可用 (12)
 

@@ -1,6 +1,6 @@
 [orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 [orange]12 种语言的 70 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]2025 年 06 月 30 日[normal]: 2.0 ＞ [green]3.0[normal]。
+[orange]2025 年 06 月 30 日[normal]: 2.0 – [green]3.0[normal]。
 
 
 [orange]介绍[normal]
@@ -13,10 +13,10 @@
 [blue]1.43+[normal]，同时支持 ETS2 和 ATS。
 
 [orange]使用[normal]
-1. 在标题界面点击[orange]模组[normal]来打开模组管理器。(你已经在这里了！)
-2. 双击 [orange]Apple Siri Voice Navigation[normal] 来启用这个模组。
-3. 打开[orange]选项[normal]。
-4. 导航到[orange]音频 ＞ 语音导航 ＞ 语言和声音[normal]并选择一个你喜欢的声音。
+1. 在标题界面点击[orange]“模组”[normal]来打开模组管理器。(你已经在这里了！)
+2. 双击[orange]“Apple Siri Voice Navigation”[normal]来启用这个模组。
+3. 打开[orange]“选项”[normal]。
+4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
 
 [orange]声音 [82+ Voices in 19+ Languages][normal]
 [blue]可用 (72 in 12 New)[normal]

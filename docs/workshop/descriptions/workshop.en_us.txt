@@ -1,6 +1,6 @@
 [b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices on Apple devices to Truck Simulator games. With [b]over 70 voices in 12 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[b]June 30, 2025[/b]: 2.0 ＞ [b]3.0[/b].
+[b]June 30, 2025[/b]: 2.0 > [b]3.0[/b].
 
 [hr][/hr]
 [h1]Introduction[/h1]
@@ -123,7 +123,7 @@ To help improve this project, you can check out the development guide in the [ur
 [*]Click [b]Mods[/b] on the title screen to open the mod manager.
 [*]Double-click [b]Apple Siri Voice Navigation[/b] to activate this mod.
 [*]Open [b]Options[/b].
-[*]Navigate to [b]Audio ＞ Voice Navigation ＞ Language and voice[/b] and select a voice you like.
+[*]Navigate to [b]Audio > Voice Navigation > Language and voice[/b] and select a voice you like.
 [/olist]
 
 [hr][/hr]

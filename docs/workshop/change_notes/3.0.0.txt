@@ -74,8 +74,8 @@ Improvements
 
 Changes
 * Change the country
-    + UK to United Kingdom
-    + US to United States
+    + UK -> United Kingdom
+    + US -> United States
 * Remove 2 voices because Apple has removed them from the system
     + 日本語（日本）- Siri (hattori)
     + 日本語（日本）- Siri (oren)
