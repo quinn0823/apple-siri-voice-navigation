@@ -81,7 +81,7 @@ Changes
     + UK > United Kingdom
     + US > United States
 * Use full-width characters for Chinese (中文) and Japanese (日本語).
-* Use > or – (en dash) to replace the full-width ＞ character.
+* Replace ＞ (full-width) with > (half-width) or – (en dash).
 * Remove 2 voices because Apple has removed them from the latest system
     + 日本語（日本）- Siri（hattori）
     + 日本語（日本）- Siri（oren）
