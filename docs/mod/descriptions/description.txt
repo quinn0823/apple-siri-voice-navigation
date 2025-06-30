@@ -142,5 +142,5 @@ You can also contact me at [orange]quinnqiu0823@icloud.com[normal].
 
 Release Date: May 23, 2025 (2.0)
 Inspired by Apple. This project is not affiliated with Apple Inc.
-The MIT License (MIT)
+The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu

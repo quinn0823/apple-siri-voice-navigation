@@ -359,6 +359,6 @@ Published Date (GitHub): June 29, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
-The MIT License (MIT)
+The GNU General Public License v3.0 (GPL-3.0)
 
 Copyright © 2025 Jonathan Chiu

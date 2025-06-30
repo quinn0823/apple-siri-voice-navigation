@@ -359,6 +359,6 @@ apple-siri-voice-navigation
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 
-The MIT License (MIT)
+The GNU General Public License v3.0 (GPL-3.0)
 
 Copyright © 2025 Jonathan Chiu

@@ -1,5 +1,5 @@
 # Apple Siri Voice Navigation
-# The MIT License (MIT)
+# The GNU General Public License v3.0 (GPL-3.0)
 # Copyright (c) 2025 Jonathan Chiu
 
 import os
@@ -271,7 +271,7 @@ def build_mod():
 
 def main():
     copyright = '''Apple Siri Voice Navigation
-The MIT License (MIT)
+The GNU General Public License v3.0 (GPL-3.0)
 Copyright (c) 2025 Jonathan Chiu'''
     print(copyright)
 

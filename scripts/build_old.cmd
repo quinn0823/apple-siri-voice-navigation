@@ -1,5 +1,5 @@
 @REM Apple Siri Voice Navigation
-@REM The MIT License (MIT)
+@REM The GNU General Public License v3.0 (GPL-3.0)
 @REM Copyright (c) 2025 Jonathan Chiu
 
 @echo off
