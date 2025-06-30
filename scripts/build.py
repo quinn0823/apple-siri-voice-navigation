@@ -39,7 +39,7 @@ def fetch_config():
     config_map = {
         'versions.sii': ['package_name'],
         'manifest.sii': ['package_version', 'display_name', 'author', 'category', 'icon', 'description_file'],
-        'build': ['build_mode'],
+        'build': ['build_mode', 'version'],
         'debug': ['keep_temp', 'use_existing_temp']
     }
     for section, options in config_map.items():
@@ -77,13 +77,13 @@ def initialize_directory():
             elif os.path.isfile(file_path):
                 os.remove(file_path)
 
-# Copying files to temp directory...
+# Prepare temporary files
 def copy_to_temp():
     if use_existing_temp != '0':
-        print('Skipped copying files to temp directory.')
+        print('Skipped preparing temporary files.')
         return
 
-    print('Copying files to temp directory...')
+    print('Preparing temporary files...')
 
     # Create temp directory
     os.makedirs(temp_dir)
@@ -131,14 +131,6 @@ def copy_to_temp():
             skipped_list.append(dir_name)
     print(f'Copied {copied_count} voices, skipped {skipped_count} voices: {skipped_list}')
 
-# Build standard mod
-def build_standard():
-    print('Building standard mod...')
-
-    # Create standard directory
-    build_standard = f'{build_dir}/standard'
-    os.makedirs(build_standard)
-
     # Create manifest.sii file
     manifest_sii = f'''SiiNunit {{
     mod_package : .package_name {{
@@ -151,17 +143,41 @@ def build_standard():
     }}
 }}
 '''
+    with open(f'{temp_dir}/manifest.sii', 'w') as file:
+        file.write(manifest_sii)
+    print('Created manifest.sii.')
+
+# Build standard mod
+def build_standard():
+    print('Building standard mod...')
+
+    # Create standard directory
+    build_standard = f'{build_dir}/standard'
+    os.makedirs(build_standard)
+
+    # Create manifest.sii file
+#     manifest_sii = f'''SiiNunit {{
+#     mod_package : .package_name {{
+#         package_version: "{config['manifest.sii']['package_version']}"
+#         display_name: "{config['manifest.sii']['display_name']}"
+#         author: "{config['manifest.sii']['author']}"
+#         category[]: "{config['manifest.sii']['category']}"
+#         icon: "{config['manifest.sii']['icon']}"
+#         description_file: "{config['manifest.sii']['description_file']}"
+#     }}
+# }}
+#     '''
 
     # Create zip file
-    zip_name = f'{config['manifest.sii']['display_name']}_{config['manifest.sii']['package_version']}.zip'.lower().replace(" ", "-")
+    zip_name = f'{config['manifest.sii']['display_name']}_{config['build']['version']}.zip'.lower().replace(" ", "-")
     zip_path = f'{build_standard}/{zip_name}'
     with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zip_file:
         for dirpath, dirnames, filenames in os.walk(temp_dir):
             for file in filenames:
                 temp_file_path = os.path.join(dirpath, file)
                 zip_file.write(temp_file_path, os.path.relpath(temp_file_path, temp_dir))
-        zip_file.writestr('manifest.sii', manifest_sii)
-        print('Created manifest.sii.')
+        # zip_file.writestr('manifest.sii', manifest_sii)
+        # print('Created manifest.sii.')
     print(f'Created zip file: {zip_name}')
 
     return zip_name, zip_path
@@ -206,22 +222,6 @@ def build_workshop():
                 dest_path = os.path.join(build_package_dir, os.path.relpath(src_path, temp_dir))
                 os.makedirs(os.path.dirname(dest_path), exist_ok=True)
                 shutil.copy(src_path, dest_path)
-
-    # Create manifest.sii file
-    manifest_sii = f'''SiiNunit {{
-    mod_package : .package_name {{
-        package_version: "{config['manifest.sii']['package_version']}"
-        # display_name: "{config['manifest.sii']['display_name']}"
-        author: "{config['manifest.sii']['author']}"
-        category[]: "{config['manifest.sii']['category']}"
-        icon: "{config['manifest.sii']['icon']}"
-        description_file: "{config['manifest.sii']['description_file']}"
-    }}
-}}
-'''
-    with open(f'{build_package_dir}/manifest.sii', 'w') as file:
-        file.write(manifest_sii)
-    print('Created manifest.sii.')
 
     return build_workshop_dir
 
