@@ -40,7 +40,7 @@ def fetch_config():
         'versions.sii': ['package_name'],
         'manifest.sii': ['package_version', 'display_name', 'author', 'category', 'icon', 'description_file'],
         'build': ['build_mode'],
-        'debug': ['use_existing_temp', 'keep_temp']
+        'debug': ['keep_temp', 'use_existing_temp']
     }
     for section, options in config_map.items():
         if not config.has_section(section):
