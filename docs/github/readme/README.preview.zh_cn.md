@@ -8,33 +8,33 @@
 
 
 <p align="center">
-    <a href="/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
+    <a href="/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation?label=许可证"></a>
     <!-- <a href="https://www.fmod.com"><img alt="FMOD" src="https://img.shields.io/badge/studio-2.01.05-blue?logo=fmod&logoSize=auto"></a> -->
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation?label=发行版"></a>
     <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/buy me a coffee-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
 </p>
 
 <p align="center">
-    <a href="/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-下载-blue?logo=github&labelColor=181717"></a>
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a>
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/quinn0823/apple-siri-voice-navigation"></a>
-</p>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-下载-blue?logo=github&labelColor=181717"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation?label=发行日期"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/quinn0823/apple-siri-voice-navigation?label=最后提交"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/quinn0823/apple-siri-voice-navigation?label=提交活动"></a>
 </p>
 
 <p align="center">
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="欧洲卡车模拟 2" src="https://img.shields.io/badge/欧洲卡车模拟 2-订阅-5c7e10?logo=steam&labelColor=yellow"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712?label=更新日期"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712?label=订阅"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712?label=下载"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712?label=收藏"></a>
 </p>
 
 <p align="center">
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="美洲卡车模拟" src="https://img.shields.io/badge/美洲卡车模拟-订阅-5c7e10?logo=steam&labelColor=red"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298?label=更新日期"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298?label=订阅"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298?label=下载"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=收藏"></a>
 </p>
 
 **与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
