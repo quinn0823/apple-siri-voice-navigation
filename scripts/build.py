@@ -117,7 +117,7 @@ def copy_to_temp():
     for dirpath, dirnames, filenames in os.walk(voice_dir):
         dir_name = os.path.basename(dirpath)
         if dir_name in config['build']['skip_voices']:
-            print(f'Skipped voice: {dir_name}. In skip_voices list.')
+            print(f'Skipped voice: {dir_name}. In skip_voices list. May be deprecated.')
             skipped_count += 1
             skipped_list.append(dir_name)
         elif len(filenames) == 3:
