@@ -16,6 +16,7 @@ docs_dir = 'docs/mod'
 build_dir = 'build'
 temp_dir = f'{build_dir}/temp'
 config = None
+skip_voices = []
 use_existing_temp = None
 keep_temp = None
 
@@ -38,8 +39,8 @@ def fetch_config():
     # Check if the required sections and options exist
     config_map = {
         'versions.sii': ['package_name'],
-        'manifest.sii': ['package_version', 'display_name', 'author', 'category', 'icon', 'description_file'],
-        'build': ['build_mode', 'version'],
+        'manifest.sii': ['package_version', 'display_name', 'category', 'icon', 'description_file'],
+        'build': ['build_mode', 'version', 'skip_voices'],
         'debug': ['keep_temp', 'use_existing_temp']
     }
     for section, options in config_map.items():
@@ -51,13 +52,19 @@ def fetch_config():
                 print(f'Option "{option}" not found in section [{section}] in the config file.')
                 sys.exit(1)
 
+    # Convert config to dictionary
+    config = {section: dict(config[section]) for section in config.sections()}
+
+    # Convert skip_voices string to list
+    config['build']['skip_voices'] = re.findall(r'\w+', config['build']['skip_voices'])
+
     # Check if temp directory exists when debug.use_existing_temp is not '0'
     if config['debug']['use_existing_temp'] != '0':
         if not os.path.exists(temp_dir):
             print(f'Temp directory not found. use_existing_temp is disabled.')
             config['debug']['use_existing_temp'] = '0'
 
-    print(f'Config: {json.dumps({section: dict(config[section]) for section in config.sections()}, ensure_ascii=False)}')
+    print(f'Config: {json.dumps(config, ensure_ascii=False)}')
 
     return config
 
@@ -110,7 +117,11 @@ def copy_to_temp():
     skipped_list = []
     for dirpath, dirnames, filenames in os.walk(voice_dir):
         dir_name = os.path.basename(dirpath)
-        if len(filenames) == 3:
+        if dir_name in skip_voices:
+            print(f'Skipped voice: {dir_name}. In skip_voices list.')
+            skipped_count += 1
+            skipped_list.append(dir_name)
+        elif len(filenames) == 3:
             expected_file_map = [f'{dir_name}.bank', f'{dir_name}.bank.guids', f'{dir_name}.sii']
             illegal_files = []
             for file in filenames:
@@ -129,6 +140,7 @@ def copy_to_temp():
             print(f'Skipped voice: {dir_name}. Contains {len(filenames)} files, expected 3 files')
             skipped_count += 1
             skipped_list.append(dir_name)
+
     print(f'Copied {copied_count} voices, skipped {skipped_count} voices: {skipped_list}')
 
     # Create manifest.sii file
@@ -136,7 +148,7 @@ def copy_to_temp():
     mod_package : .package_name {{
         package_version: "{config['manifest.sii']['package_version']}"
         display_name: "{config['manifest.sii']['display_name']}"
-        author: "{config['manifest.sii']['author']}"
+        author: "Jonathan Chiu"
         category[]: "{config['manifest.sii']['category']}"
         icon: "{config['manifest.sii']['icon']}"
         description_file: "{config['manifest.sii']['description_file']}"
@@ -160,7 +172,7 @@ def build_standard():
 #     mod_package : .package_name {{
 #         package_version: "{config['manifest.sii']['package_version']}"
 #         display_name: "{config['manifest.sii']['display_name']}"
-#         author: "{config['manifest.sii']['author']}"
+#         author: "Jonathan Chiu"
 #         category[]: "{config['manifest.sii']['category']}"
 #         icon: "{config['manifest.sii']['icon']}"
 #         description_file: "{config['manifest.sii']['description_file']}"
