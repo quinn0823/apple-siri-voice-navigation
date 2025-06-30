@@ -15,9 +15,10 @@
 </p>
 
 <p align="center">
-    <a href="/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-download-blue?logo=github&labelColor=181717"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-download-blue?logo=github&labelColor=181717"></a>
     <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a>
     <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/quinn0823/apple-siri-voice-navigation"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/quinn0823/apple-siri-voice-navigation"></a>
 </p>
 
 <p align="center">
@@ -36,13 +37,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple OS to Truck Simulator games. With **over 50 voices in 12 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple OS to Truck Simulator games. With **over 70 voices in 12 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**May 23, 2025**: 1.5.1 ＞ **2.0**. The GitHub Release is now available! You can also build the mod from source now.
-
-- Polski (Polska) - Ewa (premium)
-- Polski (Polska) - Krzysztof (rozszerzony)
-- Polski (Polska) - Zosia (rozszerzony)
+**June 30**: 2.0 > **3.0**. Regenerate and rebuild 52 out of 56 existing voices, and **add 16 voices**.
 
 ---
 
@@ -52,94 +49,92 @@ I'm a 17-year-old student, and this project is my first attempt on creating some
 
 More languages and voices will be added in the future. If the language you speak or voice you prefer aren't available yet, feel free to **leave your requests**. Your suggestions might be implemented in just a few days!
 
-Thank you for using this mod! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
+Thank you for using this mod! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my work!
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
 ## Voices [82+ Voices in 19+ Languages]
 
-### Available (56 in 12)
+### Available (70 in 12)
 
-<b><ul>
-    <li>Čeština (Česko) - Iveta (vylepšená verze)</li>
-    <li>Čeština (Česko) - Zuzana (prémiový)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 1)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 2)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 3)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 4)</li>
-    <li>English (Australia) - Siri (Voice 1)</li>
-    <li>English (Australia) - Siri (Voice 2)</li>
-    <li>English (India) - Siri (Voice 1)</li>
-    <li>English (India) - Siri (Voice 2)</li>
-    <li>English (Ireland) - Siri (Voice 1)</li>
-    <li>English (Ireland) - Siri (Voice 2)</li>
-    <li>English (South Africa) - Siri (Voice 1)</li>
-    <li>English (South Africa) - Siri (Voice 2)</li>
-    <li>English (United Kingdom) - Siri (Voice 1)</li>
-    <li>English (United Kingdom) - Siri (Voice 2)</li>
-    <li>English (United Kingdom) - Siri (Voice 3)</li>
-    <li>English (United Kingdom) - Siri (Voice 4)</li>
-    <li>English (United States) - Siri (Voice 1)</li>
-    <li>English (United States) - Siri (Voice 2)</li>
-    <li>English (United States) - Siri (Voice 3)</li>
-    <li>English (United States) - Siri (Voice 4)</li>
-    <li>English (United States) - Siri (Voice 5)</li>
-    <li>Español (España) - Siri (Voz 1)</li>
-    <li>Español (España) - Siri (Voz 2)</li>
-    <li>Español (México) - Siri (Voz 1)</li>
-    <li>Español (México) - Siri (Voz 2)</li>
-    <li>Français (Canada) - Siri (Voix 1)</li>
-    <li>Français (Canada) - Siri (Voix 2)</li>
-    <li>Français (France) - Siri (Voix 1)</li>
-    <li>Français (France) - Siri (Voix 2)</li>
-    <li>Hebrew (Israel) - Siri (Voice 1)</li>
-    <li>Hebrew (Israel) - Siri (Voice 2)</li>
-    <li>Netherlands (België) - Ellen (verbeterd)</li>
-    <li>Netherlands (Netherland) - Siri (Stem 1)</li>
-    <li>Netherlands (Netherland) - Siri (Stem 2)</li>
-    <li>Polski (Polska) - Ewa (premium)</li>
-    <li>Polski (Polska) - Krzysztof (rozszerzony)</li>
-    <li>Polski (Polska) - Zosia (rozszerzony)</li>
-    <li>Português (Brasil) - Siri (Voz 1)</li>
-    <li>Português (Brasil) - Siri (Voz 2)</li>
-    <li>Português (Portugal) - Catarina (melhorada)</li>
-    <li>Português (Portugal) - Joana (melhorada)</li>
-    <li>Português (Portugal) - Joaquim (melhorada)</li>
-    <li>Türkçe (Türkiye) - Siri (Ses 1)</li>
-    <li>Türkçe (Türkiye) - Siri (Ses 2)</li>
-    <li>中文（台灣）- Siri（聲音1）</li>
-    <li>中文（台灣）- Siri（聲音2）</li>
-    <li>中文（中国大陆）- Siri（声音1）</li>
-    <li>中文（中国大陆）- Siri（声音2）</li>
-    <li>中文（香港）- Siri（聲音1）</li>
-    <li>中文（香港）- Siri（聲音2）</li>
-    <li>日本語（日本）- Siri（声1）</li>
-    <li>日本語（日本）- Siri（声2）</li>
-</ul></b>
+- Čeština (Česko) - Iveta (vylepšená verze)
+- Čeština (Česko) - Zuzana (prémiový)
+- Deutsch (Deutschland) - Siri (Stimme 1)
+- Deutsch (Deutschland) - Siri (Stimme 2)
+- Deutsch (Deutschland) - Siri (Stimme 3)
+- Deutsch (Deutschland) - Siri (Stimme 4)
+- English (Australia) - Siri (Voice 1)
+- English (Australia) - Siri (Voice 2)
+- **English (Australia) - Siri (Voice 3)**
+- **English (Australia) - Siri (Voice 4)**
+- English (India) - Siri (Voice 1)
+- English (India) - Siri (Voice 2)
+- English (Ireland) - Siri (Voice 1)
+- English (Ireland) - Siri (Voice 2)
+- **English (Scotland, United Kingdom) - Fiona (Enhanced)**
+- English (South Africa) - Siri (Voice 1)
+- English (South Africa) - Siri (Voice 2)
+- English (United Kingdom) - Siri (Voice 1)
+- English (United Kingdom) - Siri (Voice 2)
+- English (United Kingdom) - Siri (Voice 3)
+- English (United Kingdom) - Siri (Voice 4)
+- English (United States) - Siri (Voice 1)
+- English (United States) - Siri (Voice 2)
+- English (United States) - Siri (Voice 3)
+- English (United States) - Siri (Voice 4)
+- English (United States) - Siri (Voice 5)
+- **Español (Argentina) - Diego (mejorada)**
+- **Español (Argentina) - Isabela (mejorada)**
+- **Español (Chile) - Francisca (mejorada)**
+- **Español (Colombia) - Carlos (mejorada)**
+- **Español (Colombia) - Jimena (mejorada)**
+- **Español (Colombia) - Soledad (mejorada)**
+- Español (España) - Siri (Voz 1)
+- Español (España) - Siri (Voz 2)
+- Español (México) - Siri (Voz 1)
+- Español (México) - Siri (Voz 2)
+- **Français (Belgique) - Aude (premium)**
+- Français (Canada) - Siri (Voix 1)
+- Français (Canada) - Siri (Voix 2)
+- Français (France) - Siri (Voix 1)
+- Français (France) - Siri (Voix 2)
+- Hebrew (Israel) - Siri (Voice 1)
+- Hebrew (Israel) - Siri (Voice 2)
+- Netherlands (België) - Ellen (verbeterd)
+- Netherlands (Netherland) - Siri (Stem 1)
+- Netherlands (Netherland) - Siri (Stem 2)
+- Polski (Polska) - Ewa (premium)
+- Polski (Polska) - Krzysztof (rozszerzony)
+- Polski (Polska) - Zosia (rozszerzony)
+- Português (Brasil) - Siri (Voz 1)
+- Português (Brasil) - Siri (Voz 2)
+- Português (Portugal) - Catarina (melhorada)
+- Português (Portugal) - Joana (melhorada)
+- Português (Portugal) - Joaquim (melhorada)
+- Türkçe (Türkiye) - Siri (Ses 1)
+- Türkçe (Türkiye) - Siri (Ses 2)
+- **中文（上海，中国大陆）- 南南（优化音质）**
+- 中文（中国大陆）- Siri（声音1）
+- 中文（中国大陆）- Siri（声音2）
+- **中文（中国大陆）- Siri（声音3）**
+- **中文（中国大陆）- Siri（声音4）**
+- 中文（台灣）- Siri（聲音1）
+- 中文（台灣）- Siri（聲音2）
+- **中文（四川，中国大陆）- 盼盼（优化音质）**
+- **中文（辽宁，中国大陆）- 冬梅（优化音质）**
+- **中文（陕西，中国大陆）- 浩浩（优化音质）**
+- 中文（香港）- Siri（聲音1）
+- 中文（香港）- Siri（聲音2）
+- 日本語（日本）- Siri（声1）
+- 日本語（日本）- Siri（声2）
 
 ### Coming Soon (2 in 1 New)
 
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### In Production (18 in 1 New)
+### In Production (2 in 1 New)
 
-- English (Australia) - Siri (Voice 3)
-- English (Australia) - Siri (Voice 4)
-- English (Scotland, United Kingdom) - Fiona (Enhanced)
-- Español (Argentina) - Diego (mejorada)
-- Español (Argentina) - Isabela (mejorada)
-- Español (Chile) - Francisca (mejorada)
-- Español (Colombia) - Carlos (mejorada)
-- Español (Colombia) - Jimena (mejorada)
-- Español (Colombia) - Soledad (mejorada)
-- Français (Belgique) - Aude (premium)
-- 中文（辽宁，中国大陆）- 冬梅（优化音质）
-- 中文（陕西，中国大陆）- 浩浩（优化音质）
-- 中文（上海，中国大陆）- 南南（优化音质）
-- 中文（四川，中国大陆）- 盼盼（优化音质）
-- 中文（中国大陆）- Siri（声音3）
-- 中文（中国大陆）- Siri（声音4）
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
@@ -204,7 +199,7 @@ To help improve this project, you can check out the development guide in the ["L
 1. Click **Mods** on the title screen to open the mod manager.
 1. Double-click **Apple Siri Voice Navigation** to activate this mod.
 1. Open **Options**.
-1. Navigate to **Audio ＞ Voice Navigation ＞ Language and voice** and select a voice you like.
+1. Navigate to **Audio > Voice Navigation > Language and voice** and select a voice you like.
 
 <!-- ## Known Issues -->
 
@@ -236,7 +231,7 @@ I don't speak all these languages. While I've done my best to ensure accuracy, t
 
 ## "You deserve an award!"
 
-In order to **stay energized** to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the **world** to me! Giving it an award using your free Steam Points means the **"Eurasia"** to me!
+In order to **stay energized** to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the **world** to me! Giving it an award using your free Steam Points means the **Eurasia** to me!
 
 <a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
@@ -274,12 +269,12 @@ apple-siri-voice-navigation
     └── config_default.ini   // Default config file
 ```
 
-### Languages [18]
+### Languages [18+ Languages from 38+ Countries]
 
 > [!TIP]
-> Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` ＞ `english_us.json`.
+> Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### Available (12)
+#### Available (12 from 32)
 
 - chinese
     - chinese_cn
@@ -326,7 +321,7 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Not Available (Planned Only) (6)
+#### Planned (6+ New from 6+)
 
 - danish
     - danish_dk
@@ -351,9 +346,9 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: May 23, 2025 (2.0)
+Release Date: June 30, 2025 (3.0)
 
-Published Date (GitHub): June 29, 2025
+Published Date (GitHub): June 30, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 

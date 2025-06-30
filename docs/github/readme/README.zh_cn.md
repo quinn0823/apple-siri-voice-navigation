@@ -8,42 +8,38 @@
 
 
 <p align="center">
-    <a href="/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
+    <a href="/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation?label=%E8%AE%B8%E5%8F%AF%E8%AF%81"></a>
     <!-- <a href="https://www.fmod.com"><img alt="FMOD" src="https://img.shields.io/badge/studio-2.01.05-blue?logo=fmod&logoSize=auto"></a> -->
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation?label=%E5%8F%91%E8%A1%8C%E7%89%88"></a>
     <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/buy me a coffee-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
 </p>
 
 <p align="center">
-    <a href="/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-下载-blue?logo=github&labelColor=181717"></a>
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a>
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/quinn0823/apple-siri-voice-navigation"></a>
-</p>
-</p>
-
-<p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="欧洲卡车模拟 2" src="https://img.shields.io/badge/欧洲卡车模拟 2-订阅-5c7e10?logo=steam&labelColor=yellow"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%E4%B8%8B%E8%BD%BD-blue?logo=github&labelColor=181717"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation?label=%E5%8F%91%E8%A1%8C%E6%97%A5%E6%9C%9F"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/quinn0823/apple-siri-voice-navigation?label=%E6%9C%80%E5%90%8E%E6%8F%90%E4%BA%A4"></a>
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/quinn0823/apple-siri-voice-navigation?label=%E6%8F%90%E4%BA%A4%E6%B4%BB%E5%8A%A8"></a>
 </p>
 
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="美洲卡车模拟" src="https://img.shields.io/badge/美洲卡车模拟-订阅-5c7e10?logo=steam&labelColor=red"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="欧洲卡车模拟 2" src="https://img.shields.io/badge/%E6%AC%A7%E6%B4%B2%E5%8D%A1%E8%BD%A6%E6%A8%A1%E6%8B%9F_2-%E8%AE%A2%E9%98%85-5c7e10?logo=steam&labelColor=yellow"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712?label=%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712?label=%E8%AE%A2%E9%98%85"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712?label=%E4%B8%8B%E8%BD%BD"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple 设备上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 50 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+<p align="center">
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="美洲卡车模拟" src="https://img.shields.io/badge/%E7%BE%8E%E6%B4%B2%E5%8D%A1%E8%BD%A6%E6%A8%A1%E6%8B%9F-%E8%AE%A2%E9%98%85-5c7e10?logo=steam&labelColor=red"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298?label=%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298?label=%E8%AE%A2%E9%98%85"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298?label=%E4%B8%8B%E8%BD%BD"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
+</p>
 
-**2025 年 05 月 23 日**：1.5.1 ＞ **2.0**。GitHub 发行版现在可用！你现在也可以从源文件构建模组。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-- Polski (Polska) - Ewa (premium)
-- Polski (Polska) - Krzysztof (rozszerzony)
-- Polski (Polska) - Zosia (rozszerzony)
+**06 月 30 日**：2.0 > **3.0**。重新生成并构建现有的 56 种声音中的 52 种，并**新增 16 种声音**。
 
 ---
 
@@ -59,88 +55,86 @@
 
 ## 声音 [82+ Voices in 19+ Languages]
 
-### 可用 (56 in 12)
+### 可用 (70 in 12)
 
-<b><ul>
-    <li>Čeština (Česko) - Iveta (vylepšená verze)</li>
-    <li>Čeština (Česko) - Zuzana (prémiový)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 1)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 2)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 3)</li>
-    <li>Deutsch (Deutschland) - Siri (Stimme 4)</li>
-    <li>English (Australia) - Siri (Voice 1)</li>
-    <li>English (Australia) - Siri (Voice 2)</li>
-    <li>English (India) - Siri (Voice 1)</li>
-    <li>English (India) - Siri (Voice 2)</li>
-    <li>English (Ireland) - Siri (Voice 1)</li>
-    <li>English (Ireland) - Siri (Voice 2)</li>
-    <li>English (South Africa) - Siri (Voice 1)</li>
-    <li>English (South Africa) - Siri (Voice 2)</li>
-    <li>English (United Kingdom) - Siri (Voice 1)</li>
-    <li>English (United Kingdom) - Siri (Voice 2)</li>
-    <li>English (United Kingdom) - Siri (Voice 3)</li>
-    <li>English (United Kingdom) - Siri (Voice 4)</li>
-    <li>English (United States) - Siri (Voice 1)</li>
-    <li>English (United States) - Siri (Voice 2)</li>
-    <li>English (United States) - Siri (Voice 3)</li>
-    <li>English (United States) - Siri (Voice 4)</li>
-    <li>English (United States) - Siri (Voice 5)</li>
-    <li>Español (España) - Siri (Voz 1)</li>
-    <li>Español (España) - Siri (Voz 2)</li>
-    <li>Español (México) - Siri (Voz 1)</li>
-    <li>Español (México) - Siri (Voz 2)</li>
-    <li>Français (Canada) - Siri (Voix 1)</li>
-    <li>Français (Canada) - Siri (Voix 2)</li>
-    <li>Français (France) - Siri (Voix 1)</li>
-    <li>Français (France) - Siri (Voix 2)</li>
-    <li>Hebrew (Israel) - Siri (Voice 1)</li>
-    <li>Hebrew (Israel) - Siri (Voice 2)</li>
-    <li>Netherlands (België) - Ellen (verbeterd)</li>
-    <li>Netherlands (Netherland) - Siri (Stem 1)</li>
-    <li>Netherlands (Netherland) - Siri (Stem 2)</li>
-    <li>Polski (Polska) - Ewa (premium)</li>
-    <li>Polski (Polska) - Krzysztof (rozszerzony)</li>
-    <li>Polski (Polska) - Zosia (rozszerzony)</li>
-    <li>Português (Brasil) - Siri (Voz 1)</li>
-    <li>Português (Brasil) - Siri (Voz 2)</li>
-    <li>Português (Portugal) - Catarina (melhorada)</li>
-    <li>Português (Portugal) - Joana (melhorada)</li>
-    <li>Português (Portugal) - Joaquim (melhorada)</li>
-    <li>Türkçe (Türkiye) - Siri (Ses 1)</li>
-    <li>Türkçe (Türkiye) - Siri (Ses 2)</li>
-    <li>中文（台灣）- Siri（聲音1）</li>
-    <li>中文（台灣）- Siri（聲音2）</li>
-    <li>中文（中国大陆）- Siri（声音1）</li>
-    <li>中文（中国大陆）- Siri（声音2）</li>
-    <li>中文（香港）- Siri（聲音1）</li>
-    <li>中文（香港）- Siri（聲音2）</li>
-    <li>日本語（日本）- Siri（声1）</li>
-    <li>日本語（日本）- Siri（声2）</li>
-</ul></b>
+- Čeština (Česko) - Iveta (vylepšená verze)
+- Čeština (Česko) - Zuzana (prémiový)
+- Deutsch (Deutschland) - Siri (Stimme 1)
+- Deutsch (Deutschland) - Siri (Stimme 2)
+- Deutsch (Deutschland) - Siri (Stimme 3)
+- Deutsch (Deutschland) - Siri (Stimme 4)
+- English (Australia) - Siri (Voice 1)
+- English (Australia) - Siri (Voice 2)
+- **English (Australia) - Siri (Voice 3)**
+- **English (Australia) - Siri (Voice 4)**
+- English (India) - Siri (Voice 1)
+- English (India) - Siri (Voice 2)
+- English (Ireland) - Siri (Voice 1)
+- English (Ireland) - Siri (Voice 2)
+- **English (Scotland, United Kingdom) - Fiona (Enhanced)**
+- English (South Africa) - Siri (Voice 1)
+- English (South Africa) - Siri (Voice 2)
+- English (United Kingdom) - Siri (Voice 1)
+- English (United Kingdom) - Siri (Voice 2)
+- English (United Kingdom) - Siri (Voice 3)
+- English (United Kingdom) - Siri (Voice 4)
+- English (United States) - Siri (Voice 1)
+- English (United States) - Siri (Voice 2)
+- English (United States) - Siri (Voice 3)
+- English (United States) - Siri (Voice 4)
+- English (United States) - Siri (Voice 5)
+- **Español (Argentina) - Diego (mejorada)**
+- **Español (Argentina) - Isabela (mejorada)**
+- **Español (Chile) - Francisca (mejorada)**
+- **Español (Colombia) - Carlos (mejorada)**
+- **Español (Colombia) - Jimena (mejorada)**
+- **Español (Colombia) - Soledad (mejorada)**
+- Español (España) - Siri (Voz 1)
+- Español (España) - Siri (Voz 2)
+- Español (México) - Siri (Voz 1)
+- Español (México) - Siri (Voz 2)
+- **Français (Belgique) - Aude (premium)**
+- Français (Canada) - Siri (Voix 1)
+- Français (Canada) - Siri (Voix 2)
+- Français (France) - Siri (Voix 1)
+- Français (France) - Siri (Voix 2)
+- Hebrew (Israel) - Siri (Voice 1)
+- Hebrew (Israel) - Siri (Voice 2)
+- Netherlands (België) - Ellen (verbeterd)
+- Netherlands (Netherland) - Siri (Stem 1)
+- Netherlands (Netherland) - Siri (Stem 2)
+- Polski (Polska) - Ewa (premium)
+- Polski (Polska) - Krzysztof (rozszerzony)
+- Polski (Polska) - Zosia (rozszerzony)
+- Português (Brasil) - Siri (Voz 1)
+- Português (Brasil) - Siri (Voz 2)
+- Português (Portugal) - Catarina (melhorada)
+- Português (Portugal) - Joana (melhorada)
+- Português (Portugal) - Joaquim (melhorada)
+- Türkçe (Türkiye) - Siri (Ses 1)
+- Türkçe (Türkiye) - Siri (Ses 2)
+- **中文（上海，中国大陆）- 南南（优化音质）**
+- 中文（中国大陆）- Siri（声音1）
+- 中文（中国大陆）- Siri（声音2）
+- **中文（中国大陆）- Siri（声音3）**
+- **中文（中国大陆）- Siri（声音4）**
+- 中文（台灣）- Siri（聲音1）
+- 中文（台灣）- Siri（聲音2）
+- **中文（四川，中国大陆）- 盼盼（优化音质）**
+- **中文（辽宁，中国大陆）- 冬梅（优化音质）**
+- **中文（陕西，中国大陆）- 浩浩（优化音质）**
+- 中文（香港）- Siri（聲音1）
+- 中文（香港）- Siri（聲音2）
+- 日本語（日本）- Siri（声1）
+- 日本語（日本）- Siri（声2）
 
 ### 即将到来 (2 in 1 New)
 
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 
-### 正在制作 (18 in 1 New)
+### 正在制作 (2 in 1 New)
 
-- English (Australia) - Siri (Voice 3)
-- English (Australia) - Siri (Voice 4)
-- English (Scotland, United Kingdom) - Fiona (Enhanced)
-- Español (Argentina) - Diego (mejorada)
-- Español (Argentina) - Isabela (mejorada)
-- Español (Chile) - Francisca (mejorada)
-- Español (Colombia) - Carlos (mejorada)
-- Español (Colombia) - Jimena (mejorada)
-- Español (Colombia) - Soledad (mejorada)
-- Français (Belgique) - Aude (premium)
-- 中文（辽宁，中国大陆）- 冬梅（优化音质）
-- 中文（陕西，中国大陆）- 浩浩（优化音质）
-- 中文（上海，中国大陆）- 南南（优化音质）
-- 中文（四川，中国大陆）- 盼盼（优化音质）
-- 中文（中国大陆）- Siri（声音3）
-- 中文（中国大陆）- Siri（声音4）
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
@@ -192,7 +186,7 @@
 
 ## 使用
 
-0. 移动 **apple-siri-voice-navigation.zip** 到模组文件夹
+0. 移动 **“apple-siri-voice-navigation.zip”** 到模组文件夹
     - Windows
         - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
         - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
@@ -202,10 +196,10 @@
     - Linux
         - ETS2: `~/.local/share/Euro Truck Simulator 2/mod`
         - ATS: `~/.local/share/American Truck Simulator/mod`
-1. 在标题界面点击**模组**来打开模组管理器。
-1. 双击 **Apple Siri Voice Navigation** 来启用这个模组。
-1. 打开**选项**。
-1. 导航到**音频 ＞ 语音导航 ＞ 语言和语音**并选择一个你喜欢的声音。
+1. 在标题界面点击 **“模组”** 来打开模组管理器。
+1. 双击 **“Apple Siri Voice Navigation”** 来启用这个模组。
+1. 打开 **“选项”**。
+1. 导航到 **“音频”>“语音导航”>“语言和语音”** 并选择一个你喜欢的声音。
 
 <!-- ## Known Issues -->
 
@@ -229,7 +223,7 @@
 
 ## “我要更多的声音！”
 
-如果你想看到更多的语言或声音被添加，请在这里或[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)**留下你的请求**。支持 Apple 设备上的**任何语言和声音**，**不仅仅是 Siri**。
+如果你想看到更多的语言或声音被添加，请在这里或[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)**留下你的请求**。支持 Apple OS 上的**任何语言和声音**，**不仅仅是 Siri**。
 
 ## “哦，不！搞错了！”
 
@@ -274,12 +268,12 @@ apple-siri-voice-navigation
     └── config_default.ini   // 默认配置文件
 ```
 
-### 语言 [18]
+### 语言 [18+ Languages from 38+ Countries]
 
 > [!TIP]
-> 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` ＞ `chinese_cn.json`。
+> 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` > `chinese_cn.json`。
 
-#### 可用 (12)
+#### 可用 (12 from 32)
 
 - chinese
     - chinese_cn
@@ -326,7 +320,7 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### 不可用 (只有在计划中的) (6)
+#### 在计划中 (6+ New from 6+)
 
 - danish
     - danish_dk
@@ -351,9 +345,9 @@ apple-siri-voice-navigation
 
 ---
 
-发行日期：2025 年 05 月 23 日 (2.0)
+发行日期：2025 年 06 月 30 日 (3.0)
 
-发布日期 (GitHub，简体中文)：2025 年 06 月 29 日
+发布日期 (GitHub，简体中文)：2025 年 06 月 30 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 
