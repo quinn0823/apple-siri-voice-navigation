@@ -16,7 +16,6 @@ docs_dir = 'docs/mod'
 build_dir = 'build'
 temp_dir = f'{build_dir}/temp'
 config = None
-skip_voices = []
 use_existing_temp = None
 keep_temp = None
 
