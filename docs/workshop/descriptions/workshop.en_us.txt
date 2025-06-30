@@ -14,7 +14,7 @@ To help improve this project, you can check out the development guide in the [ur
 
 [h1]Voices [84+ Voices | 19+ Languages][/h1]
 [b]Available (72 | 12)[/b]
-[b][list]
+[list]
 [*]Čeština (Česko) - Iveta (vylepšená verze)
 [*]Čeština (Česko) - Zuzana (prémiový)
 [*]Deutsch (Deutschland) - Siri (Stimme 1)
@@ -87,7 +87,7 @@ To help improve this project, you can check out the development guide in the [ur
 [*]日本語（日本）- Siri（oren）
 [*]日本語（日本）- Siri（声1）
 [*]日本語（日本）- Siri（声2）
-[/list][/b]
+[/list]
 [b]Coming Soon (2 | 1 New)[/b]
 [list]
 [*]Русский (Россия) - Siri (Голос 1)
