@@ -1,4 +1,4 @@
-Apple Siri Voice Navigation 3.0 [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.0.0]View on GitHub[/url]
+Apple Siri Voice Navigation 3.0
 
 New
 * Add 16 voices
@@ -96,3 +96,5 @@ Notes
 * These 2 voices cannot be regenerated due to some bugs in the current Apple OS
     + English (India) - Siri (Voice 1)
     + English (India) - Siri (Voice 2)
+
+[url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.0.0]View on GitHub[/url]
