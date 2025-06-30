@@ -142,7 +142,7 @@ def build_standard():
     # Create manifest.sii file
     manifest_sii = f'''SiiNunit {{
     mod_package : .package_name {{
-        package_version: {config['manifest.sii']['package_version']}
+        package_version: "{config['manifest.sii']['package_version']}"
         display_name: "{config['manifest.sii']['display_name']}"
         author: "{config['manifest.sii']['author']}"
         category[]: "{config['manifest.sii']['category']}"
@@ -210,7 +210,7 @@ def build_workshop():
     # Create manifest.sii file
     manifest_sii = f'''SiiNunit {{
     mod_package : .package_name {{
-        package_version: {config['manifest.sii']['package_version']}
+        package_version: "{config['manifest.sii']['package_version']}"
         # display_name: "{config['manifest.sii']['display_name']}"
         author: "{config['manifest.sii']['author']}"
         category[]: "{config['manifest.sii']['category']}"
