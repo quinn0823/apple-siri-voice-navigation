@@ -1,5 +1,5 @@
 SiiNunit {
     voice_navigation_config : .french.be_aude_en.pack {
-        pack_name: "Franç̧ais (Belgique) - Aude (premium)"
+        pack_name: "Français (Belgique) - Aude (premium)"
     }
 }
