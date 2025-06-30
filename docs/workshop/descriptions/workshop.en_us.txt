@@ -96,7 +96,7 @@ To help improve this project, you can check out the development guide in the [ur
 [*]Svenska (Sverige) - Siri (Röst 1)
 [*]Svenska (Sverige) - Siri (Röst 2)
 [/list]
-[b]Planned (8+ | 5+ New)[/b]
+[b]Planned (8+ in 5+ New)[/b]
 [list]
 [*]Italiano (Italia) - Siri (Voca 1)
 [*]Italiano (Italia) - Siri (Voca 2)

@@ -96,7 +96,7 @@
 [*]Svenska (Sverige) - Siri (Röst 1)
 [*]Svenska (Sverige) - Siri (Röst 2)
 [/list]
-[b]在计划中 (8+ | 5+ 新增)[/b]
+[b]在计划中 (8+ in 5+ New)[/b]
 [list]
 [*]Italiano (Italia) - Siri (Voca 1)
 [*]Italiano (Italia) - Siri (Voca 2)

@@ -137,7 +137,7 @@ To help improve this project, you can check out the development guide in the ["L
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### Planned (8 | 5 New +)
+### Planned (8+ in 5+ New)
 
 - Italiano (Italia) - Siri (Voca 1)
 - Italiano (Italia) - Siri (Voca 2)

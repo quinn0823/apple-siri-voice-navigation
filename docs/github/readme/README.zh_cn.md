@@ -144,7 +144,7 @@
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### 在计划中 (8+ | 5+ 新增)
+### 在计划中 (8+ in 5+ New)
 
 - Italiano (Italia) - Siri (Voca 1)
 - Italiano (Italia) - Siri (Voca 2)
