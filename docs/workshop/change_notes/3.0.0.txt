@@ -100,4 +100,4 @@ Notes
     + English (India) - Siri (Voice 1)
     + English (India) - Siri (Voice 2)
 
-[url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.0.0]View on GitHub[/url]
+View on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.0.0]GitHub[/url]
