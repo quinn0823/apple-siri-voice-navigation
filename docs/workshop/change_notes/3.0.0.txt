@@ -1,7 +1,7 @@
-Apple Siri Voice Navigation 3.0.0
+Apple Siri Voice Navigation 3.0 [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.0.0]View on GitHub[/url]
 
 New
-* Add 16 new voices
+* Add 16 voices
     + English (Scotland, United Kingdom) - Fiona (Enhanced)
     + Español (Argentina) - Diego (mejorada)
     + Español (Argentina) - Isabela (mejorada)
@@ -16,9 +16,10 @@ New
     + 中文（四川，中国大陆）- 盼盼（优化音质）
     + 中文（辽宁，中国大陆）- 冬梅（优化音质）
     + 中文（陕西，中国大陆）- 浩浩（优化音质）
+* Build scripts: add `build.skip_voices` option to skip deprecated voices.
 
 Improvements
-* Regenerate and rebuilt 52 out of 56 existing voices
+* Regenerate and rebuild 52 out of 56 existing voices
     + Čeština (Česko) - Iveta (vylepšená verze)
     + Čeština (Česko) - Zuzana (prémiový)
     + Deutsch (Deutschland) - Siri (Stimme 1)
@@ -71,11 +72,26 @@ Improvements
     + 中文（香港）- Siri（聲音2）
     + 日本語（日本）- Siri（声1）
     + 日本語（日本）- Siri（声2）
+* Build scripts: separate `manifest_sii.package_version` into 2 options
+    + `manifest_sii.package_version`, display version name, e.g. `3.0 Alpha 4`.
+    + `build.version`, mod version tag, e.g. `3.0.0-alpha.4`.
 
 Changes
-* Change the country
-    + UK -> United Kingdom
-    + US -> United States
-* Remove 2 voices because Apple has removed them from the system
-    + 日本語（日本）- Siri (hattori)
-    + 日本語（日本）- Siri (oren)
+* Change the country name of voices
+    + UK > United Kingdom
+    + US > United States
+* Use full-width characters for Chinese (中文) and Japanese (日本語).
+* Use > or – (en dash) to replace the full-width ＞ character.
+* Remove 2 voices because Apple has removed them from the latest system
+    + 日本語（日本）- Siri（hattori）
+    + 日本語（日本）- Siri（oren）
+* Update the license.
+* Build scripts: remove `manifest_sii.author` option.
+
+Bug Fixes
+* Build scripts and standard mod: fix "Failed to process incompatible zip entry: manifest.sii" error.
+
+Notes
+* These 2 voices cannot be regenerated due to some bugs in the current Apple system
+    + English (India) - Siri (Voice 1)
+    + English (India) - Siri (Voice 2)
