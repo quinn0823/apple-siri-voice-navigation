@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .italian.it_siri_1.pack {
+        pack_name: "Italiano (Italia) - Siri (Voca 1)"
+    }
+}
