@@ -142,6 +142,8 @@ To help improve this project, you can check out the development guide in the ["L
 
 - Italiano (Italia) - Siri (Voca 1)
 - Italiano (Italia) - Siri (Voca 2)
+- Italiano (Italia) - Siri (Voca 3)
+- Italiano (Italia) - Siri (Voca 4)
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
 - Dansk (Danmark) - Siri (Stemme 1)

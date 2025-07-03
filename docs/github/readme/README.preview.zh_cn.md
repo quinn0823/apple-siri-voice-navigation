@@ -142,6 +142,8 @@
 
 - Italiano (Italia) - Siri (Voca 1)
 - Italiano (Italia) - Siri (Voca 2)
+- Italiano (Italia) - Siri (Voca 3)
+- Italiano (Italia) - Siri (Voca 4)
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
 - Dansk (Danmark) - Siri (Stemme 1)

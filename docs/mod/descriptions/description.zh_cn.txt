@@ -102,6 +102,8 @@
 [red]在计划中 (8+ in 5+ New)[normal]
 * Italiano (Italia) - Siri (Voca 1)
 * Italiano (Italia) - Siri (Voca 2)
+* Italiano (Italia) - Siri (Voca 3)
+* Italiano (Italia) - Siri (Voca 4)
 * Magyar (Magyarország) - Tünde (prémium)
 * Română (România) - Ioana (îmbunătațită)
 * Dansk (Danmark) - Siri (Stemme 1)
