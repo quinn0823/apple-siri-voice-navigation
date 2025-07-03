@@ -166,7 +166,7 @@ To help improve this project, you can check out the development guide in the ["L
     - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub ([Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [Build from source](#build-from-source))
 
-## Build From Source
+## Build from Source
 
 > [!Note]
 > You can create a copy of `scripts/config_default.ini` and rename it `config.ini` to configure the  script. It's allowed to modify `config_default.ini` directly, but it's not recommended.
@@ -231,7 +231,7 @@ If you'd like to see more languages or voices added, please **leave your request
 
 I don't speak all these languages. While I've done my best to ensure accuracy, there may still be mistakes. If you find any, please **leave word** in the comment section on [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or on the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or make the correction **directly here**. Thank you!
 
-## "You deserve an award!"
+## "You Deserve an Award!"
 
 In order to **stay energized** to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the **world** to me! Giving it an award using your free Steam Points means the **Eurasia** to me!
 

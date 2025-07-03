@@ -128,7 +128,7 @@ If you'd like to see more languages or voices added, please [orange]leave your r
 [orange]"Oh No! There's a Mistake!"[normal]
 I don't speak all these languages. While I've done my best to ensure accuracy, there may still be mistakes. If you find any, please [orange]leave word[normal] in the comment section on Workshop or on the Issues page, or make the correction [orange]directly on GitHub[normal]. Thank you!
 
-[orange]"You deserve an award!"[normal]
+[orange]"You Deserve an Award!"[normal]
 In order to [orange]stay energized[normal] to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the [orange]world[normal] to me! Giving it an award using your free Steam Points means the [orange]Eurasia[normal] to me!
 
 [orange]"Let Me Help You!"[normal]

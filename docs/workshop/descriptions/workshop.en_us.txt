@@ -148,7 +148,7 @@ If you'd like to see more languages or voices added, please [b]leave your reques
 [h1]"Oh No! There's a Mistake!"[/h1]
 I don't speak all these languages. While I've done my best to ensure accuracy, there may still be mistakes. If you find any, please [b]leave word[/b] in the comment section here or on the Issues page, or make the correction [b]directly on GitHub[/b]. Thank you!
 
-[h1]"You deserve an award!"[/h1]
+[h1]"You Deserve an Award!"[/h1]
 In order to [b]stay energized[/b] to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the [b]world[/b] to me! Giving it an award using your free Steam Points means the [b]Eurasia[/b] to me!
 
 [url=https://www.buymeacoffee.com/jonathanchiu][img]https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00[/img][/url]
