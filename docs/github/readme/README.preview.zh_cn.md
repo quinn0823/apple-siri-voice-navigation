@@ -39,7 +39,7 @@
 
 **与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 上标志性的声音带到卡车模拟游戏中。有 **12 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**06 月 30 日**：2.0 > **3.0**。重新生成并构建现有的 56 种声音中的 52 种，并**新增 16 种声音**。
+**07 月 03 日**：2.0 > **3.1**。重新生成并构建现有的 56 种声音中的 52 种，并**新增 20 种声音**。
 
 ---
 
@@ -53,9 +53,9 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里使用查看其他语言的描述。
 
-## 声音 [82+ Voices in 19+ Languages]
+## 声音 [84+ Voices in 19+ Languages]
 
-### 可用 (70 in 12)
+### 可用 (74 in 13)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -100,6 +100,10 @@
 - Français (France) - Siri (Voix 2)
 - Hebrew (Israel) - Siri (Voice 1)
 - Hebrew (Israel) - Siri (Voice 2)
+- **Italiano (Italia) - Siri (Voca 1)**
+- **Italiano (Italia) - Siri (Voca 2)**
+- **Italiano (Italia) - Siri (Voca 3)**
+- **Italiano (Italia) - Siri (Voca 4)**
 - Netherlands (België) - Ellen (verbeterd)
 - Netherlands (Netherland) - Siri (Stem 1)
 - Netherlands (Netherland) - Siri (Stem 2)
@@ -138,12 +142,8 @@
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### 在计划中 (10+ in 5+ New)
+### 在计划中 (6+ in 4+ New)
 
-- Italiano (Italia) - Siri (Voca 1)
-- Italiano (Italia) - Siri (Voca 2)
-- Italiano (Italia) - Siri (Voca 3)
-- Italiano (Italia) - Siri (Voca 4)
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
 - Dansk (Danmark) - Siri (Stemme 1)
@@ -352,7 +352,7 @@ apple-siri-voice-navigation
 
 ---
 
-发行日期：2025 年 06 月 30 日 (3.0)
+发行日期：2025 年 07 月 03 日 (3.1)
 
 发布日期 (GitHub，简体中文)：2025 年 07 月 03 日
 

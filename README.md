@@ -39,7 +39,7 @@
 
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices on Apple OS to Truck Simulator games. With **over 70 voices in 12 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**June 30**: 2.0 > **3.0**. Regenerate and rebuild 52 out of 56 existing voices, and **add 16 voices**.
+**July 03**: 2.0 > **3.1**. Regenerate and rebuild 52 out of 56 existing voices, and **add 20 voices**.
 
 ---
 
@@ -53,9 +53,9 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
-## Voices [82+ Voices in 19+ Languages]
+## Voices [84+ Voices in 19+ Languages]
 
-### Available (70 in 12)
+### Available (74 in 13)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -100,6 +100,10 @@ To help improve this project, you can check out the development guide in the ["L
 - Français (France) - Siri (Voix 2)
 - Hebrew (Israel) - Siri (Voice 1)
 - Hebrew (Israel) - Siri (Voice 2)
+- **Italiano (Italia) - Siri (Voca 1)**
+- **Italiano (Italia) - Siri (Voca 2)**
+- **Italiano (Italia) - Siri (Voca 3)**
+- **Italiano (Italia) - Siri (Voca 4)**
 - Netherlands (België) - Ellen (verbeterd)
 - Netherlands (Netherland) - Siri (Stem 1)
 - Netherlands (Netherland) - Siri (Stem 2)
@@ -138,12 +142,8 @@ To help improve this project, you can check out the development guide in the ["L
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### Planned (10+ in 5+ New)
+### Planned (6+ in 4+ New)
 
-- Italiano (Italia) - Siri (Voca 1)
-- Italiano (Italia) - Siri (Voca 2)
-- Italiano (Italia) - Siri (Voca 3)
-- Italiano (Italia) - Siri (Voca 4)
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
 - Dansk (Danmark) - Siri (Stemme 1)
@@ -353,7 +353,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: June 30, 2025 (3.0)
+Release Date: July 03, 2025 (3.1)
 
 Published Date (GitHub): July 03, 2025
 

@@ -1,6 +1,6 @@
 [orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices on Apple OS to Truck Simulator games. With [orange]over 70 voices in 12 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[orange]June 30[normal]: 2.0 – [green]3.0[normal]. Regenerate and rebuild 52 out of 56 existing voices, and [green]add 16 voices[normal].
+[orange]July 03[normal]: 2.0 – [green]3.1[normal]. Regenerate and rebuild 52 out of 56 existing voices, and [green]add 20 voices[normal].
 
 
 [orange]Introduction[normal]
@@ -18,8 +18,8 @@ To help improve this project, you can check out the development guide in the rep
 3. Open [orange]Options[normal].
 4. Navigate to [orange]Audio – Voice Navigation – Language and voice[normal] and select a voice you like.
 
-[orange]Voices [82+ Voices in 19+ Languages][normal]
-[blue]Available (70 in 12)[normal]
+[orange]Voices [84+ Voices in 19+ Languages][normal]
+[blue]Available (74 in 13)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * Deutsch (Deutschland) - Siri (Stimme 1)
@@ -63,6 +63,10 @@ To help improve this project, you can check out the development guide in the rep
 * Français (France) - Siri (Voix 2)
 * Hebrew (Israel) - Siri (Voice 1)
 * Hebrew (Israel) - Siri (Voice 2)
+* [green]Italiano (Italia) - Siri (Voca 1)[normal]
+* [green]Italiano (Italia) - Siri (Voca 2)[normal]
+* [green]Italiano (Italia) - Siri (Voca 3)[normal]
+* [green]Italiano (Italia) - Siri (Voca 4)[normal]
 * Netherlands (België) - Ellen (verbeterd)
 * Netherlands (Netherland) - Siri (Stem 1)
 * Netherlands (Netherland) - Siri (Stem 2)
@@ -99,11 +103,7 @@ To help improve this project, you can check out the development guide in the rep
 * Svenska (Sverige) - Siri (Röst 1)
 * Svenska (Sverige) - Siri (Röst 2)
 
-[red]Planned (10+ in 5+ New)[normal]
-* Italiano (Italia) - Siri (Voca 1)
-* Italiano (Italia) - Siri (Voca 2)
-* Italiano (Italia) - Siri (Voca 3)
-* Italiano (Italia) - Siri (Voca 4)
+[red]Planned (6+ in 4+ New)[normal]
 * Magyar (Magyarország) - Tünde (prémium)
 * Română (România) - Ioana (îmbunătațită)
 * Dansk (Danmark) - Siri (Stemme 1)
@@ -137,7 +137,7 @@ Please visit the repository on GitHub at [orange]https://github.com/quinn0823/ap
 You can also contact me at [orange]quinnqiu0823@icloud.com[normal].
 
 
-Release Date: June 30, 2025 (3.0)
+Release Date: July 03, 2025 (3.1)
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
 The GNU General Public License v3.0 (GPL-3.0)

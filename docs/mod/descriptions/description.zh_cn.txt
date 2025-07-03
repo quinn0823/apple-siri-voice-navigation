@@ -1,6 +1,6 @@
 [orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 上标志性的声音带到卡车模拟游戏中。有 [orange]12 种语言的 70 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]06 月 30 日[normal]：2.0 – [green]3.0[normal]。重新生成并构建现有的 56 种声音中的 52 种，并[green]新增 16 种声音[normal]。
+[orange]07 月 03 日[normal]：2.0 – [green]3.1[normal]。重新生成并构建现有的 56 种声音中的 52 种，并[green]新增 20 种声音[normal]。
 
 
 [orange]介绍[normal]
@@ -18,7 +18,7 @@
 3. 打开[orange]“选项”[normal]。
 4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
 
-[orange]声音 [82+ Voices in 19+ Languages][normal]
+[orange]声音 [84+ Voices in 19+ Languages][normal]
 [blue]可用 (72 in 12 New)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
@@ -63,6 +63,10 @@
 * Français (France) - Siri (Voix 2)
 * Hebrew (Israel) - Siri (Voice 1)
 * Hebrew (Israel) - Siri (Voice 2)
+* [green]Italiano (Italia) - Siri (Voca 1)[normal]
+* [green]Italiano (Italia) - Siri (Voca 2)[normal]
+* [green]Italiano (Italia) - Siri (Voca 3)[normal]
+* [green]Italiano (Italia) - Siri (Voca 4)[normal]
 * Netherlands (België) - Ellen (verbeterd)
 * Netherlands (Netherland) - Siri (Stem 1)
 * Netherlands (Netherland) - Siri (Stem 2)
@@ -99,7 +103,7 @@
 * Svenska (Sverige) - Siri (Röst 1)
 * Svenska (Sverige) - Siri (Röst 2)
 
-[red]在计划中 (10+ in 5+ New)[normal]
+[red]在计划中 (6+ in 4+ New)[normal]
 * Italiano (Italia) - Siri (Voca 1)
 * Italiano (Italia) - Siri (Voca 2)
 * Italiano (Italia) - Siri (Voca 3)
@@ -137,7 +141,7 @@
 你也可以通过 [orange]quinnqiu0823@icloud.com[normal] 联系我。
 
 
-发行日期：2025 年 06 月 30 日 (3.0)
+发行日期：2025 年 07 月 03 日 (3.1)
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 
 The GNU General Public License v3.0 (GPL-3.0)
