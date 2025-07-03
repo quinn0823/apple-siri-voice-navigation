@@ -1,0 +1,10 @@
+Apple Siri Voice Navigation 3.1
+
+New
+* Add 4 voices
+    * Italiano (Italia) - Siri (Voca 1)
+    * Italiano (Italia) - Siri (Voca 2)
+    * Italiano (Italia) - Siri (Voca 3)
+    * Italiano (Italia) - Siri (Voca 4)
+
+View on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.1.0]GitHub[/url]
