@@ -273,7 +273,7 @@ apple-siri-voice-navigation
 > [!TIP]
 > 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` > `chinese_cn.json`。
 
-#### 可用 (12 from 32)
+#### 可用 (13 from 33)
 
 - chinese
     - chinese_cn
@@ -304,6 +304,8 @@ apple-siri-voice-navigation
     - german_ge
 - hebrew
     - hebrew_il
+- italian
+    - italian_it
 - japanese
     - japanese_jp
 - polish
@@ -320,14 +322,12 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### 在计划中 (7+ New from 7+)
+#### 在计划中 (6+ New from 6+)
 
 - danish
     - danish_dk
 - hungarian
     - hungarian_hu
-- italian
-    - italian_it
 - romanian
     - romanian_ro
 - russian
