@@ -96,7 +96,7 @@
 [*]Svenska (Sverige) - Siri (Röst 1)
 [*]Svenska (Sverige) - Siri (Röst 2)
 [/list]
-[b]在计划中 (8+ in 5+ New)[/b]
+[b]在计划中 (10+ in 5+ New)[/b]
 [list]
 [*]Italiano (Italia) - Siri (Voca 1)
 [*]Italiano (Italia) - Siri (Voca 2)
@@ -160,7 +160,7 @@
 
 [hr][/hr]
 发行日期：2025 年 05 月 30 日 (3.0)
-发布日期 (创意工坊，简体中文)：2025 年 06 月 30 日
+发布日期 (创意工坊，简体中文)：2025 年 07 月 03 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 

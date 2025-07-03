@@ -132,7 +132,7 @@ To help improve this project, you can check out the development guide in the [ur
 [*]Svenska (Sverige) - Siri (Röst 1)
 [*]Svenska (Sverige) - Siri (Röst 2)
 [/list]
-[b]Planned (8+ in 5+ New)[/b]
+[b]Planned (10+ in 5+ New)[/b]
 [list]
 [*]Italiano (Italia) - Siri (Voca 1)
 [*]Italiano (Italia) - Siri (Voca 2)
@@ -196,7 +196,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 [hr][/hr]
 Release Date: June 30, 2025 (3.0)
-Published Date (Workshop): June 30, 2025
+Published Date (Workshop): July 03, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 

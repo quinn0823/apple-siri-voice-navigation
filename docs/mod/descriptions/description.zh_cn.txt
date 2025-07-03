@@ -99,7 +99,7 @@
 * Svenska (Sverige) - Siri (Röst 1)
 * Svenska (Sverige) - Siri (Röst 2)
 
-[red]在计划中 (8+ in 5+ New)[normal]
+[red]在计划中 (10+ in 5+ New)[normal]
 * Italiano (Italia) - Siri (Voca 1)
 * Italiano (Italia) - Siri (Voca 2)
 * Italiano (Italia) - Siri (Voca 3)
