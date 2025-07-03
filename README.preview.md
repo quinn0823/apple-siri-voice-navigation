@@ -269,7 +269,7 @@ apple-siri-voice-navigation
     └── config_default.ini   // Default config file
 ```
 
-### Languages [18+ Languages from 38+ Countries]
+### Languages [19+ Languages from 39+ Countries]
 
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
@@ -321,12 +321,14 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Planned (6+ New from 6+)
+#### Planned (7+ New from 7+)
 
 - danish
     - danish_dk
 - hungarian
     - hungarian_hu
+- italian
+    - italian_it
 - romanian
     - romanian_ro
 - russian
@@ -348,7 +350,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: June 30, 2025 (3.0)
 
-Published Date (GitHub): June 30, 2025
+Published Date (GitHub): July 03, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
