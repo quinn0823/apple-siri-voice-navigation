@@ -136,7 +136,7 @@ def copy_to_temp():
                     shutil.copy(f'{dirpath}/{file}', build_voices_dir)
                 copied_count += 1
         elif len(filenames) != 0:
-            print(f'Skipped voice: {dir_name}. Contains {len(filenames)} files, expected 3 files')
+            print(f'Skipped voice: {dir_name}. Contains {len(filenames)} files, expected 3 files: {filenames}')
             skipped_count += 1
             skipped_list.append(dir_name)
 
@@ -266,14 +266,16 @@ def build_mod():
     if workshop_path:
         print(f'Workshop mod built at: {workshop_path}')
     if standard_name:
-        usage = f'''Standard Mod Usage
-0. Move {standard_name} to the mod folder
+        usage = f'''0. Move {standard_name} to the mod folder
     - Windows
-        - ETS2: Documents\\Euro Truck Simulator 2\\mod
-        - ATS: Documents\\American Truck Simulator\\mod
-    - macOS
+        - ETS2: %UserProfile%\Documents\Euro Truck Simulator 2\mod
+        - ATS: %UserProfile%\Documents\American Truck Simulator\mod
+    - macOS (Press Shift-Command-G to open a Go to Folder window)
         - ETS2: ~/Library/Application Support/Euro Truck Simulator 2/mod
         - ATS: ~/Library/Application Support/American Truck Simulator/mod
+    - Linux
+        - ETS2: ~/.local/share/Euro Truck Simulator 2/mod
+        - ATS: ~/.local/share/American Truck Simulator/mod
 1. Click Mods on the title screen to open the mod manager.
 2. Double-click Apple Siri Voice Navigation to activate this mod.
 3. Open Options.
