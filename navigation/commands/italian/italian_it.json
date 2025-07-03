@@ -157,7 +157,7 @@
     },
     {
         "File prefix": "finish_1",
-        "Command": "Siamo arrivati a destinazione alla prossima."
+        "Command": "Siamo arrivati a destinazione, alla prossima."
     },
     {
         "File prefix": "finish_2",
@@ -177,7 +177,7 @@
     },
     {
         "File prefix": "finish_6",
-        "Command": "Abbiamo finito abbiamo finito."
+        "Command": "Abbiamo finito."
     },
     {
         "File prefix": "finish_7",
@@ -201,7 +201,7 @@
     },
     {
         "File prefix": "recomputing_5",
-        "Command": "non importa, troverò un nuovo percorso."
+        "Command": "Non importa, troverò un nuovo percorso."
     },
     {
         "File prefix": "u_turn_1",
