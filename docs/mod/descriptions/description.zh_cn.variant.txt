@@ -1,0 +1,161 @@
+[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 上标志性的声音带到卡车模拟游戏中。有 [orange]13 种语言的 70 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+
+[orange]07 月 03 日[normal]：2.0 – [green]3.1[normal]。重新生成并构建现有的 56 种声音中的 52 种，并[green]新增 1 种语言和 20 种声音[normal]。
+
+
+[orange]介绍[normal]
+我是一个 17 岁的学生，这个项目是我第一次尝试创造这样的东西。它是用来学习和练习的。
+更多的语言和声音将在未来添加。如果你说的语言或者你喜欢的声音还不可用，请随意地[orange]留下你的请求[normal]。你的建议可能会在短短几天内实现！
+感谢你使用这个模组！如果你喜欢它，请考虑在创意工坊投票或在 GitHub 留下一颗星、分享你的反馈、用你的免费 Steam 点数奖励这个项目，或者 buy me a coffee 来支持我的“工作”！
+要帮助改进这个项目，你可以在 GitHub 上的存储库 at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal] 查看开发指南。你也可以在那里查看使用其他语言的描述。
+
+[orange]兼容性[normal]
+[blue]1.43+[normal]，同时支持 ETS2 和 ATS。
+
+[orange]使用[normal]
+1. 在标题界面点击[orange]“模组”[normal]来打开模组管理器。(你已经在这里了！)
+2. 双击[orange]“Apple Siri Voice Navigation”[normal]来启用这个模组。
+3. 打开[orange]“选项”[normal]。
+4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
+
+[orange]声音 [84+ Voices in 19+ Languages][normal]
+[blue]可用 (72 in 12 New)[normal]
+* Čeština (Česko) -
+    + Iveta (vylepšená verze)
+    + Zuzana (prémiový)
+* Deutsch (Deutschland) -
+    + Siri (Stimme 1)
+    + Siri (Stimme 2)
+    + Siri (Stimme 3)
+    + Siri (Stimme 4)
+* English
+    + (Australia) - Siri (Voice 1)
+    + (Australia) - Siri (Voice 2)
+    + [green](Australia) - Siri (Voice 3)[normal]
+    + [green](Australia) - Siri (Voice 4)[normal]
+    + (India) - Siri (Voice 1)
+    + (India) - Siri (Voice 2)
+    + (Ireland) - Siri (Voice 1)
+    + (Ireland) - Siri (Voice 2)
+    + [green](Scotland, United Kingdom) - Fiona (Enhanced)[normal]
+    + (South Africa) - Siri (Voice 1)
+    + (South Africa) - Siri (Voice 2)
+    + (United Kingdom) - Siri (Voice 1)
+    + (United Kingdom) - Siri (Voice 2)
+    + (United Kingdom) - Siri (Voice 3)
+    + (United Kingdom) - Siri (Voice 4)
+    + (United States) - Siri (Voice 1)
+    + (United States) - Siri (Voice 2)
+    + (United States) - Siri (Voice 3)
+    + (United States) - Siri (Voice 4)
+    + (United States) - Siri (Voice 5)
+* Español
+    + [green](Argentina) - Diego (mejorada)[normal]
+    + [green](Argentina) - Isabela (mejorada)[normal]
+    + [green](Chile) - Francisca (mejorada)[normal]
+    + [green](Colombia) - Carlos (mejorada)[normal]
+    + [green](Colombia) - Jimena (mejorada)[normal]
+    + [green](Colombia) - Soledad (mejorada)[normal]
+    + (España) - Siri (Voz 1)
+    + (España) - Siri (Voz 2)
+    + (México) - Siri (Voz 1)
+    + (México) - Siri (Voz 2)
+* Français
+    + [green](Belgique) - Aude (premium)[normal]
+    + (Canada) - Siri (Voix 1)
+    + (Canada) - Siri (Voix 2)
+    + (France) - Siri (Voix 1)
+    + (France) - Siri (Voix 2)
+* Hebrew (Israel) -
+    + Siri (Voice 1)
+    + Siri (Voice 2)
+* Italiano (Italia) -
+    + [green]Siri (Voca 1)[normal]
+    + [green]Siri (Voca 2)[normal]
+    + [green]Siri (Voca 3)[normal]
+    + [green]Siri (Voca 4)[normal]
+* Netherlands
+    + (België) - Ellen (verbeterd)
+    + (Netherland) - Siri (Stem 1)
+    + (Netherland) - Siri (Stem 2)
+* Polski (Polska) -
+    + Ewa (premium)
+    + Krzysztof (rozszerzony)
+    + Zosia (rozszerzony)
+* Português
+    + (Brasil) - Siri (Voz 1)
+    + (Brasil) - Siri (Voz 2)
+    + (Portugal) - Catarina (melhorada)
+    + (Portugal) - Joana (melhorada)
+    + (Portugal) - Joaquim (melhorada)
+* Türkçe (Türkiye) -
+    + Siri (Ses 1)
+    + Siri (Ses 2)
+* 中文
+    + [green]（上海，中国大陆）- 南南（优化音质）[normal]
+    + （中国大陆）- Siri（声音1）
+    + （中国大陆）- Siri（声音2）
+    + [green]（中国大陆）- Siri（声音3）[normal]
+    + [green]（中国大陆）- Siri（声音4）[normal]
+    + （台灣）- Siri（聲音1）
+    + （台灣）- Siri（聲音2）
+    + [green]（四川，中国大陆）- 盼盼（优化音质）[normal]
+    + [green]（辽宁，中国大陆）- 冬梅（优化音质）[normal]
+    + [green]（陕西，中国大陆）- 浩浩（优化音质）[normal]
+    + （香港）- Siri（聲音1）
+    + （香港）- Siri（聲音2）
+* 日本語（日本）-
+    + Siri（声1）
+    + Siri（声2）
+
+[red]即将到来 (2 in 1 New)[normal]
+* Русский (Россия) - Siri (Голос 1)
+* Русский (Россия) - Siri (Голос 2)
+
+[red]正在制作 (2 in 1 New)[normal]
+* Svenska (Sverige) - Siri (Röst 1)
+* Svenska (Sverige) - Siri (Röst 2)
+
+[red]在计划中 (6+ in 4+ New)[normal]
+* Italiano (Italia) - Siri (Voca 1)
+* Italiano (Italia) - Siri (Voca 2)
+* Italiano (Italia) - Siri (Voca 3)
+* Italiano (Italia) - Siri (Voca 4)
+* Magyar (Magyarország) - Tünde (prémium)
+* Română (România) - Ioana (îmbunătațită)
+* Dansk (Danmark) - Siri (Stemme 1)
+* Dansk (Danmark) - Siri (Stemme 2)
+* Thai (Thailand) - Siri (Voice 1)
+* Thai (Thailand) - Siri (Voice 2)
+* 你的请求…
+
+[orange]下载[normal]
+* [blue]创意工坊[normal] (推荐)
+* [blue]GitHub[normal] (发行版 / 从源文件构建)
+
+
+[orange]Apple 系列[normal]
+* [orange]Apple Siri 语音导航[normal]
+* Apple SF 符号用户界面 (正在开发…)
+
+
+[orange]“我要更多的声音！”[normal]
+如果你想看到更多的语言或声音被添加，请在创意工坊或 GitHub [orange]留下你的请求[normal]。支持 Apple OS 上的[orange]任何语言和声音[normal]，[orange]不仅仅是 Siri[normal]。
+
+[orange]“哦，不！搞错了！”[normal]
+我不会说所有这些语言。虽然我已经尽力确保准确，但还是可能会有错误。如果你发现了任何问题，请在创意工坊的留言区或 Issues 页面[orange]留言[normal]，或者[orange]直接在 GitHub 上[normal]更正。谢谢！
+
+[orange]“你应得奖励！”[normal]
+为了在放学后[orange]保持精力[normal]以致力于这个项目，我很感激你能 buy me a coffee。你的咖啡对我来说就是[orange]整个世界[normal]！用你免费的 Steam 点数奖励这个项目对我来说就是[orange]“欧亚大陆”[normal]！
+
+[orange]“让我帮你！”[normal]
+请访问 GitHub 上的存储库 at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]，在那里你可以查看为这个项目的所有文件。你可以编辑 JSON 文件并创建一个拉取请求，如果你发现任何错误。你还可以创建一个新的 JSON 文件来添加对另一种语言的支持。
+
+你也可以通过 [orange]quinnqiu0823@icloud.com[normal] 联系我。
+
+
+发行日期：2025 年 07 月 03 日 (3.1)
+灵感来自 Apple。本项目不隶属于 Apple Inc。
+
+The GNU General Public License v3.0 (GPL-3.0)
+Copyright © 2025 Jonathan Chiu
