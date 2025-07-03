@@ -263,8 +263,11 @@ apple-siri-voice-navigation
 │       └── images
 ├── navigation
 │   ├── build                // Banks and guids built by FMOD Studio, with SII files
-│   └── commands             // Voice navigation commands
-│       └── template.json    // Template for new languages
+│   ├── commands             // Voice navigation commands
+│   │   ├── ...              // Commands for each language
+│   │   └── template.json    // Template for new languages
+│   └── projects             // FMOD Studio projects
+│       └── template.zip     // FMOD Studio project template
 └── scripts                  // Build scripts
     ├── build.py             // Python
     ├── config.ini           // User config file (will not be uploaded to the repository)

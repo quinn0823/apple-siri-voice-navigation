@@ -262,8 +262,11 @@ apple-siri-voice-navigation
 │       └── images
 ├── navigation
 │   ├── build                // 由 FMOD Studio 构建的 bank 和 guids，以及 SII 文件
-│   └── commands             // 语音导航命令
-│       └── template.json    // 新语言模板
+│   ├── commands             // 语音导航命令
+│   │   ├── ...              // 各种语言的命令
+│   │   └── template.json    // 新语言模板
+│   └── projects             // FMOD Studio 项目
+│       └── template.zip     // FMOD Studio 项目模板
 └── scripts                  // 构建脚本
     ├── build.py             // Python
     ├── config.ini           // 用户配置文件 (不会上传到存储库)
