@@ -195,7 +195,7 @@ To help improve this project, you can check out the development guide in the ["L
     cd apple-siri-voice-navigation
     python scripts/build.py
     ```
-1. The buit standard mod will be in `build/standard`.
+1. The built standard mod will be in `build/standard`.
 
 
 ## Usage
