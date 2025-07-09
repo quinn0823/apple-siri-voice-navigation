@@ -1,4 +1,4 @@
-[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 上标志性的声音带到卡车模拟游戏中。有 [orange]13 种语言的 70 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]13 种语言的 70 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
 [orange]07 月 03 日[normal]：2.0 – [green]3.1[normal]。重新生成并构建现有的 56 种声音中的 52 种，并[green]新增 1 种语言和 20 种声音[normal]。
 
@@ -127,7 +127,7 @@
 
 
 [orange]“我要更多的声音！”[normal]
-如果你想看到更多的语言或声音被添加，请在创意工坊或 GitHub [orange]留下你的请求[normal]。支持 Apple OS 上的[orange]任何语言和声音[normal]，[orange]不仅仅是 Siri[normal]。
+如果你想看到更多的语言或声音被添加，请在创意工坊或 GitHub [orange]留下你的请求[normal]。支持 Apple OS 里的[orange]任何语言和声音[normal]，[orange]不仅仅是 Siri[normal]。
 
 [orange]“哦，不！搞错了！”[normal]
 我不会说所有这些语言。虽然我已经尽力确保准确，但还是可能会有错误。如果你发现了任何问题，请在创意工坊的留言区或 Issues 页面[orange]留言[normal]，或者[orange]直接在 GitHub 上[normal]更正。谢谢！
