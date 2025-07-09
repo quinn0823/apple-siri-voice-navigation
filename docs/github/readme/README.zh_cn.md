@@ -353,7 +353,7 @@ apple-siri-voice-navigation
 
 发行日期：2025 年 07 月 03 日 (3.1)
 
-发布日期 (GitHub，简体中文)：2025 年 07 月 03 日
+发布日期 (GitHub，简体中文)：2025 年 07 月 09 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 

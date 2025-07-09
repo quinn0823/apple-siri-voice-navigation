@@ -367,7 +367,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: July 03, 2025 (3.1)
 
-Published Date (GitHub): July 03, 2025
+Published Date (GitHub): July 09, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 
