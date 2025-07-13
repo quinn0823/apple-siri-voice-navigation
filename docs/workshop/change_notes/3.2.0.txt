@@ -1,0 +1,9 @@
+Apple Siri Voice Navigation 3.2
+
+New
+* Plan a new language: 한국어 (대한민국) [Korean (Korea)].
+
+Improvements
+* Add a grouped voices list variation to descriptions to comply with Workshop description word limit.
+
+View on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.2.0]GitHub[/url]
