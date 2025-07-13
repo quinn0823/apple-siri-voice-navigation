@@ -372,8 +372,8 @@ apple-siri-voice-navigation
 
 发布日期 (GitHub，简体中文)：2025 年 07 月 13 日
 
-灵感来自 Apple。本项目不隶属于苹果公司。
-
 The GNU General Public License v3.0 (GPL-3.0)
 
 Copyright © 2025 Jonathan Chiu
+
+Apple、苹果和 Siri 是 Apple Inc. 在美国及其他国家和地区注册的商标。

@@ -360,8 +360,8 @@ Release Date: July 03, 2025 (3.1)
 
 Published Date (GitHub): July 13, 2025
 
-Inspired by Apple. This project is not affiliated with Apple Inc.
-
 The GNU General Public License v3.0 (GPL-3.0)
 
 Copyright © 2025 Jonathan Chiu
+
+Apple and Siri are trademarks of Apple Inc., registered in the U.S. and other countries and regions.
