@@ -372,7 +372,7 @@ apple-siri-voice-navigation
 
 发布日期 (GitHub，简体中文)：2025 年 07 月 13 日
 
-灵感来自 Apple。本项目不隶属于 Apple Inc。
+灵感来自 Apple。本项目不隶属于苹果公司。
 
 The GNU General Public License v3.0 (GPL-3.0)
 
