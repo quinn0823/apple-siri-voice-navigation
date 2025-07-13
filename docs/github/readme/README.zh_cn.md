@@ -52,7 +52,7 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里使用查看其他语言的描述。
 
-## 声音 [84+ Voices in 19+ Languages]
+## 声音 [86+ Voices in 20+ Languages]
 
 ### 可用 (74 in 13)
 
@@ -141,7 +141,7 @@
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### 在计划中 (6+ in 4+ New)
+### 在计划中 (8+ in 5+ New)
 
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
@@ -149,6 +149,8 @@
 - Dansk (Danmark) - Siri (Stemme 2)
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
+- 한국어 (대한민국) - Siri (음성 1)
+- 한국어 (대한민국) - Siri (음성 2)
 - 你的请求…
 
 ## 兼容性
@@ -272,7 +274,7 @@ apple-siri-voice-navigation
     └── config_default.ini   // 默认配置文件
 ```
 
-### 语言 [19+ Languages from 39+ Countries]
+### 语言 [20+ Languages from 40+ Countries]
 
 > [!TIP]
 > 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` > `chinese_cn.json`。
@@ -326,12 +328,14 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### 在计划中 (6+ New from 6+)
+#### 在计划中 (7+ New from 7+)
 
 - danish
     - danish_dk
 - hungarian
     - hungarian_hu
+- korean
+    - korean_kr
 - romanian
     - romanian_ro
 - russian
@@ -353,7 +357,7 @@ apple-siri-voice-navigation
 
 发行日期：2025 年 07 月 03 日 (3.1)
 
-发布日期 (GitHub，简体中文)：2025 年 07 月 09 日
+发布日期 (GitHub，简体中文)：2025 年 07 月 13 日
 
 灵感来自 Apple。本项目不隶属于 Apple Inc。
 

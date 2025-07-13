@@ -52,7 +52,7 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the descriptions in other languages here.
 
-## Voices [84+ Voices in 19+ Languages]
+## Voices [86+ Voices in 20+ Languages]
 
 ### Available (74 in 13)
 
@@ -141,7 +141,7 @@ To help improve this project, you can check out the development guide in the ["L
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### Planned (6+ in 4+ New)
+### Planned (8+ in 5+ New)
 
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
@@ -149,6 +149,8 @@ To help improve this project, you can check out the development guide in the ["L
 - Dansk (Danmark) - Siri (Stemme 2)
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
+- 한국어 (대한민국) - Siri (음성 1)
+- 한국어 (대한민국) - Siri (음성 2)
 - Your Requests...
 
 ## Compatibility
@@ -273,7 +275,7 @@ apple-siri-voice-navigation
     └── config_default.ini   // Default config file
 ```
 
-### Languages [19+ Languages from 39+ Countries]
+### Languages [20+ Languages from 40+ Countries]
 
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
@@ -327,12 +329,14 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Planned (6+ New from 6+)
+#### Planned (7+ New from 7+)
 
 - danish
     - danish_dk
 - hungarian
     - hungarian_hu
+- korean
+    - korean_kr
 - romanian
     - romanian_ro
 - russian
@@ -354,7 +358,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: July 03, 2025 (3.1)
 
-Published Date (GitHub): July 09, 2025
+Published Date (GitHub): July 13, 2025
 
 Inspired by Apple. This project is not affiliated with Apple Inc.
 

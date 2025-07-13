@@ -18,7 +18,7 @@
 3. 打开[orange]“选项”[normal]。
 4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
 
-[orange]声音 [84+ Voices in 19+ Languages][normal]
+[orange]声音 [86+ Voices in 20+ Languages][normal]
 [blue]可用 (72 in 12 New)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
@@ -103,7 +103,7 @@
 * Svenska (Sverige) - Siri (Röst 1)
 * Svenska (Sverige) - Siri (Röst 2)
 
-[red]在计划中 (6+ in 4+ New)[normal]
+[red]在计划中 (8+ in 5+ New)[normal]
 * Italiano (Italia) - Siri (Voca 1)
 * Italiano (Italia) - Siri (Voca 2)
 * Italiano (Italia) - Siri (Voca 3)
@@ -114,6 +114,8 @@
 * Dansk (Danmark) - Siri (Stemme 2)
 * Thai (Thailand) - Siri (Voice 1)
 * Thai (Thailand) - Siri (Voice 2)
+* 한국어 (대한민국) - Siri (음성 1)
+* 한국어 (대한민국) - Siri (음성 2)
 * 你的请求…
 
 [orange]下载[normal]
