@@ -119,13 +119,13 @@
 * 你的请求…
 
 [orange]下载[normal]
-* [blue]创意工坊[normal] (推荐)
-* [blue]GitHub[normal] (发行版 / 从源文件构建)
+* [blue]创意工坊[normal]（推荐）
+* [blue]GitHub[normal]（发行版 / 从源文件构建）
 
 
 [orange]Apple 系列[normal]
 * [orange]Apple Siri 语音导航[normal]
-* Apple SF 符号用户界面 (正在开发…)
+* Apple SF 符号用户界面（正在开发…）
 
 
 [orange]“我要更多的声音！”[normal]

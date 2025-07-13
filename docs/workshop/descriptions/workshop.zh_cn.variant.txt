@@ -157,8 +157,8 @@
 
 [h1]下载[/h1]
 [list]
-[*]创意工坊 (推荐)
-[*]GitHub (发行版 / 从源文件构建)
+[*]创意工坊（推荐）
+[*]GitHub（发行版 / 从源文件构建）
 [/list]
 
 [h1]使用[/h1]
@@ -176,7 +176,7 @@
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]适用于 ETS2 的 Apple Siri 语音导航[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]适用于 ATS 的 Apple Siri 语音导航[/url]
 [/list]
-[b]Apple SF 符号用户界面 (正在开发…)[/b]
+[b]Apple SF 符号用户界面（正在开发…）[/b]
 [list]
 [*]适用于 ETS2 的 Apple SF 符号用户界面
 [*]适用于 ATS 的 Apple SF 符号用户界面

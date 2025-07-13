@@ -175,10 +175,10 @@
 <!-- > [!WARNING]
 > 为了获得最佳体验，我建议通过在**创意工坊**订阅获得它。你只能在 GitHub 上下载**非自动更新**的版本。这种方法只推荐给没有在 Steam 上拥有游戏的用户。 -->
 
-- 创意工坊 (推荐)
+- 创意工坊（推荐）
     - [适用于 ETS2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [适用于 ATS 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- GitHub ([发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [从源文件构建](#从源文件构建))
+- GitHub（[发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [从源文件构建](#从源文件构建)）
 
 ## 从源文件构建
 
@@ -187,7 +187,7 @@
 
 1. 安装以下依赖项
     - [Python 3.6+](https://www.python.org/downloads/)
-    - Git (可选)
+    - Git（可选）
 1. 克隆存储库或下载源文件。
     ```
     git clone https://github.com/quinn0823/apple-siri-voice-navigation
@@ -206,7 +206,7 @@
     - Windows
         - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
         - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
-    - macOS (按下 **Shift-Command-G** 打开“前往文件夹”窗口。)
+    - macOS（按下 **Shift-Command-G** 打开“前往文件夹”窗口。）
         - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
     - Linux
@@ -230,7 +230,7 @@
 - [适用于 ETS2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
 - [适用于 ATS 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 
-### Apple SF 符号用户界面 (正在开发…)
+### Apple SF 符号用户界面（正在开发…）
 
 - 适用于 ETS2 的 Apple SF 符号用户界面
 - 适用于 ATS 的 Apple SF 符号用户界面
@@ -259,7 +259,7 @@
 
 ```
 apple-siri-voice-navigation
-├── build                    // 由 'build.*' 构建的文件 (不会上传到存储库)
+├── build                    // 由 'build.*' 构建的文件（不会上传到存储库）
 │   └── standard             // 标准模组
 │       └── apple-siri-voice-navigation.zip   // 参阅“使用”部分
 ├── docs
@@ -283,7 +283,7 @@ apple-siri-voice-navigation
 │       └── template.zip     // FMOD Studio 项目模板
 └── scripts                  // 构建脚本
     ├── build.py             // Python
-    ├── config.ini           // 用户配置文件 (不会上传到存储库)
+    ├── config.ini           // 用户配置文件（不会上传到存储库）
     └── config_default.ini   // 默认配置文件
 ```
 
