@@ -1,0 +1,5 @@
+Apple Siri Voice Navigation 3.1.1 Alpha
+
+New
+* Plan a new language: 한국어 (대한민국) [Korean (Korea)].
+* Add a grouped voices list variation to descriptions to comply with Workshop description word limit.
