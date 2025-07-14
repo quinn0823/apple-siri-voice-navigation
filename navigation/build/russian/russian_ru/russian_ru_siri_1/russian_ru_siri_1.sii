@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .russian.ru_siri_1.pack {
+        pack_name: "Русский (Россия) - Siri (Голос 1)"
+    }
+}
