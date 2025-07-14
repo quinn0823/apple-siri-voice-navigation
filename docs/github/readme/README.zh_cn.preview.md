@@ -279,7 +279,7 @@ apple-siri-voice-navigation
 > [!TIP]
 > 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` > `chinese_cn.json`。
 
-#### 可用 (13 from 33)
+#### 可用 (14 from 34)
 
 - chinese
     - chinese_cn
@@ -325,10 +325,12 @@ apple-siri-voice-navigation
     - spanish_co
     - spanish_es
     - spanish_mx
+- russian
+    - russian_ru
 - turkish
     - turkish_tr
 
-#### 在计划中 (7+ New from 7+)
+#### 在计划中 (6+ New from 6+)
 
 - danish
     - danish_dk
@@ -338,8 +340,6 @@ apple-siri-voice-navigation
     - korean_kr
 - romanian
     - romanian_ro
-- russian
-    - russian_ru
 - swedish
     - swedish_se
 - thai
@@ -357,7 +357,7 @@ apple-siri-voice-navigation
 
 发行日期：2025 年 07 月 03 日 (3.1)
 
-发布日期（GitHub，简体中文）：2025 年 07 月 13 日
+发布日期（GitHub，简体中文）：2025 年 07 月 14 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 

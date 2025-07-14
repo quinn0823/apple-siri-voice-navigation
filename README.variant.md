@@ -293,7 +293,7 @@ apple-siri-voice-navigation
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### Available (13 from 33)
+#### Available (14 from 34)
 
 - chinese
     - chinese_cn
@@ -339,10 +339,12 @@ apple-siri-voice-navigation
     - spanish_co
     - spanish_es
     - spanish_mx
+- russian
+    - russian_ru
 - turkish
     - turkish_tr
 
-#### Planned (7+ New from 7+)
+#### Planned (6+ New from 6+)
 
 - danish
     - danish_dk
@@ -352,8 +354,6 @@ apple-siri-voice-navigation
     - korean_kr
 - romanian
     - romanian_ro
-- russian
-    - russian_ru
 - swedish
     - swedish_se
 - thai
@@ -371,7 +371,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: July 03, 2025 (3.1)
 
-Published Date (GitHub): July 13, 2025
+Published Date (GitHub): July 14, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 
