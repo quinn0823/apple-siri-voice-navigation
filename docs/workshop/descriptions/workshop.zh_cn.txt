@@ -132,15 +132,10 @@
 
 [hr][/hr]
 [h1]Apple 系列[/h1]
-[b]Apple Siri 语音导航[/b]
 [list]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]适用于 ETS2 的 Apple Siri 语音导航[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]适用于 ATS 的 Apple Siri 语音导航[/url]
-[/list]
-[b]Apple SF 符号用户界面（正在开发…）[/b]
-[list]
-[*]适用于 ETS2 的 Apple SF 符号用户界面
-[*]适用于 ATS 的 Apple SF 符号用户界面
+[*]适用于 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]欧卡 2[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]美卡[/url]的 [b]Apple Siri 语音导航[/b]
+[*]适用于 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601]欧卡 2[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912]美卡[/url]的 [b]Apple Maps Navigation[/b]（由 Lism 创建）
+[*]Apple SF 符号用户界面（正在开发…）
 [/list]
 
 [hr][/hr]

@@ -171,15 +171,10 @@ To help improve this project, you can check out the development guide in the [ur
 
 [hr][/hr]
 [h1]Apple Series[/h1]
-[b]Apple Siri Voice Navigation[/b]
 [list]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]Apple Siri Voice Navigation for ETS2[/url]
-[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]Apple Siri Voice Navigation for ATS[/url]
-[/list]
-[b]Apple SF Symbols UI[/b] (Under Development...)
-[list]
-[*]Apple SF Symbols UI for ETS2
-[*]Apple SF Symbols UI for ATS
+[*][b]Apple Siri Voice Navigation[/b] for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]ETS2[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]ATS[/url]
+[*][b]Apple Maps Navigation[/b] for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601]ETS2[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912]ATS[/url] (Created by Lism)
+[*]Apple SF Symbols UI (Under Development...)
 [/list]
 
 [hr][/hr]
