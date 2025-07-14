@@ -10,7 +10,7 @@ Thank you for using this mod! If you like it, please consider leaving a vote on 
 To help improve this project, you can check out the development guide in the repo on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]. You can also view the descriptions in other languages there.
 
 [orange]Compatibility[normal]
-[blue]1.43+[normal], supports both ETS2 and ATS.
+[blue]1.43+[normal], supports both ETS 2 and ATS.
 
 [orange]Usage[normal]
 1. Click [orange]Mods[normal] on the title screen to open the mod manager. (You're already here!)
