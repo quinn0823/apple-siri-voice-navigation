@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 70 voices in 13 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 70 voices in 14 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**July 03**: 2.0 > **3.1**. Regenerate and rebuild 52 out of 56 existing voices, and **add 1 language and 20 voices**.
+**July 14**: 3.1 > **3.2**. Add **a new language with 2 new voices**—Русский.
 
 ---
 
@@ -54,7 +54,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [86+ Voices in 20+ Languages]
 
-### Available (74 in 13)
+### Available (76 in 14)
 
 - Čeština (Česko) -
     - Iveta (vylepšená verze)
@@ -67,13 +67,13 @@ To help improve this project, you can check out the development guide in the ["L
 - English
     - (Australia) - Siri (Voice 1)
     - (Australia) - Siri (Voice 2)
-    - **(Australia) - Siri (Voice 3)**
-    - **(Australia) - Siri (Voice 4)**
+    - (Australia) - Siri (Voice 3)
+    - (Australia) - Siri (Voice 4)
     - (India) - Siri (Voice 1)
     - (India) - Siri (Voice 2)
     - (Ireland) - Siri (Voice 1)
     - (Ireland) - Siri (Voice 2)
-    - **(Scotland, United Kingdom) - Fiona (Enhanced)**
+    - (Scotland, United Kingdom) - Fiona (Enhanced)
     - (South Africa) - Siri (Voice 1)
     - (South Africa) - Siri (Voice 2)
     - (United Kingdom) - Siri (Voice 1)
@@ -86,18 +86,18 @@ To help improve this project, you can check out the development guide in the ["L
     - (United States) - Siri (Voice 4)
     - (United States) - Siri (Voice 5)
 - Español
-    - **(Argentina) - Diego (mejorada)**
-    - **(Argentina) - Isabela (mejorada)**
-    - **(Chile) - Francisca (mejorada)**
-    - **(Colombia) - Carlos (mejorada)**
-    - **(Colombia) - Jimena (mejorada)**
-    - **(Colombia) - Soledad (mejorada)**
+    - (Argentina) - Diego (mejorada)
+    - (Argentina) - Isabela (mejorada)
+    - (Chile) - Francisca (mejorada)
+    - (Colombia) - Carlos (mejorada)
+    - (Colombia) - Jimena (mejorada)
+    - (Colombia) - Soledad (mejorada)
     - (España) - Siri (Voz 1)
     - (España) - Siri (Voz 2)
     - (México) - Siri (Voz 1)
     - (México) - Siri (Voz 2)
 - Français
-    - **(Belgique) - Aude (premium)**
+    - (Belgique) - Aude (premium)
     - (Canada) - Siri (Voix 1)
     - (Canada) - Siri (Voix 2)
     - (France) - Siri (Voix 1)
@@ -127,17 +127,20 @@ To help improve this project, you can check out the development guide in the ["L
 - Türkçe (Türkiye) -
     - Siri (Ses 1)
     - Siri (Ses 2)
+- Русский (Россия) -
+    - **Siri (Голос 1)**
+    - **Siri (Голос 2)**
 - 中文
-    - **（上海，中国大陆）- 南南（优化音质）**
+    - （上海，中国大陆）- 南南（优化音质）
     - （中国大陆）- Siri（声音1）
     - （中国大陆）- Siri（声音2）
-    - **（中国大陆）- Siri（声音3）**
-    - **（中国大陆）- Siri（声音4）**
+    - （中国大陆）- Siri（声音3）
+    - （中国大陆）- Siri（声音4）
     - （台灣）- Siri（聲音1）
     - （台灣）- Siri（聲音2）
-    - **（四川，中国大陆）- 盼盼（优化音质）**
-    - **（辽宁，中国大陆）- 冬梅（优化音质）**
-    - **（陕西，中国大陆）- 浩浩（优化音质）**
+    - （四川，中国大陆）- 盼盼（优化音质）
+    - （辽宁，中国大陆）- 冬梅（优化音质）
+    - （陕西，中国大陆）- 浩浩（优化音质）
     - （香港）- Siri（聲音1）
     - （香港）- Siri（聲音2）
 - 日本語（日本）-
@@ -146,18 +149,16 @@ To help improve this project, you can check out the development guide in the ["L
 
 ### Coming Soon (2 in 1 New)
 
-- Русский (Россия) - Siri (Голос 1)
-- Русский (Россия) - Siri (Голос 2)
-
-### In Production (2 in 1 New)
-
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### Planned (8+ in 5+ New)
+### In Production (2 in 2 New)
 
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
+
+### Planned (6+ in 3+ New)
+
 - Dansk (Danmark) - Siri (Stemme 1)
 - Dansk (Danmark) - Siri (Stemme 2)
 - Thai (Thailand) - Siri (Voice 1)
@@ -378,7 +379,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: July 03, 2025 (3.1)
+Release Date: July 14, 2025 (3.2)
 
 Published Date (GitHub): July 14, 2025
 
