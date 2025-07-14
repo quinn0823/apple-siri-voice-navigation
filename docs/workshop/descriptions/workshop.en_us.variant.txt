@@ -153,7 +153,7 @@ To help improve this project, you can check out the development guide in the [ur
 [/list]
 
 [h1]Compatibility[/h1]
-[b]1.43+[/b], supports both ETS2 and ATS.
+[b]1.43+[/b], supports both ETS 2 and ATS.
 
 [h1]Download[/h1]
 [list]
@@ -172,8 +172,8 @@ To help improve this project, you can check out the development guide in the [ur
 [hr][/hr]
 [h1]Apple Series[/h1]
 [list]
-[*][b]Apple Siri Voice Navigation[/b] for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]ETS2[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]ATS[/url]
-[*][b]Apple Maps Navigation[/b] for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601]ETS2[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912]ATS[/url] (Created by Lism)
+[*][b]Apple Siri Voice Navigation[/b] for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]ETS 2[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]ATS[/url]
+[*][b]Apple Maps Navigation[/b] (Created by Lism) for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601]ETS 2[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912]ATS[/url]
 [*]Apple SF Symbols UI (Under Development...)
 [/list]
 

@@ -168,7 +168,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Compatibility
 
-**1.43+**, supports both ETS2 and ATS.
+**1.43+**, supports both ETS 2 and ATS.
 
 ## Download
 
@@ -176,7 +176,7 @@ To help improve this project, you can check out the development guide in the ["L
 > For the best experience, I recommend getting it by subscribing on **Workshop**. You can only download the **non-automatically updated** version on GitHub. This method is only recommended for users who don't own the games on Steam.  -->
 
 - Workshop (Recommended)
-    - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
+    - [Apple Siri Voice Navigation for ETS 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub ([Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [Build from source](#build-from-source))
 
@@ -204,13 +204,13 @@ To help improve this project, you can check out the development guide in the ["L
 
 0. Move **apple-siri-voice-navigation.zip** to the mod folder
     - Windows
-        - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
+        - ETS 2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
         - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
     - macOS (Press **Shift-Command-G** to open a Go to Folder window)
-        - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
+        - ETS 2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
     - Linux
-        - ETS2: `~/.local/share/Euro Truck Simulator 2/mod`
+        - ETS 2: `~/.local/share/Euro Truck Simulator 2/mod`
         - ATS: `~/.local/share/American Truck Simulator/mod`
 1. Click **Mods** on the title screen to open the mod manager.
 1. Double-click **Apple Siri Voice Navigation** to activate this mod.
@@ -225,23 +225,23 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Apple Series
 
-<!-- - **Apple Siri Voice Navigation** for [ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) / [ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- **Apple Maps Navigation** for [ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601) / [ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912) (Created by Lism)
+<!-- - **Apple Siri Voice Navigation** for [ETS 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) / [ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+- **Apple Maps Navigation** (Created by Lism) for [ETS 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601) / [ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
 - Apple SF Symbols UI (Under Development...) -->
 
 ### Apple Siri Voice Navigation
 
-- [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
+- [Apple Siri Voice Navigation for ETS 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
 - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 
 ### Apple Maps Navigation (Created by Lism)
 
-- [Apple Maps Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
+- [Apple Maps Navigation for ETS 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
 - [Apple Maps Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
 
 ### Apple SF Symbols UI (Under Development...)
 
-- Apple SF Symbols UI for ETS2
+- Apple SF Symbols UI for ETS 2
 - Apple SF Symbols UI for ATS
 
 ---
