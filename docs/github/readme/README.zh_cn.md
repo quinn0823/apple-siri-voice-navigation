@@ -362,5 +362,3 @@ apple-siri-voice-navigation
 The GNU General Public License v3.0 (GPL-3.0)
 
 Copyright © 2025 Jonathan Chiu
-
-Apple、苹果和 Siri 是 Apple Inc. 在美国及其他国家和地区注册的商标。
