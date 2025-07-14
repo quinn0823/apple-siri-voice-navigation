@@ -1,91 +1,91 @@
 [
     {
         "File prefix": "turn_left",
-        "Command": ""
+        "Command": "Поверните налево."
     },
     {
         "File prefix": "turn_right",
-        "Command": ""
+        "Command": "Поверните направо."
     },
     {
         "File prefix": "keep_left",
-        "Command": ""
+        "Command": "Держитесь левее."
     },
     {
         "File prefix": "keep_right",
-        "Command": ""
+        "Command": "Держитесь правее."
     },
     {
         "File prefix": "exit_left",
-        "Command": ""
+        "Command": "Съезд слева."
     },
     {
         "File prefix": "exit_right",
-        "Command": ""
+        "Command": "Съезд справа."
     },
     {
         "File prefix": "go_straight",
-        "Command": ""
+        "Command": "Двигайтесь прямо."
     },
     {
         "File prefix": "roundabout_1",
-        "Command": ""
+        "Command": "На кольце, первый съезд."
     },
     {
         "File prefix": "roundabout_2",
-        "Command": ""
+        "Command": "На кольце, второй съезд."
     },
     {
         "File prefix": "roundabout_3",
-        "Command": ""
+        "Command": "На кольце, третий съезд."
     },
     {
         "File prefix": "roundabout_4",
-        "Command": ""
+        "Command": "На кольце, четвертый съезд."
     },
     {
         "File prefix": "roundabout_5",
-        "Command": ""
+        "Command": "На кольце, пятый съезд."
     },
     {
         "File prefix": "roundabout_6",
-        "Command": ""
+        "Command": "На кольце, шестой съезд."
     },
     {
         "File prefix": "exit_now",
-        "Command": ""
+        "Command": "Сейчас едьте."
     },
     {
         "File prefix": "prepare_turn_left",
-        "Command": ""
+        "Command": "Приготовьтесь к повороту налево."
     },
     {
         "File prefix": "prepare_turn_right",
-        "Command": ""
+        "Command": "Приготовьтесь к повороту направо."
     },
     {
         "File prefix": "prepare_exit_left",
-        "Command": ""
+        "Command": "Приготовьтесь к съезду налево."
     },
     {
         "File prefix": "prepare_exit_right",
-        "Command": ""
+        "Command": "Приготовьтесь к съезду направо."
     },
     {
         "File prefix": "compound_turn_left",
-        "Command": ""
+        "Command": "Поверните налево,"
     },
     {
         "File prefix": "compound_turn_right",
-        "Command": ""
+        "Command": "Поверните направо,"
     },
     {
         "File prefix": "compound_keep_left",
-        "Command": ""
+        "Command": "Держитесь левее,"
     },
     {
         "File prefix": "compound_keep_right",
-        "Command": ""
+        "Command": "Держитесь правее,"
     },
     {
         "File prefix": "compound_exit_left",
@@ -129,91 +129,91 @@
     },
     {
         "File prefix": "start_1",
-        "Command": ""
+        "Command": "Поехали."
     },
     {
         "File prefix": "start_2",
-        "Command": ""
+        "Command": "Начинаем движение."
     },
     {
         "File prefix": "start_3",
-        "Command": ""
+        "Command": "Хорошего пути."
     },
     {
         "File prefix": "start_4",
-        "Command": ""
+        "Command": "Все готово, приятной поездки."
     },
     {
         "File prefix": "start_5",
-        "Command": ""
+        "Command": "Приятной поездки."
     },
     {
         "File prefix": "start_6",
-        "Command": ""
+        "Command": "Будьте внимательней на дороге."
     },
     {
         "File prefix": "start_7",
-        "Command": ""
+        "Command": "Хорошей работы."
     },
     {
         "File prefix": "finish_1",
-        "Command": ""
+        "Command": "Вы прибыли."
     },
     {
         "File prefix": "finish_2",
-        "Command": ""
+        "Command": "Приехали."
     },
     {
         "File prefix": "finish_3",
-        "Command": ""
+        "Command": "Приехали, на выкладку."
     },
     {
         "File prefix": "finish_4",
-        "Command": ""
+        "Command": "Мы прибыли."
     },
     {
         "File prefix": "finish_5",
-        "Command": ""
+        "Command": "Мы прибыли, конец пути."
     },
     {
         "File prefix": "finish_6",
-        "Command": ""
+        "Command": "Успешно прибыли."
     },
     {
         "File prefix": "finish_7",
-        "Command": ""
+        "Command": "Приехали, конец пути."
     },
     {
         "File prefix": "recomputing_1",
-        "Command": ""
+        "Command": "Изменение маршрута."
     },
     {
         "File prefix": "recomputing_2",
-        "Command": ""
+        "Command": "Вычисление нового маршрута."
     },
     {
         "File prefix": "recomputing_3",
-        "Command": ""
+        "Command": "Ищу новый маршрут."
     },
     {
         "File prefix": "recomputing_4",
-        "Command": ""
+        "Command": "Расчёт нового маршрута."
     },
     {
         "File prefix": "recomputing_5",
-        "Command": ""
+        "Command": "Поиск нового маршрута."
     },
     {
         "File prefix": "u_turn_1",
-        "Command": ""
+        "Command": "Когда возможно, развернитесь."
     },
     {
         "File prefix": "u_turn_2",
-        "Command": ""
+        "Command": "Развернитесь."
     },
     {
         "File prefix": "u_turn_3",
-        "Command": ""
+        "Command": "Развернитесь, когда будет возможно."
     },
     {
         "File prefix": "speed_signal",
@@ -221,6 +221,6 @@
     },
     {
         "File prefix": "speed_warning",
-        "Command": ""
+        "Command": "Внимание. следите за скоростью."
     }
 ]
