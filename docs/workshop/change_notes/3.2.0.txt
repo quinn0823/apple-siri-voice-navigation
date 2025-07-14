@@ -1,9 +1,15 @@
 Apple Siri Voice Navigation 3.2
 
-New
+Added
+* Add 2 new voices in a new language:
+    + Русский (Россия) - Siri (Голос 1)
+    + Русский (Россия) - Siri (Голос 2)
 * Plan a new language: 한국어 (대한민국) [Korean (Korea)].
+* Add a grouped voices list variation to descriptions to comply with the Workshop description word limit.
+* Add links for Lism's Apple Maps Navigation and optimize the Apple Series section in the descriptions.
+* build.py: Add a check to ignore `.DS_Store` files from the voices directory.
 
-Improvements
-* Add a grouped voices list variation to descriptions to comply with Workshop description word limit.
+Removed
+* Due to the high maintenance cost, the voices list section of the localized descriptions is changed to English.
 
-View on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.2.0]GitHub[/url]
+[url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.2.0]View it on GitHub[/url].
