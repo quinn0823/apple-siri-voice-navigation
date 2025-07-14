@@ -212,9 +212,24 @@
 
 ## Apple 系列
 
-- 适用于 [欧卡 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) / [美卡](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)的 **Apple Siri 语音导航**
+<!-- - 适用于 [欧卡 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) / [美卡](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)的 **Apple Siri 语音导航**
 - 适用于 [欧卡 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601) / [美卡](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)的 **Apple Maps Navigation**（由 Lism 创建）
-- Apple SF 符号用户界面（正在开发…）
+- Apple SF 符号用户界面（正在开发…） -->
+
+### Apple Siri 语音导航
+
+- [适用于欧卡 2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
+- [适用于美卡的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+
+### Apple Maps Navigation（由 Lism 创建）
+
+- [适用于欧卡 2 的 Apple Maps Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
+- [适用于美卡的 Apple Maps Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
+
+### Apple SF 符号用户界面（正在开发…）
+
+- 适用于欧卡 2 的 Apple SF 符号用户界面
+- 适用于美卡的 Apple SF 符号用户界面
 
 ---
 
