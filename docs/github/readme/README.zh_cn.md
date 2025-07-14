@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **13 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **14 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**07 月 03 日**：2.0 > **3.1**。重新生成并构建现有的 56 种声音中的 52 种，并**新增 1 种语言和 20 种声音**。
+**07 月 14 日**：3.1 > **3.2**。新增 **1 种具有 2 种新声音的新语言**—Русский。
 
 ---
 
@@ -52,9 +52,9 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你也可以在这里使用查看其他语言的描述。
 
-## 声音 [86+ Voices in 20+ Languages]
+## Voices [86+ Voices in 20+ Languages]
 
-### 可用 (74 in 13)
+### Available (76 in 14)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -64,13 +64,13 @@
 - Deutsch (Deutschland) - Siri (Stimme 4)
 - English (Australia) - Siri (Voice 1)
 - English (Australia) - Siri (Voice 2)
-- **English (Australia) - Siri (Voice 3)**
-- **English (Australia) - Siri (Voice 4)**
+- English (Australia) - Siri (Voice 3)
+- English (Australia) - Siri (Voice 4)
 - English (India) - Siri (Voice 1)
 - English (India) - Siri (Voice 2)
 - English (Ireland) - Siri (Voice 1)
 - English (Ireland) - Siri (Voice 2)
-- **English (Scotland, United Kingdom) - Fiona (Enhanced)**
+- English (Scotland, United Kingdom) - Fiona (Enhanced)
 - English (South Africa) - Siri (Voice 1)
 - English (South Africa) - Siri (Voice 2)
 - English (United Kingdom) - Siri (Voice 1)
@@ -82,17 +82,17 @@
 - English (United States) - Siri (Voice 3)
 - English (United States) - Siri (Voice 4)
 - English (United States) - Siri (Voice 5)
-- **Español (Argentina) - Diego (mejorada)**
-- **Español (Argentina) - Isabela (mejorada)**
-- **Español (Chile) - Francisca (mejorada)**
-- **Español (Colombia) - Carlos (mejorada)**
-- **Español (Colombia) - Jimena (mejorada)**
-- **Español (Colombia) - Soledad (mejorada)**
+- Español (Argentina) - Diego (mejorada)
+- Español (Argentina) - Isabela (mejorada)
+- Español (Chile) - Francisca (mejorada)
+- Español (Colombia) - Carlos (mejorada)
+- Español (Colombia) - Jimena (mejorada)
+- Español (Colombia) - Soledad (mejorada)
 - Español (España) - Siri (Voz 1)
 - Español (España) - Siri (Voz 2)
 - Español (México) - Siri (Voz 1)
 - Español (México) - Siri (Voz 2)
-- **Français (Belgique) - Aude (premium)**
+- Français (Belgique) - Aude (premium)
 - Français (Canada) - Siri (Voix 1)
 - Français (Canada) - Siri (Voix 2)
 - Français (France) - Siri (Voix 1)
@@ -116,42 +116,42 @@
 - Português (Portugal) - Joaquim (melhorada)
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
-- **中文（上海，中国大陆）- 南南（优化音质）**
+- **Русский (Россия) - Siri (Голос 1)**
+- **Русский (Россия) - Siri (Голос 2)**
+- 中文（上海，中国大陆）- 南南（优化音质）
 - 中文（中国大陆）- Siri（声音1）
 - 中文（中国大陆）- Siri（声音2）
-- **中文（中国大陆）- Siri（声音3）**
-- **中文（中国大陆）- Siri（声音4）**
+- 中文（中国大陆）- Siri（声音3）
+- 中文（中国大陆）- Siri（声音4）
 - 中文（台灣）- Siri（聲音1）
 - 中文（台灣）- Siri（聲音2）
-- **中文（四川，中国大陆）- 盼盼（优化音质）**
-- **中文（辽宁，中国大陆）- 冬梅（优化音质）**
-- **中文（陕西，中国大陆）- 浩浩（优化音质）**
+- 中文（四川，中国大陆）- 盼盼（优化音质）
+- 中文（辽宁，中国大陆）- 冬梅（优化音质）
+- 中文（陕西，中国大陆）- 浩浩（优化音质）
 - 中文（香港）- Siri（聲音1）
 - 中文（香港）- Siri（聲音2）
 - 日本語（日本）- Siri（声1）
 - 日本語（日本）- Siri（声2）
 
-### 即将到来 (2 in 1 New)
-
-- Русский (Россия) - Siri (Голос 1)
-- Русский (Россия) - Siri (Голос 2)
-
-### 正在制作 (2 in 1 New)
+### Coming Soon (2 in 1 New)
 
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 
-### 在计划中 (8+ in 5+ New)
+### In Production (2 in 2 New)
 
 - Magyar (Magyarország) - Tünde (prémium)
 - Română (România) - Ioana (îmbunătațită)
+
+### Planned (6+ in 3+ New)
+
 - Dansk (Danmark) - Siri (Stemme 1)
 - Dansk (Danmark) - Siri (Stemme 2)
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
-- 你的请求…
+- Your Requests...
 
 ## 兼容性
 
@@ -364,7 +364,7 @@ apple-siri-voice-navigation
 
 ---
 
-发行日期：2025 年 07 月 03 日 (3.1)
+发行日期：2025 年 07 月 14 日 (3.2)
 
 发布日期（GitHub，简体中文）：2025 年 07 月 14 日
 
