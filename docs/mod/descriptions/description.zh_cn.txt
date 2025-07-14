@@ -10,7 +10,7 @@
 要帮助改进这个项目，你可以在 GitHub 上的存储库 at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal] 查看开发指南。你也可以在那里查看使用其他语言的描述。
 
 [orange]兼容性[normal]
-[blue]1.43+[normal]，同时支欧卡 2 和美卡。
+[blue]1.43+[normal]，同时支欧卡2 和美卡。
 
 [orange]使用[normal]
 1. 在标题界面点击[orange]“模组”[normal]来打开模组管理器。(你已经在这里了！)
