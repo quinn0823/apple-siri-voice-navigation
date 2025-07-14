@@ -1,0 +1,8 @@
+Apple Siri Voice Navigation 3.2 Alpha 2
+
+Improved
+* Update the descriptions for 3.2.
+* build.py: Add a check to ignore `.DS_Store` files from the voices directory.
+
+Removed
+* Due to the high maintenance cost, the voices list section of the localized descriptions is changed to English.
