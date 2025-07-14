@@ -1,0 +1,11 @@
+Apple Siri Voice Navigation 3.2 Alpha
+
+New
+* Add 2 new voices in a new language:
+    + Русский (Россия) - Siri (Голос 1)
+    + Русский (Россия) - Siri (Голос 2)
+* Plan a new language: 한국어 (대한민국) [Korean (Korea)].
+* Add a grouped voices list variation to descriptions to comply with the Workshop description word limit.
+
+Improvements
+* Add links for Lism's Apple Maps Navigation and update the Apple Series section in the descriptions.
