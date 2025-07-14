@@ -94,6 +94,22 @@ def copy_to_temp():
     # Create temp directory
     os.makedirs(temp_dir)
 
+    # Create manifest.sii file
+    manifest_sii = f'''SiiNunit {{
+    mod_package : .package_name {{
+        package_version: "{config['manifest_sii']['package_version']}"
+        display_name: "{config['manifest_sii']['display_name']}"
+        author: "Jonathan Chiu"
+        category[]: "{config['manifest_sii']['category']}"
+        icon: "{config['manifest_sii']['icon']}"
+        description_file: "{config['manifest_sii']['description_file']}"
+    }}
+}}
+'''
+    with open(f'{temp_dir}/manifest.sii', 'w') as file:
+        file.write(manifest_sii)
+    print('Created manifest.sii.')
+
     # Copy icon
     shutil.copy(f'{docs_dir}/images/{config['manifest_sii']['icon']}', f'{temp_dir}')
     print(f'Copied icon: {config['manifest_sii']['icon']}.')
@@ -116,6 +132,11 @@ def copy_to_temp():
     skipped_list = []
     for dirpath, dirnames, filenames in os.walk(voice_dir):
         dir_name = os.path.basename(dirpath)
+
+        # Remove .DS_Store from filenames if present
+        if '.DS_Store' in filenames:
+            filenames.remove('.DS_Store')
+
         if dir_name in config['build']['skip_voices']:
             print(f'Skipped voice: {dir_name}. In skip_voices list. May be deprecated.')
             skipped_count += 1
@@ -141,22 +162,6 @@ def copy_to_temp():
             skipped_list.append(dir_name)
 
     print(f'Copied {copied_count} voices, skipped {skipped_count} voices: {skipped_list}')
-
-    # Create manifest.sii file
-    manifest_sii = f'''SiiNunit {{
-    mod_package : .package_name {{
-        package_version: "{config['manifest_sii']['package_version']}"
-        display_name: "{config['manifest_sii']['display_name']}"
-        author: "Jonathan Chiu"
-        category[]: "{config['manifest_sii']['category']}"
-        icon: "{config['manifest_sii']['icon']}"
-        description_file: "{config['manifest_sii']['description_file']}"
-    }}
-}}
-'''
-    with open(f'{temp_dir}/manifest.sii', 'w') as file:
-        file.write(manifest_sii)
-    print('Created manifest.sii.')
 
 # Build standard mod
 def build_standard():
