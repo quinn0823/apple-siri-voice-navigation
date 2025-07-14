@@ -1,6 +1,6 @@
-[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]13 种语言的 70 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]14 种语言的 70 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]07 月 03 日[normal]：2.0 – [green]3.1[normal]。重新生成并构建现有的 56 种声音中的 52 种，并[green]新增 1 种语言和 20 种声音[normal]。
+[orange]07 月 14 日[normal]：2.0 – [green]3.2[normal]。新增 [green]1 种具有 2 种新声音的新语言[normal]—Русский。
 
 
 [orange]介绍[normal]
@@ -18,8 +18,8 @@
 3. 打开[orange]“选项”[normal]。
 4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
 
-[orange]声音 [86+ Voices in 20+ Languages][normal]
-[blue]可用 (72 in 12 New)[normal]
+[orange]Voices [86+ Voices in 20+ Languages][normal]
+[blue]Available (76 in 14)[normal]
 * Čeština (Česko) -
     + Iveta (vylepšená verze)
     + Zuzana (prémiový)
@@ -31,13 +31,13 @@
 * English
     + (Australia) - Siri (Voice 1)
     + (Australia) - Siri (Voice 2)
-    + [green](Australia) - Siri (Voice 3)[normal]
-    + [green](Australia) - Siri (Voice 4)[normal]
+    + (Australia) - Siri (Voice 3)
+    + (Australia) - Siri (Voice 4)
     + (India) - Siri (Voice 1)
     + (India) - Siri (Voice 2)
     + (Ireland) - Siri (Voice 1)
     + (Ireland) - Siri (Voice 2)
-    + [green](Scotland, United Kingdom) - Fiona (Enhanced)[normal]
+    + (Scotland, United Kingdom) - Fiona (Enhanced)
     + (South Africa) - Siri (Voice 1)
     + (South Africa) - Siri (Voice 2)
     + (United Kingdom) - Siri (Voice 1)
@@ -50,18 +50,18 @@
     + (United States) - Siri (Voice 4)
     + (United States) - Siri (Voice 5)
 * Español
-    + [green](Argentina) - Diego (mejorada)[normal]
-    + [green](Argentina) - Isabela (mejorada)[normal]
-    + [green](Chile) - Francisca (mejorada)[normal]
-    + [green](Colombia) - Carlos (mejorada)[normal]
-    + [green](Colombia) - Jimena (mejorada)[normal]
-    + [green](Colombia) - Soledad (mejorada)[normal]
+    + (Argentina) - Diego (mejorada)
+    + (Argentina) - Isabela (mejorada)
+    + (Chile) - Francisca (mejorada)
+    + (Colombia) - Carlos (mejorada)
+    + (Colombia) - Jimena (mejorada)
+    + (Colombia) - Soledad (mejorada)
     + (España) - Siri (Voz 1)
     + (España) - Siri (Voz 2)
     + (México) - Siri (Voz 1)
     + (México) - Siri (Voz 2)
 * Français
-    + [green](Belgique) - Aude (premium)[normal]
+    + (Belgique) - Aude (premium)
     + (Canada) - Siri (Voix 1)
     + (Canada) - Siri (Voix 2)
     + (France) - Siri (Voix 1)
@@ -91,45 +91,42 @@
 * Türkçe (Türkiye) -
     + Siri (Ses 1)
     + Siri (Ses 2)
+* Русский (Россия) -
+    + [green]Siri (Голос 1)[normal]
+    + [green]Siri (Голос 2)[normal]
 * 中文
-    + [green]（上海，中国大陆）- 南南（优化音质）[normal]
+    + （上海，中国大陆）- 南南（优化音质）
     + （中国大陆）- Siri（声音1）
     + （中国大陆）- Siri（声音2）
-    + [green]（中国大陆）- Siri（声音3）[normal]
-    + [green]（中国大陆）- Siri（声音4）[normal]
+    + （中国大陆）- Siri（声音3）
+    + （中国大陆）- Siri（声音4）
     + （台灣）- Siri（聲音1）
     + （台灣）- Siri（聲音2）
-    + [green]（四川，中国大陆）- 盼盼（优化音质）[normal]
-    + [green]（辽宁，中国大陆）- 冬梅（优化音质）[normal]
-    + [green]（陕西，中国大陆）- 浩浩（优化音质）[normal]
+    + （四川，中国大陆）- 盼盼（优化音质）
+    + （辽宁，中国大陆）- 冬梅（优化音质）
+    + （陕西，中国大陆）- 浩浩（优化音质）
     + （香港）- Siri（聲音1）
     + （香港）- Siri（聲音2）
 * 日本語（日本）-
     + Siri（声1）
     + Siri（声2）
 
-[red]即将到来 (2 in 1 New)[normal]
-* Русский (Россия) - Siri (Голос 1)
-* Русский (Россия) - Siri (Голос 2)
-
-[red]正在制作 (2 in 1 New)[normal]
+[red]Coming Soon (2 in 1 New)[normal]
 * Svenska (Sverige) - Siri (Röst 1)
 * Svenska (Sverige) - Siri (Röst 2)
 
-[red]在计划中 (8+ in 5+ New)[normal]
-* Italiano (Italia) - Siri (Voca 1)
-* Italiano (Italia) - Siri (Voca 2)
-* Italiano (Italia) - Siri (Voca 3)
-* Italiano (Italia) - Siri (Voca 4)
+[red]In Production (2 in 2 New)[normal]
 * Magyar (Magyarország) - Tünde (prémium)
 * Română (România) - Ioana (îmbunătațită)
+
+[red]Planned (6+ in 3+ New)[normal]
 * Dansk (Danmark) - Siri (Stemme 1)
 * Dansk (Danmark) - Siri (Stemme 2)
 * Thai (Thailand) - Siri (Voice 1)
 * Thai (Thailand) - Siri (Voice 2)
 * 한국어 (대한민국) - Siri (음성 1)
 * 한국어 (대한민국) - Siri (음성 2)
-* 你的请求…
+* Your Requests...
 
 [orange]下载[normal]
 * [blue]创意工坊[normal]（推荐）
@@ -157,7 +154,7 @@
 你也可以通过 [orange]quinnqiu0823@icloud.com[normal] 联系我。
 
 
-发行日期：2025 年 07 月 03 日 (3.1)
+发行日期：2025 年 07 月 14 日 (3.2)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
