@@ -38,7 +38,7 @@
 
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 70 voices in 15 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**July 15**: 3.2 > **3.3**. Add **2 new voices in Swedish (Svenska)**, and optimize 5 voices in 2 languages.
+**July 15**: 3.2 > **3.3.1**. Add **2 new voices in Swedish (Svenska)**, and optimize 5 voices in 2 languages.
 
 ---
 
@@ -52,7 +52,7 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the localized descriptions here.
 
-## Voices [86+ Voices in 20+ Languages]
+## Voices [87+ Voices in 21+ Languages]
 
 ### Available (78 in 15)
 
@@ -158,7 +158,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 - Română (România) - Ioana (îmbunătațită)
 
-### Planned (6+ in 3+ New)
+### Planned (7+ in 4+ New)
 
 - Dansk (Danmark) - Siri (Stemme 1)
 - Dansk (Danmark) - Siri (Stemme 2)
@@ -166,6 +166,7 @@ To help improve this project, you can check out the development guide in the ["L
 - Thai (Thailand) - Siri (Voice 2)
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
+- Slovenčina (Slovensko) - Laura (vylepšený)
 - Your Requests...
 
 ## Compatibility
@@ -299,7 +300,7 @@ apple-siri-voice-navigation
     └── config_default.ini   // Default config file
 ```
 
-### Languages [20+ Languages from 40+ Countries]
+### Languages [21+ Languages from 41+ Countries]
 
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
@@ -359,7 +360,7 @@ apple-siri-voice-navigation
 
 #### Incomplete (0 New from 0)
 
-#### Planned (5+ New from 5+)
+#### Planned (6+ New from 6+)
 
 - danish
     - danish_dk
@@ -369,6 +370,8 @@ apple-siri-voice-navigation
     - korean_kr
 - romanian
     - romanian_ro
+- slovak
+    - slovak_sk
 - thai
     - thai_th
 
@@ -382,7 +385,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: July 15, 2025 (3.3)
+Release Date: July 15, 2025 (3.3.1)
 
 Published Date (GitHub): July 15, 2025
 

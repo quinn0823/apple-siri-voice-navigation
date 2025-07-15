@@ -38,7 +38,7 @@
 
 **与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **15 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**07 月 15 日**：3.2 > **3.3**。添加 **2 种瑞典语 (Svenska) 的新声音**，并优化 2 种语言的 5 种声音。
+**07 月 15 日**：3.2 > **3.3.1**。添加 **2 种瑞典语 (Svenska) 的新声音**，并优化 2 种语言的 5 种声音。
 
 ---
 
@@ -52,7 +52,7 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你还可以在这里查看本地化的描述。
 
-## Voices [86+ Voices in 20+ Languages]
+## Voices [87+ Voices in 21+ Languages]
 
 ### Available (78 in 15)
 
@@ -143,7 +143,7 @@
 
 - Română (România) - Ioana (îmbunătațită)
 
-### Planned (6+ in 3+ New)
+### Planned (7+ in 4+ New)
 
 - Dansk (Danmark) - Siri (Stemme 1)
 - Dansk (Danmark) - Siri (Stemme 2)
@@ -151,6 +151,7 @@
 - Thai (Thailand) - Siri (Voice 2)
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
+- Slovenčina (Slovensko) - Laura (vylepšený)
 - Your Requests...
 
 ## 兼容性
@@ -283,7 +284,7 @@ apple-siri-voice-navigation
     └── config_default.ini   // 默认配置文件
 ```
 
-### Languages [20+ Languages from 40+ Countries]
+### Languages [21+ Languages from 41+ Countries]
 
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
@@ -343,7 +344,7 @@ apple-siri-voice-navigation
 
 #### Incomplete (0 New from 0)
 
-#### Planned (5+ New from 5+)
+#### Planned (6+ New from 6+)
 
 - danish
     - danish_dk
@@ -353,6 +354,8 @@ apple-siri-voice-navigation
     - korean_kr
 - romanian
     - romanian_ro
+- slovak
+    - slovak_sk
 - thai
     - thai_th
 
@@ -366,7 +369,7 @@ apple-siri-voice-navigation
 
 ---
 
-发行日期：2025 年 07 月 15 日 (3.3)
+发行日期：2025 年 07 月 15 日 (3.3.1)
 
 发布日期（GitHub，简体中文）：2025 年 07 月 15 日
 
