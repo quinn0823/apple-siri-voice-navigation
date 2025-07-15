@@ -1,219 +1,219 @@
 [
     {
         "File prefix": "turn_left",
-        "Command": ""
+        "Command": "Sväng vänster."
     },
     {
         "File prefix": "turn_right",
-        "Command": ""
+        "Command": "Sväng höger."
     },
     {
         "File prefix": "keep_left",
-        "Command": ""
+        "Command": "Håll till vänster."
     },
     {
         "File prefix": "keep_right",
-        "Command": ""
+        "Command": "Håll till höger."
     },
     {
         "File prefix": "exit_left",
-        "Command": ""
+        "Command": "Ta av till vänster."
     },
     {
         "File prefix": "exit_right",
-        "Command": ""
+        "Command": "Ta av till höger."
     },
     {
         "File prefix": "go_straight",
-        "Command": ""
+        "Command": "Rakt fram."
     },
     {
         "File prefix": "roundabout_1",
-        "Command": ""
+        "Command": "I rondellen, tar du första avfarten."
     },
     {
         "File prefix": "roundabout_2",
-        "Command": ""
+        "Command": "I rondellen, tar du andra avfarten."
     },
     {
         "File prefix": "roundabout_3",
-        "Command": ""
+        "Command": "I rondellen, tar du tredje avfarten."
     },
     {
         "File prefix": "roundabout_4",
-        "Command": ""
+        "Command": "I rondellen, tar du fjärde avfarten."
     },
     {
         "File prefix": "roundabout_5",
-        "Command": ""
+        "Command": "I rondellen, tar du femte avfarten."
     },
     {
         "File prefix": "roundabout_6",
-        "Command": ""
+        "Command": "I rondellen tar du sjätte avfarten."
     },
     {
         "File prefix": "exit_now",
-        "Command": ""
+        "Command": "Avsluta nu."
     },
     {
         "File prefix": "prepare_turn_left",
-        "Command": ""
+        "Command": "Gör dig redo att svänga vänster."
     },
     {
         "File prefix": "prepare_turn_right",
-        "Command": ""
+        "Command": "Gör dig redo att svänga höger."
     },
     {
         "File prefix": "prepare_exit_left",
-        "Command": ""
+        "Command": "Gör dig redo att ta av till vänster."
     },
     {
         "File prefix": "prepare_exit_right",
-        "Command": ""
+        "Command": "Gör dig redo att ta av till höger."
     },
     {
         "File prefix": "compound_turn_left",
-        "Command": ""
+        "Command": "Sväng vänster,"
     },
     {
         "File prefix": "compound_turn_right",
-        "Command": ""
+        "Command": "Sväng höger,"
     },
     {
         "File prefix": "compound_keep_left",
-        "Command": ""
+        "Command": "Håll till vänster,"
     },
     {
         "File prefix": "compound_keep_right",
-        "Command": ""
+        "Command": "Håll till höger,"
     },
     {
         "File prefix": "compound_exit_left",
-        "Command": ""
+        "Command": "Ta av till vänster,"
     },
     {
         "File prefix": "compound_exit_right",
-        "Command": ""
+        "Command": "Ta av till höger,"
     },
     {
         "File prefix": "compound_go_straight",
-        "Command": ""
+        "Command": "Rakt fram,"
     },
     {
         "File prefix": "and_then_turn_left",
-        "Command": ""
+        "Command": "och sväng sedan vänster."
     },
     {
         "File prefix": "and_then_turn_right",
-        "Command": ""
+        "Command": "och sväng sedan höger."
     },
     {
         "File prefix": "and_then_keep_left",
-        "Command": ""
+        "Command": "och håll sedan till vänster."
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": ""
+        "Command": "och håll sedan till höger."
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": ""
+        "Command": "och ta sedan av till vänster."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": ""
+        "Command": "och ta sedan av till höger."
     },
     {
         "File prefix": "and_then_go_straight",
-        "Command": ""
+        "Command": "och fortsätt sedan rakt fram."
     },
     {
         "File prefix": "start_1",
-        "Command": ""
+        "Command": "OK, nu kör vi."
     },
     {
         "File prefix": "start_2",
-        "Command": ""
+        "Command": "Dags att ge sig ut på vägarna."
     },
     {
         "File prefix": "start_3",
-        "Command": ""
+        "Command": "Låt oss göra det här."
     },
     {
         "File prefix": "start_4",
-        "Command": ""
+        "Command": "Kör försiktigt."
     },
     {
         "File prefix": "start_5",
-        "Command": ""
+        "Command": "Redo att rulla."
     },
     {
         "File prefix": "start_6",
-        "Command": ""
+        "Command": "Kom så går vi."
     },
     {
         "File prefix": "start_7",
-        "Command": ""
+        "Command": "Dags att få jobbet gjort."
     },
     {
         "File prefix": "finish_1",
-        "Command": ""
+        "Command": "Du har kommit fram till din destination. Din vägvisning är nu klar."
     },
     {
         "File prefix": "finish_2",
-        "Command": ""
+        "Command": "Här är vi, trygga och välbehållna."
     },
     {
         "File prefix": "finish_3",
-        "Command": ""
+        "Command": "Äntligen är vi här."
     },
     {
         "File prefix": "finish_4",
-        "Command": ""
+        "Command": "Allt är över nu."
     },
     {
         "File prefix": "finish_5",
-        "Command": ""
+        "Command": "Det är här det slutar."
     },
     {
         "File prefix": "finish_6",
-        "Command": ""
+        "Command": "Vi är klara."
     },
     {
         "File prefix": "finish_7",
-        "Command": ""
+        "Command": "Det var en trevlig åktur."
     },
     {
         "File prefix": "recomputing_1",
-        "Command": ""
+        "Command": "Omdirigering."
     },
     {
         "File prefix": "recomputing_2",
-        "Command": ""
+        "Command": "Omdatorning."
     },
     {
         "File prefix": "recomputing_3",
-        "Command": ""
+        "Command": "Att hitta en ny rutt."
     },
     {
         "File prefix": "recomputing_4",
-        "Command": ""
+        "Command": "OK, låt oss hitta en ny rutt."
     },
     {
         "File prefix": "recomputing_5",
-        "Command": ""
+        "Command": "Det spelar ingen roll. Jag ska hitta en ny rutt."
     },
     {
         "File prefix": "u_turn_1",
-        "Command": ""
+        "Command": "När det är möjligt, gör en U-sväng."
     },
     {
         "File prefix": "u_turn_2",
-        "Command": ""
+        "Command": "Gör en U-sväng."
     },
     {
         "File prefix": "u_turn_3",
-        "Command": ""
+        "Command": "Gör gärna en U-sväng när det är möjligt."
     },
     {
         "File prefix": "speed_signal",
@@ -221,6 +221,6 @@
     },
     {
         "File prefix": "speed_warning",
-        "Command": ""
+        "Command": "Varning, tänk på hastighetsbegränsningen."
     }
 ]
