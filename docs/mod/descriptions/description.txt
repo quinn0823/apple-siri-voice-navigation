@@ -61,15 +61,15 @@ To help improve this project, you can check out the development guide in the rep
 * Français (Canada) - Siri (Voix 2)
 * Français (France) - Siri (Voix 1)
 * Français (France) - Siri (Voix 2)
-* Hebrew (Israel) - Siri (Voice 1)
-* Hebrew (Israel) - Siri (Voice 2)
+* [blue]Hebrew (Israel) - Siri (Voice 1)[normal]
+* [blue]Hebrew (Israel) - Siri (Voice 2)[normal]
 * [green]Italiano (Italia) - Siri (Voca 1)[normal]
 * [green]Italiano (Italia) - Siri (Voca 2)[normal]
 * [green]Italiano (Italia) - Siri (Voca 3)[normal]
 * [green]Italiano (Italia) - Siri (Voca 4)[normal]
-* Netherlands (België) - Ellen (verbeterd)
-* Netherlands (Netherland) - Siri (Stem 1)
-* Netherlands (Netherland) - Siri (Stem 2)
+* [blue]Netherlands (België) - Ellen (verbeterd)[normal]
+* [blue]Netherlands (Netherland) - Siri (Stem 1)[normal]
+* [blue]Netherlands (Netherland) - Siri (Stem 2)[normal]
 * Polski (Polska) - Ewa (premium)
 * Polski (Polska) - Krzysztof (rozszerzony)
 * Polski (Polska) - Zosia (rozszerzony)
