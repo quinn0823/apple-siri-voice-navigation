@@ -38,7 +38,7 @@
 
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 70 voices in 14 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**July 14**: 3.1 > **3.2**. Add **a new language with 2 new voices**—Русский.
+**July 15**: 3.1 > **3.3**. Add **2 new voices in Swedish (Svenska)** and optimize 2 voices.
 
 ---
 
@@ -54,7 +54,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [86+ Voices in 20+ Languages]
 
-### Available (76 in 14)
+### Available (78 in 15)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -114,6 +114,8 @@ To help improve this project, you can check out the development guide in the ["L
 - Português (Portugal) - Catarina (melhorada)
 - Português (Portugal) - Joana (melhorada)
 - Português (Portugal) - Joaquim (melhorada)
+- **Svenska (Sverige) - Siri (Röst 1)**
+- **Svenska (Sverige) - Siri (Röst 2)**
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
 - **Русский (Россия) - Siri (Голос 1)**
@@ -133,14 +135,12 @@ To help improve this project, you can check out the development guide in the ["L
 - 日本語（日本）- Siri（声1）
 - 日本語（日本）- Siri（声2）
 
-### Coming Soon (2 in 1 New)
-
-- Svenska (Sverige) - Siri (Röst 1)
-- Svenska (Sverige) - Siri (Röst 2)
-
-### In Production (2 in 2 New)
+### Coming Soon (1 in 1 New)
 
 - Magyar (Magyarország) - Tünde (prémium)
+
+### In Production (1 in 1 New)
+
 - Română (România) - Ioana (îmbunătațită)
 
 ### Planned (6+ in 3+ New)
@@ -367,7 +367,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: July 14, 2025 (3.2)
+Release Date: July 15, 2025 (3.3)
 
 Published Date (GitHub): July 15, 2025
 
