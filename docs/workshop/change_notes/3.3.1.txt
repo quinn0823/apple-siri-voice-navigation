@@ -1,4 +1,4 @@
-Apple Siri Voice Navigation 3.3.1.1
+Apple Siri Voice Navigation 3.3.1
 
 Added
 * Plan a new language: Slovak (Slovakia) [Slovenčina (Slovensko)].
@@ -6,4 +6,4 @@ Added
 Fixed
 * Correct word order in the News section of zh-CN descriptions and README.
 
-[url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.3.1.1]View it on GitHub[/url].
+[url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.3.1]View it on GitHub[/url].
