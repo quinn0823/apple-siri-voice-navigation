@@ -1,6 +1,6 @@
 [orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]14 种语言的 70 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]07 月 14 日[normal]：3.1 – [green]3.2[normal]。新增 [green]1 种具有 2 种新声音的新语言[normal]—Русский。
+[orange]07 月 15 日[normal]：3.1 – [green]3.3[normal]。添加 [green]2 种 Svenska（瑞典语）的新声音[normal]，并优化 2 种声音。
 
 
 [orange]介绍[normal]
@@ -19,7 +19,7 @@
 4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
 
 [orange]Voices [86+ Voices in 20+ Languages][normal]
-[blue]Available (76 in 14)[normal]
+[blue]Available (78 in 15)[normal]
 * Čeština (Česko) -
     + Iveta (vylepšená verze)
     + Zuzana (prémiový)
@@ -88,6 +88,9 @@
     + (Portugal) - Catarina (melhorada)
     + (Portugal) - Joana (melhorada)
     + (Portugal) - Joaquim (melhorada)
+* Svenska (Sverige) -
+    + [green]Siri (Röst 1)[normal]
+    + [green]Siri (Röst 2)[normal]
 * Türkçe (Türkiye) -
     + Siri (Ses 1)
     + Siri (Ses 2)
@@ -111,12 +114,10 @@
     + Siri（声1）
     + Siri（声2）
 
-[red]Coming Soon (2 in 1 New)[normal]
-* Svenska (Sverige) - Siri (Röst 1)
-* Svenska (Sverige) - Siri (Röst 2)
-
-[red]In Production (2 in 2 New)[normal]
+[red]Coming Soon (1 in 1 New)[normal]
 * Magyar (Magyarország) - Tünde (prémium)
+
+[red]In Production (1 in 1 New)[normal]
 * Română (România) - Ioana (îmbunătațită)
 
 [red]Planned (6+ in 3+ New)[normal]
@@ -154,7 +155,7 @@
 你也可以通过 [orange]quinnqiu0823@icloud.com[normal] 联系我。
 
 
-发行日期：2025 年 07 月 14 日 (3.2)
+发行日期：2025 年 07 月 15 日 (3.3)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
