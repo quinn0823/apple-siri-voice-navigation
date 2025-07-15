@@ -302,7 +302,7 @@ apple-siri-voice-navigation
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### Available (14 from 34)
+#### Available (15 from 35)
 
 - chinese
     - chinese_cn
@@ -348,15 +348,14 @@ apple-siri-voice-navigation
     - spanish_co
     - spanish_es
     - spanish_mx
+- swedish
+    - swedish_se
 - russian
     - russian_ru
 - turkish
     - turkish_tr
 
-#### Incomplete (1 New from 1)
-
-- swedish
-    - swedish_se
+#### Incomplete (0 New from 0)
 
 #### Planned (5+ New from 5+)
 
@@ -368,8 +367,6 @@ apple-siri-voice-navigation
     - korean_kr
 - romanian
     - romanian_ro
-- swedish
-    - swedish_se
 - thai
     - thai_th
 
