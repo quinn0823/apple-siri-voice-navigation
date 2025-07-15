@@ -1,0 +1,31 @@
+Apple Siri Voice Navigation 3.3
+
+Added
+* Add 2 new voices in a new language:
+    + Svenska (Sverige) - Siri (Röst 1)
+    + Svenska (Sverige) - Siri (Röst 2)
+
+Improved
+* Optimize navigation commands in the following languages with the following file prefixes; Regenerate and rebuild all the voices in these languages.
+    + Hebrew (2 voices)
+        - `prepare_exit_left`
+        - `prepare_exit_right`
+        - `and_then_keep_left`
+        - `and_then_keep_right`
+        - `u_turn_2`
+        - `u_turn_3`
+    + Dutch (Netherlands) [3 voices]
+        - `exit_left`
+        - `exit_right`
+        - `prepare_exit_left`
+        - `prepare_exit_right`
+        - `compound_exit_left`
+        - `compound_exit_right`
+        - `and_then_keep_right`
+        - `and_then_exit_left`
+        - `and_then_exit_right`
+
+Removed
+* Due to the high maintenance cost, the languages list section in the localized README is changed to English.
+
+[url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.3.0]View it on GitHub[/url].
