@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .swedish.se_siri_2.pack {
+        pack_name: "Svenska (Sverige) - Siri (Röst 2)"
+    }
+}
