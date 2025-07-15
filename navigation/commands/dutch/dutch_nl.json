@@ -17,11 +17,11 @@
     },
     {
         "File prefix": "exit_left",
-        "Command": "Vertrek linksaf."
+        "Command": "Neem de afslag links."
     },
     {
         "File prefix": "exit_right",
-        "Command": "Vertrek rechtsaf."
+        "Command": "Neem de afslag rechts."
     },
     {
         "File prefix": "go_straight",
@@ -65,11 +65,11 @@
     },
     {
         "File prefix": "prepare_exit_left",
-        "Command": "Maak je klaar om linksaf te vertrekken."
+        "Command": "Maak je klaar om de afslag links te nemen."
     },
     {
         "File prefix": "prepare_exit_right",
-        "Command": "Maak je klaar om rechtsaf te vertrekken."
+        "Command": "Maak je klaar om de afslag rechts te nemen."
     },
     {
         "File prefix": "compound_turn_left",
@@ -89,11 +89,11 @@
     },
     {
         "File prefix": "compound_exit_left",
-        "Command": "Vertrek linksaf,"
+        "Command": "Neem de afslag links,"
     },
     {
         "File prefix": "compound_exit_right",
-        "Command": "Vertrek rechtsaf,"
+        "Command": "Neem de afslag rechts,"
     },
     {
         "File prefix": "compound_go_straight",
@@ -113,15 +113,15 @@
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": "En blijf dan recht."
+        "Command": "En blijf dan rechts."
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": "En vertrek dan linksaf."
+        "Command": "En neem dan de afslag links."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": "En vertrek dan rechtsaf."
+        "Command": "En neem dan de afslag rechts."
     },
     {
         "File prefix": "and_then_go_straight",
