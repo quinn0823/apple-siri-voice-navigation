@@ -1,0 +1,4 @@
+Apple Siri Voice Navigation 3.3 Alpha 2
+
+Improved
+* Make the optimized voices bold in README and the Workshop descriptions; Color the optimized voices blue in the mod descriptions.
