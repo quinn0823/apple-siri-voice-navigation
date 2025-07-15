@@ -6,7 +6,7 @@ Added
     + Svenska (Sverige) - Siri (Röst 2)
 
 Improved
-* Optimize navigation commands in the following languages:
+* Optimize navigation commands in the following languages with the following file prefixes; Regenerate and rebuild all the voices in these languages.
     + Hebrew (2 voices)
         - `prepare_exit_left`
         - `prepare_exit_right`
