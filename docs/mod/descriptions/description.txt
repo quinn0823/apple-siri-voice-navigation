@@ -1,6 +1,6 @@
 [orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [orange]over 70 voices in 14 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[orange]July 14[normal]: 3.1 – [green]3.2[normal]. Add [green]a new language with 2 new voices[normal]—Русский.
+[orange]July 15[normal]: 3.1 – [green]3.3[normal]. Add [green]2 new voices in Swedish (Svenska)[normal] and optimize 2 voices.
 
 
 [orange]Introduction[normal]
@@ -19,7 +19,7 @@ To help improve this project, you can check out the development guide in the rep
 4. Navigate to [orange]Audio – Voice Navigation – Language and voice[normal] and select a voice you like.
 
 [orange]Voices [86+ Voices in 20+ Languages][normal]
-[blue]Available (76 in 14)[normal]
+[blue]Available (78 in 15)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * Deutsch (Deutschland) - Siri (Stimme 1)
@@ -78,6 +78,8 @@ To help improve this project, you can check out the development guide in the rep
 * Português (Portugal) - Catarina (melhorada)
 * Português (Portugal) - Joana (melhorada)
 * Português (Portugal) - Joaquim (melhorada)
+* [green]Svenska (Sverige) - Siri (Röst 1)[normal]
+* [green]Svenska (Sverige) - Siri (Röst 2)[normal]
 * Türkçe (Türkiye) - Siri (Ses 1)
 * Türkçe (Türkiye) - Siri (Ses 2)
 * [green]Русский (Россия) - Siri (Голос 1)[normal]
@@ -97,12 +99,10 @@ To help improve this project, you can check out the development guide in the rep
 * 日本語（日本）- Siri（声1）
 * 日本語（日本）- Siri（声2）
 
-[red]Coming Soon (2 in 1 New)[normal]
-* Svenska (Sverige) - Siri (Röst 1)
-* Svenska (Sverige) - Siri (Röst 2)
-
-[red]In Production (2 in 2 New)[normal]
+[red]Coming Soon (1 in 1 New)[normal]
 * Magyar (Magyarország) - Tünde (prémium)
+
+[red]In Production (1 in 1 New)[normal]
 * Română (România) - Ioana (îmbunătațită)
 
 [red]Planned (6+ in 3+ New)[normal]
@@ -140,7 +140,7 @@ Please visit the repository on GitHub at [orange]https://github.com/quinn0823/ap
 You can also contact me at [orange]quinnqiu0823@icloud.com[normal].
 
 
-Release Date: July 14, 2025 (3.2)
+Release Date: July 15, 2025 (3.3)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
