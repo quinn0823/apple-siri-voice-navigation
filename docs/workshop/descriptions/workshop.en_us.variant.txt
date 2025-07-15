@@ -73,8 +73,8 @@ To help improve this project, you can check out the development guide in the [ur
 [/list]
 [*]Hebrew (Israel) -
 [list]
-[*]Siri (Voice 1)
-[*]Siri (Voice 2)
+[*][b]Siri (Voice 1)[/b]
+[*][b]Siri (Voice 2)[/b]
 [/list]
 [*]Italiano (Italia) -
 [list]
@@ -85,9 +85,9 @@ To help improve this project, you can check out the development guide in the [ur
 [/list]
 [*]Netherlands
 [list]
-[*](België) - Ellen (verbeterd)
-[*](Netherland) - Siri (Stem 1)
-[*](Netherland) - Siri (Stem 2)
+[*][b](België) - Ellen (verbeterd)[/b]
+[*][b](Netherland) - Siri (Stem 1)[/b]
+[*][b](Netherland) - Siri (Stem 2)[/b]
 [/list]
 [*]Polski (Polska) -
 [list]

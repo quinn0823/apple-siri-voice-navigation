@@ -97,15 +97,15 @@ To help improve this project, you can check out the development guide in the ["L
 - Français (Canada) - Siri (Voix 2)
 - Français (France) - Siri (Voix 1)
 - Français (France) - Siri (Voix 2)
-- Hebrew (Israel) - Siri (Voice 1)
-- Hebrew (Israel) - Siri (Voice 2)
+- **Hebrew (Israel) - Siri (Voice 1)**
+- **Hebrew (Israel) - Siri (Voice 2)**
 - **Italiano (Italia) - Siri (Voca 1)**
 - **Italiano (Italia) - Siri (Voca 2)**
 - **Italiano (Italia) - Siri (Voca 3)**
 - **Italiano (Italia) - Siri (Voca 4)**
-- Netherlands (België) - Ellen (verbeterd)
-- Netherlands (Netherland) - Siri (Stem 1)
-- Netherlands (Netherland) - Siri (Stem 2)
+- **Netherlands (België) - Ellen (verbeterd)**
+- **Netherlands (Netherland) - Siri (Stem 1)**
+- **Netherlands (Netherland) - Siri (Stem 2)**
 - Polski (Polska) - Ewa (premium)
 - Polski (Polska) - Krzysztof (rozszerzony)
 - Polski (Polska) - Zosia (rozszerzony)

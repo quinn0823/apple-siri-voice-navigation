@@ -103,17 +103,17 @@
     - (France) - Siri (Voix 1)
     - (France) - Siri (Voix 2)
 - Hebrew (Israel) -
-    - Siri (Voice 1)
-    - Siri (Voice 2)
+    - **Siri (Voice 1)**
+    - **Siri (Voice 2)**
 - Italiano (Italia) -
     - **Siri (Voca 1)**
     - **Siri (Voca 2)**
     - **Siri (Voca 3)**
     - **Siri (Voca 4)**
 - Netherlands
-    - (België) - Ellen (verbeterd)
-    - (Netherland) - Siri (Stem 1)
-    - (Netherland) - Siri (Stem 2)
+    - **(België) - Ellen (verbeterd)**
+    - **(Netherland) - Siri (Stem 1)**
+    - **(Netherland) - Siri (Stem 2)**
 - Polski (Polska) -
     - Ewa (premium)
     - Krzysztof (rozszerzony)
