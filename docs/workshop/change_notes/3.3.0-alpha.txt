@@ -14,7 +14,7 @@ Improved
         - `and_then_keep_right`
         - `u_turn_2`
         - `u_turn_3`
-    + Dutch (Netherlands) (3 voices)
+    + Dutch (Netherlands) [3 voices]
         - `exit_left`
         - `exit_right`
         - `prepare_exit_left`
