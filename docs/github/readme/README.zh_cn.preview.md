@@ -38,7 +38,7 @@
 
 **与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **14 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**07 月 14 日**：3.1 > **3.2**。新增 **1 种具有 2 种新声音的新语言**—Русский。
+**07 月 15 日**：3.1 > **3.3**。添加 **2 种瑞典语 (Svenska) 的新声音**，并优化 2 种声音。
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## Voices [86+ Voices in 20+ Languages]
 
-### Available (76 in 14)
+### Available (78 in 15)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -114,6 +114,8 @@
 - Português (Portugal) - Catarina (melhorada)
 - Português (Portugal) - Joana (melhorada)
 - Português (Portugal) - Joaquim (melhorada)
+- **Svenska (Sverige) - Siri (Röst 1)**
+- **Svenska (Sverige) - Siri (Röst 2)**
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
 - **Русский (Россия) - Siri (Голос 1)**
@@ -133,14 +135,12 @@
 - 日本語（日本）- Siri（声1）
 - 日本語（日本）- Siri（声2）
 
-### Coming Soon (2 in 1 New)
-
-- Svenska (Sverige) - Siri (Röst 1)
-- Svenska (Sverige) - Siri (Röst 2)
-
-### In Production (2 in 2 New)
+### Coming Soon (1 in 1 New)
 
 - Magyar (Magyarország) - Tünde (prémium)
+
+### In Production (1 in 1 New)
+
 - Română (România) - Ioana (îmbunătațită)
 
 ### Planned (6+ in 3+ New)
@@ -366,7 +366,7 @@ apple-siri-voice-navigation
 
 ---
 
-发行日期：2025 年 07 月 14 日 (3.2)
+发行日期：2025 年 07 月 15 日 (3.3)
 
 发布日期（GitHub，简体中文）：2025 年 07 月 15 日
 
