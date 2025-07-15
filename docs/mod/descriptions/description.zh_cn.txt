@@ -1,6 +1,6 @@
 [orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]15 种语言的 70 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]07 月 15 日[normal]：3.2 – [green]3.3[normal]。添加 [green]2 种 Svenska（瑞典语）的新声音[normal]，并优化 2 种声音。
+[orange]07 月 15 日[normal]：3.2 – [green]3.3[normal]。添加 [green]2 种 Svenska（瑞典语）的新声音[normal]，并优化 2 种语言的 5 种声音。
 
 
 [orange]介绍[normal]
