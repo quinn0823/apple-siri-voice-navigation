@@ -65,11 +65,11 @@
     },
     {
         "File prefix": "prepare_exit_left",
-        "Command": "התכוננו לצאת שמאלה."
+        "Command": "התכונן לצאת שמאלה."
     },
     {
         "File prefix": "prepare_exit_right",
-        "Command": "תתכוננו לצאת ימינה."
+        "Command": "התכונן לצאת ימינה."
     },
     {
         "File prefix": "compound_turn_left",
@@ -109,11 +109,11 @@
     },
     {
         "File prefix": "and_then_keep_left",
-        "Command": "ואז להישאר שמאלה."
+        "Command": "ואז הישאר שמאלה."
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": "ואז להישאר ימינה."
+        "Command": "ואז הישאר ימינה."
     },
     {
         "File prefix": "and_then_exit_left",
@@ -209,11 +209,11 @@
     },
     {
         "File prefix": "u_turn_2",
-        "Command": "עשו פניית פרסה."
+        "Command": "בצע פניית פרסה."
     },
     {
         "File prefix": "u_turn_3",
-        "Command": "אנא בצעו פניית פרסה במידת האפשר."
+        "Command": "אנא בצע פניית פרסה במידת האפשר."
     },
     {
         "File prefix": "speed_signal",
