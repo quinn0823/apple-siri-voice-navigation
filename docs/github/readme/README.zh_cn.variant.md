@@ -297,12 +297,12 @@ apple-siri-voice-navigation
     └── config_default.ini   // 默认配置文件
 ```
 
-### 语言 [20+ Languages from 40+ Countries]
+### Languages [20+ Languages from 40+ Countries]
 
 > [!TIP]
-> 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？前往 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` > `chinese_cn.json`。
+> Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### 可用 (14 from 34)
+#### Available (14 from 34)
 
 - chinese
     - chinese_cn
@@ -353,7 +353,12 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### 在计划中 (6+ New from 6+)
+#### Incomplete (1 New from 1)
+
+- swedish
+    - swedish_se
+
+#### Planned (5+ New from 5+)
 
 - danish
     - danish_dk
@@ -380,7 +385,7 @@ apple-siri-voice-navigation
 
 发行日期：2025 年 07 月 14 日 (3.2)
 
-发布日期（GitHub，简体中文）：2025 年 07 月 14 日
+发布日期（GitHub，简体中文）：2025 年 07 月 15 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 
