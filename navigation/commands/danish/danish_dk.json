@@ -25,31 +25,31 @@
     },
     {
         "File prefix": "go_straight",
-        "Command": "Gå lige ud."
+        "Command": "Kør lige ud."
     },
     {
         "File prefix": "roundabout_1",
-        "Command": "I rundkørslen tager du den første afkørsel."
+        "Command": "I rundkørslen tager, du den første afkørsel."
     },
     {
         "File prefix": "roundabout_2",
-        "Command": "I rundkørslen skal du tage den anden afkørsel."
+        "Command": "I rundkørslen tager, du den anden afkørsel."
     },
     {
         "File prefix": "roundabout_3",
-        "Command": "I rundkørslen tager du den tredje afkørsel."
+        "Command": "I rundkørslen tager, du den tredje afkørsel."
     },
     {
         "File prefix": "roundabout_4",
-        "Command": "I rundkørslen tager du den fjerde afkørsel."
+        "Command": "I rundkørslen tager, du den fjerde afkørsel."
     },
     {
         "File prefix": "roundabout_5",
-        "Command": "I rundkørslen tager du den femte afkørsel."
+        "Command": "I rundkørslen tager, du den femte afkørsel."
     },
     {
         "File prefix": "roundabout_6",
-        "Command": "I rundkørslen tager du den sjette afkørsel."
+        "Command": "I rundkørslen tager, du den sjette afkørsel."
     },
     {
         "File prefix": "exit_now",
@@ -97,7 +97,7 @@
     },
     {
         "File prefix": "compound_go_straight",
-        "Command": "Gå lige ud,"
+        "Command": "Kør lige ud,"
     },
     {
         "File prefix": "and_then_turn_left",
@@ -117,11 +117,11 @@
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": "og derefter køre ud til venstre."
+        "Command": "og derefter kør ud til venstre."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": "og derefter køre ud til højre."
+        "Command": "og derefter kør ud til højre."
     },
     {
         "File prefix": "and_then_go_straight",
