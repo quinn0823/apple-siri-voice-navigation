@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "Fordulj balra."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Fordulj jobbra."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Maradj balra."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Maradjon jobbra."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Kilépés balra."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Lépjen ki jobbra."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Menj egyenesen."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "A körforgalomnál hajtson ki az első kijáraton."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "A körforgalomnál hajtson ki a második kijáraton."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "A körforgalomnál hajtson ki a harmadik kijáraton."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "A körforgalomnál hajtson ki a negyedik kijáraton."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "A körforgalomnál hajtson ki az ötödik kijáraton."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "A körforgalomnál hajtson ki a hatodik kijáraton."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Lépjen ki most."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Készülj fel a balra fordulásra."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Készülj fel a jobbra kanyarodásra."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Készülj fel a balra való kilépésre."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Készülj fel a kilépésre."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Fordulj balra,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Fordulj jobbra,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Maradj balra,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Maradj jobbra,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Kijárat balra,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Kijárat jobbra,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Menj egyenesen,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "majd forduljon balra."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "majd forduljon jobbra."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "majd maradjon balra."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "És akkor maradj jobbra."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "majd lépjen ki balra."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "majd lépjen ki jobbra."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "majd folytassa egyenesen."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "Oké, tessék."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "Ideje útnak indulni."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "Tegyük ezt."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Vezessen biztonságosan."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Készen áll a gurulásra."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "Gyerünk."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "Itt az ideje, hogy elvégezzük a munkát."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "Megérkezett úti céljához. Az útvonal-útmutatás befejeződött."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Itt vagyunk, épségben."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "Végre itt vagyunk."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "Most mindennek vége."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "Itt ér véget."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "Végeztünk."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "Szép utazás volt."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Átirányítás."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "Újraszámítás."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "Új útvonal keresése."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "Rendben, keressünk egy új útvonalat."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Nem érdekes. Találok egy új útvonalat."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Ha lehetséges, fordítson vissza."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Fordulj vissza."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Kérjük, fordítson vissza, ha lehetséges."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Vigyázat, kérjük, vegye figyelembe a sebességkorlátozást."
+    }
+]
