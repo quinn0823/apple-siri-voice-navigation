@@ -342,22 +342,23 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Incomplete (0 New from 0)
-
-#### Planned (6+ New from 6+)
+#### Incomplete (4 New from 4)
 
 - danish
     - danish_dk
 - hungarian
     - hungarian_hu
-- korean
-    - korean_kr
 - romanian
     - romanian_ro
-- slovak
-    - slovak_sk
 - thai
     - thai_th
+
+#### Planned (2+ New from 2+)
+
+- korean
+    - korean_kr
+- slovak
+    - slovak_sk
 
 ### 贡献者
 
@@ -371,7 +372,7 @@ apple-siri-voice-navigation
 
 发行日期：2025 年 07 月 15 日 (3.3.1)
 
-发布日期（GitHub，简体中文）：2025 年 07 月 15 日
+发布日期（GitHub，简体中文）：2025 年 07 月 16 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 

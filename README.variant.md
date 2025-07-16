@@ -358,22 +358,23 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Incomplete (0 New from 0)
-
-#### Planned (6+ New from 6+)
+#### Incomplete (4 New from 4)
 
 - danish
     - danish_dk
 - hungarian
     - hungarian_hu
-- korean
-    - korean_kr
 - romanian
     - romanian_ro
-- slovak
-    - slovak_sk
 - thai
     - thai_th
+
+#### Planned (2+ New from 2+)
+
+- korean
+    - korean_kr
+- slovak
+    - slovak_sk
 
 ### Contributors
 
@@ -387,7 +388,7 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 Release Date: July 15, 2025 (3.3.1)
 
-Published Date (GitHub): July 15, 2025
+Published Date (GitHub): July 16, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 
