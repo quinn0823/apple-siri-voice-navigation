@@ -1,0 +1,15 @@
+Apple Siri Voice Navigation 3.4
+
+Added
+* Create navigation commands in 4 new languages, and all the voices in these languages will soon be available:
+    + Danish
+    + Hungarian
+    + Romanian
+    + Thai
+
+Improved
+* Optimize the commands in Chinese (Hong Kong) [中文（香港）]. Regenerate and rebuild the following voices, with more authentic Cantonese expressions:
+    + 中文（香港）- Siri（聲音1）
+    + 中文（香港）- Siri（聲音2）
+
+[url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.4.0]View it on GitHub[/url].
