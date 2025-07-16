@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "เลี้ยวซ้าย"
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "เลี้ยวขวา"
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "อยู่ทางซ้าย"
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "อยู่ให้ถูกต้อง"
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "ออกทางซ้าย"
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "ออกขวา"
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "ตรงไป"
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "ที่วงเวียน ให้ใช้ทางออกแรก"
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "ที่วงเวียน ให้ใช้ทางออกที่สอง"
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "ที่วงเวียน ให้ใช้ทางออกที่สาม"
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "ที่วงเวียน ให้ใช้ทางออกที่สี่"
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "ที่วงเวียน ให้ใช้ทางออกที่ห้า"
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "ที่วงเวียน ให้ใช้ทางออกที่หก"
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "ออกทันที"
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "เตรียมพร้อมที่จะเลี้ยวซ้าย"
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "เตรียมพร้อมที่จะเลี้ยวขวา"
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "เตรียมพร้อมที่จะออกทางซ้าย"
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "เตรียมพร้อมที่จะออกให้ถูกต้อง"
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "เลี้ยวซ้าย"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "เลี้ยวขวา"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "อยู่ซ้าย"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "อยู่ขวา"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "ออกซ้าย"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "ออกขวา"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "ตรงไป"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "แล้วเลี้ยวซ้าย"
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "แล้วเลี้ยวขวา"
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "แล้วอยู่ทางซ้าย"
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "แล้วอยู่ให้ถูกต้อง"
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "แล้วออกซ้าย"
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "แล้วออกทางขวา"
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "แล้วตรงไปเรื่อยๆ"
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "ตกลง ไปกันเลย"
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "ได้เวลาออกเดินทาง"
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "มาทําสิ่งนี้กันเถอะ"
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "ขับขี่อย่างปลอดภัย"
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "พร้อมม้วน"
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "ไปกันเถอะ"
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "ถึงเวลาทํางานให้เสร็จ"
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "คุณมาถึงจุดหมายปลายทางแล้ว คําแนะนําเส้นทางของคุณเสร็จสิ้นแล้ว"
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "เราอยู่ที่นี่อย่างปลอดภัย"
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "ในที่สุดเราก็มาถึงที่นี่"
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "ตอนนี้ทุกอย่างจบลงแล้ว"
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "นี่คือจุดสิ้นสุด"
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "เราจบแล้ว"
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "มันเป็นการขี่ที่ดี"
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "การเปลี่ยนเส้นทาง"
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "การคํานวณใหม่"
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "ค้นหาเส้นทางใหม่"
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "ตกลง มาหาเส้นทางใหม่กันเถอะ"
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "ไม่เป็นไร ฉันจะหาเส้นทางใหม่"
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "หากเป็นไปได้ ให้กลับรถ"
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "กลับรถ"
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "โปรดกลับรถเมื่อเป็นไปได้"
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "ข้อควรระวัง โปรดคํานึงถึงการจํากัดความเร็ว"
+    }
+]
