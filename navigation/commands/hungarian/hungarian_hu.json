@@ -17,11 +17,11 @@
     },
     {
         "File prefix": "exit_left",
-        "Command": "Lépj ki balra."
+        "Command": "Hajts ki balra."
     },
     {
         "File prefix": "exit_right",
-        "Command": "Lépj ki jobbra."
+        "Command": "Hajts ki jobbra."
     },
     {
         "File prefix": "go_straight",
@@ -29,27 +29,27 @@
     },
     {
         "File prefix": "roundabout_1",
-        "Command": "A körforgalomnál hajtson ki az első kijáraton."
+        "Command": "A körforgalomnál, hajts ki az első kijáraton."
     },
     {
         "File prefix": "roundabout_2",
-        "Command": "A körforgalomnál hajtson ki a második kijáraton."
+        "Command": "A körforgalomnál, hajts ki a második kijáraton."
     },
     {
         "File prefix": "roundabout_3",
-        "Command": "A körforgalomnál hajtson ki a harmadik kijáraton."
+        "Command": "A körforgalomnál, hajts ki a harmadik kijáraton."
     },
     {
         "File prefix": "roundabout_4",
-        "Command": "A körforgalomnál hajtson ki a negyedik kijáraton."
+        "Command": "A körforgalomnál, hajts ki a negyedik kijáraton."
     },
     {
         "File prefix": "roundabout_5",
-        "Command": "A körforgalomnál hajtson ki az ötödik kijáraton."
+        "Command": "A körforgalomnál, hajts ki az ötödik kijáraton."
     },
     {
         "File prefix": "roundabout_6",
-        "Command": "A körforgalomnál hajtson ki a hatodik kijáraton."
+        "Command": "A körforgalomnál, hajts ki a hatodik kijáraton."
     },
     {
         "File prefix": "exit_now",
@@ -65,11 +65,11 @@
     },
     {
         "File prefix": "prepare_exit_left",
-        "Command": "Készülj fel a balra való kilépésre."
+        "Command": "Készülj fel a balra történő kihajtásra."
     },
     {
         "File prefix": "prepare_exit_right",
-        "Command": "Készülj fel a jobbra való kilépésre."
+        "Command": "Készülj fel a jobbra történő kihajtásra."
     },
     {
         "File prefix": "compound_turn_left",
@@ -89,11 +89,11 @@
     },
     {
         "File prefix": "compound_exit_left",
-        "Command": "Lépj ki balra,"
+        "Command": "Hajts ki balra,"
     },
     {
         "File prefix": "compound_exit_right",
-        "Command": "Lépj ki jobbra,"
+        "Command": "Hajts ki jobbra,"
     },
     {
         "File prefix": "compound_go_straight",
@@ -117,11 +117,11 @@
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": "majd lépj ki balra."
+        "Command": "majd hajts ki balra."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": "mmajd lépj ki jobbra."
+        "Command": "majd hajts ki jobbra."
     },
     {
         "File prefix": "and_then_go_straight",
@@ -141,7 +141,7 @@
     },
     {
         "File prefix": "start_4",
-        "Command": "Vezessen biztonságosan."
+        "Command": "Vezess biztonságosan."
     },
     {
         "File prefix": "start_5",
@@ -157,7 +157,7 @@
     },
     {
         "File prefix": "finish_1",
-        "Command": "Megérkezett úti céljához. Az útvonal-útmutatás befejeződött."
+        "Command": "Megérkeztél úti célodhoz. Az útvonal-útmutatás befejeződött."
     },
     {
         "File prefix": "finish_2",
@@ -205,7 +205,7 @@
     },
     {
         "File prefix": "u_turn_1",
-        "Command": "Ha lehetséges, fordítson vissza."
+        "Command": "Ha lehetséges, fordulj vissza."
     },
     {
         "File prefix": "u_turn_2",
@@ -213,7 +213,7 @@
     },
     {
         "File prefix": "u_turn_3",
-        "Command": "Kérjük, fordítson vissza, ha lehetséges."
+        "Command": "Kérjük, fordulj vissza, ha lehetséges."
     },
     {
         "File prefix": "speed_signal",
@@ -221,6 +221,6 @@
     },
     {
         "File prefix": "speed_warning",
-        "Command": "Vigyázat, kérjük, vegye figyelembe a sebességkorlátozást."
+        "Command": "Vigyázat, kérjük, vedd figyelembe a sebességkorlátozást."
     }
 ]
