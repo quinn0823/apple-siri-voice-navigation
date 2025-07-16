@@ -17,11 +17,11 @@
     },
     {
         "File prefix": "exit_left",
-        "Command": "使用左邊的出口。"
+        "Command": "使用左邊嘅出口。"
     },
     {
         "File prefix": "exit_right",
-        "Command": "使用右邊的出口。"
+        "Command": "使用右邊嘅出口。"
     },
     {
         "File prefix": "go_straight",
@@ -65,11 +65,11 @@
     },
     {
         "File prefix": "prepare_exit_left",
-        "Command": "前方，使用左邊的出口。"
+        "Command": "前方，使用左邊嘅出口。"
     },
     {
         "File prefix": "prepare_exit_right",
-        "Command": "前方，使用右邊的出口。"
+        "Command": "前方，使用右邊嘅出口。"
     },
     {
         "File prefix": "compound_turn_left",
@@ -89,11 +89,11 @@
     },
     {
         "File prefix": "compound_exit_left",
-        "Command": "使用左邊的出口，"
+        "Command": "使用左邊嘅出口，"
     },
     {
         "File prefix": "compound_exit_right",
-        "Command": "使用右邊的出口，"
+        "Command": "使用右邊嘅出口，"
     },
     {
         "File prefix": "compound_go_straight",
@@ -117,11 +117,11 @@
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": "然後使用左邊的出口。"
+        "Command": "然後使用左邊嘅出口。"
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": "然後使用右邊的出口。"
+        "Command": "然後使用右邊嘅出口。"
     },
     {
         "File prefix": "and_then_go_straight",
@@ -129,7 +129,7 @@
     },
     {
         "File prefix": "start_1",
-        "Command": "準備好了，我們出發吧。"
+        "Command": "準備定，我哋出發啦。"
     },
     {
         "File prefix": "start_2",
@@ -137,7 +137,7 @@
     },
     {
         "File prefix": "start_3",
-        "Command": "出發吧。"
+        "Command": "出發啦。"
     },
     {
         "File prefix": "start_4",
@@ -145,7 +145,7 @@
     },
     {
         "File prefix": "start_5",
-        "Command": "都設置好了，我們出發吧。"
+        "Command": "都設置好晒，我哋出發啦。"
     },
     {
         "File prefix": "start_6",
@@ -157,31 +157,31 @@
     },
     {
         "File prefix": "finish_1",
-        "Command": "您已經到達了目的地，導航會在這兒終止。"
+        "Command": "你有到達目的地，導航會喺呢度終止。"
     },
     {
         "File prefix": "finish_2",
-        "Command": "我們已安全地來到了。"
+        "Command": "我哋已安全地來到了。"
     },
     {
         "File prefix": "finish_3",
-        "Command": "我們終於來到了。"
+        "Command": "我哋終於來到了。"
     },
     {
         "File prefix": "finish_4",
-        "Command": "我們已抵達了目的地。"
+        "Command": "我哋已抵達了目的地。"
     },
     {
         "File prefix": "finish_5",
-        "Command": "我們已到達了旅途的終點。"
+        "Command": "我哋已到達咗旅途嘅終點。"
     },
     {
         "File prefix": "finish_6",
-        "Command": "我們已到達了目的地。"
+        "Command": "我哋已到達了目的地。"
     },
     {
         "File prefix": "finish_7",
-        "Command": "旅程還不錯呢。"
+        "Command": "旅程仲唔錯呢。"
     },
     {
         "File prefix": "recomputing_1",
@@ -197,11 +197,11 @@
     },
     {
         "File prefix": "recomputing_4",
-        "Command": "好的，讓我們再計算一條新的路線。"
+        "Command": "好的，畀我哋再計算一條新嘅路線。"
     },
     {
         "File prefix": "recomputing_5",
-        "Command": "沒事，我會再計算一條新的路線。"
+        "Command": "沒事，我會再計算一條新嘅路線。"
     },
     {
         "File prefix": "u_turn_1",
@@ -221,6 +221,6 @@
     },
     {
         "File prefix": "speed_warning",
-        "Command": "請註意您的時速。"
+        "Command": "請注意您的時速。"
     }
 ]
