@@ -13,7 +13,7 @@
     },
     {
         "File prefix": "keep_right",
-        "Command": "Rămâi corect."
+        "Command": "Rămâneți la dreapta."
     },
     {
         "File prefix": "exit_left",
@@ -57,11 +57,11 @@
     },
     {
         "File prefix": "prepare_turn_left",
-        "Command": "Pregătește-te să virezi la stânga."
+        "Command": "Pregătește-te să iei la stânga."
     },
     {
         "File prefix": "prepare_turn_right",
-        "Command": "Pregătește-te să virezi la dreapta."
+        "Command": "Pregătește-te să iei la dreapta."
     },
     {
         "File prefix": "prepare_exit_left",
@@ -69,7 +69,7 @@
     },
     {
         "File prefix": "prepare_exit_right",
-        "Command": "Pregătește-te să ieși corect."
+        "Command": "Pregătește-te să ieși la dreapta."
     },
     {
         "File prefix": "compound_turn_left",
@@ -81,11 +81,11 @@
     },
     {
         "File prefix": "compound_keep_left",
-        "Command": "Stai la stânga,"
+        "Command": "Rămâneți la stânga,"
     },
     {
         "File prefix": "compound_keep_right",
-        "Command": "Stai corect,"
+        "Command": "Rămâneți la dreapta,"
     },
     {
         "File prefix": "compound_exit_left",
@@ -101,11 +101,11 @@
     },
     {
         "File prefix": "and_then_turn_left",
-        "Command": "și apoi virați la stânga."
+        "Command": "și apoi ia-o la stânga."
     },
     {
         "File prefix": "and_then_turn_right",
-        "Command": "și apoi virați la dreapta."
+        "Command": "și apoi ia-o la dreapta."
     },
     {
         "File prefix": "and_then_keep_left",
@@ -125,7 +125,7 @@
     },
     {
         "File prefix": "and_then_go_straight",
-        "Command": "și apoi continuați drept."
+        "Command": "și apoi continuați drept înainte."
     },
     {
         "File prefix": "start_1",
@@ -161,7 +161,7 @@
     },
     {
         "File prefix": "finish_2",
-        "Command": "Iată-ne, sănătoși și sănătoși."
+        "Command": "Iată-ne, teferi și sănătoși."
     },
     {
         "File prefix": "finish_3",
