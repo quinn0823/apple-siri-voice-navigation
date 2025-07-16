@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "Ia-o la stânga."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Ia-o la dreapta."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Rămâneți la stânga."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Rămâi corect."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Ieșiți la stânga."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Ieșiți la dreapta."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Mergi drept înainte."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "La sensul giratoriu, luați prima ieșire."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "La sensul giratoriu, luați a doua ieșire."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "La sensul giratoriu, luați a treia ieșire."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "La sensul giratoriu, luați a patra ieșire."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "La sensul giratoriu, luați a cincea ieșire."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "La sensul giratoriu, luați a șasea ieșire."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Ieșiți acum."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Pregătește-te să virezi la stânga."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Pregătește-te să virezi la dreapta."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Pregătește-te să ieși la stânga."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Pregătește-te să ieși corect."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Ia-o la stânga,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Ia-o la dreapta,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Stai la stânga,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Stai corect,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Ieșiți la stânga,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Ieșiți la dreapta,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Mergi drept înainte,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "și apoi virați la stânga."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "și apoi virați la dreapta."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "și apoi rămâneți la stânga."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "și apoi rămâneți la dreapta."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "și apoi ieșiți la stânga."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "și apoi ieșiți la dreapta."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "și apoi continuați drept."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "OK, iată-ne."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "E timpul să pornim la drum."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "Să facem asta."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Conduceți în siguranță."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Gata de rulare."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "Să mergem."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "E timpul să facem treaba."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "Ați ajuns la destinație. Ghidarea rutei este acum terminată."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Iată-ne, sănătoși și sănătoși."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "În sfârșit, suntem aici."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "Totul s-a terminat acum."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "Aici se termină."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "Am terminat."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "A fost o călătorie frumoasă."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Redirecționare."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "Recalculare."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "Găsirea unui nou traseu."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "OK, să găsim o nouă rută."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Nu mai contează. Voi găsi un nou traseu."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Când este posibil, faceți o întoarcere în U."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Faceți o întoarcere în U."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Vă rugăm să faceți o întoarcere atunci când este posibil."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Atenție, vă rugăm să țineți cont de limita de viteză."
+    }
+]
