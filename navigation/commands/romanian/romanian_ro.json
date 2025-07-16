@@ -9,11 +9,11 @@
     },
     {
         "File prefix": "keep_left",
-        "Command": "Rămâneți la stânga."
+        "Command": "Stai la stânga."
     },
     {
         "File prefix": "keep_right",
-        "Command": "Rămâneți la dreapta."
+        "Command": "Stai la dreapta."
     },
     {
         "File prefix": "exit_left",
@@ -81,11 +81,11 @@
     },
     {
         "File prefix": "compound_keep_left",
-        "Command": "Rămâneți la stânga,"
+        "Command": "Stai la stânga,"
     },
     {
         "File prefix": "compound_keep_right",
-        "Command": "Rămâneți la dreapta,"
+        "Command": "Stai la dreapta,"
     },
     {
         "File prefix": "compound_exit_left",
@@ -109,11 +109,11 @@
     },
     {
         "File prefix": "and_then_keep_left",
-        "Command": "și apoi rămâneți la stânga."
+        "Command": "și apoi stai la stânga."
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": "și apoi rămâneți la dreapta."
+        "Command": "și apoi stai la dreapta."
     },
     {
         "File prefix": "and_then_exit_left",
