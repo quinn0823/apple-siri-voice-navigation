@@ -13,15 +13,15 @@
     },
     {
         "File prefix": "keep_right",
-        "Command": "Maradjon jobbra."
+        "Command": "Maradj jobbra."
     },
     {
         "File prefix": "exit_left",
-        "Command": "Kilépés balra."
+        "Command": "Lépj ki balra."
     },
     {
         "File prefix": "exit_right",
-        "Command": "Lépjen ki jobbra."
+        "Command": "Lépj ki jobbra."
     },
     {
         "File prefix": "go_straight",
@@ -53,7 +53,7 @@
     },
     {
         "File prefix": "exit_now",
-        "Command": "Lépjen ki most."
+        "Command": "Lépj ki most."
     },
     {
         "File prefix": "prepare_turn_left",
@@ -61,7 +61,7 @@
     },
     {
         "File prefix": "prepare_turn_right",
-        "Command": "Készülj fel a jobbra kanyarodásra."
+        "Command": "Készülj fel a jobbra fordulásra."
     },
     {
         "File prefix": "prepare_exit_left",
@@ -69,7 +69,7 @@
     },
     {
         "File prefix": "prepare_exit_right",
-        "Command": "Készülj fel a kilépésre."
+        "Command": "Készülj fel a jobbra való kilépésre."
     },
     {
         "File prefix": "compound_turn_left",
@@ -89,11 +89,11 @@
     },
     {
         "File prefix": "compound_exit_left",
-        "Command": "Kijárat balra,"
+        "Command": "Lépj ki balra,"
     },
     {
         "File prefix": "compound_exit_right",
-        "Command": "Kijárat jobbra,"
+        "Command": "Lépj ki jobbra,"
     },
     {
         "File prefix": "compound_go_straight",
@@ -101,31 +101,31 @@
     },
     {
         "File prefix": "and_then_turn_left",
-        "Command": "majd forduljon balra."
+        "Command": "majd fordulj balra."
     },
     {
         "File prefix": "and_then_turn_right",
-        "Command": "majd forduljon jobbra."
+        "Command": "majd fordulj jobbra."
     },
     {
         "File prefix": "and_then_keep_left",
-        "Command": "majd maradjon balra."
+        "Command": "majd maradj balra."
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": "És akkor maradj jobbra."
+        "Command": "majd maradj jobbra."
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": "majd lépjen ki balra."
+        "Command": "majd lépj ki balra."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": "majd lépjen ki jobbra."
+        "Command": "mmajd lépj ki jobbra."
     },
     {
         "File prefix": "and_then_go_straight",
-        "Command": "majd folytassa egyenesen."
+        "Command": "majd folytass egyenesen."
     },
     {
         "File prefix": "start_1",
