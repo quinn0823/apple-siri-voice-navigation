@@ -9,11 +9,11 @@
     },
     {
         "File prefix": "keep_left",
-        "Command": "อยู่ซ้าย"
+        "Command": "ชิดซ้าย"
     },
     {
         "File prefix": "keep_right",
-        "Command": "อยู่ขวา"
+        "Command": "ชิดขวา"
     },
     {
         "File prefix": "exit_left",
@@ -81,11 +81,11 @@
     },
     {
         "File prefix": "compound_keep_left",
-        "Command": "อยู่ซ้าย"
+        "Command": "ชิดซ้าย"
     },
     {
         "File prefix": "compound_keep_right",
-        "Command": "อยู่ขวา"
+        "Command": "ชิดขวา"
     },
     {
         "File prefix": "compound_exit_left",
@@ -109,11 +109,11 @@
     },
     {
         "File prefix": "and_then_keep_left",
-        "Command": "แล้วอยู่ซ้าย"
+        "Command": "แล้วชิดซ้าย"
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": "แล้วอยู่ขวา"
+        "Command": "แล้วชิดขวา"
     },
     {
         "File prefix": "and_then_exit_left",
@@ -145,7 +145,7 @@
     },
     {
         "File prefix": "start_5",
-        "Command": "พร้อมม้วน"
+        "Command": "พร้อมออกเดินทาง"
     },
     {
         "File prefix": "start_6",
