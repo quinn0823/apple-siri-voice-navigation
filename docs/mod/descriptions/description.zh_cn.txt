@@ -63,10 +63,10 @@
 * Français (France) - Siri (Voix 2)
 * [blue]Hebrew (Israel) - Siri (Voice 1)[normal]
 * [blue]Hebrew (Israel) - Siri (Voice 2)[normal]
-* [green]Italiano (Italia) - Siri (Voca 1)[normal]
-* [green]Italiano (Italia) - Siri (Voca 2)[normal]
-* [green]Italiano (Italia) - Siri (Voca 3)[normal]
-* [green]Italiano (Italia) - Siri (Voca 4)[normal]
+* Italiano (Italia) - Siri (Voca 1)
+* Italiano (Italia) - Siri (Voca 2)
+* Italiano (Italia) - Siri (Voca 3)
+* Italiano (Italia) - Siri (Voca 4)
 * [green]Magyar (Magyarország) - Tünde (prémium)[normal]
 * [blue]Netherlands (België) - Ellen (verbeterd)[normal]
 * [blue]Netherlands (Netherland) - Siri (Stem 1)[normal]

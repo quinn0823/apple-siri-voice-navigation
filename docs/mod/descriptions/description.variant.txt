@@ -70,10 +70,10 @@ To help improve this project, you can check out the development guide in the rep
     + [blue]Siri (Voice 1)[normal]
     + [blue]Siri (Voice 2)[normal]
 * Italiano (Italia) -
-    + [green]Siri (Voca 1)[normal]
-    + [green]Siri (Voca 2)[normal]
-    + [green]Siri (Voca 3)[normal]
-    + [green]Siri (Voca 4)[normal]
+    + Siri (Voca 1)
+    + Siri (Voca 2)
+    + Siri (Voca 3)
+    + Siri (Voca 4)
 * Magyar (Magyarország) -
     + [green]Tünde (prémium)[normal]
 * Netherlands
