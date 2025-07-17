@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .romanian.ro_ioana_en.pack {
+        pack_name: "Română (România) - Ioana (îmbunătațită)"
+    }
+}
