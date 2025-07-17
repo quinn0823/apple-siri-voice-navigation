@@ -6,7 +6,7 @@ Added
     + Hungarian
     + Romanian
     + Thai
-* Add 2 new voices in a new language:
+* Add 2 new voices in 2 new language:
     + Magyar (Magyarország) - Tünde (prémium)
     + Română (România) - Ioana (îmbunătațită)
 
