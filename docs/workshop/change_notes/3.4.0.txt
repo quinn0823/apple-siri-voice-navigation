@@ -6,6 +6,9 @@ Added
     + Hungarian
     + Romanian
     + Thai
+* Add 2 new voices in 2 new language:
+    + Magyar (Magyarország) - Tünde (prémium)
+    + Română (România) - Ioana (îmbunătațită)
 
 Improved
 * Optimize the commands in Chinese (Hong Kong) [中文（香港）]. Regenerate and rebuild the following voices, with more authentic Cantonese expressions:
