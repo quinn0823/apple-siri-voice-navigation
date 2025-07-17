@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .hungarian.hu_tunde_pr.pack {
+        pack_name: "Magyar (Magyarország) - Tünde (prémium)"
+    }
+}
