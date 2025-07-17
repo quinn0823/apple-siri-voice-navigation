@@ -106,10 +106,10 @@
     - **Siri (Voice 1)**
     - **Siri (Voice 2)**
 - Italiano (Italia) -
-    - **Siri (Voca 1)**
-    - **Siri (Voca 2)**
-    - **Siri (Voca 3)**
-    - **Siri (Voca 4)**
+    - Siri (Voca 1)
+    - Siri (Voca 2)
+    - Siri (Voca 3)
+    - Siri (Voca 4)
 - Magyar (Magyarország) -
     - **Tünde (prémium)**
 - Netherlands

@@ -99,10 +99,10 @@
 - Français (France) - Siri (Voix 2)
 - **Hebrew (Israel) - Siri (Voice 1)**
 - **Hebrew (Israel) - Siri (Voice 2)**
-- **Italiano (Italia) - Siri (Voca 1)**
-- **Italiano (Italia) - Siri (Voca 2)**
-- **Italiano (Italia) - Siri (Voca 3)**
-- **Italiano (Italia) - Siri (Voca 4)**
+- Italiano (Italia) - Siri (Voca 1)
+- Italiano (Italia) - Siri (Voca 2)
+- Italiano (Italia) - Siri (Voca 3)
+- Italiano (Italia) - Siri (Voca 4)
 - **Magyar (Magyarország) - Tünde (prémium)**
 - **Netherlands (België) - Ellen (verbeterd)**
 - **Netherlands (Netherland) - Siri (Stem 1)**

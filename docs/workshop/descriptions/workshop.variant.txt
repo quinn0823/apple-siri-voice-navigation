@@ -78,10 +78,10 @@ To help improve this project, you can check out the development guide in the [ur
 [/list]
 [*]Italiano (Italia) -
 [list]
-[*][b]Siri (Voca 1)[/b]
-[*][b]Siri (Voca 2)[/b]
-[*][b]Siri (Voca 3)[/b]
-[*][b]Siri (Voca 4)[/b]
+[*]Siri (Voca 1)
+[*]Siri (Voca 2)
+[*]Siri (Voca 3)
+[*]Siri (Voca 4)
 [/list]
 [*]Magyar (Magyarország) -
 [list]
