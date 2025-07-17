@@ -1,6 +1,6 @@
-[b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [b]over 70 voices in 15 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [b]over 80 voices in 17 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[b]July 15[/b]: 3.2 > [b]3.3.1[/b]. Add [b]2 new voices in Swedish (Svenska)[/b], and optimize 5 voices in 2 languages.
+[b]July 17[/b]: 3.3.1 > [b]3.4[/b]. Add [b]2 new voices in 2 new languages[/b], and optimize commands in Chinese (Hong Kong) [中文（香港）].
 
 [hr][/hr]
 [h1]Introduction[/h1]
@@ -13,7 +13,7 @@ Thank you for subscribing! If you like it, please consider leaving a vote, shari
 To help improve this project, you can check out the development guide in the [url=https://github.com/quinn0823/apple-siri-voice-navigation]repository[/url] on GitHub. You can also view the localized descriptions there.
 
 [h1]Voices [87+ Voices in 21+ Languages][/h1]
-[b]Available (78 in 15)[/b]
+[b]Available (80 in 17)[/b]
 [list]
 [*]Čeština (Česko) - Iveta (vylepšená verze)
 [*]Čeština (Česko) - Zuzana (prémiový)
@@ -62,6 +62,7 @@ To help improve this project, you can check out the development guide in the [ur
 [*][b]Italiano (Italia) - Siri (Voca 2)[/b]
 [*][b]Italiano (Italia) - Siri (Voca 3)[/b]
 [*][b]Italiano (Italia) - Siri (Voca 4)[/b]
+[*][b]Magyar (Magyarország) - Tünde (prémium)[/b]
 [*][b]Netherlands (België) - Ellen (verbeterd)[/b]
 [*][b]Netherlands (Netherland) - Siri (Stem 1)[/b]
 [*][b]Netherlands (Netherland) - Siri (Stem 2)[/b]
@@ -73,6 +74,7 @@ To help improve this project, you can check out the development guide in the [ur
 [*]Português (Portugal) - Catarina (melhorada)
 [*]Português (Portugal) - Joana (melhorada)
 [*]Português (Portugal) - Joaquim (melhorada)
+[*][b]Română (România) - Ioana (îmbunătațită)[/b]
 [*][b]Svenska (Sverige) - Siri (Röst 1)[/b]
 [*][b]Svenska (Sverige) - Siri (Röst 2)[/b]
 [*]Türkçe (Türkiye) - Siri (Ses 1)
@@ -89,25 +91,20 @@ To help improve this project, you can check out the development guide in the [ur
 [*]中文（四川，中国大陆）- 盼盼（优化音质）
 [*]中文（辽宁，中国大陆）- 冬梅（优化音质）
 [*]中文（陕西，中国大陆）- 浩浩（优化音质）
-[*]中文（香港）- Siri（聲音1）
-[*]中文（香港）- Siri（聲音2）
+[*][b]中文（香港）- Siri（聲音1）[/b]
+[*][b]中文（香港）- Siri（聲音2）[/b]
 [*]日本語（日本）- Siri（声1）
 [*]日本語（日本）- Siri（声2）
 [/list]
-[b]Coming Soon (1 in 1 New)[/b]
-[list]
-[*]Magyar (Magyarország) - Tünde (prémium)
-[/list]
-[b]In Production (1 in 1 New)[/b]
-[list]
-[*]Română (România) - Ioana (îmbunătațită)
-[/list]
-[b]Planned (7+ in 4+ New)[/b]
+[b]Coming Soon (4 in 2 New)[/b]
 [list]
 [*]Dansk (Danmark) - Siri (Stemme 1)
 [*]Dansk (Danmark) - Siri (Stemme 2)
 [*]Thai (Thailand) - Siri (Voice 1)
 [*]Thai (Thailand) - Siri (Voice 2)
+[/list]
+[b]Planned (3+ in 2+ New)[/b]
+[list]
 [*]한국어 (대한민국) - Siri (음성 1)
 [*]한국어 (대한민국) - Siri (음성 2)
 [*]Slovenčina (Slovensko) - Laura (vylepšený)
@@ -157,8 +154,8 @@ Please visit the [url=https://github.com/quinn0823/apple-siri-voice-navigation]r
 You can also contact me at quinnqiu0823@icloud.com.
 
 [hr][/hr]
-Release Date: July 15, 2025 (3.3.1)
-Published Date (Workshop): July 15, 2025
+Release Date: July 17, 2025 (3.4)
+Published Date (Workshop): July 17, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu

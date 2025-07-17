@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **15 种语言的 70 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **17 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**07 月 15 日**：3.2 > **3.3.1**。添加 **2 种瑞典语 (Svenska) 的新声音**，并优化 2 种语言的 5 种声音。
+**07 月 17 日**：3.3.1 > **3.4**。添加 **2 种新语言的 2 种新声音**，并优化中文（香港）［中文（香港）］的命令。
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## Voices [87+ Voices in 21+ Languages]
 
-### Available (78 in 15)
+### Available (80 in 17)
 
 - Čeština (Česko) -
     - Iveta (vylepšená verze)
@@ -110,6 +110,8 @@
     - **Siri (Voca 2)**
     - **Siri (Voca 3)**
     - **Siri (Voca 4)**
+- Magyar (Magyarország) -
+    - **Tünde (prémium)**
 - Netherlands
     - **(België) - Ellen (verbeterd)**
     - **(Netherland) - Siri (Stem 1)**
@@ -124,6 +126,8 @@
     - (Portugal) - Catarina (melhorada)
     - (Portugal) - Joana (melhorada)
     - (Portugal) - Joaquim (melhorada)
+- Română (România) -
+    - **Ioana (îmbunătațită)**
 - Türkçe (Türkiye) -
     - Siri (Ses 1)
     - Siri (Ses 2)
@@ -144,26 +148,21 @@
     - （四川，中国大陆）- 盼盼（优化音质）
     - （辽宁，中国大陆）- 冬梅（优化音质）
     - （陕西，中国大陆）- 浩浩（优化音质）
-    - （香港）- Siri（聲音1）
-    - （香港）- Siri（聲音2）
+    - **（香港）- Siri（聲音1）**
+    - **（香港）- Siri（聲音2）**
 - 日本語（日本）-
     - Siri（声1）
     - Siri（声2）
 
-### Coming Soon (1 in 1 New)
-
-- Magyar (Magyarország) - Tünde (prémium)
-
-### In Production (1 in 1 New)
-
-- Română (România) - Ioana (îmbunătațită)
-
-### Planned (7+ in 4+ New)
+### Coming Soon (4 in 2 New)
 
 - Dansk (Danmark) - Siri (Stemme 1)
 - Dansk (Danmark) - Siri (Stemme 2)
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
+
+### Planned (3+ in 2+ New)
+
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
 - Slovenčina (Slovensko) - Laura (vylepšený)
@@ -384,9 +383,9 @@ apple-siri-voice-navigation
 
 ---
 
-发行日期：2025 年 07 月 15 日 (3.3.1)
+发行日期：2025 年 07 月 17 日 (3.4)
 
-发布日期（GitHub，简体中文）：2025 年 07 月 16 日
+发布日期（GitHub，简体中文）：2025 年 07 月 17 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 

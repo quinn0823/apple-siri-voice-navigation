@@ -1,6 +1,6 @@
-[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [orange]over 70 voices in 15 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [orange]over 80 voices in 17 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[orange]July 15[normal]: 3.2 – [green]3.3.1[normal]. Add [green]2 new voices in Swedish (Svenska)[normal], and optimize 5 voices in 2 languages.
+[orange]July 17[normal]: 3.3.1 – [green]3.4[normal]. Add [green]2 new voices in 2 new languages[normal], and optimize commands in Chinese (Hong Kong) [中文（香港）].
 
 
 [orange]Introduction[normal]
@@ -19,7 +19,7 @@ To help improve this project, you can check out the development guide in the rep
 4. Navigate to [orange]Audio – Voice Navigation – Language and voice[normal] and select a voice you like.
 
 [orange]Voices [87+ Voices in 21+ Languages][normal]
-[blue]Available (78 in 15)[normal]
+[blue]Available (80 in 17)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * Deutsch (Deutschland) - Siri (Stimme 1)
@@ -67,6 +67,7 @@ To help improve this project, you can check out the development guide in the rep
 * [green]Italiano (Italia) - Siri (Voca 2)[normal]
 * [green]Italiano (Italia) - Siri (Voca 3)[normal]
 * [green]Italiano (Italia) - Siri (Voca 4)[normal]
+* [green]Magyar (Magyarország) - Tünde (prémium)[normal]
 * [blue]Netherlands (België) - Ellen (verbeterd)[normal]
 * [blue]Netherlands (Netherland) - Siri (Stem 1)[normal]
 * [blue]Netherlands (Netherland) - Siri (Stem 2)[normal]
@@ -78,6 +79,7 @@ To help improve this project, you can check out the development guide in the rep
 * Português (Portugal) - Catarina (melhorada)
 * Português (Portugal) - Joana (melhorada)
 * Português (Portugal) - Joaquim (melhorada)
+* [green]Română (România) - Ioana (îmbunătațită)[normal]
 * [green]Svenska (Sverige) - Siri (Röst 1)[normal]
 * [green]Svenska (Sverige) - Siri (Röst 2)[normal]
 * Türkçe (Türkiye) - Siri (Ses 1)
@@ -94,22 +96,18 @@ To help improve this project, you can check out the development guide in the rep
 * 中文（四川，中国大陆）- 盼盼（优化音质）
 * 中文（辽宁，中国大陆）- 冬梅（优化音质）
 * 中文（陕西，中国大陆）- 浩浩（优化音质）
-* 中文（香港）- Siri（聲音1）
-* 中文（香港）- Siri（聲音2）
+* [blue]中文（香港）- Siri（聲音1）[normal]
+* [blue]中文（香港）- Siri（聲音2）[normal]
 * 日本語（日本）- Siri（声1）
 * 日本語（日本）- Siri（声2）
 
-[red]Coming Soon (1 in 1 New)[normal]
-* Magyar (Magyarország) - Tünde (prémium)
-
-[red]In Production (1 in 1 New)[normal]
-* Română (România) - Ioana (îmbunătațită)
-
-[red]Planned (7+ in 4+ New)[normal]
+[red]Coming Soon (4 in 2 New)[normal]
 * Dansk (Danmark) - Siri (Stemme 1)
 * Dansk (Danmark) - Siri (Stemme 2)
 * Thai (Thailand) - Siri (Voice 1)
 * Thai (Thailand) - Siri (Voice 2)
+
+[red]Planned (3+ in 2+ New)[normal]
 * 한국어 (대한민국) - Siri (음성 1)
 * 한국어 (대한민국) - Siri (음성 2)
 * Slovenčina (Slovensko) - Laura (vylepšený)
@@ -141,7 +139,7 @@ Please visit the repository on GitHub at [orange]https://github.com/quinn0823/ap
 You can also contact me at [orange]quinnqiu0823@icloud.com[normal].
 
 
-Release Date: July 15, 2025 (3.3.1)
+Release Date: July 17, 2025 (3.4)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
