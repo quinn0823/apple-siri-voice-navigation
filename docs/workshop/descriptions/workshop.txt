@@ -1,6 +1,6 @@
-[b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [b]over 80 voices in 17 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [b]over 80 voices in 18 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[b]July 17[/b]: 3.3.1 > [b]3.4[/b]. Add [b]2 new voices in 2 new languages[/b], and optimize commands in Chinese (Hong Kong) [中文（香港）].
+[b]July 18[/b]: 3.4 > [b]3.5[/b]. Add [b]2 new voices in Danish (Denmark) [Dansk (Danmark)][/b], and optimize pronunciation in English (United States).
 
 [hr][/hr]
 [h1]Introduction[/h1]
@@ -13,10 +13,12 @@ Thank you for subscribing! If you like it, please consider leaving a vote, shari
 To help improve this project, you can check out the development guide in the [url=https://github.com/quinn0823/apple-siri-voice-navigation]repository[/url] on GitHub. You can also view the localized descriptions there.
 
 [h1]Voices [87+ Voices in 21+ Languages][/h1]
-[b]Available (80 in 17)[/b]
+[b]Available (82 in 18)[/b]
 [list]
 [*]Čeština (Česko) - Iveta (vylepšená verze)
 [*]Čeština (Česko) - Zuzana (prémiový)
+[*][b]Dansk (Danmark) - Siri (Stemme 1)[/b]
+[*][b]Dansk (Danmark) - Siri (Stemme 2)[/b]
 [*]Deutsch (Deutschland) - Siri (Stimme 1)
 [*]Deutsch (Deutschland) - Siri (Stimme 2)
 [*]Deutsch (Deutschland) - Siri (Stimme 3)
@@ -36,11 +38,11 @@ To help improve this project, you can check out the development guide in the [ur
 [*]English (United Kingdom) - Siri (Voice 2)
 [*]English (United Kingdom) - Siri (Voice 3)
 [*]English (United Kingdom) - Siri (Voice 4)
-[*]English (United States) - Siri (Voice 1)
-[*]English (United States) - Siri (Voice 2)
-[*]English (United States) - Siri (Voice 3)
-[*]English (United States) - Siri (Voice 4)
-[*]English (United States) - Siri (Voice 5)
+[*][b]English (United States) - Siri (Voice 1)[/b]
+[*][b]English (United States) - Siri (Voice 2)[/b]
+[*][b]English (United States) - Siri (Voice 3)[/b]
+[*][b]English (United States) - Siri (Voice 4)[/b]
+[*][b]English (United States) - Siri (Voice 5)[/b]
 [*]Español (Argentina) - Diego (mejorada)
 [*]Español (Argentina) - Isabela (mejorada)
 [*]Español (Chile) - Francisca (mejorada)
@@ -79,8 +81,8 @@ To help improve this project, you can check out the development guide in the [ur
 [*][b]Svenska (Sverige) - Siri (Röst 2)[/b]
 [*]Türkçe (Türkiye) - Siri (Ses 1)
 [*]Türkçe (Türkiye) - Siri (Ses 2)
-[*][b]Русский (Россия) - Siri (Голос 1)[/b]
-[*][b]Русский (Россия) - Siri (Голос 2)[/b]
+[*]Русский (Россия) - Siri (Голос 1)
+[*]Русский (Россия) - Siri (Голос 2)
 [*]中文（上海，中国大陆）- 南南（优化音质）
 [*]中文（中国大陆）- Siri（声音1）
 [*]中文（中国大陆）- Siri（声音2）
@@ -96,10 +98,8 @@ To help improve this project, you can check out the development guide in the [ur
 [*]日本語（日本）- Siri（声1）
 [*]日本語（日本）- Siri（声2）
 [/list]
-[b]Coming Soon (4 in 2 New)[/b]
+[b]Coming Soon (2 in 1 New)[/b]
 [list]
-[*]Dansk (Danmark) - Siri (Stemme 1)
-[*]Dansk (Danmark) - Siri (Stemme 2)
 [*]Thai (Thailand) - Siri (Voice 1)
 [*]Thai (Thailand) - Siri (Voice 2)
 [/list]
@@ -154,8 +154,8 @@ Please visit the [url=https://github.com/quinn0823/apple-siri-voice-navigation]r
 You can also contact me at quinnqiu0823@icloud.com.
 
 [hr][/hr]
-Release Date: July 17, 2025 (3.4)
-Published Date (Workshop): July 17, 2025
+Release Date: July 18, 2025 (3.5)
+Published Date (Workshop): July 18, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
