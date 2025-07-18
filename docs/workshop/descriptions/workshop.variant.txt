@@ -118,8 +118,8 @@ To help improve this project, you can check out the development guide in the [ur
 [/list]
 [*]Svenska (Sverige) -
 [list]
-[*][b]Siri (Röst 1)[/b]
-[*][b]Siri (Röst 2)[/b]
+[*]Siri (Röst 1)
+[*]Siri (Röst 2)
 [/list]
 [*]Türkçe (Türkiye) -
 [list]

@@ -96,8 +96,8 @@ To help improve this project, you can check out the development guide in the rep
 * Română (România) -
     + [green]Ioana (îmbunătațită)[normal]
 * Svenska (Sverige) -
-    + [green]Siri (Röst 1)[normal]
-    + [green]Siri (Röst 2)[normal]
+    + Siri (Röst 1)
+    + Siri (Röst 2)
 * Türkçe (Türkiye) -
     + Siri (Ses 1)
     + Siri (Ses 2)

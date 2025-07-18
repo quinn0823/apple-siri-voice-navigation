@@ -82,8 +82,8 @@ To help improve this project, you can check out the development guide in the rep
 * Português (Portugal) - Joana (melhorada)
 * Português (Portugal) - Joaquim (melhorada)
 * [green]Română (România) - Ioana (îmbunătațită)[normal]
-* [green]Svenska (Sverige) - Siri (Röst 1)[normal]
-* [green]Svenska (Sverige) - Siri (Röst 2)[normal]
+* Svenska (Sverige) - Siri (Röst 1)
+* Svenska (Sverige) - Siri (Röst 2)
 * Türkçe (Türkiye) - Siri (Ses 1)
 * Türkçe (Türkiye) - Siri (Ses 2)
 * Русский (Россия) - Siri (Голос 1)
