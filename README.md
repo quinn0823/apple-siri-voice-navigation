@@ -357,6 +357,27 @@ apple-siri-voice-navigation
 - slovak
     - slovak_sk
 
+### Reference
+
+#### Remove Bold or Color Tags
+
+Search
+
+- General
+    ``` regexp
+    (\*{2}|\[\w+\])(\w+ \(\w+\) - )?(\w+ \(Voz \d\))(\*{2}|\[/?\w+\])
+    ```
+- Full-width parentheses
+    ``` regexp
+    (\*{2}|\[\w+\])(\w+（\w+）- )?(\w+（聲音\d）)(\*{2}|\[/?\w+\])
+    ```
+
+Replace
+
+```
+$2$3
+```
+
 ### Contributors
 
 <a href="https://github.com/quinn0823/apple-siri-voice-navigation/graphs/contributors">
