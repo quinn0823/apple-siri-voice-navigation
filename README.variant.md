@@ -377,20 +377,6 @@ apple-siri-voice-navigation
 
 ### Reference
 
-#### Remove Bold or Color Tags
-
-Search
-
-``` regexp
-(\*{2}|\[\w+\])((\S+- )?\S+聲音\d\S)(\*{2}|\[/?\w+\])
-```
-
-Replace
-
-```
-$2
-```
-
 #### Update to the Latest Version Number
 
 Search
@@ -404,6 +390,72 @@ Replace
 ```
 ${version_number}
 ```
+
+#### Remove Bold or Color Tags
+
+Search
+
+``` regexp
+(\*{2}|\[\w+\])((.*- )?(\S+) ?\S(聲音)( ?\d)?\S)(\*{2}|\[/?\w+\])
+```
+
+Replace
+
+```
+$2
+```
+
+#### Add Bold or Color Tags
+
+- **GitHub**
+
+    Search
+
+    ``` regexp
+    - ((.*- )?(\S+) ?\S(聲音)( ?\d)?\S)$
+    ```
+
+    Replace
+
+    ```
+    - **$2**
+    ```
+
+- **Workshop**
+
+    Search
+
+    ``` regexp
+    \[\*\]((.*- )?(\S+) ?\S(聲音)( ?\d)?\S)$
+    ```
+
+    Replace
+
+    ```
+    [*][b]$1[/b]
+    ```
+
+- **Mod**
+
+    Search
+
+    ``` regexp
+    (\*|\+) ((.*- )?(\S+) ?\S(聲音)( ?\d)?\S)$
+    ```
+
+    Replace
+
+    - Green (Added)
+
+        ```
+        $1 [green]$2[normal]
+        ```
+
+    - Blue (Improved)
+
+        ```
+        $1 [blue]$2[normal]
+        ```
 
 ### Contributors
 
