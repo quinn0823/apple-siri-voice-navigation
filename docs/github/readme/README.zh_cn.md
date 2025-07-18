@@ -362,19 +362,14 @@ apple-siri-voice-navigation
 
 Search
 
-- General
-    ``` regexp
-    (\*{2}|\[\w+\])(\w+ \(\w+\) - )?(\w+ \(Voz \d\))(\*{2}|\[/?\w+\])
-    ```
-- Full-width parentheses
-    ``` regexp
-    (\*{2}|\[\w+\])(\w+（\w+）- )?(\w+（聲音\d）)(\*{2}|\[/?\w+\])
-    ```
+``` regexp
+(\*{2}|\[\w+\])((\S+- )?\S+聲音\d\S)(\*{2}|\[/?\w+\])
+```
 
 Replace
 
 ```
-$2$3
+$2
 ```
 
 #### Update to the Latest Version Number
