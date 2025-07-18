@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 80 voices in 17 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 80 voices in 18 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**July 17**: 3.3.1 > **3.4**. Add **2 new voices in 2 new languages**, and optimize commands in Chinese (Hong Kong) [中文（香港）].
+**July 18**: 3.4 > **3.5**. Add **2 new voices in Danish (Denmark) [Dansk (Danmark)]**, and optimize pronunciation in English (United States).
 
 ---
 
@@ -54,11 +54,14 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [87+ Voices in 21+ Languages]
 
-### Available (80 in 17)
+### Available (82 in 18)
 
 - Čeština (Česko) -
     - Iveta (vylepšená verze)
     - Zuzana (prémiový)
+- Dansk (Danmark) -
+    - **Siri (Stemme 1)**
+    - **Siri (Stemme 2)**
 - Deutsch (Deutschland) -
     - Siri (Stimme 1)
     - Siri (Stimme 2)
@@ -80,11 +83,11 @@ To help improve this project, you can check out the development guide in the ["L
     - (United Kingdom) - Siri (Voice 2)
     - (United Kingdom) - Siri (Voice 3)
     - (United Kingdom) - Siri (Voice 4)
-    - (United States) - Siri (Voice 1)
-    - (United States) - Siri (Voice 2)
-    - (United States) - Siri (Voice 3)
-    - (United States) - Siri (Voice 4)
-    - (United States) - Siri (Voice 5)
+    - **(United States) - Siri (Voice 1)**
+    - **(United States) - Siri (Voice 2)**
+    - **(United States) - Siri (Voice 3)**
+    - **(United States) - Siri (Voice 4)**
+    - **(United States) - Siri (Voice 5)**
 - Español
     - (Argentina) - Diego (mejorada)
     - (Argentina) - Isabela (mejorada)
@@ -135,8 +138,8 @@ To help improve this project, you can check out the development guide in the ["L
     - **Siri (Röst 1)**
     - **Siri (Röst 2)**
 - Русский (Россия) -
-    - **Siri (Голос 1)**
-    - **Siri (Голос 2)**
+    - Siri (Голос 1)
+    - Siri (Голос 2)
 - 中文
     - （上海，中国大陆）- 南南（优化音质）
     - （中国大陆）- Siri（声音1）
@@ -154,10 +157,8 @@ To help improve this project, you can check out the development guide in the ["L
     - Siri（声1）
     - Siri（声2）
 
-### Coming Soon (4 in 2 New)
+### Coming Soon (2 in 1 New)
 
-- Dansk (Danmark) - Siri (Stemme 1)
-- Dansk (Danmark) - Siri (Stemme 2)
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
 
@@ -384,9 +385,9 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: July 17, 2025 (3.4)
+Release Date: July 18, 2025 (3.5)
 
-Published Date (GitHub): July 17, 2025
+Published Date (GitHub): July 18, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 
