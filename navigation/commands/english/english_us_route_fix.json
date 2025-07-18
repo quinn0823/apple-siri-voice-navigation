@@ -1,18 +1,18 @@
 [
     {
-        "File prefix": "finish_1",
-        "Command": "You have arrived at your destination. Your route guidance is now finished."
+        "File prefix": "finish_1_route_fix",
+        "Command": "You have arrived at your destination. Your rout guidance is now finished."
     },
     {
-        "File prefix": "recomputing_3",
-        "Command": "Finding new route."
+        "File prefix": "recomputing_3_route_fix",
+        "Command": "Finding new rout."
     },
     {
-        "File prefix": "recomputing_4",
-        "Command": "OK, let's find a new route."
+        "File prefix": "recomputing_4_route_fix",
+        "Command": "OK, let's find a new rout."
     },
     {
-        "File prefix": "recomputing_5",
-        "Command": "Never mind. I'll find a new route."
+        "File prefix": "recomputing_5_route_fix",
+        "Command": "Never mind. I'll find a new rout."
     }
 ]
