@@ -6,7 +6,7 @@ Added
     + Dansk (Danmark) - Siri (Stemme 2)
 
 Improved
-* Modify the following commands in English (United States) for better pronunciation. Regenerate and rebuild all the voices in this language.
+* Modify the following commands in English (United States) for better pronunciation of "route". Regenerate and rebuild all the voices in this language.
     + `finish_1`
     + `recomputing_3`
     + `recomputing_4`
