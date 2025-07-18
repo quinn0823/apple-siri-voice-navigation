@@ -378,6 +378,20 @@ Replace
 $2$3
 ```
 
+#### Update to the Latest Version Number
+
+Search
+
+``` regexp
+(?<=\(|\*{2}|\])\d+\.\d+(\.\d+)?(?=\)|\*{2}|\[)
+```
+
+Replace
+
+```
+${version_number}
+```
+
 ### Contributors
 
 <a href="https://github.com/quinn0823/apple-siri-voice-navigation/graphs/contributors">
