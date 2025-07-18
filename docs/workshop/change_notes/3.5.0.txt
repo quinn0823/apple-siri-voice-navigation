@@ -1,0 +1,15 @@
+Apple Siri Voice Navigation 3.5
+
+Added
+* Add 2 new voices in a new language:
+    + Dansk (Danmark) - Siri (Stemme 1)
+    + Dansk (Danmark) - Siri (Stemme 2)
+
+Improved
+* Modify the following commands in English (United States) for better pronunciation. Regenerate and rebuild all the voices in this language.
+    + `finish_1`
+    + `recomputing_3`
+    + `recomputing_4`
+    + `recomputing_5`
+
+[url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.5.0]View it on GitHub[/url].
