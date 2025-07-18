@@ -1,6 +1,6 @@
-[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]17 种语言的 80 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]18 种语言的 80 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]07 月 17 日[normal]：3.3.1 – [green]3.4[normal]。添加 [green]2 种新语言的 2 种新声音[normal]，并优化中文（香港）［中文（香港）］的命令。
+[orange]07 月 18 日[normal]：3.4 – [green]3.5[normal]。添加 [green]丹麦语（丹麦）[Dansk (Danmark)] 的 2 种新声音[normal]，并优化英语（美国）[English (United States)] 的发音。
 
 
 [orange]介绍[normal]
@@ -19,10 +19,13 @@
 4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
 
 [orange]Voices [87+ Voices in 21+ Languages][normal]
-[blue]Available (80 in 17)[normal]
+[blue]Available (82 in 18)[normal]
 * Čeština (Česko) -
     + Iveta (vylepšená verze)
     + Zuzana (prémiový)
+* Dansk (Danmark) -
+    + [green]Siri (Stemme 1)[normal]
+    + [green]Siri (Stemme 2)[normal]
 * Deutsch (Deutschland) -
     + Siri (Stimme 1)
     + Siri (Stimme 2)
@@ -44,11 +47,11 @@
     + (United Kingdom) - Siri (Voice 2)
     + (United Kingdom) - Siri (Voice 3)
     + (United Kingdom) - Siri (Voice 4)
-    + (United States) - Siri (Voice 1)
-    + (United States) - Siri (Voice 2)
-    + (United States) - Siri (Voice 3)
-    + (United States) - Siri (Voice 4)
-    + (United States) - Siri (Voice 5)
+    + [blue](United States) - Siri (Voice 1)[normal]
+    + [blue](United States) - Siri (Voice 2)[normal]
+    + [blue](United States) - Siri (Voice 3)[normal]
+    + [blue](United States) - Siri (Voice 4)[normal]
+    + [blue](United States) - Siri (Voice 5)[normal]
 * Español
     + (Argentina) - Diego (mejorada)
     + (Argentina) - Isabela (mejorada)
@@ -99,8 +102,8 @@
     + Siri (Ses 1)
     + Siri (Ses 2)
 * Русский (Россия) -
-    + [green]Siri (Голос 1)[normal]
-    + [green]Siri (Голос 2)[normal]
+    + Siri (Голос 1)
+    + Siri (Голос 2)
 * 中文
     + （上海，中国大陆）- 南南（优化音质）
     + （中国大陆）- Siri（声音1）
@@ -118,9 +121,7 @@
     + Siri（声1）
     + Siri（声2）
 
-[red]Coming Soon (4 in 2 New)[normal]
-* Dansk (Danmark) - Siri (Stemme 1)
-* Dansk (Danmark) - Siri (Stemme 2)
+[red]Coming Soon (2 in 1 New)[normal]
 * Thai (Thailand) - Siri (Voice 1)
 * Thai (Thailand) - Siri (Voice 2)
 
@@ -156,7 +157,7 @@
 你也可以通过 [orange]quinnqiu0823@icloud.com[normal] 联系我。
 
 
-发行日期：2025 年 07 月 17 日 (3.4)
+发行日期：2025 年 07 月 18 日 (3.5)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
