@@ -118,8 +118,8 @@ To help improve this project, you can check out the development guide in the ["L
 - Português (Portugal) - Joana (melhorada)
 - Português (Portugal) - Joaquim (melhorada)
 - **Română (România) - Ioana (îmbunătațită)**
-- **Svenska (Sverige) - Siri (Röst 1)**
-- **Svenska (Sverige) - Siri (Röst 2)**
+- Svenska (Sverige) - Siri (Röst 1)
+- Svenska (Sverige) - Siri (Röst 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
 - Русский (Россия) - Siri (Голос 1)
@@ -356,6 +356,27 @@ apple-siri-voice-navigation
     - korean_kr
 - slovak
     - slovak_sk
+
+### Reference
+
+#### Remove Bold or Color Tags
+
+Search
+
+- General
+    ``` regexp
+    (\*{2}|\[\w+\])(\w+ \(\w+\) - )?(\w+ \(Voz \d\))(\*{2}|\[/?\w+\])
+    ```
+- Full-width parentheses
+    ``` regexp
+    (\*{2}|\[\w+\])(\w+（\w+）- )?(\w+（聲音\d）)(\*{2}|\[/?\w+\])
+    ```
+
+Replace
+
+```
+$2$3
+```
 
 ### Contributors
 

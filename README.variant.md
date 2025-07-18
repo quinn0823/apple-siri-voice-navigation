@@ -135,8 +135,8 @@ To help improve this project, you can check out the development guide in the ["L
     - Siri (Ses 1)
     - Siri (Ses 2)
 - Svenska (Sverige) -
-    - **Siri (Röst 1)**
-    - **Siri (Röst 2)**
+    - Siri (Röst 1)
+    - Siri (Röst 2)
 - Русский (Россия) -
     - Siri (Голос 1)
     - Siri (Голос 2)
@@ -374,6 +374,27 @@ apple-siri-voice-navigation
     - korean_kr
 - slovak
     - slovak_sk
+
+### Reference
+
+#### Remove Bold or Color Tags
+
+Search
+
+- General
+    ``` regexp
+    (\*{2}|\[\w+\])(\w+ \(\w+\) - )?(\w+ \(Voz \d\))(\*{2}|\[/?\w+\])
+    ```
+- Full-width parentheses
+    ``` regexp
+    (\*{2}|\[\w+\])(\w+（\w+）- )?(\w+（聲音\d）)(\*{2}|\[/?\w+\])
+    ```
+
+Replace
+
+```
+$2$3
+```
 
 ### Contributors
 
