@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **18 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **19 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**07 月 18 日**：3.4 > **3.5**。添加 **丹麦语（丹麦）[Dansk (Danmark)] 的 2 种新声音**，并优化英语（美国）[English (United States)] 的发音。
+**07 月 20 日**：3.5 > **3.6**。此更新为游戏带来了 **2 种泰语的 Siri 声音**。
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## Voices [87+ Voices in 21+ Languages]
 
-### Available (82 in 18)
+### Available (84 in 19)
 
 - Čeština (Česko) -
     - Iveta (vylepšená verze)
@@ -162,7 +162,7 @@
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
 
-### Planned (3+ in 2+ New)
+### Planned (1+ in 1+ New)
 
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
@@ -414,9 +414,9 @@ ${version_number}
 
 ---
 
-发行日期：2025 年 07 月 18 日 (3.5)
+发行日期：2025 年 07 月 20 日 (3.6)
 
-发布日期（GitHub，简体中文）：2025 年 07 月 18 日
+发布日期（GitHub，简体中文）：2025 年 07 月 20 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 

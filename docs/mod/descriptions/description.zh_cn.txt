@@ -1,6 +1,6 @@
-[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]18 种语言的 80 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]19 种语言的 80 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]07 月 18 日[normal]：3.4 – [green]3.5[normal]。添加 [green]丹麦语（丹麦）[Dansk (Danmark)] 的 2 种新声音[normal]，并优化英语（美国）[English (United States)] 的发音。
+[orange]07 月 20 日[normal]：3.5 – [green]3.6[normal]。此更新为游戏带来了 [green]2 种泰语的 Siri 声音[normal]。
 
 
 [orange]介绍[normal]
@@ -19,7 +19,7 @@
 4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
 
 [orange]Voices [87+ Voices in 21+ Languages][normal]
-[blue]Available (82 in 18)[normal]
+[blue]Available (84 in 19)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * [green]Dansk (Danmark) - Siri (Stemme 1)[normal]
@@ -107,7 +107,7 @@
 * Thai (Thailand) - Siri (Voice 1)
 * Thai (Thailand) - Siri (Voice 2)
 
-[red]Planned (3+ in 2+ New)[normal]
+[red]Planned (1+ in 1+ New)[normal]
 * 한국어 (대한민국) - Siri (음성 1)
 * 한국어 (대한민국) - Siri (음성 2)
 * Slovenčina (Slovensko) - Laura (vylepšený)
@@ -139,7 +139,7 @@
 你也可以通过 [orange]quinnqiu0823@icloud.com[normal] 联系我。
 
 
-发行日期：2025 年 07 月 18 日 (3.5)
+发行日期：2025 年 07 月 20 日 (3.6)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu

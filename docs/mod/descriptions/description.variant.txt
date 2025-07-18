@@ -1,6 +1,6 @@
-[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [orange]over 80 voices in 18 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [orange]over 80 voices in 19 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[orange]July 18[normal]: 3.4 – [green]3.5[normal]. Add [green]2 new voices in Danish (Denmark) [Dansk (Danmark)][normal], and optimize pronunciation in English (United States).
+[orange]July 20[normal]: 3.5 – [green]3.6[normal]. This update brings [green]2 Siri voices in Thai[normal] to the game.
 
 
 [orange]Introduction[normal]
@@ -19,7 +19,7 @@ To help improve this project, you can check out the development guide in the rep
 4. Navigate to [orange]Audio – Voice Navigation – Language and voice[normal] and select a voice you like.
 
 [orange]Voices [87+ Voices in 21+ Languages][normal]
-[blue]Available (82 in 18)[normal]
+[blue]Available (84 in 19)[normal]
 * Čeština (Česko) -
     + Iveta (vylepšená verze)
     + Zuzana (prémiový)
@@ -125,7 +125,7 @@ To help improve this project, you can check out the development guide in the rep
 * Thai (Thailand) - Siri (Voice 1)
 * Thai (Thailand) - Siri (Voice 2)
 
-[red]Planned (3+ in 2+ New)[normal]
+[red]Planned (1+ in 1+ New)[normal]
 * 한국어 (대한민국) - Siri (음성 1)
 * 한국어 (대한민국) - Siri (음성 2)
 * Slovenčina (Slovensko) - Laura (vylepšený)
@@ -157,7 +157,7 @@ Please visit the repository on GitHub at [orange]https://github.com/quinn0823/ap
 You can also contact me at [orange]quinnqiu0823@icloud.com[normal].
 
 
-Release Date: July 18, 2025 (3.5)
+Release Date: July 20, 2025 (3.6)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
