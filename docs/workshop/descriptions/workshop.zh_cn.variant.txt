@@ -121,6 +121,11 @@
 [*]Siri (Röst 1)
 [*]Siri (Röst 2)
 [/list]
+[*]Thai (Thailand) -
+[list]
+[*][b]Siri (Voice 1)[/b]
+[*][b]Siri (Voice 2)[/b]
+[/list]
 [*]Türkçe (Türkiye) -
 [list]
 [*]Siri (Ses 1)
@@ -154,13 +159,11 @@
 [/list]
 [b]Coming Soon (2 in 1 New)[/b]
 [list]
-[*]Thai (Thailand) - Siri (Voice 1)
-[*]Thai (Thailand) - Siri (Voice 2)
+[*]한국어 (대한민국) - Siri (음성 1)
+[*]한국어 (대한민국) - Siri (음성 2)
 [/list]
 [b]Planned (1+ in 1+ New)[/b]
 [list]
-[*]한국어 (대한민국) - Siri (음성 1)
-[*]한국어 (대한민국) - Siri (음성 2)
 [*]Slovenčina (Slovensko) - Laura (vylepšený)
 [*]Your Requests...
 [/list]

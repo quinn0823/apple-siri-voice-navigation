@@ -131,6 +131,9 @@ To help improve this project, you can check out the development guide in the ["L
     - (Portugal) - Joaquim (melhorada)
 - Română (România) -
     - **Ioana (îmbunătațită)**
+- Thai (Thailand) -
+    - **Siri (Voice 1)**
+    - **Siri (Voice 2)**
 - Türkçe (Türkiye) -
     - Siri (Ses 1)
     - Siri (Ses 2)
@@ -159,13 +162,11 @@ To help improve this project, you can check out the development guide in the ["L
 
 ### Coming Soon (2 in 1 New)
 
-- Thai (Thailand) - Siri (Voice 1)
-- Thai (Thailand) - Siri (Voice 2)
+- 한국어 (대한민국) - Siri (음성 1)
+- 한국어 (대한민국) - Siri (음성 2)
 
 ### Planned (1+ in 1+ New)
 
-- 한국어 (대한민국) - Siri (음성 1)
-- 한국어 (대한민국) - Siri (음성 2)
 - Slovenčina (Slovensko) - Laura (vylepšený)
 - Your Requests...
 

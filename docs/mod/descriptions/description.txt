@@ -84,6 +84,8 @@ To help improve this project, you can check out the development guide in the rep
 * [green]Română (România) - Ioana (îmbunătațită)[normal]
 * Svenska (Sverige) - Siri (Röst 1)
 * Svenska (Sverige) - Siri (Röst 2)
+* [green]Thai (Thailand) - Siri (Voice 1)[normal]
+* [green]Thai (Thailand) - Siri (Voice 2)[normal]
 * Türkçe (Türkiye) - Siri (Ses 1)
 * Türkçe (Türkiye) - Siri (Ses 2)
 * Русский (Россия) - Siri (Голос 1)
@@ -104,12 +106,10 @@ To help improve this project, you can check out the development guide in the rep
 * 日本語（日本）- Siri（声2）
 
 [red]Coming Soon (2 in 1 New)[normal]
-* Thai (Thailand) - Siri (Voice 1)
-* Thai (Thailand) - Siri (Voice 2)
-
-[red]Planned (1+ in 1+ New)[normal]
 * 한국어 (대한민국) - Siri (음성 1)
 * 한국어 (대한민국) - Siri (음성 2)
+
+[red]Planned (1+ in 1+ New)[normal]
 * Slovenčina (Slovensko) - Laura (vylepšený)
 * Your Requests...
 
