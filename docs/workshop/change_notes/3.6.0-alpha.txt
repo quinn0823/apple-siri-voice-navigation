@@ -1,0 +1,6 @@
+Apple Siri Voice Navigation 3.6 Alpha
+
+Added
+* Add 2 Siri voices in Thai:
+    + Thai (Thailand) - Siri (Voice 1)
+    + Thai (Thailand) - Siri (Voice 2)
