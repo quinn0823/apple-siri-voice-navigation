@@ -1,0 +1,8 @@
+Apple Siri Voice Navigation 3.6
+
+Added
+* Add 2 Siri voices in Thai:
+    + Thai (Thailand) - Siri (Voice 1)
+    + Thai (Thailand) - Siri (Voice 2)
+
+[url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.6.0]View it on GitHub[/url].
