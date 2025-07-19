@@ -6,7 +6,7 @@
 [orange]Introduction[normal]
 I'm a 17-year-old student, and this project is my first attempt on creating something like this. It's for learning and practice.
 More languages and voices will be added in the future. If the language you speak or voice you prefer aren't available yet, feel free to [orange]leave your requests[normal]. Your suggestions might be implemented in just a few days!
-Thank you for using this mod! If you like it, please consider leaving a vote on Workshop or a star on GitHub, sharing your feedback, using your free Steam Points to give it an award, or buy me a coffee to support my work!
+Thank you for using this mod! If you like it, please consider leaving a vote on Workshop or a star on GitHub, sharing your feedback, using your free Steam Points to give it an award, or buy me a coffee to support my "work"!
 To help improve this project, you can check out the development guide in the repo on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]. You can also view the localized descriptions there.
 
 [orange]Compatibility[normal]
@@ -150,7 +150,7 @@ If you'd like to see more languages or voices added, please [orange]leave your r
 I don't speak all these languages. While I've done my best to ensure accuracy, there may still be mistakes. If you find any, please [orange]leave word[normal] in the comment section on Workshop or on the Issues page, or make the correction [orange]directly on GitHub[normal]. Thank you!
 
 [orange]"You Deserve an Award!"[normal]
-In order to [orange]stay energized[normal] to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the [orange]world[normal] to me! Giving it an award using your free Steam Points means the [orange]Eurasia[normal] to me!
+In order to [orange]stay energized[normal] to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the [orange]world[normal] to me! Giving it an award using your free Steam Points means the [orange]"Eurasia"[normal] to me!
 
 [orange]"Let Me Help You!"[normal]
 Please visit the repository on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal], where you can view all the files for this project. You can edit the JSON file and create a pull request if you find any mistake. You can also create a new JSON file to add support for another language.
