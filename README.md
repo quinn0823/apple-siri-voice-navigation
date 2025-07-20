@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 80 voices in 18 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 80 voices in 19 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**July 18**: 3.4 > **3.5**. Add **2 new voices in Danish (Denmark) [Dansk (Danmark)]**, and optimize pronunciation in English (United States).
+**July 20**: 3.5 > **3.6**. This update brings **2 Siri voices in Thai** to the game.
 
 ---
 
@@ -54,7 +54,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [87+ Voices in 21+ Languages]
 
-### Available (82 in 18)
+### Available (84 in 19)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -118,8 +118,10 @@ To help improve this project, you can check out the development guide in the ["L
 - Português (Portugal) - Joana (melhorada)
 - Português (Portugal) - Joaquim (melhorada)
 - **Română (România) - Ioana (îmbunătațită)**
-- **Svenska (Sverige) - Siri (Röst 1)**
-- **Svenska (Sverige) - Siri (Röst 2)**
+- Svenska (Sverige) - Siri (Röst 1)
+- Svenska (Sverige) - Siri (Röst 2)
+- **Thai (Thailand) - Siri (Voice 1)**
+- **Thai (Thailand) - Siri (Voice 2)**
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
 - Русский (Россия) - Siri (Голос 1)
@@ -141,13 +143,11 @@ To help improve this project, you can check out the development guide in the ["L
 
 ### Coming Soon (2 in 1 New)
 
-- Thai (Thailand) - Siri (Voice 1)
-- Thai (Thailand) - Siri (Voice 2)
-
-### Planned (3+ in 2+ New)
-
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
+
+### Planned (1+ in 1+ New)
+
 - Slovenčina (Slovensko) - Laura (vylepšený)
 - Your Requests...
 
@@ -449,9 +449,9 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: July 18, 2025 (3.5)
+Release Date: July 20, 2025 (3.6)
 
-Published Date (GitHub): July 18, 2025
+Published Date (GitHub): July 20, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 
