@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .korean.kr_siri_2.pack {
+        pack_name: "한국어 (대한민국) - Siri (음성 2)"
+    }
+}
