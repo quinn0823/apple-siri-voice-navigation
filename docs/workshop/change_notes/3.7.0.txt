@@ -1,0 +1,11 @@
+Apple Siri Voice Navigation 3.7
+
+Added
+* Add 2 Siri voices in Korean (한국어):
+    + 한국어 (대한민국) - Siri (음성 1)
+    + 한국어 (대한민국) - Siri (음성 2)
+
+Improved
+* Regenerate and rebuild all the voices in Hebrew.
+
+[url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.7.0]View it on GitHub[/url].
