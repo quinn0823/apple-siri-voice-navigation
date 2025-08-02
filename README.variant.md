@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 80 voices in 19 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 80 voices in 20 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**July 20**: 3.5 > **3.6**. This update brings **2 Siri voices in Thai** to the game.
+**August 03**: 3.6 > **3.7**. This update brings **2 Siri voices in Korean** to the game.
 
 ---
 
@@ -54,7 +54,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [87+ Voices in 21+ Languages]
 
-### Available (84 in 19)
+### Available (86 in 20)
 
 - Čeština (Česko) -
     - Iveta (vylepšená verze)
@@ -114,11 +114,11 @@ To help improve this project, you can check out the development guide in the ["L
     - Siri (Voca 3)
     - Siri (Voca 4)
 - Magyar (Magyarország) -
-    - **Tünde (prémium)**
+    - Tünde (prémium)
 - Netherlands
-    - **(België) - Ellen (verbeterd)**
-    - **(Netherland) - Siri (Stem 1)**
-    - **(Netherland) - Siri (Stem 2)**
+    - (België) - Ellen (verbeterd)
+    - (Netherland) - Siri (Stem 1)
+    - (Netherland) - Siri (Stem 2)
 - Polski (Polska) -
     - Ewa (premium)
     - Krzysztof (rozszerzony)
@@ -130,7 +130,7 @@ To help improve this project, you can check out the development guide in the ["L
     - (Portugal) - Joana (melhorada)
     - (Portugal) - Joaquim (melhorada)
 - Română (România) -
-    - **Ioana (îmbunătațită)**
+    - Ioana (îmbunătațită)
 - Thai (Thailand) -
     - **Siri (Voice 1)**
     - **Siri (Voice 2)**
@@ -154,20 +154,21 @@ To help improve this project, you can check out the development guide in the ["L
     - （四川，中国大陆）- 盼盼（优化音质）
     - （辽宁，中国大陆）- 冬梅（优化音质）
     - （陕西，中国大陆）- 浩浩（优化音质）
-    - **（香港）- Siri（聲音1）**
-    - **（香港）- Siri（聲音2）**
+    - （香港）- Siri（聲音1）
+    - （香港）- Siri（聲音2）
 - 日本語（日本）-
     - Siri（声1）
     - Siri（声2）
+- 한국어 (대한민국) -
+    - **Siri (음성 1)**
+    - **Siri (음성 2)**
 
-### Coming Soon (2 in 1 New)
-
-- 한국어 (대한민국) - Siri (음성 1)
-- 한국어 (대한민국) - Siri (음성 2)
-
-### Planned (1+ in 1+ New)
+### Coming Soon (1 in 1 New)
 
 - Slovenčina (Slovensko) - Laura (vylepšený)
+
+### Planned (0+ in 0+ New)
+
 - Your Requests...
 
 ## Compatibility
@@ -466,9 +467,9 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: July 20, 2025 (3.6)
+Release Date: August 03, 2025 (3.7)
 
-Published Date (GitHub): August 02, 2025
+Published Date (GitHub): August 03, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 

@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **19 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **20 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**07 月 20 日**：3.5 > **3.6**。此更新为游戏带来了 **2 种泰语的 Siri 声音**。
+**08 月 03 日**：3.6 > **3.7**。此更新为游戏带来了 **2 种韩语的 Siri 声音**。
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## Voices [87+ Voices in 21+ Languages]
 
-### Available (84 in 19)
+### Available (86 in 20)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -105,10 +105,10 @@
 - Italiano (Italia) - Siri (Voca 2)
 - Italiano (Italia) - Siri (Voca 3)
 - Italiano (Italia) - Siri (Voca 4)
-- **Magyar (Magyarország) - Tünde (prémium)**
-- **Netherlands (België) - Ellen (verbeterd)**
-- **Netherlands (Netherland) - Siri (Stem 1)**
-- **Netherlands (Netherland) - Siri (Stem 2)**
+- Magyar (Magyarország) - Tünde (prémium)
+- Netherlands (België) - Ellen (verbeterd)
+- Netherlands (Netherland) - Siri (Stem 1)
+- Netherlands (Netherland) - Siri (Stem 2)
 - Polski (Polska) - Ewa (premium)
 - Polski (Polska) - Krzysztof (rozszerzony)
 - Polski (Polska) - Zosia (rozszerzony)
@@ -117,7 +117,7 @@
 - Português (Portugal) - Catarina (melhorada)
 - Português (Portugal) - Joana (melhorada)
 - Português (Portugal) - Joaquim (melhorada)
-- **Română (România) - Ioana (îmbunătațită)**
+- Română (România) - Ioana (îmbunătațită)
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 - **Thai (Thailand) - Siri (Voice 1)**
@@ -136,19 +136,19 @@
 - 中文（四川，中国大陆）- 盼盼（优化音质）
 - 中文（辽宁，中国大陆）- 冬梅（优化音质）
 - 中文（陕西，中国大陆）- 浩浩（优化音质）
-- **中文（香港）- Siri（聲音1）**
-- **中文（香港）- Siri（聲音2）**
+- 中文（香港）- Siri（聲音1）
+- 中文（香港）- Siri（聲音2）
 - 日本語（日本）- Siri（声1）
 - 日本語（日本）- Siri（声2）
+- **한국어 (대한민국) - Siri (음성 1)**
+- **한국어 (대한민국) - Siri (음성 2)**
 
-### Coming Soon (2 in 1 New)
-
-- 한국어 (대한민국) - Siri (음성 1)
-- 한국어 (대한민국) - Siri (음성 2)
-
-### Planned (1+ in 1+ New)
+### Coming Soon (1 in 1 New)
 
 - Slovenčina (Slovensko) - Laura (vylepšený)
+
+### Planned (0+ in 0+ New)
+
 - Your Requests...
 
 ## 兼容性
@@ -446,9 +446,9 @@ $2
 
 ---
 
-发行日期：2025 年 07 月 20 日 (3.6)
+发行日期：2025 年 08 月 03 日 (3.7)
 
-发布日期（GitHub，简体中文）：2025 年 08 月 02 日
+发布日期（GitHub，简体中文）：2025 年 08 月 03 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 
