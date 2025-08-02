@@ -1,0 +1,228 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "좌회전 하세요"
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "우회전 하세요"
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "왼쪽 차선을 유지 하세요"
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "오른쪽 차선을 유지 하세요"
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "왼쪽으로 나가세요"
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "오른쪽으로 나가세요"
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "직진하세요"
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "로터리에서 첫 번째 출구로 나가세요"
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "로터리에서 두 번째 출구로 나가세요"
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "로터리에서 세 번째 출구로 나가세요"
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "로터리에서 네 번째 출구로 나가세요"
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "로터리에서 다섯 번째 출구로 나가세요"
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "로터리에서 여섯 번째 출구로 나가세요"
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "지금 나가세요"
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "좌회전 할 준비 하세요"
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "우회전 할 준비 하세요"
+
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "왼쪽으로 나갈 준비 하세요"
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "오른쪽으로 나갈 준비 하세요"
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "좌회전 후에"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "우회전 후에"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "왼쪽 차선 유지 후에"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "오른쪽 차선 유지 후에"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "왼쪽으로 나간 후에"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "오른쪽으로 나간 후에"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "직진 후에"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "다시 좌회전 하세요"
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "다시 우회전 하세요"
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "계속해서 차선 유지 하세요"
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "계속해서 차선 유지 하세요"
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "다시 왼쪽으로 나가세요"
+
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "다시 오른쪽으로 나가세요"
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "계속해서 직진 하세요"
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "좋아 가자"
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "떠날 시간이다"
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "가자"
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "안전운전하세요"
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "출발 준비가 되었어요"
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "출발"
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "이제 갈 시간이 되었어요"
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "목적지에 도착했습니다. 길 안내를 종료합니다."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "무사히 도착했습니다"
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "드디어 도착했습니다"
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "무사히 해냈습니다"
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "여기서 종료 합니다"
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "여기서 마쳤습니다"
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "멋진 운전이었습니다"
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "경로를 재설정 합니다"
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "재설정 합니다"
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "새로운 경로를 찾고 있습니다"
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "오케이 새로운 경로를 찾자"
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "상관 없어 새로운 경로를 찾을 거야"
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "가능하면 유턴 하세요"
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "유턴 하세요"
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "가능하면 유턴 하세요"
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "주의 제한 속도를 유의 하세요"
+    }
+]
