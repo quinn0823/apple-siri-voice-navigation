@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 80 voices in 20 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 80 voices in 21 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**August 03**: 3.6 > **3.7**. This update brings **2 Siri voices in Korean** to the game.
+**August 04**: 3.7 > **3.8**. This update brings **a voice in Slovak** to the game. All the voices in the request list are available.
 
 ---
 
@@ -54,7 +54,9 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [87+ Voices in 21+ Languages]
 
-### Available (86 in 20)
+Supports all the languages the game supports.
+
+### Available (87 in 21)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -118,10 +120,11 @@ To help improve this project, you can check out the development guide in the ["L
 - Português (Portugal) - Joana (melhorada)
 - Português (Portugal) - Joaquim (melhorada)
 - Română (România) - Ioana (îmbunătațită)
+- **Slovenčina (Slovensko) - Laura (vylepšený)**
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
-- **Thai (Thailand) - Siri (Voice 1)**
-- **Thai (Thailand) - Siri (Voice 2)**
+- Thai (Thailand) - Siri (Voice 1)
+- Thai (Thailand) - Siri (Voice 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
 - Русский (Россия) - Siri (Голос 1)
@@ -142,10 +145,6 @@ To help improve this project, you can check out the development guide in the ["L
 - 日本語（日本）- Siri（声2）
 - **한국어 (대한민국) - Siri (음성 1)**
 - **한국어 (대한민국) - Siri (음성 2)**
-
-### Coming Soon (1 in 1 New)
-
-- Slovenčina (Slovensko) - Laura (vylepšený)
 
 ### Planned (0+ in 0+ New)
 
@@ -287,14 +286,14 @@ apple-siri-voice-navigation
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### Available (20 from 40)
+#### Available (21 from 41)
 
 - chinese
     - chinese_cn
-    - chinese_cnsn
-    - chinese_cnln
-    - chinese_cnsc
-    - chinese_cnsh
+    - chinese_cnsn (Shaanxi)
+    - chinese_cnln (Liaoning)
+    - chinese_cnsc (Sichuan)
+    - chinese_cnsh (Shanghai)
     - chinese_tw
     - chinese_hk
 - czech
@@ -307,7 +306,7 @@ apple-siri-voice-navigation
 - english
     - english_au
     - english_gb
-    - english_gbsc
+    - english_gbsc (Scotland)
     - english_ie
     - english_in
     - english_us
@@ -337,6 +336,8 @@ apple-siri-voice-navigation
     - romanian_ro
 - russian
     - russian_ru
+- slovak
+    - slovak_sk
 - spanish
     - spanish_ar
     - spanish_cl
@@ -350,10 +351,9 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Planned (1+ New from 1+)
+#### Planned (0+ New from 0+)
 
-- slovak
-    - slovak_sk
+- *All the languages in the plan list are available.*
 
 ### Reference
 
@@ -447,9 +447,9 @@ You can also contact me at quinnqiu0823@icloud.com.
 
 ---
 
-Release Date: August 03, 2025 (3.7)
+Release Date: August 04, 2025 (3.8)
 
-Published Date (GitHub): August 03, 2025
+Published Date (GitHub): August 04, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 

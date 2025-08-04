@@ -54,6 +54,8 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [87+ Voices in 21+ Languages]
 
+Supports all the languages the game supports.
+
 ### Available (87 in 21)
 
 - Čeština (Česko) -

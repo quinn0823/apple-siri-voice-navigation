@@ -54,6 +54,8 @@
 
 ## Voices [87+ Voices in 21+ Languages]
 
+Supports all the languages the game supports.
+
 ### Available (87 in 21)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
