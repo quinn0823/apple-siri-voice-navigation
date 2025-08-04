@@ -1,5 +1,7 @@
 Apple Siri Voice Navigation 3.8
 
+Voices in all languages the game supports and all voices in the request list are available.
+
 Added
 * Add a voice: Slovenčina (Slovensko) - Laura (vylepšený).
 
