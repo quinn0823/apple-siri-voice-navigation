@@ -1,6 +1,6 @@
-[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [orange]over 80 voices in 20 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [orange]over 80 voices in 21 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[orange]August 03[normal]: 3.6 – [green]3.7[normal]. This update brings [green]2 Siri voices in Korean[normal] to the game.
+[orange]August 04[normal]: 3.7 – [green]3.8[normal]. This update brings [green]a voice in Slovak[normal] to the game. All the voices in the request list are available.
 
 
 [orange]Introduction[normal]
@@ -19,7 +19,7 @@ To help improve this project, you can check out the development guide in the rep
 4. Navigate to [orange]Audio – Voice Navigation – Language and voice[normal] and select a voice you like.
 
 [orange]Voices [87+ Voices in 21+ Languages][normal]
-[blue]Available (86 in 20)[normal]
+[blue]Available (87 in 21)[normal]
 * Čeština (Česko) -
     + Iveta (vylepšená verze)
     + Zuzana (prémiový)
@@ -95,12 +95,14 @@ To help improve this project, you can check out the development guide in the rep
     + (Portugal) - Joaquim (melhorada)
 * Română (România) -
     + Ioana (îmbunătațită)
+* Slovenčina (Slovensko) -
+    + [green]Laura (vylepšený)[normal]
 * Svenska (Sverige) -
     + Siri (Röst 1)
     + Siri (Röst 2)
 * Thai (Thailand) -
-    + [green]Siri (Voice 1)[normal]
-    + [green]Siri (Voice 2)[normal]
+    + Siri (Voice 1)
+    + Siri (Voice 2)
 * Türkçe (Türkiye) -
     + Siri (Ses 1)
     + Siri (Ses 2)
@@ -126,9 +128,6 @@ To help improve this project, you can check out the development guide in the rep
 * 한국어 (대한민국) -
     + [green]Siri (음성 1)[normal]
     + [green]Siri (음성 2)[normal]
-
-[red]Coming Soon (1 in 1 New)[normal]
-* Slovenčina (Slovensko) - Laura (vylepšený)
 
 [red]Planned (0+ in 0+ New)[normal]
 * Your Requests...
@@ -159,7 +158,7 @@ Please visit the repository on GitHub at [orange]https://github.com/quinn0823/ap
 You can also contact me at [orange]quinnqiu0823@icloud.com[normal].
 
 
-Release Date: August 03, 2025 (3.7)
+Release Date: August 04, 2025 (3.8)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu

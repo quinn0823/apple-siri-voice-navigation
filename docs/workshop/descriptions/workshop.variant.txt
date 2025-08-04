@@ -1,6 +1,6 @@
-[b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [b]over 80 voices in 20 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With [b]over 80 voices in 21 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[b]August 03[/b]: 3.6 > [b]3.7[/b]. This update brings [b]2 Siri voices in Korean[/b] to the game.
+[b]August 04[/b]: 3.7 > [b]3.8[/b]. This update brings [b]a voice in Slovak[/b] to the game. All the voices in the request list are available.
 
 [hr][/hr]
 [h1]Introduction[/h1]
@@ -13,7 +13,7 @@ Thank you for subscribing! If you like it, please consider leaving a vote, shari
 To help improve this project, you can check out the development guide in the [url=https://github.com/quinn0823/apple-siri-voice-navigation]repository[/url] on GitHub. You can also view the localized descriptions there.
 
 [h1]Voices [87+ Voices in 21+ Languages][/h1]
-[b]Available (86 in 20)[/b]
+[b]Available (87 in 21)[/b]
 [list]
 [*]Čeština (Česko) -
 [list]
@@ -116,6 +116,10 @@ To help improve this project, you can check out the development guide in the [ur
 [list]
 [*]Ioana (îmbunătațită)
 [/list]
+[*]Slovenčina (Slovensko) -
+[list]
+[*]Laura (vylepšený)
+[/list]
 [*]Svenska (Sverige) -
 [list]
 [*]Siri (Röst 1)
@@ -123,8 +127,8 @@ To help improve this project, you can check out the development guide in the [ur
 [/list]
 [*]Thai (Thailand) -
 [list]
-[*][b]Siri (Voice 1)[/b]
-[*][b]Siri (Voice 2)[/b]
+[*]Siri (Voice 1)
+[*]Siri (Voice 2)
 [/list]
 [*]Türkçe (Türkiye) -
 [list]
@@ -161,10 +165,6 @@ To help improve this project, you can check out the development guide in the [ur
 [*][b]Siri (음성 1)[/b]
 [*][b]Siri (음성 2)[/b]
 [/list]
-[/list]
-[b]Coming Soon (1 in 1 New)[/b]
-[list]
-[*]Slovenčina (Slovensko) - Laura (vylepšený)
 [/list]
 [b]Planned (0+ in 0+ New)[/b]
 [list]
@@ -214,8 +214,8 @@ Please visit the [url=https://github.com/quinn0823/apple-siri-voice-navigation]r
 You can also contact me at quinnqiu0823@icloud.com.
 
 [hr][/hr]
-Release Date: August 03, 2025 (3.7)
-Published Date (Workshop): August 03, 2025
+Release Date: August 04, 2025 (3.8)
+Published Date (Workshop): August 04, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu

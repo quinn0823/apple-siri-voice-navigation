@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **20 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **21 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**08 月 03 日**：3.6 > **3.7**。此更新为游戏带来了 **2 种韩语的 Siri 声音**。
+**08 月 04 日**：3.7 > **3.8**。此更新为游戏带来了 **1 种斯洛伐克语的声音**。请求列表中的所有声音都已可用。
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## Voices [87+ Voices in 21+ Languages]
 
-### Available (86 in 20)
+### Available (87 in 21)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -118,10 +118,11 @@
 - Português (Portugal) - Joana (melhorada)
 - Português (Portugal) - Joaquim (melhorada)
 - Română (România) - Ioana (îmbunătațită)
+- **Slovenčina (Slovensko) - Laura (vylepšený)**
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
-- **Thai (Thailand) - Siri (Voice 1)**
-- **Thai (Thailand) - Siri (Voice 2)**
+- Thai (Thailand) - Siri (Voice 1)
+- Thai (Thailand) - Siri (Voice 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
 - Русский (Россия) - Siri (Голос 1)
@@ -142,10 +143,6 @@
 - 日本語（日本）- Siri（声2）
 - **한국어 (대한민국) - Siri (음성 1)**
 - **한국어 (대한민국) - Siri (음성 2)**
-
-### Coming Soon (1 in 1 New)
-
-- Slovenčina (Slovensko) - Laura (vylepšený)
 
 ### Planned (0+ in 0+ New)
 
@@ -286,14 +283,14 @@ apple-siri-voice-navigation
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### Available (20 from 40)
+#### Available (21 from 41)
 
 - chinese
     - chinese_cn
-    - chinese_cnsn
-    - chinese_cnln
-    - chinese_cnsc
-    - chinese_cnsh
+    - chinese_cnsn (Shaanxi)
+    - chinese_cnln (Liaoning)
+    - chinese_cnsc (Sichuan)
+    - chinese_cnsh (Shanghai)
     - chinese_tw
     - chinese_hk
 - czech
@@ -306,7 +303,7 @@ apple-siri-voice-navigation
 - english
     - english_au
     - english_gb
-    - english_gbsc
+    - english_gbsc (Scotland)
     - english_ie
     - english_in
     - english_us
@@ -336,6 +333,8 @@ apple-siri-voice-navigation
     - romanian_ro
 - russian
     - russian_ru
+- slovak
+    - slovak_sk
 - spanish
     - spanish_ar
     - spanish_cl
@@ -349,10 +348,9 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Planned (1+ New from 1+)
+#### Planned (0+ New from 0+)
 
-- slovak
-    - slovak_sk
+- *All the languages in the plan list are available.*
 
 ### Reference
 
@@ -446,9 +444,9 @@ $2
 
 ---
 
-发行日期：2025 年 08 月 03 日 (3.7)
+发行日期：2025 年 08 月 04 日 (3.8)
 
-发布日期（GitHub，简体中文）：2025 年 08 月 03 日
+发布日期（GitHub，简体中文）：2025 年 08 月 04 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 
