@@ -54,7 +54,7 @@
 
 ## Voices [87+ Voices in 21+ Languages]
 
-Supports all the languages the game supports.
+Voices in all languages the game supports are available.
 
 ### Available (87 in 21)
 
