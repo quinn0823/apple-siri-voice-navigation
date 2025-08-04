@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "Odbočte doľava."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Odbočte doprava."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Držte sa vľavo."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Držte sa vpravo."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Použite ľavý výjazd."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Použite pravý výjazd."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Choďte rovno."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "Na kruhovom objazde použite prvý výjazd."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "Na kruhovom objazde použite druhý výjazd."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "Na kruhovom objazde použite tretí výjazd."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "Na kruhovom objazde použite štvrtý výjazd."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "Na kruhovom objazde použite piaty výjazd."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "Na kruhovom objazde použite šiesty výjazd."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Použite výjazd."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Pripravte sa odbočiť vľavo."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Pripravte sa odbočiť vpravo."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Pripravte sa na výjazd doľava."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Pripravte sa na výjazd doprava."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Odbočte doľava,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Odbočte doprava,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Držte sa vľavo,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Držte sa vpravo,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Použite ľavý výjazd,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Použite pravý výjazd,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Choďte rovno,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "A potom odbočte doľava."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "A potom odbočte doprava."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "A potom sa držte vľavo."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "A potom sa držte vpravo."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "A potom použite ľavý výjazd."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "A potom použite pravý výjazd."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "A potom pokračujte rovno."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "Fajn, vyrážame."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "Je načase vyraziť."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "Ideme na to."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Šťastnú cestu."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Všetko je pripravené, môžeme ísť."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "Ideme."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "Do práce."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "Dorazili ste do cieľa."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Tak sme tu, živý a zdravý."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "Konečne sme na mieste."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "Tak a je to za nami."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "Tak a tu cesta končí."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "A sme hotový."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "To bola parádna jazda."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Prepočíta vám trasu."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "Prepočíta vám."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "Hľadám novú trasu."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "No dobre, tak nájdeme inú trasu."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Nevadí, nájdem inú trasu."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Keď to bude možné, otočte sa do protismeru."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Otočte sa do protismeru."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Prosím, otočte sa do protismeru keď to bude možné."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Pozor, prekračujete povolenú rýchlosť."
+    }
+]
