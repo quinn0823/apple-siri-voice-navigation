@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .slovak.sk_laura_en.pack {
+        pack_name: "Slovenčina (Slovensko) - Laura (vylepšený)"
+    }
+}
