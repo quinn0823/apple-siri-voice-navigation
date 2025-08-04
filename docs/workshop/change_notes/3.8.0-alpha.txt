@@ -1,0 +1,4 @@
+Apple Siri Voice Navigation 3.8 Alpha
+
+Added
+* Add a voice: Slovenčina (Slovensko) - Laura (vylepšený).
