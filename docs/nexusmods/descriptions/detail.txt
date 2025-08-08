@@ -126,6 +126,24 @@ Voices in all 14 languages the game supports are available.
 [/list]
 [size=5][b]Usage[/b][/size]
 [list=1]
+[*]Move [b]apple-siri-voice-navigation.zip[/b] to the mod folder:
+[list]
+[*]Windows
+[list]
+[*]ETS2: %UserProfile%\Documents\Euro Truck Simulator 2\mod
+[*]ATS: %UserProfile%\Documents\American Truck Simulator\mod
+[/list]
+[*]macOS (Press [b]Shift-Command-G[/b] to open a Go to Folder window)
+[list]
+[*]ETS2: ~/Library/Application Support/Euro Truck Simulator 2/mod
+[*]ATS: ~/Library/Application Support/American Truck Simulator/mod
+[/list]
+[*]Linux
+[list]
+[*]ETS2: ~/.local/share/Euro Truck Simulator 2/mod
+[*]ATS: ~/.local/share/American Truck Simulator/mod
+[/list]
+[/list]
 [*]Click [b]Mods[/b] on the title screen to open the mod manager.
 [*]Double-click [b]Apple Siri Voice Navigation[/b] to activate this mod.
 [*]Open [b]Options[/b].
@@ -135,13 +153,13 @@ Voices in all 14 languages the game supports are available.
 [size=5][b]Apple Series[/b][/size]
 [b]Apple Siri Voice Navigation[/b]
 [list]
-[*]Apple Siri Voice Navigation for ETS2: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]Workshop[/url], [url=https://www.nexusmods.com/eurotrucksimulator2/mods/173]Nexus Mods[/url].
-[*]Apple Siri Voice Navigation for ATS: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]Workshop[/url], [url=https://www.nexusmods.com/americantrucksimulator/mods/77]Nexus Mods[/url].
+[*]Apple Siri Voice Navigation for ETS2: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]Workshop[/url], [url=https://www.nexusmods.com/eurotrucksimulator2/mods/173]Nexus Mods[/url]
+[*]Apple Siri Voice Navigation for ATS: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]Workshop[/url], [url=https://www.nexusmods.com/americantrucksimulator/mods/77]Nexus Mods[/url]
 [/list]
 [b]Apple Maps Navigation (Created by Lism)[/b]
 [list]
-[*]Apple Maps Navigation for ETS2: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601]Workshop[/url].
-[*]Apple Maps Navigation for ATS: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912]Workshop[/url].
+[*]Apple Maps Navigation for ETS2: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601]Workshop[/url]
+[*]Apple Maps Navigation for ATS: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912]Workshop[/url]
 [/list]
 [b]Apple SF Symbols UI (Under Development...)[/b]
 [list]
