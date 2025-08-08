@@ -11,7 +11,7 @@ Thank you for subscribing! If you like it, please consider leaving a vote, shari
 To help improve this project, you can check out the development guide in the [url=https://github.com/quinn0823/apple-siri-voice-navigation]repository[/url] on GitHub. You can also view the localized descriptions there.
 
 [size=5][b]Voices [87+ Voices in 21+ Languages][/b][/size]
-Voices in all languages the game supports are available.
+Voices in all 14 languages the game supports are available.
 
 [b]Available (87 in 21)[/b]
 [list]

@@ -19,7 +19,7 @@
 4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
 
 [orange]Voices [87+ Voices in 21+ Languages][normal]
-Voices in all languages the game supports are available.
+Voices in all 14 languages the game supports are available.
 [blue]Available (87 in 21)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
