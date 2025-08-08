@@ -13,7 +13,7 @@ To help improve this project, you can check out the development guide in the [ur
 [size=5][b]Voices [87+ Voices in 21+ Languages][/b][/size]
 Voices in all languages the game supports are available.
 
-[size=3][b]Available (87 in 21)[/b][/size]
+[b]Available (87 in 21)[/b]
 [list]
 [*]Čeština (Česko) - Iveta (vylepšená verze)
 [*]Čeština (Česko) - Zuzana (prémiový)
@@ -103,7 +103,7 @@ Voices in all languages the game supports are available.
 [*][b]한국어 (대한민국) - Siri (음성 1)[/b]
 [*][b]한국어 (대한민국) - Siri (음성 2)[/b]
 [/list]
-[size=3][b]Planned (0+ in 0+ New)[/b][/size]
+[b]Planned (0+ in 0+ New)[/b]
 [list]
 [*]Your Requests...
 [/list]
@@ -113,7 +113,16 @@ Voices in all languages the game supports are available.
 [size=5][b]Download[/b][/size]
 [list]
 [*]Workshop (Recommended)
-[*]GitHub (Releases / Build from source)
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]Apple Siri Voice Navigation for ETS2[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]Apple Siri Voice Navigation for ATS[/url]
+[/list]
+[*][url=https://github.com/quinn0823/apple-siri-voice-navigation]GitHub[/url] (Releases / Build from source)
+[*]Nexus Mods
+[list]
+[*][url=https://www.nexusmods.com/eurotrucksimulator2/mods/173]Apple Siri Voice Navigation for ETS2[/url]
+[*][url=https://www.nexusmods.com/americantrucksimulator/mods/77]Apple Siri Voice Navigation for ATS[/url]
+[/list]
 [/list]
 [size=5][b]Usage[/b][/size]
 [list=1]
@@ -124,10 +133,20 @@ Voices in all languages the game supports are available.
 [/list]
 
 [size=5][b]Apple Series[/b][/size]
+[b]Apple Siri Voice Navigation[/b]
 [list]
-[*][b]Apple Siri Voice Navigation[/b] for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]ETS2[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]ATS[/url]
-[*][b]Apple Maps Navigation[/b] (Created by Lism) for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601]ETS2[/url] / [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912]ATS[/url]
-[*]Apple SF Symbols UI (Under Development...)
+[*]Apple Siri Voice Navigation for ETS2: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]Workshop[/url], [url=https://www.nexusmods.com/eurotrucksimulator2/mods/173]Nexus Mods[/url].
+[*]Apple Siri Voice Navigation for ATS: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]Workshop[/url], [url=https://www.nexusmods.com/americantrucksimulator/mods/77]Nexus Mods[/url].
+[/list]
+[b]Apple Maps Navigation (Created by Lism)[/b]
+[list]
+[*]Apple Maps Navigation for ETS2: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601]Workshop[/url].
+[*]Apple Maps Navigation for ATS: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912]Workshop[/url].
+[/list]
+[b]Apple SF Symbols UI (Under Development...)[/b]
+[list]
+[*]Apple SF Symbols UI for ETS2
+[*]Apple SF Symbols UI for ATS
 [/list]
 
 [size=5][b]"I Want More Voices!"[/b][/size]
