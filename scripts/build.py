@@ -271,7 +271,7 @@ def build_mod():
     if workshop_path:
         print(f'Workshop mod built at: {workshop_path}')
     if standard_name:
-        usage = f'''0. Move {standard_name} to the mod folder
+        usage = f'''1. Move {standard_name} to the mod folder:
     - Windows
         - ETS2: %UserProfile%\Documents\Euro Truck Simulator 2\mod
         - ATS: %UserProfile%\Documents\American Truck Simulator\mod

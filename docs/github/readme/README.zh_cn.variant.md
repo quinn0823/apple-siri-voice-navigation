@@ -207,7 +207,7 @@ Voices in all 14 languages the game supports are available.
 
 ## 使用
 
-0. 移动 **“apple-siri-voice-navigation.zip”** 到模组文件夹
+1. 移动 **“apple-siri-voice-navigation.zip”** 到模组文件夹：
     - Windows
         - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
         - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
