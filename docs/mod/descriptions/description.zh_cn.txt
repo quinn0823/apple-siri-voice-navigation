@@ -135,8 +135,6 @@ Voices in all 14 languages the game supports are available.
 [orange]“让我帮你！”[normal]
 请访问 GitHub 上的存储库 at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]，在那里你可以查看为这个项目的所有文件。你可以编辑 JSON 文件并创建一个拉取请求，如果你发现任何错误。你还可以创建一个新的 JSON 文件来添加对另一种语言的支持。
 
-你也可以通过 [orange]quinnqiu0823@icloud.com[normal] 联系我。
-
 
 发行日期：2025 年 08 月 04 日 (3.8)
 

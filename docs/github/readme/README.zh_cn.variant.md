@@ -463,8 +463,6 @@ $2
     <img src="https://contrib.rocks/image?repo=quinn0823/apple-siri-voice-navigation" alt="Contributors" />
 </a>
 
-你也可以通过 quinnqiu0823@icloud.com 联系我。
-
 ---
 
 发行日期：2025 年 08 月 04 日 (3.8)

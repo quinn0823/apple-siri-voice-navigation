@@ -443,8 +443,6 @@ $2
     <img src="https://contrib.rocks/image?repo=quinn0823/apple-siri-voice-navigation" alt="Contributors" />
 </a>
 
-You can also contact me at quinnqiu0823@icloud.com.
-
 ---
 
 Release Date: August 04, 2025 (3.8)

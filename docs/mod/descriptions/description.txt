@@ -135,8 +135,6 @@ In order to [orange]stay energized[normal] to work on this project after school,
 [orange]"Let Me Help You!"[normal]
 Please visit the repository on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal], where you can view all the files for this project. You can edit the JSON file and create a pull request if you find any mistake. You can also create a new JSON file to add support for another language.
 
-You can also contact me at [orange]quinnqiu0823@icloud.com[normal].
-
 
 Release Date: August 04, 2025 (3.8)
 
