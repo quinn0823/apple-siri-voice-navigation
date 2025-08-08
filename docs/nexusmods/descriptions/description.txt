@@ -6,7 +6,7 @@ I'm a 17-year-old student, and this project is my first attempt on creating some
 
 More languages and voices will be added in the future. If the language you speak or voice you prefer aren't available yet, feel free to [b]leave your requests[/b]. Your suggestions might be implemented in just a few days!
 
-Thank you for subscribing! If you like it, please consider leaving a vote, sharing your feedback, using your free Steam Points to give it an award, or [url=https://buymeacoffee.com/jonathanchiu]buy me a coffee[/url] to support my "work"!
+Thank you for subscribing! If you like it, please consider leaving a vote, sharing your feedback, or [url=https://buymeacoffee.com/jonathanchiu]buy me a coffee[/url] to support my "work"!
 
 To help improve this project, you can check out the development guide in the [url=https://github.com/quinn0823/apple-siri-voice-navigation]repository[/url] on GitHub. You can also view the localized descriptions there.
 
