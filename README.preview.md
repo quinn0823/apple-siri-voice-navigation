@@ -36,7 +36,7 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to Truck Simulator games. With **over 80 voices in 21 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 80 voices in 21 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
 **August 04**: 3.7 > **3.8**. This update brings **a voice in Slovak** to the game. Voices in all languages the game supports and all voices in the request list are available.
 
