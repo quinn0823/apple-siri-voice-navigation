@@ -1,0 +1,5 @@
+Apple Siri Voice Navigation 4.0 Alpha 3
+
+Improved
+* Adjust items of the voice list to correct order.
+* Add Nexus Mods IDs to Download section in mod and Workshop descriptions.
