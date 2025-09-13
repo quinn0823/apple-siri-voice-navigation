@@ -1,0 +1,4 @@
+Voices in all languages the game supports and all voices in the request list are available.
+[Added] Add a voice: Slovenčina (Slovensko) - Laura (vylepšený).
+
+View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v3.8.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3404021712]Workshop (ETS2)[/url].
