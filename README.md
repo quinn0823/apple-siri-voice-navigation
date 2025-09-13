@@ -376,7 +376,7 @@ ${version_number}
 Search
 
 ``` regexp
-(\*{2}|\[\w+\])((.*- )?(\S+) ?\S(聲音)( ?\d)?\S)(\*{2}|\[/?\w+\])
+(\*{2}|\[\w+\])((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)(\*{2}|\[/?\w+\])
 ```
 
 Replace
@@ -392,13 +392,13 @@ $2
     Search
 
     ``` regexp
-    ^( *)- ((.*- )?(\S+) ?\S(聲音)( ?\d)?\S)$
+    - ((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
     Replace
 
     ```
-    $1- **$2**
+    - **$1**
     ```
 
 - **Workshop**
@@ -406,7 +406,7 @@ $2
     Search
 
     ``` regexp
-    \[\*\]((.*- )?(\S+) ?\S(聲音)( ?\d)?\S)$
+    \[\*\]((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
     Replace
@@ -420,7 +420,7 @@ $2
     Search
 
     ``` regexp
-    (\*|\+) ((.*- )?(\S+) ?\S(聲音)( ?\d)?\S)$
+    \* ((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
     Replace
@@ -428,13 +428,13 @@ $2
     - Green (Added)
 
         ```
-        $1 [green]$2[normal]
+        * [green]$1[normal]
         ```
 
     - Blue (Improved)
 
         ```
-        $1 [blue]$2[normal]
+        * [blue]$1[normal]
         ```
 
 ### Contributors
@@ -447,7 +447,7 @@ $2
 
 Release Date: August 04, 2025 (3.8)
 
-Published Date (GitHub): August 04, 2025
+Published Date (GitHub): September 13, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 
