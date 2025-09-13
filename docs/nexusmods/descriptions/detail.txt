@@ -1,4 +1,4 @@
-[b]September 14[/b]: 3.8 > [b]4.0[/b]. This update brings [b]a voice in Slovak[/b] to the game. Voices in all languages the game supports and all voices in the request list are available.
+[b]September 14[/b]: 3.8 > [b]4.0[/b]. This update brings [b]2 voice in Greek[/b] to the game. Siri is now available for download on Nexus Mods.
 
 
 [size=5][b]Introduction[/b][/size]
