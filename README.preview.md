@@ -161,7 +161,7 @@ Supports all 14 languages supported by the game.
 <!-- > [!WARNING]
 > For the best experience, I recommend getting it by subscribing on **Workshop**. You can only download the **non-automatically updated** version on GitHub. This method is only recommended for users who don't own the games on Steam.  -->
 
-- Workshop (Recommended)
+- **Workshop** (Recommended)
     - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub ([Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [Build from source](#build-from-source))

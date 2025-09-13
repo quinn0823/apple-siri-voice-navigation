@@ -115,9 +115,9 @@ Supports all 14 languages supported by the game.
 * Your Requests...
 
 [orange]Download[normal]
-* [blue]Workshop[normal] (Recommended)
-* [blue]GitHub[normal] (Releases / Build from source)
-* [blue]Nexus Mods[normal]: ETS2/173, ATS/77
+* [orange]Workshop[normal] (Recommended)
+* GitHub (Releases / Build from source)
+* Nexus Mods: ETS2/173, ATS/77
 
 
 [orange]Apple Series[normal]

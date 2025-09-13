@@ -161,7 +161,7 @@ Supports all 14 languages supported by the game.
 <!-- > [!WARNING]
 > 为了获得最佳体验，我建议通过在**创意工坊**订阅获得它。你只能在 GitHub 上下载**非自动更新**的版本。这种方法只推荐给没有在 Steam 上拥有游戏的用户。 -->
 
-- 创意工坊（推荐）
+- **创意工坊**（推荐）
     - [适用于欧卡2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [适用于美卡的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub（[发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [从源文件构建](#从源文件构建)）

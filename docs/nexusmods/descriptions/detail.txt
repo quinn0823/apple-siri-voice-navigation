@@ -114,7 +114,7 @@ Supports all 14 languages supported by the game.
 
 [size=5][b]Download[/b][/size]
 [list]
-[*]Workshop (Recommended)
+[*][b]Workshop[/b] (Recommended)
 [list]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]Apple Siri Voice Navigation for ETS2[/url]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]Apple Siri Voice Navigation for ATS[/url]

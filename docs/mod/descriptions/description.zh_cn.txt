@@ -115,9 +115,9 @@ Supports all 14 languages supported by the game.
 * Your Requests...
 
 [orange]下载[normal]
-* [blue]创意工坊[normal]（推荐）
-* [blue]GitHub[normal]（发行版 / 从源文件构建）
-* [blue]Nexus Mods[normal]：欧卡2/173，美卡/77
+* [orange]创意工坊[normal]（推荐）
+* GitHub（发行版 / 从源文件构建）
+* Nexus Mods：欧卡2/173，美卡/77
 
 
 [orange]Apple 系列[normal]
