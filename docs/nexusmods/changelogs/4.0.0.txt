@@ -1,5 +1,5 @@
 [Added] Siri is now available for download on Nexus Mods.
-[Added] Add 2 voices in Greek: Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη); Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη).
+[Added] Add 2 voices in Greek: Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη); Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη).
 
 View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.0.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3404021712]Workshop (ETS2)[/url].
 
