@@ -19,8 +19,8 @@ Voices in all 14 languages the game supports are available.
 [list]
 [*]Čeština (Česko) - Iveta (vylepšená verze)
 [*]Čeština (Česko) - Zuzana (prémiový)
-[*][b]Dansk (Danmark) - Siri (Stemme 1)[/b]
-[*][b]Dansk (Danmark) - Siri (Stemme 2)[/b]
+[*]Dansk (Danmark) - Siri (Stemme 1)
+[*]Dansk (Danmark) - Siri (Stemme 2)
 [*]Deutsch (Deutschland) - Siri (Stimme 1)
 [*]Deutsch (Deutschland) - Siri (Stimme 2)
 [*]Deutsch (Deutschland) - Siri (Stimme 3)
@@ -40,11 +40,11 @@ Voices in all 14 languages the game supports are available.
 [*]English (United Kingdom) - Siri (Voice 2)
 [*]English (United Kingdom) - Siri (Voice 3)
 [*]English (United Kingdom) - Siri (Voice 4)
-[*][b]English (United States) - Siri (Voice 1)[/b]
-[*][b]English (United States) - Siri (Voice 2)[/b]
-[*][b]English (United States) - Siri (Voice 3)[/b]
-[*][b]English (United States) - Siri (Voice 4)[/b]
-[*][b]English (United States) - Siri (Voice 5)[/b]
+[*]English (United States) - Siri (Voice 1)
+[*]English (United States) - Siri (Voice 2)
+[*]English (United States) - Siri (Voice 3)
+[*]English (United States) - Siri (Voice 4)
+[*]English (United States) - Siri (Voice 5)
 [*]Español (Argentina) - Diego (mejorada)
 [*]Español (Argentina) - Isabela (mejorada)
 [*]Español (Chile) - Francisca (mejorada)
@@ -60,8 +60,8 @@ Voices in all 14 languages the game supports are available.
 [*]Français (Canada) - Siri (Voix 2)
 [*]Français (France) - Siri (Voix 1)
 [*]Français (France) - Siri (Voix 2)
-[*][b]Hebrew (Israel) - Siri (Voice 1)[/b]
-[*][b]Hebrew (Israel) - Siri (Voice 2)[/b]
+[*]Hebrew (Israel) - Siri (Voice 1)
+[*]Hebrew (Israel) - Siri (Voice 2)
 [*]Italiano (Italia) - Siri (Voca 1)
 [*]Italiano (Italia) - Siri (Voca 2)
 [*]Italiano (Italia) - Siri (Voca 3)
@@ -152,7 +152,7 @@ Please visit the [url=https://github.com/quinn0823/apple-siri-voice-navigation]r
 
 [hr][/hr]
 Release Date: August 04, 2025 (3.8)
-Published Date (Workshop): August 04, 2025
+Published Date (Workshop): September 13, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu

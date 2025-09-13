@@ -23,8 +23,8 @@ Voices in all 14 languages the game supports are available.
 [blue]Available (87 in 21)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
-* [green]Dansk (Danmark) - Siri (Stemme 1)[normal]
-* [green]Dansk (Danmark) - Siri (Stemme 2)[normal]
+* Dansk (Danmark) - Siri (Stemme 1)
+* Dansk (Danmark) - Siri (Stemme 2)
 * Deutsch (Deutschland) - Siri (Stimme 1)
 * Deutsch (Deutschland) - Siri (Stimme 2)
 * Deutsch (Deutschland) - Siri (Stimme 3)
@@ -44,11 +44,11 @@ Voices in all 14 languages the game supports are available.
 * English (United Kingdom) - Siri (Voice 2)
 * English (United Kingdom) - Siri (Voice 3)
 * English (United Kingdom) - Siri (Voice 4)
-* [blue]English (United States) - Siri (Voice 1)[normal]
-* [blue]English (United States) - Siri (Voice 2)[normal]
-* [blue]English (United States) - Siri (Voice 3)[normal]
-* [blue]English (United States) - Siri (Voice 4)[normal]
-* [blue]English (United States) - Siri (Voice 5)[normal]
+* English (United States) - Siri (Voice 1)
+* English (United States) - Siri (Voice 2)
+* English (United States) - Siri (Voice 3)
+* English (United States) - Siri (Voice 4)
+* English (United States) - Siri (Voice 5)
 * Español (Argentina) - Diego (mejorada)
 * Español (Argentina) - Isabela (mejorada)
 * Español (Chile) - Francisca (mejorada)
@@ -64,8 +64,8 @@ Voices in all 14 languages the game supports are available.
 * Français (Canada) - Siri (Voix 2)
 * Français (France) - Siri (Voix 1)
 * Français (France) - Siri (Voix 2)
-* [blue]Hebrew (Israel) - Siri (Voice 1)[normal]
-* [blue]Hebrew (Israel) - Siri (Voice 2)[normal]
+* Hebrew (Israel) - Siri (Voice 1)
+* Hebrew (Israel) - Siri (Voice 2)
 * Italiano (Italia) - Siri (Voca 1)
 * Italiano (Italia) - Siri (Voca 2)
 * Italiano (Italia) - Siri (Voca 3)
