@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **21 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **22 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**08 月 04 日**：3.7 > **3.8**。此更新为游戏带来了 **1 种斯洛伐克语的声音**。游戏支持的所有语言的声音以及请求列表中的所有声音都已可用。
+**09 月 14 日**：3.8 > **4.0**。此更新为游戏带来了 **1 种斯洛伐克语的声音**。游戏支持的所有语言的声音以及请求列表中的所有声音都已可用。
 
 ---
 
@@ -52,11 +52,11 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你还可以在这里查看本地化的描述以及最新的更新内容。
 
-## Voices [87+ Voices in 21+ Languages]
+## Voices [89+ Voices in 22+ Languages]
 
 Supports all 14 languages supported by the game.
 
-### Available (87 in 21)
+### Available (89 in 22)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -283,12 +283,12 @@ apple-siri-voice-navigation
     └── config_default.ini   // 默认配置文件
 ```
 
-### Languages [21+ Languages from 41+ Countries]
+### Languages [22+ Languages from 42+ Countries]
 
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### Available (21 from 41)
+#### Available (22 from 42)
 
 - chinese
     - chinese_cn
@@ -319,6 +319,8 @@ apple-siri-voice-navigation
     - french_fr
 - german
     - german_ge
+- greek
+    - greek_gr
 - hebrew
     - hebrew_il
 - hungarian
@@ -447,7 +449,7 @@ $2
 
 ---
 
-发行日期：2025 年 08 月 04 日 (3.8)
+发行日期：2025 年 09 月 14 日 (4.0)
 
 发布日期（GitHub，简体中文）：2025 年 09 月 14 日
 

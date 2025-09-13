@@ -1,6 +1,6 @@
-[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]21 种语言的 80 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]22 种语言的 80 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]08 月 04 日[normal]：3.7 – [green]3.8[normal]。此更新为游戏带来了 [green]1 种斯洛伐克语的声音[normal]。游戏支持的所有语言的声音以及请求列表中的所有声音都已可用。
+[orange]09 月 14 日[normal]：3.8 – [green]4.0[normal]。此更新为游戏带来了 [green]1 种斯洛伐克语的声音[normal]。游戏支持的所有语言的声音以及请求列表中的所有声音都已可用。
 
 
 [orange]介绍[normal]
@@ -18,9 +18,9 @@
 3. 打开[orange]“选项”[normal]。
 4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
 
-[orange]Voices [87+ Voices in 21+ Languages][normal]
+[orange]Voices [89+ Voices in 22+ Languages][normal]
 Supports all 14 languages supported by the game.
-[blue]Available (87 in 21)[normal]
+[blue]Available (89 in 22)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * Dansk (Danmark) - Siri (Stemme 1)
@@ -136,7 +136,7 @@ Supports all 14 languages supported by the game.
 请访问 GitHub 上的存储库 at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]，在那里你可以查看为这个项目的所有文件。你可以编辑 JSON 文件并创建一个拉取请求，如果你发现任何错误。你还可以创建一个新的 JSON 文件来添加对另一种语言的支持。
 
 
-发行日期：2025 年 08 月 04 日 (3.8)
+发行日期：2025 年 09 月 14 日 (4.0)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu

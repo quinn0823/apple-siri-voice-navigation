@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 80 voices in 21 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 80 voices in 22 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**August 04**: 3.7 > **3.8**. This update brings **a voice in Slovak** to the game. Voices in all languages the game supports and all voices in the request list are available.
+**September 14**: 3.8 > **4.0**. This update brings **a voice in Slovak** to the game. Voices in all languages the game supports and all voices in the request list are available.
 
 ---
 
@@ -52,11 +52,11 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the localized descriptions and the latest updates here.
 
-## Voices [87+ Voices in 21+ Languages]
+## Voices [89+ Voices in 22+ Languages]
 
 Supports all 14 languages supported by the game.
 
-### Available (87 in 21)
+### Available (89 in 22)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -284,12 +284,12 @@ apple-siri-voice-navigation
     └── config_default.ini   // Default config file
 ```
 
-### Languages [21+ Languages from 41+ Countries]
+### Languages [22+ Languages from 42+ Countries]
 
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### Available (21 from 41)
+#### Available (22 from 42)
 
 - chinese
     - chinese_cn
@@ -320,6 +320,8 @@ apple-siri-voice-navigation
     - french_fr
 - german
     - german_ge
+- greek
+    - greek_gr
 - hebrew
     - hebrew_il
 - hungarian
@@ -448,7 +450,7 @@ $2
 
 ---
 
-Release Date: August 04, 2025 (3.8)
+Release Date: September 14, 2025 (4.0)
 
 Published Date (GitHub): September 14, 2025
 

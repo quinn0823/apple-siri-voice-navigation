@@ -1,6 +1,6 @@
-[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With [orange]over 80 voices in 21 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With [orange]over 80 voices in 22 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[orange]August 04[normal]: 3.7 – [green]3.8[normal]. This update brings [green]a voice in Slovak[normal] to the game. Voices in all languages the game supports and all voices in the request list are available.
+[orange]September 14[normal]: 3.8 – [green]4.0[normal]. This update brings [green]a voice in Slovak[normal] to the game. Voices in all languages the game supports and all voices in the request list are available.
 
 
 [orange]Introduction[normal]
@@ -18,9 +18,9 @@ To help improve this project, you can check out the development guide in the rep
 3. Open [orange]Options[normal].
 4. Navigate to [orange]Audio – Voice Navigation – Language and voice[normal] and select a voice you like.
 
-[orange]Voices [87+ Voices in 21+ Languages][normal]
+[orange]Voices [89+ Voices in 22+ Languages][normal]
 Supports all 14 languages supported by the game.
-[blue]Available (87 in 21)[normal]
+[blue]Available (89 in 22)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * Dansk (Danmark) - Siri (Stemme 1)
@@ -136,7 +136,7 @@ In order to [orange]stay energized[normal] to work on this project after school,
 Please visit the repository on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal], where you can view all the files for this project. You can edit the JSON file and create a pull request if you find any mistake. You can also create a new JSON file to add support for another language.
 
 
-Release Date: August 04, 2025 (3.8)
+Release Date: September 14, 2025 (4.0)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
