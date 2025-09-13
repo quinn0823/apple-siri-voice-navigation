@@ -1,5 +1,5 @@
 SiiNunit {
     voice_navigation_config : .greek.gr_melina_en.pack {
-        pack_name: "Greek (Greece) - Melina (Enhanced) [Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)]"
+        pack_name: "Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)"
     }
 }

@@ -101,8 +101,6 @@ Supports all 14 languages supported by the game.
 - Français (Canada) - Siri (Voix 2)
 - Français (France) - Siri (Voix 1)
 - Français (France) - Siri (Voix 2)
-- **Greek (Greece) - Melina (Enhanced)**
-- **Greek (Greece) - Nikos (Enhanced)**
 - Hebrew (Israel) - Siri (Voice 1)
 - Hebrew (Israel) - Siri (Voice 2)
 - Italiano (Italia) - Siri (Voca 1)
@@ -131,6 +129,8 @@ Supports all 14 languages supported by the game.
 - Türkçe (Türkiye) - Siri (Ses 2)
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
+* **Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)**
+* **Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)**
 - 中文（上海，中国大陆）- 南南（优化音质）
 - 中文（中国大陆）- Siri（声音1）
 - 中文（中国大陆）- Siri（声音2）

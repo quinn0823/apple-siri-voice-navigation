@@ -1,5 +1,5 @@
 SiiNunit {
     voice_navigation_config : .greek.gr_nikos_en.pack {
-        pack_name: "Greek (Greece) - Nikos (Enhanced) [Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)]"
+        pack_name: "Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)"
     }
 }
