@@ -1,0 +1,4 @@
+Apple Siri Voice Navigation 4.0 Alpha 2
+
+Improved
+* Names of Greek voices are replaced with Greek characters instead of Latin ones.
