@@ -119,7 +119,7 @@ Supports all 14 languages supported by the game.
 [list]
 [*]Workshop (Recommended)
 [*]GitHub (Releases / Build from source)
-[*]Nexus Mods
+[*]Nexus Mods: ETS2/173, ATS/77
 [/list]
 
 [h1]Usage[/h1]

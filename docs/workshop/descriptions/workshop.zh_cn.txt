@@ -119,7 +119,7 @@ Supports all 14 languages supported by the game.
 [list]
 [*]创意工坊（推荐）
 [*]GitHub（发行版 / 从源文件构建）
-[*]Nexus Mods
+[*]Nexus Mods：欧卡2/173，美卡/77
 [/list]
 
 [h1]使用[/h1]
