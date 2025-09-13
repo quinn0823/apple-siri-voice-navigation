@@ -7,7 +7,7 @@
 我是一个 17 岁的学生，这个项目是我第一次尝试创造这样的东西。它是用来学习和练习的。
 更多的语言和声音将在未来添加。如果你说的语言或者你喜欢的声音还不可用，请随意地[orange]留下你的请求[normal]。你的建议可能会在短短几天内实现！
 感谢你使用这个模组！如果你喜欢它，请考虑在创意工坊投票或在 GitHub 留下一颗星、分享你的反馈、用你的免费 Steam 点数奖励这个项目，或者 buy me a coffee 来支持我的“工作”！
-要帮助改进这个项目，你可以在 GitHub 上的存储库 at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal] 查看开发指南。你还可以在那里查看本地化的描述。
+要帮助改进这个项目，你可以在 GitHub 上的存储库 at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal] 查看开发指南。你还可以在那里查看本地化的描述以及最新的更新内容。
 
 [orange]兼容性[normal]
 [blue]1.43+[normal]，同时支持欧卡2 和美卡。

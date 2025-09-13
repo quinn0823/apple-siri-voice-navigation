@@ -50,7 +50,7 @@ More languages and voices will be added in the future. If the language you speak
 
 Thank you for using this mod! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
 
-To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the localized descriptions here.
+To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the localized descriptions and the latest updates here.
 
 ## Voices [87+ Voices in 21+ Languages]
 
