@@ -117,6 +117,7 @@ Supports all 14 languages supported by the game.
 [orange]Download[normal]
 * [blue]Workshop[normal] (Recommended)
 * [blue]GitHub[normal] (Releases / Build from source)
+* [blue]Nexus Mods[normal]
 
 
 [orange]Apple Series[normal]
