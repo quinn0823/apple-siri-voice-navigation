@@ -54,7 +54,7 @@
 
 ## Voices [87+ Voices in 21+ Languages]
 
-Voices in all 14 languages the game supports are available.
+Supports all 14 languages supported by the game.
 
 ### Available (87 in 21)
 
@@ -446,7 +446,7 @@ $2
 
 发行日期：2025 年 08 月 04 日 (3.8)
 
-发布日期（GitHub，简体中文）：2025 年 09 月 13 日
+发布日期（GitHub，简体中文）：2025 年 09 月 14 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 

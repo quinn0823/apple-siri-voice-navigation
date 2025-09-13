@@ -54,7 +54,7 @@ To help improve this project, you can check out the development guide in the ["L
 
 ## Voices [87+ Voices in 21+ Languages]
 
-Voices in all 14 languages the game supports are available.
+Supports all 14 languages supported by the game.
 
 ### Available (87 in 21)
 
@@ -447,7 +447,7 @@ $2
 
 Release Date: August 04, 2025 (3.8)
 
-Published Date (GitHub): September 13, 2025
+Published Date (GitHub): September 14, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 
