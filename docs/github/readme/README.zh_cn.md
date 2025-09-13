@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **21 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **22 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**08 月 04 日**：3.7 > **3.8**。此更新为游戏带来了 **1 种斯洛伐克语的声音**。游戏支持的所有语言的声音以及请求列表中的所有声音都已可用。
+**09 月 14 日**：3.8 > **4.0**。此更新为游戏带来了 **2 种希腊语的声音**。Siri 现已可在 Nexus Mods 上进行下载。
 
 ---
 
@@ -52,16 +52,16 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你还可以在这里查看本地化的描述以及最新的更新内容。
 
-## Voices [87+ Voices in 21+ Languages]
+## Voices [89+ Voices in 22+ Languages]
 
 Supports all 14 languages supported by the game.
 
-### Available (87 in 21)
+### Available (89 in 22)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
-- **Dansk (Danmark) - Siri (Stemme 1)**
-- **Dansk (Danmark) - Siri (Stemme 2)**
+- Dansk (Danmark) - Siri (Stemme 1)
+- Dansk (Danmark) - Siri (Stemme 2)
 - Deutsch (Deutschland) - Siri (Stimme 1)
 - Deutsch (Deutschland) - Siri (Stimme 2)
 - Deutsch (Deutschland) - Siri (Stimme 3)
@@ -81,11 +81,11 @@ Supports all 14 languages supported by the game.
 - English (United Kingdom) - Siri (Voice 2)
 - English (United Kingdom) - Siri (Voice 3)
 - English (United Kingdom) - Siri (Voice 4)
-- **English (United States) - Siri (Voice 1)**
-- **English (United States) - Siri (Voice 2)**
-- **English (United States) - Siri (Voice 3)**
-- **English (United States) - Siri (Voice 4)**
-- **English (United States) - Siri (Voice 5)**
+- English (United States) - Siri (Voice 1)
+- English (United States) - Siri (Voice 2)
+- English (United States) - Siri (Voice 3)
+- English (United States) - Siri (Voice 4)
+- English (United States) - Siri (Voice 5)
 - Español (Argentina) - Diego (mejorada)
 - Español (Argentina) - Isabela (mejorada)
 - Español (Chile) - Francisca (mejorada)
@@ -101,8 +101,8 @@ Supports all 14 languages supported by the game.
 - Français (Canada) - Siri (Voix 2)
 - Français (France) - Siri (Voix 1)
 - Français (France) - Siri (Voix 2)
-- **Hebrew (Israel) - Siri (Voice 1)**
-- **Hebrew (Israel) - Siri (Voice 2)**
+- Hebrew (Israel) - Siri (Voice 1)
+- Hebrew (Israel) - Siri (Voice 2)
 - Italiano (Italia) - Siri (Voca 1)
 - Italiano (Italia) - Siri (Voca 2)
 - Italiano (Italia) - Siri (Voca 3)
@@ -127,6 +127,8 @@ Supports all 14 languages supported by the game.
 - Thai (Thailand) - Siri (Voice 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
+- **Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)**
+- **Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)**
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 - 中文（上海，中国大陆）- 南南（优化音质）
@@ -159,10 +161,13 @@ Supports all 14 languages supported by the game.
 <!-- > [!WARNING]
 > 为了获得最佳体验，我建议通过在**创意工坊**订阅获得它。你只能在 GitHub 上下载**非自动更新**的版本。这种方法只推荐给没有在 Steam 上拥有游戏的用户。 -->
 
-- 创意工坊（推荐）
+- **创意工坊**（推荐）
     - [适用于欧卡2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [适用于美卡的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub（[发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [从源文件构建](#从源文件构建)）
+- Nexus Mods
+    - [适用于欧卡2 的 Apple Siri 语音导航](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
+    - [适用于美卡的 Apple Siri 语音导航](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ## 从源文件构建
 
@@ -215,13 +220,13 @@ Supports all 14 languages supported by the game.
 
 ### Apple Siri 语音导航
 
-- [适用于欧卡2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
-- [适用于美卡的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+- 适用于欧卡2 的 Apple Siri 语音导航: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)，[Nexus Mods](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
+- 适用于美卡的 Apple Siri 语音导航: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)，[Nexus Mods](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ### Apple Maps Navigation（由 Lism 创建）
 
-- [适用于欧卡2 的 Apple Maps Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
-- [适用于美卡的 Apple Maps Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
+- 适用于欧卡2 的 Apple Maps Navigation: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
+- 适用于美卡的 Apple Maps Navigation: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
 
 ### Apple SF 符号用户界面（正在开发…）
 
@@ -446,7 +451,7 @@ $2
 
 ---
 
-发行日期：2025 年 08 月 04 日 (3.8)
+发行日期：2025 年 09 月 14 日 (4.0)
 
 发布日期（GitHub，简体中文）：2025 年 09 月 14 日
 

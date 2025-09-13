@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 80 voices in 21 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 80 voices in 22 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**August 04**: 3.7 > **3.8**. This update brings **a voice in Slovak** to the game. Voices in all languages the game supports and all voices in the request list are available.
+**September 14**: 3.8 > **4.0**. This update brings **2 voice in Greek** to the game. Siri is now available for download on Nexus Mods.
 
 ---
 
@@ -52,16 +52,16 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the localized descriptions and the latest updates here.
 
-## Voices [87+ Voices in 21+ Languages]
+## Voices [89+ Voices in 22+ Languages]
 
 Supports all 14 languages supported by the game.
 
-### Available (87 in 21)
+### Available (89 in 22)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
-- **Dansk (Danmark) - Siri (Stemme 1)**
-- **Dansk (Danmark) - Siri (Stemme 2)**
+- Dansk (Danmark) - Siri (Stemme 1)
+- Dansk (Danmark) - Siri (Stemme 2)
 - Deutsch (Deutschland) - Siri (Stimme 1)
 - Deutsch (Deutschland) - Siri (Stimme 2)
 - Deutsch (Deutschland) - Siri (Stimme 3)
@@ -81,11 +81,11 @@ Supports all 14 languages supported by the game.
 - English (United Kingdom) - Siri (Voice 2)
 - English (United Kingdom) - Siri (Voice 3)
 - English (United Kingdom) - Siri (Voice 4)
-- **English (United States) - Siri (Voice 1)**
-- **English (United States) - Siri (Voice 2)**
-- **English (United States) - Siri (Voice 3)**
-- **English (United States) - Siri (Voice 4)**
-- **English (United States) - Siri (Voice 5)**
+- English (United States) - Siri (Voice 1)
+- English (United States) - Siri (Voice 2)
+- English (United States) - Siri (Voice 3)
+- English (United States) - Siri (Voice 4)
+- English (United States) - Siri (Voice 5)
 - Español (Argentina) - Diego (mejorada)
 - Español (Argentina) - Isabela (mejorada)
 - Español (Chile) - Francisca (mejorada)
@@ -101,8 +101,8 @@ Supports all 14 languages supported by the game.
 - Français (Canada) - Siri (Voix 2)
 - Français (France) - Siri (Voix 1)
 - Français (France) - Siri (Voix 2)
-- **Hebrew (Israel) - Siri (Voice 1)**
-- **Hebrew (Israel) - Siri (Voice 2)**
+- Hebrew (Israel) - Siri (Voice 1)
+- Hebrew (Israel) - Siri (Voice 2)
 - Italiano (Italia) - Siri (Voca 1)
 - Italiano (Italia) - Siri (Voca 2)
 - Italiano (Italia) - Siri (Voca 3)
@@ -127,6 +127,8 @@ Supports all 14 languages supported by the game.
 - Thai (Thailand) - Siri (Voice 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
+- **Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)**
+- **Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)**
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 - 中文（上海，中国大陆）- 南南（优化音质）
@@ -159,10 +161,13 @@ Supports all 14 languages supported by the game.
 <!-- > [!WARNING]
 > For the best experience, I recommend getting it by subscribing on **Workshop**. You can only download the **non-automatically updated** version on GitHub. This method is only recommended for users who don't own the games on Steam.  -->
 
-- Workshop (Recommended)
+- **Workshop** (Recommended)
     - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub ([Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [Build from source](#build-from-source))
+- Nexus Mods
+    - [Apple Siri Voice Navigation for ETS2](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
+    - [Apple Siri Voice Navigation for ATS](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ## Build from Source
 
@@ -215,13 +220,13 @@ Supports all 14 languages supported by the game.
 
 ### Apple Siri Voice Navigation
 
-- [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
-- [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+- Apple Siri Voice Navigation for ETS2: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712), [Nexus Mods](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
+- Apple Siri Voice Navigation for ATS: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298), [Nexus Mods](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ### Apple Maps Navigation (Created by Lism)
 
-- [Apple Maps Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
-- [Apple Maps Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
+- Apple Maps Navigation for ETS2: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
+- Apple Maps Navigation for ATS: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
 
 ### Apple SF Symbols UI (Under Development...)
 
@@ -447,7 +452,7 @@ $2
 
 ---
 
-Release Date: August 04, 2025 (3.8)
+Release Date: September 14, 2025 (4.0)
 
 Published Date (GitHub): September 14, 2025
 
