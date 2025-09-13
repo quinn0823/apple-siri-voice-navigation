@@ -169,9 +169,9 @@ Supports all 14 languages supported by the game.
 > [!Note]
 > You can create a copy of `scripts/config_default.ini` and rename it `config.ini` to configure the  script. It's allowed to modify `config_default.ini` directly, but it's not recommended.
 
-1. Install the following dependencies
-    - [Python 3.6+](https://www.python.org/downloads/)
+1. Install the following dependencies:
     - Git (Optional)
+    - [Python 3.6+](https://www.python.org/downloads/)
 1. Clone the repository or download the source.
     ```
     git clone https://github.com/quinn0823/apple-siri-voice-navigation

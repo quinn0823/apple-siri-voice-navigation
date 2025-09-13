@@ -174,9 +174,9 @@ Supports all 14 languages supported by the game.
 > [!Note]
 > 你可以创建一个 `scripts/config_default.ini` 的副本，并将其重命名为 `config.ini` 来配置脚本。允许直接修改 `config_default.ini`，但不建议这样做。
 
-1. 安装以下依赖项
-    - [Python 3.6+](https://www.python.org/downloads/)
+1. 安装以下依赖项：
     - Git（可选）
+    - [Python 3.6+](https://www.python.org/downloads/)
 1. 克隆存储库或下载源文件。
     ```
     git clone https://github.com/quinn0823/apple-siri-voice-navigation
