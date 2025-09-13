@@ -90,10 +90,10 @@ Supports all 14 languages supported by the game.
 * Thai (Thailand) - Siri (Voice 2)
 * Türkçe (Türkiye) - Siri (Ses 1)
 * Türkçe (Türkiye) - Siri (Ses 2)
+* [green]Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)[normal]
+* [green]Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)[normal]
 * Русский (Россия) - Siri (Голос 1)
 * Русский (Россия) - Siri (Голос 2)
-* [green]Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)[normal]
-* [green]Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)[normal]
 * 中文（上海，中国大陆）- 南南（优化音质）
 * 中文（中国大陆）- Siri（声音1）
 * 中文（中国大陆）- Siri（声音2）
