@@ -163,6 +163,9 @@ Voices in all 14 languages the game supports are available.
     - [适用于欧卡2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [适用于美卡的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub（[发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [从源文件构建](#从源文件构建)）
+- Nexus Mods
+    - [适用于欧卡2 的 Apple Siri 语音导航](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
+    - [适用于美卡的 Apple Siri 语音导航](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ## 从源文件构建
 
@@ -215,13 +218,13 @@ Voices in all 14 languages the game supports are available.
 
 ### Apple Siri 语音导航
 
-- [适用于欧卡2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
-- [适用于美卡的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+- 适用于欧卡2 的 Apple Siri 语音导航: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)，[Nexus Mods](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
+- 适用于美卡的 Apple Siri 语音导航: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)，[Nexus Mods](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ### Apple Maps Navigation（由 Lism 创建）
 
-- [适用于欧卡2 的 Apple Maps Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
-- [适用于美卡的 Apple Maps Navigation](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
+- 适用于欧卡2 的 Apple Maps Navigation: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
+- 适用于美卡的 Apple Maps Navigation: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
 
 ### Apple SF 符号用户界面（正在开发…）
 
@@ -446,7 +449,7 @@ $2
 
 发行日期：2025 年 08 月 04 日 (3.8)
 
-发布日期（GitHub，简体中文）：2025 年 09 月 13 日
+发布日期（GitHub，简体中文）：2025 年 09 月 14 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 

@@ -163,6 +163,9 @@ Voices in all 14 languages the game supports are available.
     - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
     - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub ([Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [Build from source](#build-from-source))
+- Nexus Mods
+    - [Apple Siri Voice Navigation for ETS2](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
+    - [Apple Siri Voice Navigation for ATS](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ## Build from Source
 
@@ -215,13 +218,13 @@ Voices in all 14 languages the game supports are available.
 
 ### Apple Siri Voice Navigation
 
-- [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
-- [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+- Apple Siri Voice Navigation for ETS2: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712), [Nexus Mods](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
+- Apple Siri Voice Navigation for ATS: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298), [Nexus Mods](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ### Apple Maps Navigation (Created by Lism)
 
-- [Apple Maps Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
-- [Apple Maps Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
+- Apple Maps Navigation for ETS2: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
+- Apple Maps Navigation for ATS: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
 
 ### Apple SF Symbols UI (Under Development...)
 
@@ -447,7 +450,7 @@ $2
 
 Release Date: August 04, 2025 (3.8)
 
-Published Date (GitHub): September 13, 2025
+Published Date (GitHub): September 14, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 
