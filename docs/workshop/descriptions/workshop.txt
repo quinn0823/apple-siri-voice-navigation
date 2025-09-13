@@ -60,6 +60,8 @@ Supports all 14 languages supported by the game.
 [*]Français (Canada) - Siri (Voix 2)
 [*]Français (France) - Siri (Voix 1)
 [*]Français (France) - Siri (Voix 2)
+[*][b]Greek (Greece) - Melina (Enhanced)[/b]
+[*][b]Greek (Greece) - Nikos (Enhanced)[/b]
 [*]Hebrew (Israel) - Siri (Voice 1)
 [*]Hebrew (Israel) - Siri (Voice 2)
 [*]Italiano (Italia) - Siri (Voca 1)
