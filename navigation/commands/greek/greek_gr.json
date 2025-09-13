@@ -1,219 +1,219 @@
 [
     {
         "File prefix": "turn_left",
-        "Command": ""
+        "Command": "Στρίψτε αριστερά."
     },
     {
         "File prefix": "turn_right",
-        "Command": ""
+        "Command": "Στρίψτε δεξιά."
     },
     {
         "File prefix": "keep_left",
-        "Command": ""
+        "Command": "Μείνε αριστερά."
     },
     {
         "File prefix": "keep_right",
-        "Command": ""
+        "Command": "Μείνε δεξιά."
     },
     {
         "File prefix": "exit_left",
-        "Command": ""
+        "Command": "Βγείτε αριστερά."
     },
     {
         "File prefix": "exit_right",
-        "Command": ""
+        "Command": "Βγείτε δεξιά."
     },
     {
         "File prefix": "go_straight",
-        "Command": ""
+        "Command": "Πηγαίνετε ευθεία."
     },
     {
         "File prefix": "roundabout_1",
-        "Command": ""
+        "Command": "Στον κυκλικό κόμβο, πάρτε την πρώτη έξοδο."
     },
     {
         "File prefix": "roundabout_2",
-        "Command": ""
+        "Command": "Στον κυκλικό κόμβο, πάρτε την δεύτερη έξοδο."
     },
     {
         "File prefix": "roundabout_3",
-        "Command": ""
+        "Command": "Στον κυκλικό κόμβο, πάρτε την τρίτη έξοδο."
     },
     {
         "File prefix": "roundabout_4",
-        "Command": ""
+        "Command": "Στον κυκλικό κόμβο, πάρτε την τέταρτη έξοδο."
     },
     {
         "File prefix": "roundabout_5",
-        "Command": ""
+        "Command": "Στον κυκλικό κόμβο, πάρτε την πέμπτη έξοδο."
     },
     {
         "File prefix": "roundabout_6",
-        "Command": ""
+        "Command": "Στον κυκλικό κόμβο, πάρτε την έκτη έξοδο."
     },
     {
         "File prefix": "exit_now",
-        "Command": ""
+        "Command": "Βγες τώρα."
     },
     {
         "File prefix": "prepare_turn_left",
-        "Command": ""
+        "Command": "Ετοιμάσου να στρίψεις αριστερά."
     },
     {
         "File prefix": "prepare_turn_right",
-        "Command": ""
+        "Command": "Ετοιμάσου να στρίψεις δεξιά."
     },
     {
         "File prefix": "prepare_exit_left",
-        "Command": ""
+        "Command": "Ετοιμαστείτε να βγείτε αριστερά."
     },
     {
         "File prefix": "prepare_exit_right",
-        "Command": ""
+        "Command": "Ετοιμαστείτε για να βγείτε δεξιά."
     },
     {
         "File prefix": "compound_turn_left",
-        "Command": ""
+        "Command": "Στρίψτε αριστερά,"
     },
     {
         "File prefix": "compound_turn_right",
-        "Command": ""
+        "Command": "Στρίψτε δεξιά,"
     },
     {
         "File prefix": "compound_keep_left",
-        "Command": ""
+        "Command": "Μείνε αριστερά,"
     },
     {
         "File prefix": "compound_keep_right",
-        "Command": ""
+        "Command": "Μείνε δεξιά,"
     },
     {
         "File prefix": "compound_exit_left",
-        "Command": ""
+        "Command": "Βγείτε αριστερά,"
     },
     {
         "File prefix": "compound_exit_right",
-        "Command": ""
+        "Command": "Βγείτε δεξιά,"
     },
     {
         "File prefix": "compound_go_straight",
-        "Command": ""
+        "Command": "Πηγαίνετε ευθεία,"
     },
     {
         "File prefix": "and_then_turn_left",
-        "Command": ""
+        "Command": "και μετά στρίψτε αριστερά."
     },
     {
         "File prefix": "and_then_turn_right",
-        "Command": ""
+        "Command": "και μετά στρίψτε δεξιά."
     },
     {
         "File prefix": "and_then_keep_left",
-        "Command": ""
+        "Command": "και μετά μείνε αριστερά."
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": ""
+        "Command": "και μετά μείνε δεξιά."
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": ""
+        "Command": "και μετά βγείτε αριστερά."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": ""
+        "Command": "και μετά βγείτε δεξιά."
     },
     {
         "File prefix": "and_then_go_straight",
-        "Command": ""
+        "Command": "και μετά συνεχίστε ευθεία."
     },
     {
         "File prefix": "start_1",
-        "Command": ""
+        "Command": "Εντάξει, ας ξεκινήσουμε."
     },
     {
         "File prefix": "start_2",
-        "Command": ""
+        "Command": "Ώρα να φύγουμε."
     },
     {
         "File prefix": "start_3",
-        "Command": ""
+        "Command": "Ας το κάνουμε."
     },
     {
         "File prefix": "start_4",
-        "Command": ""
+        "Command": "Οδήγα προσεκτικά."
     },
     {
         "File prefix": "start_5",
-        "Command": ""
+        "Command": "Έτοιμοι να ξεκινήσουμε."
     },
     {
         "File prefix": "start_6",
-        "Command": ""
+        "Command": "Ας πάμε."
     },
     {
         "File prefix": "start_7",
-        "Command": ""
+        "Command": "Ώρα να κάνουμε τη δουλειά."
     },
     {
         "File prefix": "finish_1",
-        "Command": ""
+        "Command": "Έχετε φτάσει στον προορισμό σας. Η καθοδήγηση της διαδρομής σας έχει τελειώσει."
     },
     {
         "File prefix": "finish_2",
-        "Command": ""
+        "Command": "Εδώ είμαστε, ασφαλείς και υγιείς."
     },
     {
         "File prefix": "finish_3",
-        "Command": ""
+        "Command": "Τελικά, είμαστε εδώ."
     },
     {
         "File prefix": "finish_4",
-        "Command": ""
+        "Command": "Έχει τελειώσει τώρα."
     },
     {
         "File prefix": "finish_5",
-        "Command": ""
+        "Command": "Εδώ είναι που τελειώνει."
     },
     {
         "File prefix": "finish_6",
-        "Command": ""
+        "Command": "Τελειώσαμε."
     },
     {
         "File prefix": "finish_7",
-        "Command": ""
+        "Command": "Ήταν μια ωραία βόλτα."
     },
     {
         "File prefix": "recomputing_1",
-        "Command": ""
+        "Command": "Επαναδρομολόγηση."
     },
     {
         "File prefix": "recomputing_2",
-        "Command": ""
+        "Command": "Επαναϋπολογισμός."
     },
     {
         "File prefix": "recomputing_3",
-        "Command": ""
+        "Command": "Βρίσκοντας νέα διαδρομή."
     },
     {
         "File prefix": "recomputing_4",
-        "Command": ""
+        "Command": "Εντάξει, ας βρούμε μια νέα διαδρομή."
     },
     {
         "File prefix": "recomputing_5",
-        "Command": ""
+        "Command": "Μην ανησυχείς. Θα βρω μια νέα διαδρομή."
     },
     {
         "File prefix": "u_turn_1",
-        "Command": ""
+        "Command": "Όταν είναι δυνατόν, κάντε στροφή 180 μοιρών."
     },
     {
         "File prefix": "u_turn_2",
-        "Command": ""
+        "Command": "Κάντε μια αναστροφή."
     },
     {
         "File prefix": "u_turn_3",
-        "Command": ""
+        "Command": "Παρακαλώ κάντε αναστροφή όταν είναι δυνατόν."
     },
     {
         "File prefix": "speed_signal",
@@ -221,6 +221,6 @@
     },
     {
         "File prefix": "speed_warning",
-        "Command": ""
+        "Command": "Προσοχή, παρακαλώ προσέξτε το όριο ταχύτητας."
     }
 ]
