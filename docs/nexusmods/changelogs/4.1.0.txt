@@ -1,0 +1,5 @@
+[Improved] Optimize Swedish command `recomputing_2` by @arehnberg-cloud in https://github.com/quinn0823/apple-siri-voice-navigation/pull/1 and rebuild the following voices: Svenska (Sverige) - Siri (Röst 1); Svenska (Sverige) - Siri (Röst 2).
+
+View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.1.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3404021712]Workshop (ETS2)[/url].
+
+View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.1.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3404022298]Workshop (ATS)[/url].
