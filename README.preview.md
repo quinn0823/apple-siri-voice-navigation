@@ -38,7 +38,7 @@
 
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 80 voices in 22 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**September 14**: 3.8 > **4.0**. This update brings **2 voice in Greek** to the game. Siri is now available for download on Nexus Mods.
+**September 16**: 3.8 > **4.1**. This update brings **2 voice in Greek** to the game. Thanks to arehnberg-cloud's help, the **Swedish** commands have been optimized.
 
 ---
 
@@ -121,8 +121,8 @@ Supports all 14 languages supported by the game.
 - Português (Portugal) - Joaquim (melhorada)
 - Română (România) - Ioana (îmbunătațită)
 - **Slovenčina (Slovensko) - Laura (vylepšený)**
-- Svenska (Sverige) - Siri (Röst 1)
-- Svenska (Sverige) - Siri (Röst 2)
+- **Svenska (Sverige) - Siri (Röst 1)**
+- **Svenska (Sverige) - Siri (Röst 2)**
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
@@ -145,8 +145,8 @@ Supports all 14 languages supported by the game.
 - 中文（香港）- Siri（聲音2）
 - 日本語（日本）- Siri（声1）
 - 日本語（日本）- Siri（声2）
-- **한국어 (대한민국) - Siri (음성 1)**
-- **한국어 (대한민국) - Siri (음성 2)**
+- 한국어 (대한민국) - Siri (음성 1)
+- 한국어 (대한민국) - Siri (음성 2)
 
 ### Planned (0+ in 0+ New)
 
@@ -452,9 +452,9 @@ $2
 
 ---
 
-Release Date: September 14, 2025 (4.0)
+Release Date: September 16, 2025 (4.1)
 
-Published Date (GitHub): September 14, 2025
+Published Date (GitHub): September 16, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 

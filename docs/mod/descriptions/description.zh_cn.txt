@@ -1,6 +1,6 @@
 [orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]22 种语言的 80 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]09 月 14 日[normal]：3.8 – [green]4.0[normal]。此更新为游戏带来了 [green]2 种希腊语的声音[normal]。Siri 现已可在 Nexus Mods 上进行下载。
+[orange]09 月 16 日[normal]：3.8 – [green]4.1[normal]。此更新为游戏带来了 [green]2 种希腊语的声音[normal]。多亏了 arehnberg-cloud 的帮助，[blue]瑞典语[normal]的命令已得到优化。
 
 
 [orange]介绍[normal]
@@ -84,8 +84,8 @@ Supports all 14 languages supported by the game.
 * Português (Portugal) - Joaquim (melhorada)
 * Română (România) - Ioana (îmbunătațită)
 * [green]Slovenčina (Slovensko) - Laura (vylepšený)[normal]
-* Svenska (Sverige) - Siri (Röst 1)
-* Svenska (Sverige) - Siri (Röst 2)
+* [blue]Svenska (Sverige) - Siri (Röst 1)[normal]
+* [blue]Svenska (Sverige) - Siri (Röst 2)[normal]
 * Thai (Thailand) - Siri (Voice 1)
 * Thai (Thailand) - Siri (Voice 2)
 * Türkçe (Türkiye) - Siri (Ses 1)
@@ -108,8 +108,8 @@ Supports all 14 languages supported by the game.
 * 中文（香港）- Siri（聲音2）
 * 日本語（日本）- Siri（声1）
 * 日本語（日本）- Siri（声2）
-* [green]한국어 (대한민국) - Siri (음성 1)[normal]
-* [green]한국어 (대한민국) - Siri (음성 2)[normal]
+* 한국어 (대한민국) - Siri (음성 1)
+* 한국어 (대한민국) - Siri (음성 2)
 
 [red]Planned (0+ in 0+ New)[normal]
 * Your Requests...
@@ -139,7 +139,7 @@ Supports all 14 languages supported by the game.
 请访问 GitHub 上的存储库 at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]，在那里你可以查看为这个项目的所有文件。你可以编辑 JSON 文件并创建一个拉取请求，如果你发现任何错误。你还可以创建一个新的 JSON 文件来添加对另一种语言的支持。
 
 
-发行日期：2025 年 09 月 14 日 (4.0)
+发行日期：2025 年 09 月 16 日 (4.1)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
