@@ -38,7 +38,7 @@
 
 **与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **22 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**09 月 14 日**：3.8 > **4.0**。此更新为游戏带来了 **2 种希腊语的声音**。Siri 现已可在 Nexus Mods 上进行下载。
+**09 月 16 日**：3.8 > **4.1**。此更新为游戏带来了 **2 种希腊语的声音**。**瑞典语**命令已由 @arehnberg-cloud 进行了优化。
 
 ---
 
@@ -121,8 +121,8 @@ Supports all 14 languages supported by the game.
 - Português (Portugal) - Joaquim (melhorada)
 - Română (România) - Ioana (îmbunătațită)
 - **Slovenčina (Slovensko) - Laura (vylepšený)**
-- Svenska (Sverige) - Siri (Röst 1)
-- Svenska (Sverige) - Siri (Röst 2)
+- **Svenska (Sverige) - Siri (Röst 1)**
+- **Svenska (Sverige) - Siri (Röst 2)**
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
@@ -145,8 +145,8 @@ Supports all 14 languages supported by the game.
 - 中文（香港）- Siri（聲音2）
 - 日本語（日本）- Siri（声1）
 - 日本語（日本）- Siri（声2）
-- **한국어 (대한민국) - Siri (음성 1)**
-- **한국어 (대한민국) - Siri (음성 2)**
+- 한국어 (대한민국) - Siri (음성 1)
+- 한국어 (대한민국) - Siri (음성 2)
 
 ### Planned (0+ in 0+ New)
 
@@ -451,9 +451,9 @@ $2
 
 ---
 
-发行日期：2025 年 09 月 14 日 (4.0)
+发行日期：2025 年 09 月 16 日 (4.1)
 
-发布日期（GitHub，简体中文）：2025 年 09 月 14 日
+发布日期（GitHub，简体中文）：2025 年 09 月 16 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 
