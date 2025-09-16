@@ -1,6 +1,6 @@
 [b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With [b]over 80 voices in 22 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[b]September 16[/b]: 3.8 > [b]4.1[/b]. This update brings [b]2 voice in Greek[/b] to the game. Thanks to arehnberg-cloud's help, the [b]Swedish[/b] commands have been optimized.
+[b]September 16[/b]: 3.8 > [b]4.1[/b]. This update brings [b]2 voice in Greek[/b] to the game. The [b]Swedish[/b] commands have been optimized by @arehnberg-cloud.
 
 [hr][/hr]
 [h1]Introduction[/h1]

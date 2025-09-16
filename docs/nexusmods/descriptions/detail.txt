@@ -1,4 +1,4 @@
-[b]September 16[/b]: 3.8 > [b]4.1[/b]. This update brings [b]2 voice in Greek[/b] to the game. Thanks to arehnberg-cloud's help, the [b]Swedish[/b] commands have been optimized.
+[b]September 16[/b]: 3.8 > [b]4.1[/b]. This update brings [b]2 voice in Greek[/b] to the game. The [b]Swedish[/b] commands have been optimized by @arehnberg-cloud.
 
 
 [size=5][b]Introduction[/b][/size]
