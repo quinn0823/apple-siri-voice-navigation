@@ -193,14 +193,14 @@ Supports all 14 languages supported by the game.
 
 1. 移动 **“apple-siri-voice-navigation.zip”** 到模组文件夹：
     - Windows
-        - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
-        - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
+        - ETS2：`%UserProfile%\Documents\Euro Truck Simulator 2\mod`
+        - ATS：`%UserProfile%\Documents\American Truck Simulator\mod`
     - macOS（按下 **Shift-Command-G** 打开“前往文件夹”窗口。）
-        - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
-        - ATS: `~/Library/Application Support/American Truck Simulator/mod`
+        - ETS2：`~/Library/Application Support/Euro Truck Simulator 2/mod`
+        - ATS：`~/Library/Application Support/American Truck Simulator/mod`
     - Linux
-        - ETS2: `~/.local/share/Euro Truck Simulator 2/mod`
-        - ATS: `~/.local/share/American Truck Simulator/mod`
+        - ETS2：`~/.local/share/Euro Truck Simulator 2/mod`
+        - ATS：`~/.local/share/American Truck Simulator/mod`
 1. 在标题界面点击 **“模组”** 来打开模组管理器。
 1. 双击 **“Apple Siri Voice Navigation”** 来启用这个模组。
 1. 打开 **“选项”**。
@@ -220,13 +220,13 @@ Supports all 14 languages supported by the game.
 
 ### Apple Siri 语音导航
 
-- 适用于欧卡2 的 Apple Siri 语音导航: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)，[Nexus Mods](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
-- 适用于美卡的 Apple Siri 语音导航: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)，[Nexus Mods](https://www.nexusmods.com/americantrucksimulator/mods/77)
+- 适用于欧卡2 的 Apple Siri 语音导航：[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)，[Nexus Mods](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
+- 适用于美卡的 Apple Siri 语音导航：[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)，[Nexus Mods](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ### Apple Maps Navigation（由 Lism 创建）
 
-- 适用于欧卡2 的 Apple Maps Navigation: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
-- 适用于美卡的 Apple Maps Navigation: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
+- 适用于欧卡2 的 Apple Maps Navigation：[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
+- 适用于美卡的 Apple Maps Navigation：[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
 
 ### Apple SF 符号用户界面（正在开发…）
 
