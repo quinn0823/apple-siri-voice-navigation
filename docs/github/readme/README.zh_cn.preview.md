@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **22 种语言的 80 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **22 种语言的 90 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**09 月 16 日**：3.8 > **4.1**。此更新为游戏带来了 **2 种希腊语的声音**。**瑞典语**命令已由 @arehnberg-cloud 进行了优化。
+**10 月 02 日**：4.1 > **4.2**。此更新为游戏带来了 **2 种希腊语的声音**。**瑞典语**命令已由 @arehnberg-cloud 进行了优化。
 
 ---
 
@@ -52,11 +52,11 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你还可以在这里查看本地化的描述以及最新的更新内容。
 
-## Voices [89+ Voices in 22+ Languages]
+## Voices [91+ Voices in 22+ Languages]
 
 Supports all 14 languages supported by the game.
 
-### Available (89 in 22)
+### Available (91 in 22)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -101,6 +101,8 @@ Supports all 14 languages supported by the game.
 - Français (Canada) - Siri (Voix 2)
 - Français (France) - Siri (Voix 1)
 - Français (France) - Siri (Voix 2)
+- **Français (France) - Siri (Voix 3)**
+- **Français (France) - Siri (Voix 4)**
 - Hebrew (Israel) - Siri (Voice 1)
 - Hebrew (Israel) - Siri (Voice 2)
 - Italiano (Italia) - Siri (Voca 1)
@@ -120,7 +122,7 @@ Supports all 14 languages supported by the game.
 - Português (Portugal) - Joana (melhorada)
 - Português (Portugal) - Joaquim (melhorada)
 - Română (România) - Ioana (îmbunătațită)
-- **Slovenčina (Slovensko) - Laura (vylepšený)**
+- Slovenčina (Slovensko) - Laura (vylepšený)
 - **Svenska (Sverige) - Siri (Röst 1)**
 - **Svenska (Sverige) - Siri (Röst 2)**
 - Thai (Thailand) - Siri (Voice 1)
@@ -451,9 +453,9 @@ $2
 
 ---
 
-发行日期：2025 年 09 月 16 日 (4.1)
+发行日期：2025 年 10 月 02 日 (4.2)
 
-发布日期（GitHub，简体中文）：2025 年 09 月 16 日
+发布日期（GitHub，简体中文）：2025 年 10 月 02 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 
