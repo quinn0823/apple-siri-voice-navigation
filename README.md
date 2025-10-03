@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 80 voices in 22 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 90 voices in 22 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**September 16**: 3.8 > **4.1**. This update brings **2 voice in Greek** to the game. The **Swedish** commands have been optimized by @arehnberg-cloud.
+**October 03**: 4.1 > **4.2**. This update brings **French (France) Siri voice 3 & 4** to the game.
 
 ---
 
@@ -52,11 +52,11 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the localized descriptions and the latest updates here.
 
-## Voices [89+ Voices in 22+ Languages]
+## Voices [91+ Voices in 22+ Languages]
 
 Supports all 14 languages supported by the game.
 
-### Available (89 in 22)
+### Available (91 in 22)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -101,6 +101,8 @@ Supports all 14 languages supported by the game.
 - Français (Canada) - Siri (Voix 2)
 - Français (France) - Siri (Voix 1)
 - Français (France) - Siri (Voix 2)
+- **Français (France) - Siri (Voix 3)**
+- **Français (France) - Siri (Voix 4)**
 - Hebrew (Israel) - Siri (Voice 1)
 - Hebrew (Israel) - Siri (Voice 2)
 - Italiano (Italia) - Siri (Voca 1)
@@ -120,7 +122,7 @@ Supports all 14 languages supported by the game.
 - Português (Portugal) - Joana (melhorada)
 - Português (Portugal) - Joaquim (melhorada)
 - Română (România) - Ioana (îmbunătațită)
-- **Slovenčina (Slovensko) - Laura (vylepšený)**
+- Slovenčina (Slovensko) - Laura (vylepšený)
 - **Svenska (Sverige) - Siri (Röst 1)**
 - **Svenska (Sverige) - Siri (Röst 2)**
 - Thai (Thailand) - Siri (Voice 1)
@@ -452,9 +454,9 @@ $2
 
 ---
 
-Release Date: September 16, 2025 (4.1)
+Release Date: October 03, 2025 (4.2)
 
-Published Date (GitHub): September 16, 2025
+Published Date (GitHub): October 03, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 
