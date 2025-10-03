@@ -1,6 +1,6 @@
 [b]Experience the road with Siri![/b] Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With [b]over 90 voices in 22 languages[/b] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[b]October 02[/b]: 4.1 > [b]4.2[/b]. This update brings [b]2 voice in Greek[/b] to the game. The [b]Swedish[/b] commands have been optimized by @arehnberg-cloud.
+[b]October 03[/b]: 4.1 > [b]4.2[/b]. This update brings [b]French (France) Siri voice 3 & 4[/b] to the game.
 
 [hr][/hr]
 [h1]Introduction[/h1]
@@ -156,8 +156,8 @@ In order to [b]stay energized[/b] to work on this project after school, I apprec
 Please visit the [url=https://github.com/quinn0823/apple-siri-voice-navigation]repository[/url] on GitHub, where you can view all the files for this project. You can edit the JSON file and create a pull request if you find any mistake. You can also create a new JSON file to add support for another language.
 
 [hr][/hr]
-Release Date: October 02, 2025 (4.2)
-Published Date (Workshop): October 02, 2025
+Release Date: October 03, 2025 (4.2)
+Published Date (Workshop): October 03, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
