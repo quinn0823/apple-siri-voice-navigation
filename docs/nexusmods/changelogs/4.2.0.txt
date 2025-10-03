@@ -1,0 +1,5 @@
+[Added] Add 2 French (France) Siri voices: Français (France) - Siri (Voix 3); Français (France) - Siri (Voix 4).
+
+View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.2.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3404021712]Workshop (ETS2)[/url].
+
+View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.2.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3404022298]Workshop (ATS)[/url].
