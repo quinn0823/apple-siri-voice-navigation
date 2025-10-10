@@ -228,7 +228,7 @@ Please **leave your request** on any platform where this project is officially h
 
 ## If You Find a Mistake...
 
-Please **leave a comment**, **create a new issue**, or directly **make a correction** on GitHub. Thank you!
+Please **leave a comment**, **create a new issue**, or directly **make a correction** here. Thank you!
 
 ## If You Would Like to Support Me...
 
