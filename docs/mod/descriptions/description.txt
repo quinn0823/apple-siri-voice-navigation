@@ -19,7 +19,7 @@ This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-s
 4. Go to [orange]Audio - Voice Navigation - Language and voice[normal] and then select a voice you like.
 
 [orange]Voices [93+ Voices in 23+ Languages][normal]
-Supports all 14 languages supported by the games.
+Supports all 14 languages supported by the game.
 [blue]Available (93 in 23)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)

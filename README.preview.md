@@ -54,7 +54,7 @@ To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to
 
 ## Voices [93+ Voices in 23+ Languages]
 
-Supports all 14 languages supported by the games.
+Supports all 14 languages supported by the game.
 
 ### Available (93 in 23)
 
