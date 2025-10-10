@@ -46,9 +46,9 @@
 
 I am a high school student, and this is my first project of this kind, created for learning and practice.
 
-Thank you for using this mod! Feel free to **share your feedback** or **leave your request**. Your suggestion may be implemented in just a few days!
+Thank you for using this mod! Feel free to **share your feedback** or **leave your request**. Your suggestion may be implemented within a few days!
 
-If you enjoy it, please consider voting or starring it, awarding it with your free Steam Points, or [buying me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
+If you enjoy it, please consider voting or starring it, awarding it with Steam Points, or [buying me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!.
 
 To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also view localized descriptions and the latest updates here.
 
@@ -232,7 +232,7 @@ Please **leave a comment**, **create a new issue**, or directly **make a correct
 
 ## If You Would Like to Support Me...
 
-I would really appreciate it if you could buy me a coffee. Your coffee means the **world** to me! Awarding it with your free Steam Points means the **"Eurasia"** to me!
+I would really appreciate it if you could buy me a coffee. Your coffee means the **world** to me! Awarding Steam Points means the **"Eurasia"** to me!
 
 <a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
@@ -277,7 +277,7 @@ apple-siri-voice-navigation
 ### Languages [23+ Languages from 43+ Countries]
 
 > [!TIP]
-> Don't know the ISO 3166-1 (alpha-2) two-letter country code? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
+> Don't know the ISO 3166-1 (alpha-2) two-letter country codes? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
 #### Available (23 from 43)
 
@@ -350,9 +350,11 @@ apple-siri-voice-navigation
 
 #### Planned (0+ New from 0+)
 
-- *All languages in the plan list are available.*
+- *All planned languages are now available.*
 
 ### Regular Expressions
+
+The following regular expressions are used for batch editing voice lists and formatting.
 
 #### Update the Version Number
 
