@@ -224,11 +224,11 @@ GitHub
 
 ## If You Want More Voices...
 
-Please **leave your request** on any platform where this project is officially hosted. Supports **any voice in any language** available on Apple OS, **not just Siri**.
+Please **leave your request** on any platform where this project is officially hosted. Supports **any voice in any language** available in Apple OS, **not just Siri**.
 
 ## If You Find a Mistake...
 
-Please **leave a comment**, **create a new issue**, or directly **make a correction** here. Thank you!
+Please **leave a comment**, **create a new issue**, or directly **make a correction here**. I don't speak all of these languages. Although I try my best to ensure accuracy, there may still be mistakes. Thank you!
 
 ## If You Would Like to Support Me...
 
