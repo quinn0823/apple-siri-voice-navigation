@@ -1,16 +1,16 @@
 [orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With [orange]over 90 voices in 23 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[orange]October 10[normal]: 4.2 - [green]4.3[normal]. This update brings [green]Norwegian Bokmål Siri voices[normal] to the game.
+[orange]October 10[normal] ([green]4.3[normal]): This update brings [green]Norwegian Bokmål Siri voices[normal] to the game.
 
 
 [orange]Introduction[normal]
-I'm a high school student, and this is my first time creating something like this. It's for learning and practice.
-Thank you for using this mod! Feel free to [orange]share your feedback[normal] or [orange]leave your request[normal]. Your suggestion could be implemented in just a few days!
+I am a high school student, and this is my first project of this kind, created for learning and practice.
+Thank you for using this mod! Feel free to [orange]share your feedback[normal] or [orange]leave your request[normal]. Your suggestion may be implemented within a few days!
 If you enjoy it, please consider voting or starring it, awarding it with your free Steam Points, or buying me a coffee to support my "work"!
 This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal], where you can contribute to it. You can also view localized descriptions and the latest updates there.
 
 [orange]Compatibility[normal]
-[blue]1.43+[normal], supports both ETS2 and ATS.
+[blue]1.43+[normal], compatible with both ETS2 and ATS.
 
 [orange]Usage[normal]
 1. Click [orange]Mods[normal] on the title screen to open the mod manager. (You're already here!)
@@ -19,7 +19,7 @@ This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-s
 4. Go to [orange]Audio - Voice Navigation - Language and voice[normal] and then select a voice you like.
 
 [orange]Voices [93+ Voices in 23+ Languages][normal]
-Supports all 14 languages the game supports.
+Supports all 14 languages supported by the games.
 [blue]Available (93 in 23)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
@@ -137,7 +137,7 @@ Please [orange]leave your requests[normal] on any platform where this project is
 Please [orange]leave a comment[normal], [orange]create a new issue[normal], or directly [orange]make a correction[normal] on GitHub. Thank you!
 
 [orange]If You Would Like to Support Me...[normal]
-I would really appreciate you could buy me a coffee. Your coffee means the [orange]world[normal] to me! Awarding it with your free Steam Points means the [orange]"Eurasia"[normal] to me!
+I would really appreciate it if you could buy me a coffee. Your coffee means the [orange]world[normal] to me! Awarding it with your free Steam Points means the [orange]"Eurasia"[normal] to me!
 
 [orange]If You Want to Contribute...[normal]
 You can view all the files for this project on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]. For navigation commands, you can [orange]edit[normal] an existing JSON file or [orange]create[normal] a new one. Then, create a new pull request.

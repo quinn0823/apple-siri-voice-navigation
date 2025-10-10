@@ -38,23 +38,23 @@
 
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 23 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**October 10**: 4.2 > **4.3**. This update brings **Norwegian Bokmål Siri voices** to the game.
+**October 10** (**4.3**): This update brings **Norwegian Bokmål Siri voices** to the game.
 
 ---
 
 ## Introduction
 
-I'm a high school student, and this is my first time creating something like this. It's for learning and practice.
+I am a high school student, and this is my first project of this kind, created for learning and practice.
 
-Thank you for using this mod! Feel free to **share your feedback** or **leave your request**. Your suggestion could be implemented in just a few days!
+Thank you for using this mod! Feel free to **share your feedback** or **leave your request**. Your suggestion may be implemented within a few days!
 
 If you enjoy it, please consider voting or starring it, awarding it with your free Steam Points, or [buying me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
 
-To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section to check the guide and references. You can also view localized descriptions and the latest updates here.
+To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also view localized descriptions and the latest updates here.
 
 ## Voices [93+ Voices in 23+ Languages]
 
-Supports all 14 languages the game supports.
+Supports all 14 languages supported by the games.
 
 ### Available (93 in 23)
 
@@ -158,7 +158,7 @@ Supports all 14 languages the game supports.
 
 ## Compatibility
 
-**1.43+**, supports both ETS2 and ATS.
+**1.43+**, compatible with both ETS2 and ATS.
 
 ## Download
 
@@ -232,7 +232,7 @@ Please **leave a comment**, **create a new issue**, or directly **make a correct
 
 ## If You Would Like to Support Me...
 
-I would really appreciate you could buy me a coffee. Your coffee means the **world** to me! Awarding it with your free Steam Points means the **"Eurasia"** to me!
+I would really appreciate it if you could buy me a coffee. Your coffee means the **world** to me! Awarding it with your free Steam Points means the **"Eurasia"** to me!
 
 <a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
