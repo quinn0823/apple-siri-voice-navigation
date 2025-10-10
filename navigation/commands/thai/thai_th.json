@@ -1,5 +1,6 @@
 [
     {
+        "$comment": "This language is not officially supported by the game; it's a translation of ../english/english_uk.json, optimized by GPT.",
         "File prefix": "turn_left",
         "Command": "เลี้ยวซ้าย"
     },

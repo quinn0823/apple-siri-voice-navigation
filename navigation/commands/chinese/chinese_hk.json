@@ -1,5 +1,6 @@
 [
     {
+        "$comment": "This language is not officially supported by the game; it's a translation of ./chinese_cn.json.",
         "File prefix": "turn_left",
         "Command": "左轉。"
     },
