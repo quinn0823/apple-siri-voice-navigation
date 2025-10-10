@@ -1,4 +1,7 @@
 [Added] Add 2 Norsk Bokmål Siri voices: Norsk Bokmål (Norge) - Siri (Stemme 1); Norsk Bokmål (Norge) - Siri (Stemme 2).
+[Fixed] Correct the native language spelling of "Netherlands" and "Dutch".
+[Improved] Rewrite README and all descriptions (en-US).
+[Notes] The localized README and descriptions will be updated in the next version.
 
 View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.3.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3404021712]Workshop (ETS2)[/url].
 
