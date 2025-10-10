@@ -1,6 +1,6 @@
 [orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]23 种语言的 90 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]10 月 10 日[normal]：4.2 – [green]4.3[normal]。此更新为游戏带来了[green]书面挪威语 Siri 声音[normal]。
+[orange]10 月 11 日[normal]：4.2 – [green]4.3[normal]。此更新为游戏带来了[green]书面挪威语 Siri 声音[normal]。
 
 
 [orange]介绍[normal]
@@ -143,7 +143,7 @@ Supports all 14 languages supported by the game.
 请访问 GitHub 上的存储库 at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]，在那里你可以查看为这个项目的所有文件。你可以编辑 JSON 文件并创建一个拉取请求，如果你发现任何错误。你还可以创建一个新的 JSON 文件来添加对另一种语言的支持。
 
 
-发行日期：2025 年 10 月 10 日 (4.3)
+发行日期：2025 年 10 月 11 日 (4.3)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu

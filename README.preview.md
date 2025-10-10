@@ -38,7 +38,7 @@
 
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 23 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**October 10** (**4.3**): This update brings **Norwegian Bokmål Siri voices** to the game.
+**October 11** (**4.3**): This update brings **Norwegian Bokmål Siri voices** to the game.
 
 ---
 
@@ -442,9 +442,9 @@ $2
 
 ---
 
-Release Date: October 10, 2025 (4.3)
+Release Date: October 11, 2025 (4.3)
 
-Published Date (GitHub): October 10, 2025
+Published Date (GitHub): October 11, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 
