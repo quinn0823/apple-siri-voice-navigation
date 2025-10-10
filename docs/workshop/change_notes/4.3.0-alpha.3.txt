@@ -1,0 +1,9 @@
+Apple Siri Voice Navigation 4.3 Alpha 3
+
+Fixed
+* Correct the native language spelling of "Netherlands" and "Dutch".
+
+Improved
+* Optimize new README and descriptions.
+
+View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.3.0-alpha.3]GitHub[/url], [url=https://www.nexusmods.com/eurotrucksimulator2/mods/173?tab=files]Nexus Mods (ETS2)[/url], or [url=https://www.nexusmods.com/americantrucksimulator/mods/77?tab=files]Nexus Mods (ATS)[/url].
