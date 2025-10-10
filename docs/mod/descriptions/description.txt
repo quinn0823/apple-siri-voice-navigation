@@ -5,7 +5,7 @@
 
 [orange]Introduction[normal]
 I am a high school student, and this is my first project of this kind, created for learning and practice.
-Thank you for using this mod! Feel free to [orange]share your feedback[normal] or [orange]leave your request[normal]. Your suggestion may be implemented within a few days!
+Thank you for using this mod! Feel free to [orange]share your feedback[normal] or [orange]leave your request[normal]. Your suggestion may be implemented in just a few days!
 If you enjoy it, please consider voting or starring it, awarding it with your free Steam Points, or buying me a coffee to support my "work"!
 This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal], where you can contribute to it. You can also view localized descriptions and the latest updates there.
 
