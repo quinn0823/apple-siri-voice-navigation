@@ -18,15 +18,15 @@
     },
     {
         "File prefix": "exit_left",
-        "Command": "Utgang til venstre."
+        "Command": "Ta av til venstre."
     },
     {
         "File prefix": "exit_right",
-        "Command": "Gå ut til høyre."
+        "Command": "Ta av til høyre."
     },
     {
         "File prefix": "go_straight",
-        "Command": "Gå rett frem."
+        "Command": "Kjør rett frem."
     },
     {
         "File prefix": "roundabout_1",
@@ -86,19 +86,19 @@
     },
     {
         "File prefix": "compound_keep_right",
-        "Command": "Hold deg til høyre,"
+        "Command": "Hold til høyre,"
     },
     {
         "File prefix": "compound_exit_left",
-        "Command": "Utgang til venstre"
+        "Command": "Ta av til venstre,"
     },
     {
         "File prefix": "compound_exit_right",
-        "Command": "Ta til høyre"
+        "Command": "Ta av til høyre,"
     },
     {
         "File prefix": "compound_go_straight",
-        "Command": "Gå rett frem,"
+        "Command": "Kjør rett frem,"
     },
     {
         "File prefix": "and_then_turn_left",
@@ -118,11 +118,11 @@
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": "og deretter gå ut til venstre."
+        "Command": "og deretter ta av til venstre."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": "og deretter svinge til høyre."
+        "Command": "og deretter ta av til høyre."
     },
     {
         "File prefix": "and_then_go_straight",
