@@ -158,7 +158,7 @@ I would really appreciate you could buy me a coffee. Your coffee means the [b]wo
 [url=https://www.buymeacoffee.com/jonathanchiu][img]https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00[/img][/url]
 
 [h1]If You Want to Contribute...[/h1]
-You can view all the files for this project on [url=https://github.com/quinn0823/apple-siri-voice-navigation]GitHub[/url]. For navigation commands, you can [b]edit[/b] an existing JSON file or create a new one. Then, [b]create[/b] a new pull request.
+You can view all the files for this project on [url=https://github.com/quinn0823/apple-siri-voice-navigation]GitHub[/url]. For navigation commands, you can [b]edit[/b] an existing JSON file or [b]create[/b] a new one. Then, create a new pull request.
 
 [hr][/hr]
 Release Date: October 10, 2025 (4.3)
