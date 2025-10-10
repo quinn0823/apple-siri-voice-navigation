@@ -251,7 +251,7 @@ apple-siri-voice-navigation
 ├── docs
 │   ├── github               // Documentation for GitHub
 │   │   ├── images
-│   │   └── readme
+│   │   ├── readme
 │   │   └── release_notes
 │   ├── mod                  // Documentation for Mod Manager in-game
 │   │   ├── descriptions
