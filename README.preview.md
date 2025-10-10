@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 90 voices in 22 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 90 voices in 23 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**October 03**: 4.1 > **4.2**. This update brings **French (France) Siri voice 3 & 4** to the game.
+**October 10**: 4.2 > **4.3**. This update brings **Norwegian Bokmål Siri voices** to the game.
 
 ---
 
@@ -52,11 +52,11 @@ Thank you for using this mod! If you like it, please consider leaving a star, co
 
 To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the localized descriptions and the latest updates here.
 
-## Voices [91+ Voices in 22+ Languages]
+## Voices [93+ Voices in 23+ Languages]
 
 Supports all 14 languages supported by the game.
 
-### Available (91 in 22)
+### Available (93 in 23)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -113,6 +113,8 @@ Supports all 14 languages supported by the game.
 - Netherlands (België) - Ellen (verbeterd)
 - Netherlands (Netherland) - Siri (Stem 1)
 - Netherlands (Netherland) - Siri (Stem 2)
+- **Norsk Bokmål (Norge) - Siri (Stemme 1)**
+- **Norsk Bokmål (Norge) - Siri (Stemme 2)**
 - Polski (Polska) - Ewa (premium)
 - Polski (Polska) - Krzysztof (rozszerzony)
 - Polski (Polska) - Zosia (rozszerzony)
@@ -129,8 +131,8 @@ Supports all 14 languages supported by the game.
 - Thai (Thailand) - Siri (Voice 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
-- **Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)**
-- **Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)**
+- Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)
+- Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 - 中文（上海，中国大陆）- 南南（优化音质）
@@ -456,7 +458,7 @@ $2
 
 ---
 
-Release Date: October 03, 2025 (4.2)
+Release Date: October 10, 2025 (4.3)
 
 Published Date (GitHub): October 10, 2025
 

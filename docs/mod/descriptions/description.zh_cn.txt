@@ -1,6 +1,6 @@
-[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]22 种语言的 90 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+[orange]与 Siri 一起体验旅途！[normal]Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 [orange]23 种语言的 90 多种声音[normal]可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-[orange]10 月 03 日[normal]：4.1 – [green]4.2[normal]。此更新为游戏带来了[green]法语（法国）Siri 声音 3 和 4[normal]。
+[orange]10 月 10 日[normal]：4.2 – [green]4.3[normal]。此更新为游戏带来了[green]书面挪威语 Siri 声音[normal]。
 
 
 [orange]介绍[normal]
@@ -18,9 +18,9 @@
 3. 打开[orange]“选项”[normal]。
 4. 导航到[orange]“音频”–“语音导航”–“语言和声音”[normal]并选择一个你喜欢的声音。
 
-[orange]Voices [91+ Voices in 22+ Languages][normal]
+[orange]Voices [93+ Voices in 23+ Languages][normal]
 Supports all 14 languages supported by the game.
-[blue]Available (91 in 22)[normal]
+[blue]Available (93 in 23)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * Dansk (Danmark) - Siri (Stemme 1)
@@ -76,6 +76,8 @@ Supports all 14 languages supported by the game.
 * Netherlands (België) - Ellen (verbeterd)
 * Netherlands (Netherland) - Siri (Stem 1)
 * Netherlands (Netherland) - Siri (Stem 2)
+* [green]Norsk Bokmål (Norge) - Siri (Stemme 1)[normal]
+* [green]Norsk Bokmål (Norge) - Siri (Stemme 2)[normal]
 * Polski (Polska) - Ewa (premium)
 * Polski (Polska) - Krzysztof (rozszerzony)
 * Polski (Polska) - Zosia (rozszerzony)
@@ -92,8 +94,8 @@ Supports all 14 languages supported by the game.
 * Thai (Thailand) - Siri (Voice 2)
 * Türkçe (Türkiye) - Siri (Ses 1)
 * Türkçe (Türkiye) - Siri (Ses 2)
-* [green]Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)[normal]
-* [green]Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)[normal]
+* Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)
+* Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)
 * Русский (Россия) - Siri (Голос 1)
 * Русский (Россия) - Siri (Голос 2)
 * 中文（上海，中国大陆）- 南南（优化音质）
@@ -141,7 +143,7 @@ Supports all 14 languages supported by the game.
 请访问 GitHub 上的存储库 at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]，在那里你可以查看为这个项目的所有文件。你可以编辑 JSON 文件并创建一个拉取请求，如果你发现任何错误。你还可以创建一个新的 JSON 文件来添加对另一种语言的支持。
 
 
-发行日期：2025 年 10 月 03 日 (4.2)
+发行日期：2025 年 10 月 10 日 (4.3)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu

@@ -36,9 +36,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **22 种语言的 90 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **23 种语言的 90 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
 
-**10 月 03 日**：4.1 > **4.2**。此更新为游戏带来了**法语（法国）Siri 声音 3 和 4**。
+**10 月 10 日**：4.2 > **4.3**。此更新为游戏带来了**书面挪威语 Siri 声音**。
 
 ---
 
@@ -52,11 +52,11 @@
 
 要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你还可以在这里查看本地化的描述以及最新的更新内容。
 
-## Voices [91+ Voices in 22+ Languages]
+## Voices [93+ Voices in 23+ Languages]
 
 Supports all 14 languages supported by the game.
 
-### Available (91 in 22)
+### Available (93 in 23)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -113,6 +113,8 @@ Supports all 14 languages supported by the game.
 - Netherlands (België) - Ellen (verbeterd)
 - Netherlands (Netherland) - Siri (Stem 1)
 - Netherlands (Netherland) - Siri (Stem 2)
+- **Norsk Bokmål (Norge) - Siri (Stemme 1)**
+- **Norsk Bokmål (Norge) - Siri (Stemme 2)**
 - Polski (Polska) - Ewa (premium)
 - Polski (Polska) - Krzysztof (rozszerzony)
 - Polski (Polska) - Zosia (rozszerzony)
@@ -129,8 +131,8 @@ Supports all 14 languages supported by the game.
 - Thai (Thailand) - Siri (Voice 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
 - Türkçe (Türkiye) - Siri (Ses 2)
-- **Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)**
-- **Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)**
+- Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)
+- Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)
 - Русский (Россия) - Siri (Голос 1)
 - Русский (Россия) - Siri (Голос 2)
 - 中文（上海，中国大陆）- 南南（优化音质）
@@ -455,7 +457,7 @@ $2
 
 ---
 
-发行日期：2025 年 10 月 03 日 (4.2)
+发行日期：2025 年 10 月 10 日 (4.3)
 
 发布日期（GitHub，简体中文）：2025 年 10 月 10 日
 
