@@ -156,7 +156,7 @@ GitHub
 
 
 [size=5][b]If You Want More Voices...[/b][/size]
-Please [b]leave your requests[/b] on any platform where this project is officially hosted. Supports [b]any voice in any language[/b] available on Apple OS, [b]not just Siri[/b].
+Please [b]leave your request[/b] on any platform where this project is officially hosted. Supports [b]any voice in any language[/b] available on Apple OS, [b]not just Siri[/b].
 
 [size=5][b]If You Find a Mistake...[/b][/size]
 Please [b]leave a comment[/b], [b]create a new issue[/b], or directly [b]make a correction[/b] on GitHub. Thank you!
