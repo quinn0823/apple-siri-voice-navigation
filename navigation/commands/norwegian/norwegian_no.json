@@ -1,0 +1,227 @@
+[
+    {
+        "$comment": "Translated from English (United States); Optimized by GPT.",
+        "File prefix": "turn_left",
+        "Command": "Sving til venstre."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Sving til høyre."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Hold til venstre."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Hold til høyre."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Utgang til venstre."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Gå ut til høyre."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Gå rett frem."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "Ta første avkjørsel i rundkjøringen."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "Ta andre avkjørsel i rundkjøringen."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "Ta tredje avkjørsel i rundkjøringen."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "Ta fjerde avkjøring i rundkjøringen."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "Ta den femte avkjøringen i rundkjøringen."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "Ta sjette avkjøring i rundkjøringen."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Gå ut nå."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Gjør deg klar til å ta til venstre."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Gjør deg klar til å ta til høyre."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Gjør deg klar til å ta avkjøringen til venstre."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Gjør deg klar til å ta avkjøringen til høyre."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Sving til venstre,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Sving til høyre,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Hold til venstre,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Hold deg til høyre,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Utgang til venstre"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Ta til høyre"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Gå rett frem,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "og deretter sving til venstre."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "og deretter svinge til høyre."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "og deretter hold til venstre."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "og deretter hold til høyre."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "og deretter gå ut til venstre."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "og deretter svinge til høyre."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "og fortsett deretter rett fram."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "OK, her går vi."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "Tid for å dra av gårde."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "La oss gjøre dette."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Kjør forsiktig."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Klar til å kjøre."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "La oss gå."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "Tid for å få jobben gjort."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "Du har kommet til destinasjonen din. Ruteveiledningen er nå ferdig."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Her er vi, trygge og ved god helse."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "Endelig er vi her."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "Det er over nå."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "Dette er hvor det ender."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "Vi er ferdige."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "Det var en fin tur."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Omdirigering."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "Beregner på nytt."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "Finne ny rute."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "OK, la oss finne en ny rute."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Ikke tenk på det. Jeg finner en ny rute."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Når det er mulig, ta en U-sving."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Ta en U-sving."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Vennligst ta en U-sving når det er mulig."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Forsiktig, vennligst merk fartsgrensen."
+    }
+]
