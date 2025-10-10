@@ -36,7 +36,7 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices in Apple OS to truck simulator games. With **over 90 voices in 23 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 23 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
 **October 10**: 4.2 > **4.3**. This update brings **Norwegian Bokmål Siri voices** to the game.
 
@@ -44,17 +44,17 @@
 
 ## Introduction
 
-I'm a 17-year-old student, and this project is my first attempt on creating something like this. It's for learning and practice.
+I'm a high school student, and this is my first time creating something like this. It's for learning and practice.
 
-More languages and voices will be added in the future. If the language you speak or voice you prefer aren't available yet, feel free to **leave your requests**. Your suggestions might be implemented in just a few days!
+Thank you for using this mod! Feel free to **share your feedback** or **leave your request**. Your suggestion could be implemented in just a few days!
 
-Thank you for using this mod! If you like it, please consider leaving a star, contributing to its development, or [buy me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
+If you enjoy it, please consider voting or starring it, awarding it with your free Steam Points, or [buying me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
 
-To help improve this project, you can check out the development guide in the ["Let Me Help You!"](#let-me-help-you) section. You can also view the localized descriptions and the latest updates here.
+To contribute, please jump to the ["Let Me Help You!"](#let-me-help-you) section to check the guide and references. You can also view localized descriptions and the latest updates here.
 
 ## Voices [93+ Voices in 23+ Languages]
 
-Supports all 14 languages supported by the game.
+Supports all 14 languages the game supports.
 
 ### Available (93 in 23)
 
@@ -154,7 +154,7 @@ Supports all 14 languages supported by the game.
 
 ### Planned (0+ in 0+ New)
 
-- Your Requests...
+- Your Request...
 
 ## Compatibility
 
@@ -162,21 +162,11 @@ Supports all 14 languages supported by the game.
 
 ## Download
 
-<!-- > [!WARNING]
-> For the best experience, I recommend getting it by subscribing on **Workshop**. You can only download the **non-automatically updated** version on GitHub. This method is only recommended for users who don't own the games on Steam.  -->
-
-- **Workshop** (Recommended)
-    - [Apple Siri Voice Navigation for ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
-    - [Apple Siri Voice Navigation for ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- GitHub ([Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [Build from source](#build-from-source))
-- Nexus Mods
-    - [Apple Siri Voice Navigation for ETS2](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
-    - [Apple Siri Voice Navigation for ATS](https://www.nexusmods.com/americantrucksimulator/mods/77)
+- **Workshop** (Recommended): [ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712), [ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+- GitHub: [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [Build from source](#build-from-source)
+- Nexus Mods: [ETS2](https://www.nexusmods.com/eurotrucksimulator2/mods/173), [ATS](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ## Build from Source
-
-> [!Note]
-> You can create a copy of `scripts/config_default.ini` and rename it `config.ini` to configure the  script. It's allowed to modify `config_default.ini` directly, but it's not recommended.
 
 1. Install the following dependencies:
     - Git (Optional)
@@ -190,7 +180,7 @@ Supports all 14 languages supported by the game.
     cd apple-siri-voice-navigation
     python scripts/build.py
     ```
-1. The built standard mod will be in `build/standard`.
+1. The built standard mod will be located in `build/standard`.
 
 
 ## Usage
@@ -199,7 +189,7 @@ Supports all 14 languages supported by the game.
     - Windows
         - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
         - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
-    - macOS (Press **Shift-Command-G** to open a Go to Folder window)
+    - macOS (Press **Shift-Command-G** in Finder and then paste)
         - ETS2: `~/Library/Application Support/Euro Truck Simulator 2/mod`
         - ATS: `~/Library/Application Support/American Truck Simulator/mod`
     - Linux
@@ -208,11 +198,7 @@ Supports all 14 languages supported by the game.
 1. Click **Mods** on the title screen to open the mod manager.
 1. Double-click **Apple Siri Voice Navigation** to activate this mod.
 1. Open **Options**.
-1. Navigate to **Audio > Voice Navigation > Language and voice** and select a voice you like.
-
-<!-- ## Known Issues -->
-
-<!-- In 1.4, I rebuilt all 33 existing voices. Due to the change in the `voice_navigation_config`, users who subscribed before **January 24, 2025** will need to **re-select** their preferred voice in Options. -->
+1. Go to **Audio > Voice Navigation > Language and voice** and then select a voice you like.
 
 ---
 
@@ -224,76 +210,74 @@ Supports all 14 languages supported by the game.
 
 ### Apple Siri Voice Navigation
 
-- Apple Siri Voice Navigation for ETS2: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712), [Nexus Mods](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
-- Apple Siri Voice Navigation for ATS: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298), [Nexus Mods](https://www.nexusmods.com/americantrucksimulator/mods/77)
+[Workshop (ETS2)](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) | [Workshop (ATS)](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298) | [Nexus Mods (ETS2)](https://www.nexusmods.com/eurotrucksimulator2/mods/173) | [Nexus Mods (ATS)](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ### Apple Maps Navigation (Created by Lism)
 
-- Apple Maps Navigation for ETS2: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
-- Apple Maps Navigation for ATS: [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
+[Workshop (ETS2)](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601) | [Workshop (ATS)](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
 
 ### Apple SF Symbols UI (Under Development...)
 
-- Apple SF Symbols UI for ETS2
-- Apple SF Symbols UI for ATS
+GitHub
 
 ---
 
-## "I Want More Voices!"
+## If You Want More Voices...
 
-If you'd like to see more languages or voices added, please **leave your requests** here or on [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712). Supports **any language and voice** available in Apple OS, **not just Siri**.
+Please **leave your request** on any platform where this project is officially hosted. Supports **any voice in any language** available on Apple OS, **not just Siri**.
 
-## "Oh No! There's a Mistake!"
+## If You Find a Mistake...
 
-I don't speak all these languages. While I've done my best to ensure accuracy, there may still be mistakes. If you find any, please **leave word** in the comment section on [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) or on the [Issues](https://github.com/quinn0823/apple-siri-voice-navigation/issues) page, or make the correction **directly here**. Thank you!
+Please **leave a comment**, **create a new issue**, or directly **make a correction** on GitHub. Thank you!
 
-## "You Deserve an Award!"
+## If You Would Like to Support Me...
 
-In order to **stay energized** to work on this project after school, I appreciate you could buy me a coffee. Your coffee means the **world** to me! Giving it an award using your free Steam Points means the **"Eurasia"** to me!
+I would really appreciate you could buy me a coffee. Your coffee means the **world** to me! Awarding it with your free Steam Points means the **"Eurasia"** to me!
 
 <a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
-## "Let Me Help You!"
+## If You Want to Contribute...
 
-You can view all the files for this project here. You can edit the JSON file and create a pull request if you find any mistake. You can also create a copy of [template.json](template.json) to add support for another language.
+You can view all the files for this project here. For navigation commands, you can **edit** an existing JSON file or **create** a new one. Then, create a new pull request.
 
 
 ### File Structure
 
 ```
 apple-siri-voice-navigation
-├── build                    // Files built by 'build.*' (will not be uploaded to the repository)
-│   └── standard             // Standard mod
-│       └── apple-siri-voice-navigation.zip   // Refer to 'Usage' section
+├── * build                  // (Ignored) Files built by build scripts
+│   └── * standard           // (Ignored) Standard mod
+│       └── * apple-siri-voice-navigation.zip   // (Ignored) Refer to Usage section
 ├── docs
-│   ├── github               // Files for GitHub
+│   ├── github               // Documentation for GitHub
 │   │   ├── images
 │   │   └── readme
 │   │   └── release_notes
-│   ├── mod                  // Files for the mod in the game
+│   ├── mod                  // Documentation for Mod Manager in-game
 │   │   ├── descriptions
 │   │   └── images
-│   └── workshop             // Files for Workshop item
+│   └── workshop             // Documentation for Workshop
 │       ├── change_notes
 │       ├── descriptions
 │       └── images
 ├── navigation
-│   ├── build                // Banks and guids built by FMOD Studio, with SII files
-│   ├── commands             // Voice navigation commands
+│   ├── build                // Bank and guid files built by FMOD Studio, with SII files
+│   ├── commands             // Navigation commands
 │   │   ├── ...              // Commands for each language
-│   │   └── template.json    // Template for new languages
+│   │   └── template.json    // A template with no content
 │   └── projects             // FMOD Studio projects
-│       └── template.zip     // FMOD Studio project template
-└── scripts                  // Build scripts
-    ├── build.py             // Python
-    ├── config.ini           // User config file (will not be uploaded to the repository)
-    └── config_default.ini   // Default config file
+│       └── template.zip     // Navigation project template
+├── scripts                  // Scripts for building the mod
+│   ├── build.py             // Script in Python
+│   ├── * config.ini         // (Ignored) User config file
+│   └── config_default.ini   // Default config file
+└── LICENSE                  // The GNU General Public License v3.0 (GPL-3.0)
 ```
 
 ### Languages [23+ Languages from 43+ Countries]
 
 > [!TIP]
-> Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
+> Don't know the ISO 3166-1 (alpha-2) two-letter country code? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
 #### Available (23 from 43)
 
@@ -366,11 +350,11 @@ apple-siri-voice-navigation
 
 #### Planned (0+ New from 0+)
 
-- *All the languages in the plan list are available.*
+- *All languages in the plan list are available.*
 
-### Reference
+### Regular Expressions
 
-#### Update to the Latest Version Number
+#### Update the Version Number
 
 Search
 
@@ -384,12 +368,12 @@ Replace
 ${version_number}
 ```
 
-#### Remove Bold or Color Tags
+#### Remove Bold and Color Tags
 
 Search
 
 ``` regexp
-(\*{2}|\[\w+\])((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)(\*{2}|\[/?\w+\])
+(\*{2}|\[\w+\])((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)(\*{2}|\[/?\w+\])
 ```
 
 Replace
@@ -405,7 +389,7 @@ $2
     Search
 
     ``` regexp
-    - ((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
+    - ((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
     Replace
@@ -419,7 +403,7 @@ $2
     Search
 
     ``` regexp
-    \[\*\]((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
+    \[\*\]((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
     Replace
@@ -433,7 +417,7 @@ $2
     Search
 
     ``` regexp
-    \* ((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
+    \* ((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
     Replace
