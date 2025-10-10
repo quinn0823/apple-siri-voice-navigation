@@ -110,9 +110,9 @@ Supports all 14 languages supported by the games.
 - Italiano (Italia) - Siri (Voca 3)
 - Italiano (Italia) - Siri (Voca 4)
 - Magyar (Magyarország) - Tünde (prémium)
-- Netherlands (België) - Ellen (verbeterd)
-- Netherlands (Netherland) - Siri (Stem 1)
-- Netherlands (Netherland) - Siri (Stem 2)
+- Nederlands (België) - Ellen (verbeterd)
+- Nederlands (Nederland) - Siri (Stem 1)
+- Nederlands (Nederland) - Siri (Stem 2)
 - **Norsk Bokmål (Norge) - Siri (Stemme 1)**
 - **Norsk Bokmål (Norge) - Siri (Stemme 2)**
 - Polski (Polska) - Ewa (premium)
