@@ -50,7 +50,7 @@ Thank you for using this mod! Feel free to **share your feedback** or **leave yo
 
 If you enjoy it, please consider voting or starring it, awarding it with your free Steam Points, or [buying me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
 
-To contribute, please jump to the ["Let Me Help You!"](#let-me-help-you) section to check the guide and references. You can also view localized descriptions and the latest updates here.
+To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section to check the guide and references. You can also view localized descriptions and the latest updates here.
 
 ## Voices [93+ Voices in 23+ Languages]
 
