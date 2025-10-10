@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .nb.no_siri_1.pack {
+        pack_name: "Norsk Bokmål (Norge) - Siri (Stemme 1)"
+    }
+}
