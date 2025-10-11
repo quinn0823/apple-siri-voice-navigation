@@ -124,7 +124,7 @@ Supports all 14 languages supported by the game.
 [/list]
 [size=5][b]Usage[/b][/size]
 [list=1]
-[*]Move [b]apple-siri-voice-navigation.zip[/b] to the mod folder:
+[*]Move [b]apple-siri-voice-navigation.zip[/b] to the mods folder:
 [list]
 [*]Windows
 [list]

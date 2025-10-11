@@ -271,11 +271,11 @@ def build_mod():
     if workshop_path:
         print(f'Workshop mod built at: {workshop_path}')
     if standard_name:
-        usage = f'''1. Move {standard_name} to the mod folder:
+        usage = f'''1. Move {standard_name} to the mods folder:
     - Windows
         - ETS2: %UserProfile%\Documents\Euro Truck Simulator 2\mod
         - ATS: %UserProfile%\Documents\American Truck Simulator\mod
-    - macOS (Press Shift-Command-G to open a Go to Folder window)
+    - macOS (Press Shift-Command-G in Finder and then paste)
         - ETS2: ~/Library/Application Support/Euro Truck Simulator 2/mod
         - ATS: ~/Library/Application Support/American Truck Simulator/mod
     - Linux
@@ -284,7 +284,7 @@ def build_mod():
 1. Click Mods on the title screen to open the mod manager.
 2. Double-click Apple Siri Voice Navigation to activate this mod.
 3. Open Options.
-4. Navigate to Audio > Voice Navigation > Language and voice and select a voice you like.'''
+4. Go to Audio > Voice Navigation > Language and voice and then select a voice you like.'''
         print(f'Standard mod built at: {standard_path}\n\n{usage}')
 
 def main():
