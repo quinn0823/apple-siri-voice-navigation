@@ -13,7 +13,7 @@ This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-s
 [blue]1.43+[normal], compatible with both ETS2 and ATS.
 
 [orange]Usage[normal]
-1. Click [orange]Mods[normal] on the title screen to open the mod manager. (You're already here!)
+1. Click [orange]Mods[normal] on the title screen to open the mod manager. (You are already open! Close this window when proceeding to step 2.)
 2. Double-click [orange]Apple Siri Voice Navigation[normal] to activate this mod.
 3. Open [orange]Options[normal].
 4. Go to [orange]Audio - Voice Navigation - Language and voice[normal] and then select a voice you like.
