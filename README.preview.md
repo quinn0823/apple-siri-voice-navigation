@@ -204,10 +204,6 @@ Supports all 14 languages supported by the game.
 
 ## Apple Series
 
-<!-- - **Apple Siri Voice Navigation** for [ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) / [ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- **Apple Maps Navigation** (Created by Lism) for [ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601) / [ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
-- Apple SF Symbols UI (Under Development...) -->
-
 ### Apple Siri Voice Navigation
 
 [Workshop (ETS2)](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) | [Workshop (ATS)](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298) | [Nexus Mods (ETS2)](https://www.nexusmods.com/eurotrucksimulator2/mods/173) | [Nexus Mods (ATS)](https://www.nexusmods.com/americantrucksimulator/mods/77)
@@ -261,12 +257,12 @@ apple-siri-voice-navigation
 │       ├── descriptions
 │       └── images
 ├── navigation
-│   ├── build                // Bank and guid files built by FMOD Studio, with SII files
+│   ├── build                // BANK and GUID files built by FMOD Studio, with SII files
 │   ├── commands             // Navigation commands
-│   │   ├── ...              // Commands for each language
+│   │   ├── ...              // Commands in each language
 │   │   └── template.json    // A template with no content
 │   └── projects             // FMOD Studio projects
-│       └── template.zip     // Navigation project template
+│       └── template.zip     // Sound project template
 ├── scripts                  // Scripts for building the mod
 │   ├── build.py             // Script in Python
 │   ├── * config.ini         // (Ignored) User config file
@@ -400,7 +396,7 @@ $2
     - **$1**
     ```
 
-- **Workshop**
+- **Workshop (BBCode)**
 
     Search
 
