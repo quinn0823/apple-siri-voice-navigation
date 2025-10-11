@@ -150,7 +150,7 @@ GitHub
 Please [b]leave your request[/b] on any platform where this project is officially hosted. Supports [b]any voice in any language[/b] available in Apple OS, [b]not just Siri[/b].
 
 [h1]If You Find a Mistake...[/h1]
-Please [b]leave a comment[/b], [b]create a new issue[/b], or directly [b]make a correction on GitHub[/b]. I don't speak all of these languages. Although I try my best to ensure accuracy, there may still be mistakes. Thank you!
+Please [b]leave a comment[/b], [b]create a new issue[/b], or directly [b]make a correction on GitHub[/b]. I don't speak all of these languages. Although I try my best to ensure accuracy, there may still be mistakes.
 
 [h1]If You Would Like to Support Me...[/h1]
 I would really appreciate it if you could buy me a coffee. Your coffee means the [b]world[/b] to me! Awarding Steam Points means the [b]"Eurasia"[/b] to me!
