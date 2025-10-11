@@ -13,7 +13,7 @@
 该项目托管在 [url=https://github.com/quinn0823/apple-siri-voice-navigation]GitHub[/url] 上，你可以在此对其进行贡献。你还可以在那里查看本地化描述和最新更新。
 
 [h1]声音 [93+ Voices in 23+ Languages][/h1]
-支持游戏支持的所有14种语言。
+支持游戏支持的所有 14 种语言。
 
 [b]可用 (93 in 23)[/b]
 [list]

@@ -19,7 +19,7 @@
 4. 转到[orange]“音频”-“语音导航”-“语言和语音”[normal]，然后选择你喜欢的声音。
 
 [orange]声音 [93+ Voices in 23+ Languages][normal]
-支持游戏支持的所有14种语言。
+支持游戏支持的所有 14 种语言。
 [blue]可用 (93 in 23)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
