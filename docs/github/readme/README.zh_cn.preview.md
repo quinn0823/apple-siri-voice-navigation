@@ -420,13 +420,13 @@ $2
 
     替换
 
-    - Green (Added)
+    - Green（添加）
 
         ```
         * [green]$1[normal]
         ```
 
-    - Blue (Improved)
+    - Blue（改善）
 
         ```
         * [blue]$1[normal]
