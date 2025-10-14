@@ -444,7 +444,7 @@ $2
 
 Release Date: October 11, 2025 (4.3)
 
-Published Date (GitHub): October 11, 2025
+Published Date (GitHub): October 15, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 

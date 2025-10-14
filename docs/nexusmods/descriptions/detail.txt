@@ -171,7 +171,7 @@ You can view all the files for this project on [url=https://github.com/quinn0823
 
 
 Release Date: October 11, 2025 (4.3)
-Published Date (Nexus Mods): October 11, 2025
+Published Date (Nexus Mods): October 15, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
