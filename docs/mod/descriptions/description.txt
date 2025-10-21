@@ -124,12 +124,6 @@ Supports all 14 languages supported by the game.
 * Nexus Mods: ETS2/173, ATS/77
 
 
-[orange]Apple Series[normal]
-* [orange]Apple Siri Voice Navigation[normal]
-* Apple Maps Navigation (Created by Lism)
-* Apple SF Symbols UI (Under Development...)
-
-
 [orange]If You Want More Voices...[normal]
 Please [orange]leave your request[normal] on any platform where this project is officially hosted. Supports [orange]any voice in any language[normal] available in Apple OS, [orange]not just Siri[normal].
 

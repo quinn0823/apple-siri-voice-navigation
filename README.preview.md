@@ -202,22 +202,6 @@ Supports all 14 languages supported by the game.
 
 ---
 
-## Apple Series
-
-### Apple Siri Voice Navigation
-
-[Workshop (ETS2)](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) | [Workshop (ATS)](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298) | [Nexus Mods (ETS2)](https://www.nexusmods.com/eurotrucksimulator2/mods/173) | [Nexus Mods (ATS)](https://www.nexusmods.com/americantrucksimulator/mods/77)
-
-### Apple Maps Navigation (Created by Lism)
-
-[Workshop (ETS2)](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601) | [Workshop (ATS)](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
-
-### Apple SF Symbols UI (Under Development...)
-
-GitHub
-
----
-
 ## If You Want More Voices...
 
 Please **leave your request** on any platform where this project is officially hosted. Supports **any voice in any language** available in Apple OS, **not just Siri**.
@@ -442,7 +426,7 @@ $2
 
 Release Date: October 11, 2025 (4.3)
 
-Published Date (GitHub): October 15, 2025
+Published Date (GitHub): October 22, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 

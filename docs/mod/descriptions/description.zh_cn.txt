@@ -124,12 +124,6 @@
 * Nexus Mods：欧卡2/173，美卡/77
 
 
-[orange]Apple 系列[normal]
-* [orange]Apple Siri 语音导航[normal]
-* Apple Maps Navigation（由 Lism 创建）
-* Apple SF 符号用户界面（开发中…）
-
-
 [orange]如果你想要更多声音…[normal]
 请在本项目官方托管的任何平台上[orange]提交你的请求[normal]。支持 Apple OS 中可用的[orange]任何语言的任何声音[normal]，而[orange]不仅仅是 Siri[normal]。
 

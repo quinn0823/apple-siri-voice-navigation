@@ -202,22 +202,6 @@
 
 ---
 
-## Apple 系列
-
-### Apple Siri 语音导航
-
-[创意工坊（欧卡2）](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) | [创意工坊（美卡）](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298) | [Nexus Mods (ETS2)](https://www.nexusmods.com/eurotrucksimulator2/mods/173) | [Nexus Mods (ATS)](https://www.nexusmods.com/americantrucksimulator/mods/77)
-
-### Apple Maps Navigation（由 Lism 创建）
-
-[创意工坊（欧卡2）](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601) | [创意工坊（美卡）](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
-
-### Apple SF 符号用户界面（开发中…）
-
-GitHub
-
----
-
 ## 如果你想要更多声音…
 
 请在本项目官方托管的任何平台上**提交你的请求**。支持 Apple OS 中可用的**任何语言的任何声音**，而**不仅仅是 Siri**。
@@ -442,7 +426,7 @@ $2
 
 发行日期：2025 年 10 月 11 日 (4.3)
 
-发布日期（GitHub，简体中文）：2025 年 10 月 11 日
+发布日期（GitHub，简体中文）：2025 年 10 月 22 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 
