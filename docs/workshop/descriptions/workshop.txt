@@ -121,7 +121,7 @@ Supports all 14 languages supported by the game.
 
 [h1]Download[/h1]
 [list]
-[*][b]Workshop[/b] (Recommended)
+[*][b]Workshop[/b] (Recommended): [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]ETS2[/url], [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]ATS[/url]
 [*]GitHub: Releases / Build from source
 [*]Nexus Mods: ETS2/173, ATS/77
 [/list]

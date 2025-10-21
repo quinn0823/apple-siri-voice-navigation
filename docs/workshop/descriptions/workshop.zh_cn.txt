@@ -121,7 +121,7 @@
 
 [h1]下载[/h1]
 [list]
-[*][b]创意工坊[/b]（推荐）
+[*][b]创意工坊[/b]（推荐）：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]欧卡2[/url]，[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]美卡[/url]
 [*]GitHub：发行版 / 从源文件构建
 [*]Nexus Mods：欧卡2/173，美卡/77
 [/list]
