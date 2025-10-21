@@ -8,7 +8,7 @@ I am a high school student, and this is my first project of this kind, created f
 
 Thank you for using this mod! Feel free to [b]share your feedback[/b] or [b]leave your request[/b]. Your suggestion may be implemented within a few days!
 
-If you enjoy it, please consider voting or starring it, awarding it with Steam Points, or [url=https://buymeacoffee.com/jonathanchiu]buying me a coffee[/url] to support my "work".
+If you enjoy it, please consider voting or starring it, awarding it with Steam Points, or [url=https://buymeacoffee.com/jonathanchiu]buying me a coffee[/url] to support my "job".
 
 This project is hosted on [url=https://github.com/quinn0823/apple-siri-voice-navigation]GitHub[/url], where you can contribute to it. You can also view localized descriptions and the latest updates there.
 

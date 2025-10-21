@@ -8,7 +8,7 @@
 
 感谢你使用此模组！欢迎[b]分享你的反馈[/b]或[b]提交你的请求[/b]。你的建议可能会在几天内被采纳实现！
 
-如果你喜欢它，请考虑投票或给予星标，用 Steam 点数奖励它，或者 [url=https://buymeacoffee.com/jonathanchiu]buying me a coffee[/url] 支持我的“工作”。
+如果你喜欢它，请考虑投票或标星，用 Steam 点数奖励，或者 [url=https://buymeacoffee.com/jonathanchiu]buying me a coffee[/url] 以支持我的“工作”。
 
 该项目托管在 [url=https://github.com/quinn0823/apple-siri-voice-navigation]GitHub[/url] 上，你可以在此对其进行贡献。你还可以在那里查看本地化描述和最新更新。
 

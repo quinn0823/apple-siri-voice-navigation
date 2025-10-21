@@ -48,7 +48,7 @@
 
 感谢你使用此模组！欢迎**分享你的反馈**或**提交你的请求**。你的建议可能会在几天内被采纳实现！
 
-如果你喜欢它，请考虑投票或给予星标，用 Steam 点数奖励它，或者 [buying me a coffee](https://buymeacoffee.com/jonathanchiu) 支持我的“工作”。
+如果你喜欢它，请考虑投票或标星，用 Steam 点数奖励，或者 [buying me a coffee](https://buymeacoffee.com/jonathanchiu) 以支持我的“工作”。
 
 如要贡献，请跳转到“[如果你想贡献…](#如果你想贡献)”部分查看指南和参考资料。你还可以在这里查看本地化描述和最新更新。
 
