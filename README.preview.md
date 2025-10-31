@@ -330,11 +330,9 @@ apple-siri-voice-navigation
 
 #### Planned (0+ New from 0+)
 
-- *All planned languages are now available.*
+- *All planned languages are available.*
 
 ### Regular Expressions
-
-The following regular expressions are used for batch editing voice lists and formatting.
 
 #### Update the Version Number
 
