@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="欧洲卡车模拟2" src="https://img.shields.io/badge/%E6%AC%A7%E6%B4%B2%E5%8D%A1%E8%BD%A6%E6%A8%A1%E6%8B%9F2-%E8%AE%A2%E9%98%85-5c7e10?logo=steam&labelColor=yellow"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="欧洲卡车模拟 2" src="https://img.shields.io/badge/%E6%AC%A7%E6%B4%B2%E5%8D%A1%E8%BD%A6%E6%A8%A1%E6%8B%9F%202-%E8%AE%A2%E9%98%85-5c7e10?logo=steam&labelColor=yellow"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712?label=%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712?label=%E8%AE%A2%E9%98%85"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712?label=%E4%B8%8B%E8%BD%BD"></a>
