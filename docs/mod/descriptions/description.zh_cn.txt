@@ -131,7 +131,7 @@
 请[orange]留下评论[normal]、[orange]新建问题[normal]，或直接[orange]在 GitHub 上进行更正[normal]。我并不精通所有这些语言。尽管我尽力确保准确性，但仍可能存在错误。
 
 [orange]如果你想支持我…[normal]
-如果你能 buy me a coffee，我将不胜感激。你的咖啡对我来说就是[orange]整个世界[normal]！奖励 Steam 点数对我来说就是[orange]“欧亚大陆”[normal]！
+如果你能 buy me a coffee，我会非常感激。你的支持不仅可以用咖啡[orange]提供能量[normal]，还可以通过 Steam 点数[orange]为其加速[normal]！
 
 [orange]如果你想贡献…[normal]
 你可以在 GitHub 上查看此项目的所有文件，地址为 [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]。对于导航命令，你可以[orange]编辑[normal]现有的 JSON 文件或[orange]创建[normal]一个新的文件。然后，一个新的文件。然后，新建一个拉取请求。

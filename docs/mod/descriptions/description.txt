@@ -131,7 +131,7 @@ Please [orange]leave your request[normal] on any platform where this project is 
 Please [orange]leave a comment[normal], [orange]create a new issue[normal], or directly [orange]make a correction on GitHub[normal]. I don't speak all of these languages. Although I try my best to ensure accuracy, there may still be mistakes.
 
 [orange]If You Would Like to Support Me...[normal]
-I would really appreciate it if you could buy me a coffee. Your coffee means the [orange]world[normal] to me! Awarding Steam Points means [orange]"Eurasia"[normal] to me!
+I would really appreciate you could buy me a coffee. Your support can not only [orange]provide fuel[normal] with coffee but also [orange]supercharge it[normal] with Steam Points!
 
 [orange]If You Want to Contribute...[normal]
 You can view all the files for this project on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]. For navigation commands, you can [orange]edit[normal] an existing JSON file or [orange]create[normal] a new one. Then, create a new pull request.
