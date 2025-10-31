@@ -117,13 +117,13 @@
 [/list]
 
 [h1]兼容性[/h1]
-[b]1.43+[/b]，同时兼容欧卡2 和美卡。
+[b]1.43+[/b]，同时兼容欧卡 2 和美卡。
 
 [h1]下载[/h1]
 [list]
-[*][b]创意工坊[/b]（推荐）：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]欧卡2[/url]，[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]美卡[/url]
+[*][b]创意工坊[/b]（推荐）：[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712]欧卡 2[/url]，[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298]美卡[/url]
 [*]GitHub：发行版 / 从源文件构建
-[*]Nexus Mods：欧卡2/173，美卡/77
+[*]Nexus Mods：欧卡 2/173，美卡/77
 [/list]
 
 [h1]使用[/h1]

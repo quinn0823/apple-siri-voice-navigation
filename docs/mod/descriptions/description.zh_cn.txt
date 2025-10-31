@@ -10,7 +10,7 @@
 该项目托管在 GitHub 上，地址为 [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]，你可以在此对其进行贡献。你还可以在那里查看本地化描述和最新更新。
 
 [orange]兼容性[normal]
-[blue]1.43+[normal]，同时兼容欧卡2 和美卡。
+[blue]1.43+[normal]，同时兼容欧卡 2 和美卡。
 
 [orange]使用[normal]
 1. 在标题界面点击[orange]“模组”[normal]以打开模组管理器。（你已经打开了！在进行第 2 步时请关闭此窗口。）
@@ -121,7 +121,7 @@
 [orange]下载[normal]
 * [orange]创意工坊[normal]（推荐）
 * GitHub：发行版 / 从源文件构建
-* Nexus Mods：欧卡2/173，美卡/77
+* Nexus Mods：欧卡 2/173，美卡/77
 
 
 [orange]如果你想要更多声音…[normal]

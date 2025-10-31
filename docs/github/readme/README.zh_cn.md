@@ -158,13 +158,13 @@
 
 ## 兼容性
 
-**1.43+**，同时兼容欧卡2 和美卡。
+**1.43+**，同时兼容欧卡 2 和美卡。
 
 ## 下载
 
-- **创意工坊**（推荐）：[欧卡2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)，[美卡](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+- **创意工坊**（推荐）：[欧卡 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)，[美卡](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub：[发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [从源文件构建](#从源文件构建)
-- Nexus Mods：[欧卡2](https://www.nexusmods.com/eurotrucksimulator2/mods/173)，[美卡](https://www.nexusmods.com/americantrucksimulator/mods/77)
+- Nexus Mods：[欧卡 2](https://www.nexusmods.com/eurotrucksimulator2/mods/173)，[美卡](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ## 从源文件构建
 
@@ -187,13 +187,13 @@
 
 1. 将 **“apple-siri-voice-navigation.zip”** 移动到模组文件夹中：
     - Windows
-        - 欧卡2：`%UserProfile%\Documents\Euro Truck Simulator 2\mod`
+        - 欧卡 2：`%UserProfile%\Documents\Euro Truck Simulator 2\mod`
         - 美卡：`%UserProfile%\Documents\American Truck Simulator\mod`
     - macOS (在访达中按下 **Shift-Command-G**，然后粘贴)
-        - 欧卡2：`~/Library/Application Support/Euro Truck Simulator 2/mod`
+        - 欧卡 2：`~/Library/Application Support/Euro Truck Simulator 2/mod`
         - 美卡：`~/Library/Application Support/American Truck Simulator/mod`
     - Linux
-        - 欧卡2：`~/.local/share/Euro Truck Simulator 2/mod`
+        - 欧卡 2：`~/.local/share/Euro Truck Simulator 2/mod`
         - 美卡：`~/.local/share/American Truck Simulator/mod`
 1. 在标题界面点击 **“模组”** 以打开模组管理器。
 1. 双击 **“Apple Siri Voice Navigation”** 以启用此模组。
