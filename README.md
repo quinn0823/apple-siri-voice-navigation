@@ -46,15 +46,15 @@
 
 I am a high school student, and this is my first project of this kind, created for learning and practice.
 
-Thank you for using this mod! Feel free to **share your feedback** or **leave your request**. Your suggestion may be implemented in just a few days!
+Thank you for using this mod! Feel free to **share your feedback** or **leave your request**. Your suggestion may be implemented within a few days!
 
-If you enjoy it, please consider voting or starring it, awarding it with your free Steam Points, or [buying me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "work"!
+If you enjoy it, please consider voting or starring it, awarding it with Steam Points, or [buying me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "job".
 
 To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also view localized descriptions and the latest updates here.
 
 ## Voices [93+ Voices in 23+ Languages]
 
-Supports all 14 languages supported by the games.
+Supports all 14 languages supported by the game.
 
 ### Available (93 in 23)
 
@@ -185,7 +185,7 @@ Supports all 14 languages supported by the games.
 
 ## Usage
 
-1. Move **apple-siri-voice-navigation.zip** to the mod folder:
+1. Move **apple-siri-voice-navigation.zip** to the mods folder:
     - Windows
         - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
         - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
@@ -202,37 +202,17 @@ Supports all 14 languages supported by the games.
 
 ---
 
-## Apple Series
-
-<!-- - **Apple Siri Voice Navigation** for [ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) / [ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- **Apple Maps Navigation** (Created by Lism) for [ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601) / [ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
-- Apple SF Symbols UI (Under Development...) -->
-
-### Apple Siri Voice Navigation
-
-[Workshop (ETS2)](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) | [Workshop (ATS)](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298) | [Nexus Mods (ETS2)](https://www.nexusmods.com/eurotrucksimulator2/mods/173) | [Nexus Mods (ATS)](https://www.nexusmods.com/americantrucksimulator/mods/77)
-
-### Apple Maps Navigation (Created by Lism)
-
-[Workshop (ETS2)](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601) | [Workshop (ATS)](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
-
-### Apple SF Symbols UI (Under Development...)
-
-GitHub
-
----
-
 ## If You Want More Voices...
 
 Please **leave your request** on any platform where this project is officially hosted. Supports **any voice in any language** available on Apple OS, **not just Siri**.
 
 ## If You Find a Mistake...
 
-Please **leave a comment**, **create a new issue**, or directly **make a correction** here. Thank you!
+Please **leave a comment**, **create a new issue**, or directly **make a correction here**. I don't speak all of these languages. Although I try my best to ensure accuracy, there may still be mistakes.
 
 ## If You Would Like to Support Me...
 
-I would really appreciate it if you could buy me a coffee. Your coffee means the **world** to me! Awarding it with your free Steam Points means **"Eurasia"** to me!
+I would really appreciate you could buy me a coffee. Your support can not only **provide fuel** with coffee but also **supercharge it** with Steam Points!
 
 <a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
@@ -251,7 +231,7 @@ apple-siri-voice-navigation
 ├── docs
 │   ├── github               // Documentation for GitHub
 │   │   ├── images
-│   │   └── readme
+│   │   ├── readme
 │   │   └── release_notes
 │   ├── mod                  // Documentation for Mod Manager in-game
 │   │   ├── descriptions
@@ -261,12 +241,12 @@ apple-siri-voice-navigation
 │       ├── descriptions
 │       └── images
 ├── navigation
-│   ├── build                // Bank and guid files built by FMOD Studio, with SII files
+│   ├── build                // BANK and GUID files built by FMOD Studio, with SII files
 │   ├── commands             // Navigation commands
-│   │   ├── ...              // Commands for each language
+│   │   ├── ...              // Commands in each language
 │   │   └── template.json    // A template with no content
 │   └── projects             // FMOD Studio projects
-│       └── template.zip     // Navigation project template
+│       └── template.zip     // Sound project template
 ├── scripts                  // Scripts for building the mod
 │   ├── build.py             // Script in Python
 │   ├── * config.ini         // (Ignored) User config file
@@ -277,7 +257,7 @@ apple-siri-voice-navigation
 ### Languages [23+ Languages from 43+ Countries]
 
 > [!TIP]
-> Don't know the ISO 3166-1 (alpha-2) two-letter country code? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
+> Don't know the ISO 3166-1 (alpha-2) two-letter country codes? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
 #### Available (23 from 43)
 
@@ -350,7 +330,7 @@ apple-siri-voice-navigation
 
 #### Planned (0+ New from 0+)
 
-- *All languages in the plan list are available.*
+- *All planned languages are available.*
 
 ### Regular Expressions
 
@@ -398,7 +378,7 @@ $2
     - **$1**
     ```
 
-- **Workshop**
+- **Workshop (BBCode)**
 
     Search
 
@@ -444,7 +424,7 @@ $2
 
 Release Date: October 11, 2025 (4.3)
 
-Published Date (GitHub): October 15, 2025
+Published Date (GitHub): October 31, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 

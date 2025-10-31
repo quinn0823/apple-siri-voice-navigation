@@ -36,27 +36,27 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298?label=%E6%94%B6%E8%97%8F"></a>
 </p>
 
-**与 Siri 一起体验旅途！** Apple Siri 语音导航将 Apple OS 里标志性的声音带到卡车模拟游戏中。有 **23 种语言的 90 多种声音**可供选择，Siri 在这里为你的货运冒险提供指引，让你的旅程更加愉快和难忘。
+**与 Siri 一起体验道路！** Apple Siri 语音导航将 Apple OS 中的标志性声音带入卡车模拟游戏。有 **23 种语言的 90 多种声音**可供选择，Siri 将为你的卡车冒险提供指引，让你的旅程更加愉快和难忘。
 
-**10 月 11 日**：4.2 > **4.3**。此更新为游戏带来了**书面挪威语 Siri 声音**。
+**10 月 11 日 (4.3)**：此更新为游戏带来了**书面挪威语的 Siri 声音**。
 
 ---
 
 ## 介绍
 
-我是一个 17 岁的学生，这个项目是我第一次尝试创造这样的东西。它是用来学习和练习的。
+我是一名高中生，这是我第一个此类型的项目，旨在学习和实践。
 
-更多的语言和声音将在未来添加。如果你说的语言或者你喜欢的声音还不可用，请随意地**留下你的请求**。你的建议可能会在短短几天内实现！
+感谢你使用此模组！欢迎**分享你的反馈**或**提交你的请求**。你的建议可能会在几天内被采纳实现！
 
-感谢你使用这个模组！如果你喜欢它，请考虑留下一颗星、为它的发展做出贡献，或者 [buy me a coffee](https://buymeacoffee.com/jonathanchiu) 来支持我的“工作”！
+如果你喜欢它，请考虑投票或标星，用 Steam 点数奖励，或者 [buying me a coffee](https://buymeacoffee.com/jonathanchiu) 以支持我的“工作”。
 
-要帮助改进这个项目，你可以在[“让我帮你！”](#让我帮你)部分查看开发指南。你还可以在这里查看本地化的描述以及最新的更新内容。
+如要贡献，请跳转到“[如果你想贡献…](#如果你想贡献)”部分查看指南和参考资料。你还可以在这里查看本地化描述和最新更新。
 
-## Voices [93+ Voices in 23+ Languages]
+## 声音 [93+ Voices in 23+ Languages]
 
-Supports all 14 languages supported by the game.
+支持游戏支持的所有 14 种语言。
 
-### Available (93 in 23)
+### 可用 (93 in 23)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -152,31 +152,21 @@ Supports all 14 languages supported by the game.
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
 
-### Planned (0+ in 0+ New)
+### 计划的 (0+ in 0+ New)
 
-- Your Requests...
+- 你的请求…
 
 ## 兼容性
 
-**1.43+**，同时支持欧卡2 和美卡。
+**1.43+**，同时兼容欧卡2 和美卡。
 
 ## 下载
 
-<!-- > [!WARNING]
-> 为了获得最佳体验，我建议通过在**创意工坊**订阅获得它。你只能在 GitHub 上下载**非自动更新**的版本。这种方法只推荐给没有在 Steam 上拥有游戏的用户。 -->
-
-- **创意工坊**（推荐）
-    - [适用于欧卡2 的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)
-    - [适用于美卡的 Apple Siri 语音导航](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
-- GitHub（[发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [从源文件构建](#从源文件构建)）
-- Nexus Mods
-    - [适用于欧卡2 的 Apple Siri 语音导航](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
-    - [适用于美卡的 Apple Siri 语音导航](https://www.nexusmods.com/americantrucksimulator/mods/77)
+- **创意工坊**（推荐）：[欧卡2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)，[美卡](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
+- GitHub：[发行版](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [从源文件构建](#从源文件构建)
+- Nexus Mods：[欧卡2](https://www.nexusmods.com/eurotrucksimulator2/mods/173)，[美卡](https://www.nexusmods.com/americantrucksimulator/mods/77)
 
 ## 从源文件构建
-
-> [!Note]
-> 你可以创建一个 `scripts/config_default.ini` 的副本，并将其重命名为 `config.ini` 来配置脚本。允许直接修改 `config_default.ini`，但不建议这样做。
 
 1. 安装以下依赖项：
     - Git（可选）
@@ -185,123 +175,98 @@ Supports all 14 languages supported by the game.
     ```
     git clone https://github.com/quinn0823/apple-siri-voice-navigation
     ```
-1. 将目录更改为源文件夹并运行构建脚本。
+1. 切换到源文件夹并运行构建脚本。
     ```
     cd apple-siri-voice-navigation
     python scripts/build.py
     ```
-1. 构建的标准模组将在 `build/standard` 中。
+1. 构建的标准模组将位于 `build/standard`。
 
 
 ## 使用
 
-1. 移动 **“apple-siri-voice-navigation.zip”** 到模组文件夹：
+1. 将 **“apple-siri-voice-navigation.zip”** 移动到模组文件夹中：
     - Windows
-        - ETS2：`%UserProfile%\Documents\Euro Truck Simulator 2\mod`
-        - ATS：`%UserProfile%\Documents\American Truck Simulator\mod`
-    - macOS（按下 **Shift-Command-G** 打开“前往文件夹”窗口。）
-        - ETS2：`~/Library/Application Support/Euro Truck Simulator 2/mod`
-        - ATS：`~/Library/Application Support/American Truck Simulator/mod`
+        - 欧卡2：`%UserProfile%\Documents\Euro Truck Simulator 2\mod`
+        - 美卡：`%UserProfile%\Documents\American Truck Simulator\mod`
+    - macOS (在访达中按下 **Shift-Command-G**，然后粘贴)
+        - 欧卡2：`~/Library/Application Support/Euro Truck Simulator 2/mod`
+        - 美卡：`~/Library/Application Support/American Truck Simulator/mod`
     - Linux
-        - ETS2：`~/.local/share/Euro Truck Simulator 2/mod`
-        - ATS：`~/.local/share/American Truck Simulator/mod`
-1. 在标题界面点击 **“模组”** 来打开模组管理器。
-1. 双击 **“Apple Siri Voice Navigation”** 来启用这个模组。
+        - 欧卡2：`~/.local/share/Euro Truck Simulator 2/mod`
+        - 美卡：`~/.local/share/American Truck Simulator/mod`
+1. 在标题界面点击 **“模组”** 以打开模组管理器。
+1. 双击 **“Apple Siri Voice Navigation”** 以启用此模组。
 1. 打开 **“选项”**。
-1. 导航到 **“音频”>“语音导航”>“语言和语音”** 并选择一个你喜欢的声音。
-
-<!-- ## Known Issues -->
-
-<!-- In 1.4, I rebuilt all 33 existing voices. Due to the change in the `voice_navigation_config`, users who subscribed before **January 24, 2025** will need to **re-select** their preferred voice in Options. -->
+1. 转到 **“音频”>“语音导航”>“语言和语音”**，然后选择你喜欢的声音。
 
 ---
 
-## Apple 系列
+## 如果你想要更多声音…
 
-<!-- - 适用于 [欧卡2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712) / [美卡](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)的 **Apple Siri 语音导航**
-- 适用于 [欧卡2](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601) / [美卡](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)的 **Apple Maps Navigation**（由 Lism 创建）
-- Apple SF 符号用户界面（正在开发…） -->
+请在本项目官方托管的任何平台上**提交你的请求**。支持 Apple OS 上可用的**任何语言的任何声音**，而**不仅仅是 Siri**。
 
-### Apple Siri 语音导航
+## 如果你发现错误…
 
-- 适用于欧卡2 的 Apple Siri 语音导航：[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)，[Nexus Mods](https://www.nexusmods.com/eurotrucksimulator2/mods/173)
-- 适用于美卡的 Apple Siri 语音导航：[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)，[Nexus Mods](https://www.nexusmods.com/americantrucksimulator/mods/77)
+请**留下评论**、**新建问题**，或直接**在此进行更正**。我并不精通所有这些语言。尽管我尽力确保准确性，但仍可能存在错误。
 
-### Apple Maps Navigation（由 Lism 创建）
+## 如果你想支持我…
 
-- 适用于欧卡2 的 Apple Maps Navigation：[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2883949601)
-- 适用于美卡的 Apple Maps Navigation：[Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2878551912)
-
-### Apple SF 符号用户界面（正在开发…）
-
-- 适用于欧卡2 的 Apple SF 符号用户界面
-- 适用于美卡的 Apple SF 符号用户界面
-
----
-
-## “我要更多的声音！”
-
-如果你想看到更多的语言或声音被添加，请在这里或[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)**留下你的请求**。支持 Apple OS 里的**任何语言和声音**，**不仅仅是 Siri**。
-
-## “哦，不！搞错了！”
-
-我不会说所有这些语言。虽然我已经尽力确保准确，但还是可能会有错误。如果你发现了任何问题，请在[创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712)的留言区或 Issues 页面**留言**，或者**直接在这里**更正。谢谢！
-
-## “你应得奖励！”
-
-为了在放学后**保持精力**以致力于这个项目，我很感激你能 buy me a coffee。你的咖啡对我来说就是**整个世界**！用你免费的 Steam 点数奖励这个项目对我来说就是 **“欧亚大陆”**！
+如果你能 buy me a coffee，我会非常感激。你的支持不仅可以用咖啡**提供能量**，还可以通过 Steam 点数**为其加速**！
 
 <a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
 
-## “让我帮你！”
+## 如果你想贡献…
 
-在这里你可以查看为这个项目的所有文件。你可以编辑 JSON 文件并创建一个拉取请求，如果你发现任何错误。你还可以创建一个 [template.json](template.json) 的副本来添加对另一种语言的支持。
+你可以在此查看此项目的所有文件。对于导航命令，你可以**编辑**现有的 JSON 文件或**创建**一个新的文件。然后，新建一个拉取请求。
+
 
 ### 文件结构
 
 ```
 apple-siri-voice-navigation
-├── build                    // 由 'build.*' 构建的文件（不会上传到存储库）
-│   └── standard             // 标准模组
-│       └── apple-siri-voice-navigation.zip   // 参阅“使用”部分
+├── * build                  // （已忽略）由构建脚本生成的文件
+│   └── * standard           // （已忽略）标准模组
+│       └── * apple-siri-voice-navigation.zip   // （已忽略）参阅“使用”部分
 ├── docs
-│   ├── github               // 用于 GitHub 的文件
+│   ├── github               // GitHub 文档
 │   │   ├── images
-│   │   └── readme
+│   │   ├── readme
 │   │   └── release_notes
-│   ├── mod                  // 用于在游戏中的模组的文件
+│   ├── mod                  // 游戏内模组管理器文档
 │   │   ├── descriptions
 │   │   └── images
-│   └── workshop             // 用于创意工坊物品的文件
+│   └── workshop             // 创意工坊文档
 │       ├── change_notes
 │       ├── descriptions
 │       └── images
 ├── navigation
-│   ├── build                // 由 FMOD Studio 构建的 bank 和 guids，以及 SII 文件
-│   ├── commands             // 语音导航命令
-│   │   ├── ...              // 各种语言的命令
-│   │   └── template.json    // 新语言模板
+│   ├── build                // 由 FMOD Studio 构建的 BANK 和 GUID 文件，以及 SII 文件
+│   ├── commands             // 导航命令
+│   │   ├── ...              // 每种语言的命令
+│   │   └── template.json    // 一个没有内容的模板
 │   └── projects             // FMOD Studio 项目
-│       └── template.zip     // FMOD Studio 项目模板
-└── scripts                  // 构建脚本
-    ├── build.py             // Python
-    ├── config.ini           // 用户配置文件（不会上传到存储库）
-    └── config_default.ini   // 默认配置文件
+│       └── template.zip     // 声音项目模板
+├── scripts                  // 构建模组的脚本
+│   ├── build.py             // Python 脚本
+│   ├── * config.ini         // （已忽略）用户配置文件
+│   └── config_default.ini   // 默认配置文件
+└── LICENSE                  // The GNU General Public License v3.0 (GPL-3.0)
 ```
 
-### Languages [23+ Languages from 43+ Countries]
+### 语言 [23+ Languages from 43+ Countries]
 
 > [!TIP]
-> Don't know the ISO 3166-1 (alpha-2) two-letter country code? Go to [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
+> 不知道 ISO 3166-1 (alpha-2) 二位字母国家代码？访问 [Microsoft](https://www.microsoft.com) 并选择你的语言：`https://www.microsoft.com/zh-cn/` > `chinese_cn.json`。
 
-#### Available (23 from 43)
+#### 可用 (23 from 43)
 
 - chinese
     - chinese_cn
-    - chinese_cnsn (Shaanxi)
-    - chinese_cnln (Liaoning)
-    - chinese_cnsc (Sichuan)
-    - chinese_cnsh (Shanghai)
+    - chinese_cnsn（陕西）
+    - chinese_cnln（辽宁）
+    - chinese_cnsc（四川）
+    - chinese_cnsh（上海）
     - chinese_tw
     - chinese_hk
 - czech
@@ -314,7 +279,7 @@ apple-siri-voice-navigation
 - english
     - english_au
     - english_gb
-    - english_gbsc (Scotland)
+    - english_gbsc（苏格兰）
     - english_ie
     - english_in
     - english_us
@@ -337,7 +302,7 @@ apple-siri-voice-navigation
     - japanese_jp
 - korean
     - korean_kr
-- nb (Norwegian Bokmål)
+- nb（书面挪威语）
     - nb_no
 - polish
     - polish_pl
@@ -363,87 +328,87 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Planned (0+ New from 0+)
+#### 计划的 (0+ New from 0+)
 
-- *All the languages in the plan list are available.*
+- *所有计划语言均已推出。*
 
-### Reference
+### 正则表达式
 
-#### Update to the Latest Version Number
+#### 更新版本号
 
-Search
+搜索
 
 ``` regexp
 (?<=\(|\*{2}|\])\d+\.\d+(\.\d+)?(?=\)|\*{2}|\[)
 ```
 
-Replace
+替换
 
 ```
 ${version_number}
 ```
 
-#### Remove Bold or Color Tags
+#### 移除粗体和颜色标签
 
-Search
+搜索
 
 ``` regexp
-(\*{2}|\[\w+\])((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)(\*{2}|\[/?\w+\])
+(\*{2}|\[\w+\])((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)(\*{2}|\[/?\w+\])
 ```
 
-Replace
+替换
 
 ```
 $2
 ```
 
-#### Add Bold or Color Tags
+#### 添加粗体或颜色标签
 
 - **GitHub**
 
-    Search
+    搜索
 
     ``` regexp
-    - ((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
+    - ((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
-    Replace
+    替换
 
     ```
     - **$1**
     ```
 
-- **Workshop**
+- **创意工坊 (BBCode)**
 
-    Search
+    搜索
 
     ``` regexp
-    \[\*\]((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
+    \[\*\]((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
-    Replace
+    替换
 
     ```
     [*][b]$1[/b]
     ```
 
-- **Mod**
+- **模组**
 
-    Search
+    搜索
 
     ``` regexp
-    \* ((\S+) ?\S(台灣)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
+    \* ((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
-    Replace
+    替换
 
-    - Green (Added)
+    - Green（添加）
 
         ```
         * [green]$1[normal]
         ```
 
-    - Blue (Improved)
+    - Blue（改善）
 
         ```
         * [blue]$1[normal]
@@ -459,7 +424,7 @@ $2
 
 发行日期：2025 年 10 月 11 日 (4.3)
 
-发布日期（GitHub，简体中文）：2025 年 10 月 11 日
+发布日期（GitHub，简体中文）：2025 年 10 月 31 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 
