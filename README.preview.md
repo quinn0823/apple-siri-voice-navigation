@@ -204,7 +204,7 @@ Supports all 14 languages supported by the game.
 
 ## If You Want More Voices...
 
-Please **leave your request** on any platform where this project is officially hosted. Supports **any voice in any language** available in Apple OS, **not just Siri**.
+Please **leave your request** on any platform where this project is officially hosted. Supports **any voice in any language** available on Apple OS, **not just Siri**.
 
 ## If You Find a Mistake...
 
@@ -426,7 +426,7 @@ $2
 
 Release Date: October 11, 2025 (4.3)
 
-Published Date (GitHub): October 22, 2025
+Published Date (GitHub): October 31, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 

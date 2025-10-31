@@ -145,7 +145,7 @@ Supports all 14 languages supported by the game.
 [/list]
 
 [size=5][b]If You Want More Voices...[/b][/size]
-Please [b]leave your request[/b] on any platform where this project is officially hosted. Supports [b]any voice in any language[/b] available in Apple OS, [b]not just Siri[/b].
+Please [b]leave your request[/b] on any platform where this project is officially hosted. Supports [b]any voice in any language[/b] available on Apple OS, [b]not just Siri[/b].
 
 [size=5][b]If You Find a Mistake...[/b][/size]
 Please [b]leave a comment[/b], [b]create a new issue[/b], or directly [b]make a correction on GitHub[/b]. I don't speak all of these languages. Although I try my best to ensure accuracy, there may still be mistakes.
@@ -160,7 +160,7 @@ You can view all the files for this project on [url=https://github.com/quinn0823
 
 
 Release Date: October 11, 2025 (4.3)
-Published Date (Nexus Mods): October 22, 2025
+Published Date (Nexus Mods): October 31, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu
