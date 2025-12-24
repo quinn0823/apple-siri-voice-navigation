@@ -173,7 +173,7 @@
     - [Python 3.6+](https://www.python.org/downloads/)
 1. 克隆存储库或下载源文件。
     ```
-    git clone https://github.com/quinn0823/apple-siri-voice-navigation
+    git clone https://github.com/quinn0823/apple-siri-voice-navigation.git
     ```
 1. 切换到源文件夹并运行构建脚本。
     ```
@@ -424,7 +424,7 @@ $2
 
 发行日期：2025 年 10 月 11 日 (4.3)
 
-发布日期（GitHub，简体中文）：2025 年 10 月 31 日
+发布日期（GitHub，简体中文）：2025 年 12 月 24 日
 
 The GNU General Public License v3.0 (GPL-3.0)
 

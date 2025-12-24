@@ -173,7 +173,7 @@ Supports all 14 languages supported by the game.
     - [Python 3.6+](https://www.python.org/downloads/)
 1. Clone the repository or download the source.
     ```
-    git clone https://github.com/quinn0823/apple-siri-voice-navigation
+    git clone https://github.com/quinn0823/apple-siri-voice-navigation.git
     ```
 1. Change directory to the source folder and run the build script.
     ```
@@ -424,7 +424,7 @@ $2
 
 Release Date: October 11, 2025 (4.3)
 
-Published Date (GitHub): October 31, 2025
+Published Date (GitHub): November 24, 2025
 
 The GNU General Public License v3.0 (GPL-3.0)
 
