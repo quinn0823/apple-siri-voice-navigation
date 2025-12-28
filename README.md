@@ -185,7 +185,7 @@ Supports all 14 languages supported by the game.
 
 ## Usage
 
-1. Move **apple-siri-voice-navigation.zip** to the mods folder:
+1. Move **apple-siri-voice-navigation.zip** to the mod folder:
     - Windows
         - ETS2: `%UserProfile%\Documents\Euro Truck Simulator 2\mod`
         - ATS: `%UserProfile%\Documents\American Truck Simulator\mod`
