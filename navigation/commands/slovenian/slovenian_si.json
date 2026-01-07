@@ -10,11 +10,11 @@
     },
     {
         "File prefix": "keep_left",
-        "Command": "Držite se leve."
+        "Command": "Držite se levo."
     },
     {
         "File prefix": "keep_right",
-        "Command": "Držite se desne."
+        "Command": "Držite se desno."
     },
     {
         "File prefix": "exit_left",
@@ -82,11 +82,11 @@
     },
     {
         "File prefix": "compound_keep_left",
-        "Command": "Držite se leve,"
+        "Command": "Držite se levo,"
     },
     {
         "File prefix": "compound_keep_right",
-        "Command": "Drži se desne,"
+        "Command": "Držite se desno,"
     },
     {
         "File prefix": "compound_exit_left",
@@ -110,19 +110,19 @@
     },
     {
         "File prefix": "and_then_keep_left",
-        "Command": "in nato držite se leve."
+        "Command": "in nato držite se levo."
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": "in nato držite se desne."
+        "Command": "in nato držite se desno."
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": "in nato zavijte levo."
+        "Command": "in nato izstopite levo."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": "in nato izhod desno."
+        "Command": "in nato izstopite desno."
     },
     {
         "File prefix": "and_then_go_straight",
