@@ -138,7 +138,7 @@ I would really appreciate you could buy me a coffee. Your support can not only [
 You can view all the files for this project on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]. For navigation commands, you can [orange]edit[normal] an existing JSON file or [orange]create[normal] a new one. Then, create a new pull request.
 
 
-Release Date: October 11, 2025 (4.3)
+Release Date: January 07, 2026 (4.4)
 
 The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025 Jonathan Chiu

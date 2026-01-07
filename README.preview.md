@@ -423,7 +423,7 @@ $2
 
 ---
 
-Release Date: October 11, 2025 (4.3)
+Release Date: January 07, 2026 (4.4)
 
 Published Date (GitHub): January 07, 2026
 
