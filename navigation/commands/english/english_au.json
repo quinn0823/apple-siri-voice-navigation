@@ -1,6 +1,6 @@
 [
     {
-        "$comment": "This language is not officially supported by the game; it's a mirror of ./english_uk.json.",
+        "$comment": "This language is not officially supported by the game; it's a mirror of ./english_gb.json.",
         "File prefix": "turn_left",
         "Command": "Turn left."
     },
