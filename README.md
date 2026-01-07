@@ -50,7 +50,7 @@ If you enjoy it, please consider voting or starring it, awarding it with Steam P
 
 To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also view localized descriptions and the latest updates here.
 
-## Voices [93+ Voices in 23+ Languages]
+## Voices [94+ Voices in 24+ Languages]
 
 Supports all 14 languages supported by the game.
 
@@ -150,8 +150,9 @@ Supports all 14 languages supported by the game.
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
 
-### Planned (0+ in 0+ New)
+### Planned (1+ in 1+ New)
 
+- Slovenščina (Slovenija) - Tina (izboljšano)
 - Your Request...
 
 ## Compatibility
@@ -252,7 +253,7 @@ apple-siri-voice-navigation
 └── LICENSE                  // The GNU General Public License v3.0 (GPL-3.0)
 ```
 
-### Languages [23+ Languages from 43+ Countries]
+### Languages [24+ Languages from 44+ Countries]
 
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country codes? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
@@ -326,9 +327,11 @@ apple-siri-voice-navigation
 - turkish
     - turkish_tr
 
-#### Planned (0+ New from 0+)
+#### Planned (1+ New from 1+)
 
-- *All planned languages are available.*
+- slovenian
+    - slovenian_si
+<!-- - *All planned languages are available.* -->
 
 ### Regular Expressions
 
