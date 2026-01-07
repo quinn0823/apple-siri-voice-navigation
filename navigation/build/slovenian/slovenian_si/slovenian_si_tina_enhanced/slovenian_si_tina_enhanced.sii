@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .slovenian.si_tina_en.pack {
+        pack_name: "Slovenščina (Slovenija) - Tina (izboljšano)"
+    }
+}
