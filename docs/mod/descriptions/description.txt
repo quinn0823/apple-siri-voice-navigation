@@ -18,9 +18,9 @@ This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-s
 3. Open [orange]Options[normal].
 4. Go to [orange]Audio - Voice Navigation - Language and voice[normal] and then select a voice you like.
 
-[orange]Voices [93+ Voices in 23+ Languages][normal]
+[orange]Voices [94+ Voices in 24+ Languages][normal]
 Supports all 14 languages supported by the game.
-[blue]Available (93 in 23)[normal]
+[blue]Available (94 in 24)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * Dansk (Danmark) - Siri (Stemme 1)
@@ -88,8 +88,9 @@ Supports all 14 languages supported by the game.
 * Português (Portugal) - Joaquim (melhorada)
 * Română (România) - Ioana (îmbunătațită)
 * Slovenčina (Slovensko) - Laura (vylepšený)
-* [blue]Svenska (Sverige) - Siri (Röst 1)[normal]
-* [blue]Svenska (Sverige) - Siri (Röst 2)[normal]
+* [green]Slovenščina (Slovenija) - Tina (izboljšano)[normal]
+* Svenska (Sverige) - Siri (Röst 1)
+* Svenska (Sverige) - Siri (Röst 2)
 * Thai (Thailand) - Siri (Voice 1)
 * Thai (Thailand) - Siri (Voice 2)
 * Türkçe (Türkiye) - Siri (Ses 1)

@@ -54,7 +54,7 @@ To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to
 
 Supports all 14 languages supported by the game.
 
-### Available (93 in 23)
+### Available (94 in 24)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -123,8 +123,9 @@ Supports all 14 languages supported by the game.
 - Português (Portugal) - Joaquim (melhorada)
 - Română (România) - Ioana (îmbunătațită)
 - Slovenčina (Slovensko) - Laura (vylepšený)
-- **Svenska (Sverige) - Siri (Röst 1)**
-- **Svenska (Sverige) - Siri (Röst 2)**
+- **Slovenščina (Slovenija) - Tina (izboljšano)**
+- Svenska (Sverige) - Siri (Röst 1)
+- Svenska (Sverige) - Siri (Röst 2)
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
@@ -150,9 +151,8 @@ Supports all 14 languages supported by the game.
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
 
-### Planned (1+ in 1+ New)
+### Planned (0+ in 0+ New)
 
-- Slovenščina (Slovenija) - Tina (izboljšano)
 - Your Request...
 
 ## Compatibility
