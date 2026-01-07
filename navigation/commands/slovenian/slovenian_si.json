@@ -1,0 +1,227 @@
+[
+    {
+        "$comment": "This language is not officially supported by the game; it's a translation of ../english/english_gb.json, optimized by GPT.",
+        "File prefix": "turn_left",
+        "Command": "Zavijte levo."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "Zavijte desno."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "Držite se leve."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "Držite se desne."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "Izhod levo."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "Izhod desno."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "Pojdi naravnost naprej."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "Na krožišču zavijte na prvi izvoz."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "Na krožišču zavijte na drugi izvoz."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "Na krožišču zavijte na tretji izvoz."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "Na krožišču zavijte na četrti izvoz."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "Na krožišču zavijte na peti izvoz."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "Na krožišču zavijte na šesti izvoz."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "Izhod zdaj."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "Pripravite se na zavijanje levo."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "Pripravite se na zavijanje desno."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "Pripravite se na izhod levo."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "Pripravite se na izhod desno."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "Zavijte levo,"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "Zavijte desno,"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "Držite se leve,"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "Drži se desne,"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "Izhod levo,"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "Izhod desno,"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "Pojdi naravnost naprej,"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "in nato zavijte levo."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "in nato zavijte desno."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "in nato držite se leve."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "in nato držite se desne."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "in nato zavijte levo."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "in nato izhod desno."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "in nato nadaljujte naravnost."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "V redu, pa začnimo."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "Čas je za pot."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "Naredimo to."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "Vozite varno."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "Pripravljen za kotaljenje."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "Gremo."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "Čas je, da opravimo delo."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "Prispeli ste na cilj. Vodenje po poti je zdaj končano."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "Tukaj smo, varni in zdravi."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "Končno smo tukaj."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "Zdaj je vsega konec."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "Tu se konča."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "Končali smo."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "Bila je lepa vožnja."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "Ponovno računanje."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "Preusmerjanje."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "Iskanje nove poti."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "V redu, poiščimo novo pot."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "Nič hudega. Našel bom novo pot."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "Kadar je mogoče, se obrnite."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "Naredite polkrožni obrat."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "Prosim, obrnite se, kadar je to mogoče."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "Pozor, prosimo, upoštevajte omejitev hitrosti."
+    }
+]
