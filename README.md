@@ -1,5 +1,5 @@
 <p align="center">
-    <a href=""><img src="docs/github/images/logo.svg" alt="Logo" height="128px" /></a>
+    <img src="docs/github/images/logo.svg" alt="Logo" height="128px" />
 </p>
 
 <h1 align="center">Apple Siri Voice Navigation</h1>
