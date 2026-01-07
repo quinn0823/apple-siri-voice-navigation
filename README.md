@@ -4,8 +4,6 @@
 
 <h1 align="center">Apple Siri Voice Navigation</h1>
 
-<p align="center"><a href="/README.md">English</a> | <a href="/docs/github/readme/README.zh_cn.md">简体中文</a></p>
-
 <p align="center">
     <a href="/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
     <!-- <a href="https://www.fmod.com"><img alt="FMOD" src="https://img.shields.io/badge/studio-2.01.05-blue?logo=fmod&logoSize=auto"></a> -->
