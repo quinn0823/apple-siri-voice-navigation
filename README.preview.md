@@ -48,7 +48,7 @@ Thank you for using this mod! Feel free to **share your feedback** or **leave yo
 
 If you enjoy it, please consider voting or starring it, awarding it with Steam Points, or [buying me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "job".
 
-To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also view localized descriptions and the latest updates here.
+To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also check for the latest updates here.
 
 ## Voices [94+ Voices in 24+ Languages]
 
