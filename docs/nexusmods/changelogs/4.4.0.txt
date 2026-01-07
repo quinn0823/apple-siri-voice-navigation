@@ -1,0 +1,6 @@
+[Added] Add a new voice: Slovenščina (Slovenija) - Tina (izboljšano).
+[Removed] Remove localized readme and description.
+
+View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.4.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/4404021712]Workshop (ETS2)[/url].
+
+View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.3.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3404022298]Workshop (ATS)[/url].
