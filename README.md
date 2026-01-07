@@ -34,9 +34,9 @@
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 23 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 24 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**October 11 (4.3)**: This update brings **Norwegian Bokmål Siri voices** to the game.
+**January 07 (4.4)**: This release brings **Tina from Slovenian** into the game.
 
 ---
 
@@ -48,13 +48,13 @@ Thank you for using this mod! Feel free to **share your feedback** or **leave yo
 
 If you enjoy it, please consider voting or starring it, awarding it with Steam Points, or [buying me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "job".
 
-To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also view localized descriptions and the latest updates here.
+To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also check for the latest updates here.
 
 ## Voices [94+ Voices in 24+ Languages]
 
 Supports all 14 languages supported by the game.
 
-### Available (93 in 23)
+### Available (94 in 24)
 
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
@@ -123,8 +123,9 @@ Supports all 14 languages supported by the game.
 - Português (Portugal) - Joaquim (melhorada)
 - Română (România) - Ioana (îmbunătațită)
 - Slovenčina (Slovensko) - Laura (vylepšený)
-- **Svenska (Sverige) - Siri (Röst 1)**
-- **Svenska (Sverige) - Siri (Röst 2)**
+- **Slovenščina (Slovenija) - Tina (izboljšano)**
+- Svenska (Sverige) - Siri (Röst 1)
+- Svenska (Sverige) - Siri (Röst 2)
 - Thai (Thailand) - Siri (Voice 1)
 - Thai (Thailand) - Siri (Voice 2)
 - Türkçe (Türkiye) - Siri (Ses 1)
@@ -150,9 +151,8 @@ Supports all 14 languages supported by the game.
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
 
-### Planned (1+ in 1+ New)
+### Planned (0+ in 0+ New)
 
-- Slovenščina (Slovenija) - Tina (izboljšano)
 - Your Request...
 
 ## Compatibility
@@ -423,7 +423,7 @@ $2
 
 ---
 
-Release Date: October 11, 2025 (4.3)
+Release Date: January 07, 2026 (4.4)
 
 Published Date (GitHub): January 07, 2026
 
