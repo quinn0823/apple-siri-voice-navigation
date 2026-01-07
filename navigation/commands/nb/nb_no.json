@@ -1,6 +1,6 @@
 [
     {
-        "$comment": "This language is not supported by the game officially; it's a translation of ../english/english_us.json, optimized by GPT.",
+        "$comment": "This language is not supported by the game officially; it's a translation of ../english/english_us.json, improved by GPT.",
         "File prefix": "turn_left",
         "Command": "Sving til venstre."
     },
