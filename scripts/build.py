@@ -282,10 +282,10 @@ def build_mod():
     - Linux
         - ETS2: ~/.local/share/Euro Truck Simulator 2/mod
         - ATS: ~/.local/share/American Truck Simulator/mod
-1. Click Mods on the title screen to open the mod manager.
-2. Double-click Apple Siri Voice Navigation to activate this mod.
-3. Open Options.
-4. Go to Audio > Voice Navigation > Language and voice and then select a voice you like.'''
+2. Click Mods on the title screen to open the mod manager.
+3. Double-click Apple Siri Voice Navigation to activate this mod.
+4. Open Options.
+5. Go to Audio > Voice Navigation > Language and voice and then select a voice you like.'''
         print(f'Standard mod built at: {standard_path}\n\n{usage}')
 
 def main():
