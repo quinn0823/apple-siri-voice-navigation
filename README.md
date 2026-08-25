@@ -46,7 +46,7 @@ If you enjoy it, please consider voting or starring it, awarding it with Steam P
 
 To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also check for the latest updates here.
 
-## Voices [96+ Voices in 25+ Languages]
+## Voices [100+ Voices in 25+ Languages]
 
 Supports all 14 languages supported by the game.
 
@@ -149,8 +149,12 @@ Supports all 14 languages supported by the game.
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
 
-### Planned (0+ in 0+ New)
+### Planned (4+ in 0+ New)
 
+- Arabic (World) - Tarik (Enhanced)
+- Arabic (World) - Laila (Enhanced)
+- Arabic (World) - Majed (Premium)
+- Arabic (World) - Mariam (Enhanced)
 - Your Request...
 
 ## Compatibility

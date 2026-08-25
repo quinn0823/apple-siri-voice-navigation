@@ -18,7 +18,7 @@ This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-s
 3. Open [orange]Options[normal].
 4. Go to [orange]Audio - Voice Navigation - Language and voice[normal] and then select a voice you like.
 
-[orange]Voices [96+ Voices in 25+ Languages][normal]
+[orange]Voices [100+ Voices in 25+ Languages][normal]
 Supports all 14 languages supported by the game.
 [blue]Available (96 in 25)[normal]
 * [green]Arabic (Saudi Arabia) - Siri (Voice 1)[normal]
@@ -118,7 +118,11 @@ Supports all 14 languages supported by the game.
 * 한국어 (대한민국) - Siri (음성 1)
 * 한국어 (대한민국) - Siri (음성 2)
 
-[red]Planned (0+ in 0+ New)[normal]
+[red]Planned (4+ in 0+ New)[normal]
+* Arabic (World) - Tarik (Enhanced)
+* Arabic (World) - Laila (Enhanced)
+* Arabic (World) - Majed (Premium)
+* Arabic (World) - Mariam (Enhanced)
 * Your Request...
 
 [orange]Download[normal]
