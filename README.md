@@ -254,10 +254,11 @@ apple-siri-voice-navigation
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country codes? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### Available (25 from 45)
+#### Available (25 from 46)
 
 - arabic
     - arabic_sa
+    - arabic_ww
 - chinese
     - chinese_cn
     - chinese_cnsn (Shaanxi)
