@@ -26,7 +26,7 @@
     },
     {
         "File prefix": "go_straight",
-        "Command": "استمر مباشرةً."
+        "Command": "تابع السير مباشرةً."
     },
     {
         "File prefix": "roundabout_1",
@@ -98,7 +98,7 @@
     },
     {
         "File prefix": "compound_go_straight",
-        "Command": "استمر مباشرةً،"
+        "Command": "تابع السير مباشرةً،"
     },
     {
         "File prefix": "and_then_turn_left",
@@ -126,7 +126,7 @@
     },
     {
         "File prefix": "and_then_go_straight",
-        "Command": "ثم استمر مباشرةً."
+        "Command": "ثم تابع السير مباشرةً."
     },
     {
         "File prefix": "start_1",
@@ -142,7 +142,7 @@
     },
     {
         "File prefix": "start_4",
-        "Command": "قد بأمان."
+        "Command": "قُد بأمان."
     },
     {
         "File prefix": "start_5",
@@ -194,7 +194,7 @@
     },
     {
         "File prefix": "recomputing_3",
-        "Command": "إيجاد مسار جديد."
+        "Command": "جارٍ إيجاد مسار جديد."
     },
     {
         "File prefix": "recomputing_4",
@@ -206,15 +206,15 @@
     },
     {
         "File prefix": "u_turn_1",
-        "Command": "عند الإمكان، قم بالانعطاف للخلف."
+        "Command": "عند الإمكان، استدر للخلف."
     },
     {
         "File prefix": "u_turn_2",
-        "Command": "قم بالانعطاف للخلف."
+        "Command": "استدر للخلف."
     },
     {
         "File prefix": "u_turn_3",
-        "Command": "يرجى الانعطاف للخلف عند الإمكان."
+        "Command": "يرجى الاستدارة للخلف عند الإمكان."
     },
     {
         "File prefix": "speed_signal",
