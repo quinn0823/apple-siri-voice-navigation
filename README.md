@@ -30,9 +30,9 @@
     <a href="https://www.nexusmods.com/americantrucksimulator/mods/77"><img alt="Nexus Mods (ATS)" src="https://img.shields.io/badge/Nexus Mods (ATS)-download-d98f40?labelColor=29292e"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 24 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 25 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**January 25 (4.5)**: Siri is now **compatible with multiplayer** (optional).
+**August 25 (4.6)**: Siri now supports **Arabic**.
 
 ---
 
@@ -46,12 +46,14 @@ If you enjoy it, please consider voting or starring it, awarding it with Steam P
 
 To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also check for the latest updates here.
 
-## Voices [94+ Voices in 24+ Languages]
+## Voices [96+ Voices in 25+ Languages]
 
 Supports all 14 languages supported by the game.
 
-### Available (94 in 24)
+### Available (96 in 25)
 
+- **Arabic (Saudi Arabia) - Siri (Voice 1)**
+- **Arabic (Saudi Arabia) - Siri (Voice 2)**
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
 - Dansk (Danmark) - Siri (Stemme 1)
@@ -107,8 +109,8 @@ Supports all 14 languages supported by the game.
 - Nederlands (België) - Ellen (verbeterd)
 - Nederlands (Nederland) - Siri (Stem 1)
 - Nederlands (Nederland) - Siri (Stem 2)
-- **Norsk Bokmål (Norge) - Siri (Stemme 1)**
-- **Norsk Bokmål (Norge) - Siri (Stemme 2)**
+- Norsk Bokmål (Norge) - Siri (Stemme 1)
+- Norsk Bokmål (Norge) - Siri (Stemme 2)
 - Polski (Polska) - Ewa (premium)
 - Polski (Polska) - Krzysztof (rozszerzony)
 - Polski (Polska) - Zosia (rozszerzony)
@@ -153,7 +155,7 @@ Supports all 14 languages supported by the game.
 
 ## Compatibility
 
-**1.43+**, multiplayer compatible (optional).
+**1.43+**, multiplayer compatible.
 
 ## Download
 
@@ -176,7 +178,6 @@ Supports all 14 languages supported by the game.
     python scripts/build.py
     ```
 1. The built standard mod will be located in `build/standard`.
-
 
 ## Usage
 
@@ -214,7 +215,6 @@ I would really appreciate you could buy me a coffee. Your support can not only *
 ## If You Want to Contribute...
 
 You can view all the files for this project here. For navigation commands, you can **edit** an existing JSON file or **create** a new one. Then, create a new pull request.
-
 
 ### File Structure
 
@@ -329,7 +329,7 @@ apple-siri-voice-navigation
 
 #### Planned (0+ New from 0+)
 
-- *All planned languages are available.*
+- _All planned languages are available._
 
 ### Regular Expressions
 
@@ -337,7 +337,7 @@ apple-siri-voice-navigation
 
 Search
 
-``` regexp
+```regexp
 (?<=\(|\*{2}|\])\d+\.\d+(\.\d+)?(?=\)|\*{2}|\[)
 ```
 
@@ -351,7 +351,7 @@ ${version_number}
 
 Search
 
-``` regexp
+```regexp
 (\*{2}|\[\w+\])((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)(\*{2}|\[/?\w+\])
 ```
 
@@ -367,7 +367,7 @@ $2
 
     Search
 
-    ``` regexp
+    ```regexp
     - ((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
@@ -381,7 +381,7 @@ $2
 
     Search
 
-    ``` regexp
+    ```regexp
     \[\*\]((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
@@ -395,12 +395,11 @@ $2
 
     Search
 
-    ``` regexp
+    ```regexp
     \* ((\S+) ?\S(日本)\S ?- (\S+)( ?\S+( ?\d)?\S)?)
     ```
 
     Replace
-
     - Green (Added)
 
         ```
@@ -421,7 +420,7 @@ $2
 
 ---
 
-Release Date: January 25, 2026 (4.5)
+Release Date: August 25, 2026 (4.6)
 
 Published Date (GitHub): August 25, 2026
 
