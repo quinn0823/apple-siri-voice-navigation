@@ -1,0 +1,226 @@
+[
+    {
+        "File prefix": "turn_left",
+        "Command": "انعطف لليسار."
+    },
+    {
+        "File prefix": "turn_right",
+        "Command": "انعطف يمينا."
+    },
+    {
+        "File prefix": "keep_left",
+        "Command": "الزم اليسار."
+    },
+    {
+        "File prefix": "keep_right",
+        "Command": "الزم اليمين."
+    },
+    {
+        "File prefix": "exit_left",
+        "Command": "اخرج يساراً."
+    },
+    {
+        "File prefix": "exit_right",
+        "Command": "اخرج يميناً."
+    },
+    {
+        "File prefix": "go_straight",
+        "Command": "استمر مباشرة."
+    },
+    {
+        "File prefix": "roundabout_1",
+        "Command": "عند الدوار، اسلك المخرج الأول."
+    },
+    {
+        "File prefix": "roundabout_2",
+        "Command": "عند الدوار، اسلك المخرج الثاني."
+    },
+    {
+        "File prefix": "roundabout_3",
+        "Command": "عند الدوار، اسلك المخرج الثالث."
+    },
+    {
+        "File prefix": "roundabout_4",
+        "Command": "عند الدوار، اسلك المخرج الرابع."
+    },
+    {
+        "File prefix": "roundabout_5",
+        "Command": "عند الدوار، اسلك المخرج الخامس."
+    },
+    {
+        "File prefix": "roundabout_6",
+        "Command": "عند الدوار، اسلك المخرج السادس."
+    },
+    {
+        "File prefix": "exit_now",
+        "Command": "اخرج الآن."
+    },
+    {
+        "File prefix": "prepare_turn_left",
+        "Command": "استعد للانعطاف يسارًا."
+    },
+    {
+        "File prefix": "prepare_turn_right",
+        "Command": "استعد للانعطاف يميناً."
+    },
+    {
+        "File prefix": "prepare_exit_left",
+        "Command": "استعد للخروج يساراً."
+    },
+    {
+        "File prefix": "prepare_exit_right",
+        "Command": "استعد للخروج من اليمين."
+    },
+    {
+        "File prefix": "compound_turn_left",
+        "Command": "انعطف لليسار،"
+    },
+    {
+        "File prefix": "compound_turn_right",
+        "Command": "انعطف يمينا،"
+    },
+    {
+        "File prefix": "compound_keep_left",
+        "Command": "الزم اليسار،"
+    },
+    {
+        "File prefix": "compound_keep_right",
+        "Command": "الزم اليمين،"
+    },
+    {
+        "File prefix": "compound_exit_left",
+        "Command": "اخرج يساراً،"
+    },
+    {
+        "File prefix": "compound_exit_right",
+        "Command": "اخرج يميناً،"
+    },
+    {
+        "File prefix": "compound_go_straight",
+        "Command": "استمر مباشرة،"
+    },
+    {
+        "File prefix": "and_then_turn_left",
+        "Command": "ثم انعطف يساراً."
+    },
+    {
+        "File prefix": "and_then_turn_right",
+        "Command": "ثم انعطف يميناً."
+    },
+    {
+        "File prefix": "and_then_keep_left",
+        "Command": "ثم ابقَ على اليسار."
+    },
+    {
+        "File prefix": "and_then_keep_right",
+        "Command": "ثم استمر على اليمين."
+    },
+    {
+        "File prefix": "and_then_exit_left",
+        "Command": "ثم اخرج من اليسار."
+    },
+    {
+        "File prefix": "and_then_exit_right",
+        "Command": "ثم اخرج من اليمين."
+    },
+    {
+        "File prefix": "and_then_go_straight",
+        "Command": "ثم استمر في السير مباشرة."
+    },
+    {
+        "File prefix": "start_1",
+        "Command": "حسنًا، لنبدأ."
+    },
+    {
+        "File prefix": "start_2",
+        "Command": "حان وقت الانطلاق."
+    },
+    {
+        "File prefix": "start_3",
+        "Command": "هيا بنا نفعل ذلك."
+    },
+    {
+        "File prefix": "start_4",
+        "Command": "قد بأمان."
+    },
+    {
+        "File prefix": "start_5",
+        "Command": "جاهزون للانطلاق."
+    },
+    {
+        "File prefix": "start_6",
+        "Command": "دعنا نذهب."
+    },
+    {
+        "File prefix": "start_7",
+        "Command": "حان وقت إنجاز المهمة."
+    },
+    {
+        "File prefix": "finish_1",
+        "Command": "لقد وصلت إلى وجهتك. انتهى توجيه مسارك الآن."
+    },
+    {
+        "File prefix": "finish_2",
+        "Command": "ها نحن ذا، سالمين معافين."
+    },
+    {
+        "File prefix": "finish_3",
+        "Command": "وأخيراً، وصلنا إلى هنا."
+    },
+    {
+        "File prefix": "finish_4",
+        "Command": "انتهى كل شيء الآن."
+    },
+    {
+        "File prefix": "finish_5",
+        "Command": "هنا ينتهي الأمر."
+    },
+    {
+        "File prefix": "finish_6",
+        "Command": "انتهينا."
+    },
+    {
+        "File prefix": "finish_7",
+        "Command": "كانت رحلة ممتعة."
+    },
+    {
+        "File prefix": "recomputing_1",
+        "Command": "إعادة الحساب."
+    },
+    {
+        "File prefix": "recomputing_2",
+        "Command": "إعادة التوجيه."
+    },
+    {
+        "File prefix": "recomputing_3",
+        "Command": "إيجاد مسار جديد."
+    },
+    {
+        "File prefix": "recomputing_4",
+        "Command": "حسنًا، لنبحث عن طريق جديد."
+    },
+    {
+        "File prefix": "recomputing_5",
+        "Command": "لا بأس. سأجد طريقاً جديداً."
+    },
+    {
+        "File prefix": "u_turn_1",
+        "Command": "عند الإمكان، قم بالانعطاف للخلف."
+    },
+    {
+        "File prefix": "u_turn_2",
+        "Command": "استدر للخلف."
+    },
+    {
+        "File prefix": "u_turn_3",
+        "Command": "يرجى العودة بالدراجة عند الإمكان."
+    },
+    {
+        "File prefix": "speed_signal",
+        "Command": null
+    },
+    {
+        "File prefix": "speed_warning",
+        "Command": "تنبيه، يرجى الالتزام بالسرعة المحددة."
+    }
+]
