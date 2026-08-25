@@ -1,0 +1,5 @@
+SiiNunit {
+    voice_navigation_config : .arabic.sa_siri_2.pack {
+        pack_name: "Arabic (Saudi Arabia) - Siri (Voice 2)"
+    }
+}
