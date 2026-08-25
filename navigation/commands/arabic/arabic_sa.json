@@ -1,11 +1,12 @@
 [
     {
+        "$comment": "This language is not officially supported by the game; it's a translation of ../english/english_gb.json, improved by AI.",
         "File prefix": "turn_left",
-        "Command": "انعطف لليسار."
+        "Command": "انعطف يسارًا."
     },
     {
         "File prefix": "turn_right",
-        "Command": "انعطف يمينا."
+        "Command": "انعطف يمينًا."
     },
     {
         "File prefix": "keep_left",
@@ -17,15 +18,15 @@
     },
     {
         "File prefix": "exit_left",
-        "Command": "اخرج يساراً."
+        "Command": "اخرج يسارًا."
     },
     {
         "File prefix": "exit_right",
-        "Command": "اخرج يميناً."
+        "Command": "اخرج يمينًا."
     },
     {
         "File prefix": "go_straight",
-        "Command": "استمر مباشرة."
+        "Command": "استمر مباشرةً."
     },
     {
         "File prefix": "roundabout_1",
@@ -61,23 +62,23 @@
     },
     {
         "File prefix": "prepare_turn_right",
-        "Command": "استعد للانعطاف يميناً."
+        "Command": "استعد للانعطاف يمينًا."
     },
     {
         "File prefix": "prepare_exit_left",
-        "Command": "استعد للخروج يساراً."
+        "Command": "استعد للخروج يسارًا."
     },
     {
         "File prefix": "prepare_exit_right",
-        "Command": "استعد للخروج من اليمين."
+        "Command": "استعد للخروج يمينًا."
     },
     {
         "File prefix": "compound_turn_left",
-        "Command": "انعطف لليسار،"
+        "Command": "انعطف يسارًا،"
     },
     {
         "File prefix": "compound_turn_right",
-        "Command": "انعطف يمينا،"
+        "Command": "انعطف يمينًا،"
     },
     {
         "File prefix": "compound_keep_left",
@@ -89,43 +90,43 @@
     },
     {
         "File prefix": "compound_exit_left",
-        "Command": "اخرج يساراً،"
+        "Command": "اخرج يسارًا،"
     },
     {
         "File prefix": "compound_exit_right",
-        "Command": "اخرج يميناً،"
+        "Command": "اخرج يمينًا،"
     },
     {
         "File prefix": "compound_go_straight",
-        "Command": "استمر مباشرة،"
+        "Command": "استمر مباشرةً،"
     },
     {
         "File prefix": "and_then_turn_left",
-        "Command": "ثم انعطف يساراً."
+        "Command": "ثم انعطف يسارًا."
     },
     {
         "File prefix": "and_then_turn_right",
-        "Command": "ثم انعطف يميناً."
+        "Command": "ثم انعطف يمينًا."
     },
     {
         "File prefix": "and_then_keep_left",
-        "Command": "ثم ابقَ على اليسار."
+        "Command": "ثم الزم اليسار."
     },
     {
         "File prefix": "and_then_keep_right",
-        "Command": "ثم استمر على اليمين."
+        "Command": "ثم الزم اليمين."
     },
     {
         "File prefix": "and_then_exit_left",
-        "Command": "ثم اخرج من اليسار."
+        "Command": "ثم اخرج يسارًا."
     },
     {
         "File prefix": "and_then_exit_right",
-        "Command": "ثم اخرج من اليمين."
+        "Command": "ثم اخرج يمينًا."
     },
     {
         "File prefix": "and_then_go_straight",
-        "Command": "ثم استمر في السير مباشرة."
+        "Command": "ثم استمر مباشرةً."
     },
     {
         "File prefix": "start_1",
@@ -137,7 +138,7 @@
     },
     {
         "File prefix": "start_3",
-        "Command": "هيا بنا نفعل ذلك."
+        "Command": "لنقم بذلك."
     },
     {
         "File prefix": "start_4",
@@ -149,7 +150,7 @@
     },
     {
         "File prefix": "start_6",
-        "Command": "دعنا نذهب."
+        "Command": "هيا بنا."
     },
     {
         "File prefix": "start_7",
@@ -165,7 +166,7 @@
     },
     {
         "File prefix": "finish_3",
-        "Command": "وأخيراً، وصلنا إلى هنا."
+        "Command": "أخيرًا، وصلنا إلى هنا."
     },
     {
         "File prefix": "finish_4",
@@ -197,11 +198,11 @@
     },
     {
         "File prefix": "recomputing_4",
-        "Command": "حسنًا، لنبحث عن طريق جديد."
+        "Command": "حسنًا، لنبحث عن مسار جديد."
     },
     {
         "File prefix": "recomputing_5",
-        "Command": "لا بأس. سأجد طريقاً جديداً."
+        "Command": "لا بأس. سأجد مسارًا جديدًا."
     },
     {
         "File prefix": "u_turn_1",
@@ -209,11 +210,11 @@
     },
     {
         "File prefix": "u_turn_2",
-        "Command": "استدر للخلف."
+        "Command": "قم بالانعطاف للخلف."
     },
     {
         "File prefix": "u_turn_3",
-        "Command": "يرجى العودة بالدراجة عند الإمكان."
+        "Command": "يرجى الانعطاف للخلف عند الإمكان."
     },
     {
         "File prefix": "speed_signal",
@@ -221,6 +222,6 @@
     },
     {
         "File prefix": "speed_warning",
-        "Command": "تنبيه، يرجى الالتزام بالسرعة المحددة."
+        "Command": "تنبيه، يرجى الانتباه إلى حد السرعة."
     }
 ]
