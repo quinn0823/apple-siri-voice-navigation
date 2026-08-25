@@ -254,8 +254,10 @@ apple-siri-voice-navigation
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country codes? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
 
-#### Available (24 from 44)
+#### Available (25 from 45)
 
+- arabic
+    - arabic_sa
 - chinese
     - chinese_cn
     - chinese_cnsn (Shaanxi)
@@ -421,7 +423,7 @@ $2
 
 Release Date: January 25, 2026 (4.5)
 
-Published Date (GitHub): January 25, 2026
+Published Date (GitHub): August 25, 2026
 
 The GNU General Public License v3.0 (GPL-3.0)
 
