@@ -1,4 +1,4 @@
-[b]August 25 (4.6)[/b]: Siri now supports [b]Arabic[/b].
+[b]August 25 (4.6)[/b]: Siri now supports [b]Arabic (Saudi Arabia)[/b]. Arabic (World) will be available later.
 
 
 [size=5][b]Introduction[/b][/size]

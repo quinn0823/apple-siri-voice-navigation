@@ -32,7 +32,7 @@
 
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 25 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**August 25 (4.6)**: Siri now supports **Arabic**.
+**August 25 (4.6)**: Siri now supports **Arabic (Saudi Arabia)**. Arabic (World) will be available later.
 
 ---
 
