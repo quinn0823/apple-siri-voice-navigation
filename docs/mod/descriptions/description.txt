@@ -1,4 +1,4 @@
-[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With [orange]over 90 voices in 25 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With [orange]over 100 voices in 25 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
 [green]August 25 (4.6)[normal]: Siri now supports [green]Arabic (Saudi Arabia)[normal]. Arabic (World) will be available later.
 
@@ -20,9 +20,13 @@ This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-s
 
 [orange]Voices [100+ Voices in 25+ Languages][normal]
 Supports all 14 languages supported by the game.
-[blue]Available (96 in 25)[normal]
+[blue]Available (100 in 25)[normal]
 * [green]Arabic (Saudi Arabia) - Siri (Voice 1)[normal]
 * [green]Arabic (Saudi Arabia) - Siri (Voice 2)[normal]
+* [green]Arabic (World) - Laila (Enhanced)[normal]
+* [green]Arabic (World) - Majed (Premium)[normal]
+* [green]Arabic (World) - Mariam (Enhanced)[normal]
+* [green]Arabic (World) - Tarik (Enhanced)[normal]
 * Čeština (Česko) - Iveta (vylepšená verze)
 * Čeština (Česko) - Zuzana (prémiový)
 * Dansk (Danmark) - Siri (Stemme 1)
@@ -90,7 +94,7 @@ Supports all 14 languages supported by the game.
 * Português (Portugal) - Joaquim (melhorada)
 * Română (România) - Ioana (îmbunătațită)
 * Slovenčina (Slovensko) - Laura (vylepšený)
-* [green]Slovenščina (Slovenija) - Tina (izboljšano)[normal]
+* Slovenščina (Slovenija) - Tina (izboljšano)
 * Svenska (Sverige) - Siri (Röst 1)
 * Svenska (Sverige) - Siri (Röst 2)
 * Thai (Thailand) - Siri (Voice 1)
@@ -118,11 +122,7 @@ Supports all 14 languages supported by the game.
 * 한국어 (대한민국) - Siri (음성 1)
 * 한국어 (대한민국) - Siri (음성 2)
 
-[red]Planned (4+ in 0+ New)[normal]
-* Arabic (World) - Tarik (Enhanced)
-* Arabic (World) - Laila (Enhanced)
-* Arabic (World) - Majed (Premium)
-* Arabic (World) - Mariam (Enhanced)
+[red]Planned (0+ in 0+ New)[normal]
 * Your Request...
 
 [orange]Download[normal]

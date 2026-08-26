@@ -30,7 +30,7 @@
     <a href="https://www.nexusmods.com/americantrucksimulator/mods/77"><img alt="Nexus Mods (ATS)" src="https://img.shields.io/badge/Nexus Mods (ATS)-download-d98f40?labelColor=29292e"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 25 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 100 voices in 25 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
 **August 25 (4.6)**: Siri now supports **Arabic (Saudi Arabia)**. Arabic (World) will be available later.
 
@@ -50,10 +50,14 @@ To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to
 
 Supports all 14 languages supported by the game.
 
-### Available (96 in 25)
+### Available (100 in 25)
 
 - **Arabic (Saudi Arabia) - Siri (Voice 1)**
 - **Arabic (Saudi Arabia) - Siri (Voice 2)**
+- **Arabic (World) - Laila (Enhanced)**
+- **Arabic (World) - Majed (Premium)**
+- **Arabic (World) - Mariam (Enhanced)**
+- **Arabic (World) - Tarik (Enhanced)**
 - Čeština (Česko) - Iveta (vylepšená verze)
 - Čeština (Česko) - Zuzana (prémiový)
 - Dansk (Danmark) - Siri (Stemme 1)
@@ -121,7 +125,7 @@ Supports all 14 languages supported by the game.
 - Português (Portugal) - Joaquim (melhorada)
 - Română (România) - Ioana (îmbunătațită)
 - Slovenčina (Slovensko) - Laura (vylepšený)
-- **Slovenščina (Slovenija) - Tina (izboljšano)**
+- Slovenščina (Slovenija) - Tina (izboljšano)
 - Svenska (Sverige) - Siri (Röst 1)
 - Svenska (Sverige) - Siri (Röst 2)
 - Thai (Thailand) - Siri (Voice 1)
@@ -149,12 +153,8 @@ Supports all 14 languages supported by the game.
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
 
-### Planned (4+ in 0+ New)
+### Planned (0+ in 0+ New)
 
-- Arabic (World) - Tarik (Enhanced)
-- Arabic (World) - Laila (Enhanced)
-- Arabic (World) - Majed (Premium)
-- Arabic (World) - Mariam (Enhanced)
 - Your Request...
 
 ## Compatibility
@@ -253,7 +253,7 @@ apple-siri-voice-navigation
 └── LICENSE                  // The GNU General Public License v3.0 (GPL-3.0)
 ```
 
-### Languages [24+ Languages from 44+ Countries]
+### Languages [25+ Languages from 46+ Countries]
 
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country codes? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
@@ -427,7 +427,7 @@ $2
 
 Release Date: August 25, 2026 (4.6)
 
-Published Date (GitHub): August 25, 2026
+Published Date (GitHub): August 26, 2026
 
 The GNU General Public License v3.0 (GPL-3.0)
 
