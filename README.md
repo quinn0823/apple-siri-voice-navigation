@@ -30,7 +30,7 @@
     <a href="https://www.nexusmods.com/americantrucksimulator/mods/77"><img alt="Nexus Mods (ATS)" src="https://img.shields.io/badge/Nexus Mods (ATS)-download-d98f40?labelColor=29292e"></a>
 </p>
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 100 voices in 25 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 100 voices across 25 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
 **September 09 (4.7)**: **100 voices!** Siri now supports all 6 **Arabic** voices.
 
@@ -46,7 +46,7 @@ If you enjoy it, please consider voting or starring it, awarding it with Steam P
 
 To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also check for the latest updates here.
 
-## Voices [100+ Voices in 25+ Languages]
+## Voices [100+ Voices Across 25+ Languages]
 
 Supports all 14 languages supported by the game.
 
