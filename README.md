@@ -50,8 +50,6 @@ To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to
 
 Supports all 14 languages supported by the game.
 
-### Available (100 in 25)
-
 - **Arabic (Saudi Arabia) - Siri (Voice 1)**
 - **Arabic (Saudi Arabia) - Siri (Voice 2)**
 - **Arabic (World) - Laila (Enhanced)**
@@ -152,10 +150,6 @@ Supports all 14 languages supported by the game.
 - 日本語（日本）- Siri（声2）
 - 한국어 (대한민국) - Siri (음성 1)
 - 한국어 (대한민국) - Siri (음성 2)
-
-### Planned (0+ in 0+ New)
-
-- Your Request...
 
 ## Compatibility
 
