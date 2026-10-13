@@ -253,12 +253,10 @@ apple-siri-voice-navigation
 └── LICENSE                  // The GNU General Public License v3.0 (GPL-3.0)
 ```
 
-### Languages [25+ Languages from 46+ Countries]
+### Languages [25+ Languages Across 46+ Regions]
 
 > [!TIP]
 > Don't know the ISO 3166-1 (alpha-2) two-letter country codes? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
-
-#### Available (25 from 46)
 
 - arabic
     - arabic_sa
@@ -331,10 +329,6 @@ apple-siri-voice-navigation
     - thai_th
 - turkish
     - turkish_tr
-
-#### Planned (0+ New from 0+)
-
-- _All planned languages are available._
 
 ### Regular Expressions
 
@@ -427,7 +421,7 @@ $2
 
 Release Date: September 09, 2026 (4.7)
 
-Published Date (GitHub): September 09, 2026
+Published Date (GitHub): October 13, 2026
 
 The GNU General Public License v3.0 (GPL-3.0)
 
